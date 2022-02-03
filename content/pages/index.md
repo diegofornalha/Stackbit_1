@@ -165,7 +165,7 @@ sections:
           - pt-16
           - pb-6
           - pl-7
-          - pr-4
+          - pr-7
         alignItems: center
         justifyContent: center
         flexDirection: row
