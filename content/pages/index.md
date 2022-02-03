@@ -436,7 +436,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Ingyenes regisztráció
         url: /
         style: primary
     styles:
