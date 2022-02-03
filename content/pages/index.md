@@ -312,7 +312,7 @@ sections:
       type: ImageBlock
   - colors: colors-f
     elementId: ''
-    title: Key value propositions
+    title: Hogy működik a foglalómotor?
     subtitle: ''
     items:
       - type: FeaturedItem
