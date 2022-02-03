@@ -185,10 +185,9 @@ sections:
     colors: colors-h
     title: Automatikus emailek
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      Vendégeid a foglalás után egy testreszabható automatikus emailben azonnal
+      megkapják a szükséges információkat.
     actions: []
     media:
       type: ImageBlock
