@@ -59,8 +59,8 @@ sections:
       - type: FeaturedItem
         title: Villámgyors regisztráció
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Percek alatt regisztrálhatsz és már másolhatod is a foglalási linket
+          weboldaladra, Instára.
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
