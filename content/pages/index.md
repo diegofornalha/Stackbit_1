@@ -335,6 +335,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        subtitle: 1. Add meg a lakóegységeidet
       - type: FeaturedItem
         title: 2. Másold ki és illeszd be a foglalási linket
         text: >-
