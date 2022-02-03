@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "fontHeadlines": "serif",
+    "fontHeadlines": "sans",
     "h1": {
         "size": "7xl",
         "weight": "normal",
