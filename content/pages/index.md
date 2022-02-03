@@ -403,7 +403,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-20
+          - pt-32
           - pb-20
           - pl-7
           - pr-7
