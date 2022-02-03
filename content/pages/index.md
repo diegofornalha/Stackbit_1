@@ -289,7 +289,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: xx-large
+        borderRadius: none
         borderColor: border-secondary
         borderWidth: 0
         borderStyle: none
