@@ -164,7 +164,7 @@ sections:
         padding:
           - pt-16
           - pb-6
-          - pl-4
+          - pl-7
           - pr-4
         alignItems: center
         justifyContent: center
