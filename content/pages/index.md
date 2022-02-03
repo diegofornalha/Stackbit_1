@@ -76,7 +76,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Önálló weboldalként is működik
+        title: Foglalási- árazási szabályok
         text: >
           Semmi baj, ha nincs még weboldalad, az online foglalási rendszerünkre
           minden szükséges információt feltölthetsz.
