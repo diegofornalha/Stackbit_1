@@ -129,7 +129,7 @@ sections:
           - pt-28
           - pb-28
           - pl-8
-          - pr-4
+          - pr-8
         justifyContent: center
         borderRadius: xx-large
         borderWidth: 0
