@@ -184,9 +184,9 @@ sections:
     colors: colors-a
     title: Önálló weboldalként is működik
     text: >
-      A foglaló rendszerünk csak a szabályoknak megfelelő foglalásokat enged be.
-      Megadhatsz többek között minimum éjszakaszámot, felkészülési időt, hétvégi
-      árakat és szezonális árakat.
+      Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy az Insta
+      profilodról foglaljanak, hiszen a foglalómotorra minden fontos információt
+      feltölthetsz.
     media:
       type: ImageBlock
       url: /images/Image-on-the-left.svg
