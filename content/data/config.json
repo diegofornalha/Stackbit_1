@@ -61,8 +61,7 @@
                     "opacity": 100
                 }
             },
-            "type": "ImageBlock",
-            "url": "/images/appartman-logo.png"
+            "type": "ImageBlock"
         }
     },
     "footer": {
