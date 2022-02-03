@@ -310,7 +310,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-e
+  - colors: colors-h
     elementId: ''
     title: Hogy működik a foglalómotor?
     subtitle: ''
