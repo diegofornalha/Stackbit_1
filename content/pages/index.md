@@ -147,8 +147,9 @@ sections:
     colors: colors-a
     title: Mobilra optimalizált kialakítás
     text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
+      megkönnyítsük a foglalások leadását. Akár egy Instagram profilról is
+      könnyen elérhető a másolható link segítségével.
     media:
       type: ImageBlock
       url: /images/Image-on-the-right.svg
