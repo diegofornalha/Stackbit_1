@@ -355,7 +355,7 @@ sections:
           text:
             textAlign: center
     actions: []
-    columns: 3
+    columns: 2
     styles:
       self:
         height: auto
