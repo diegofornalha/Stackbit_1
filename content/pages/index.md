@@ -78,8 +78,9 @@ sections:
       - type: FeaturedItem
         title: Foglalási- árazási szabályok
         text: >
-          Semmi baj, ha nincs még weboldalad, az online foglalási rendszerünkre
-          minden szükséges információt feltölthetsz.
+          Gyermek kedvezmények, vendégek számától függő árazás, hétvégi árak,
+          szezonok. A foglalási rendszerünk csak olyan foglalást enged be, amik
+          megfelelnek az általad megadott szabályoknak.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
