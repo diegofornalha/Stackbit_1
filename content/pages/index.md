@@ -365,7 +365,7 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        justifyContent: flex-start
+        justifyContent: center
       title:
         textAlign: center
       subtitle:
