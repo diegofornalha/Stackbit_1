@@ -342,7 +342,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Focused
+        title: "3.\_ Vendégeid már foglalhatnak is hozzád"
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
