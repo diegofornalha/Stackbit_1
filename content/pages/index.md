@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-c
+    colors: colors-e
     title: 'Love where you work, because work loves you'
     text: >
       One platform, one community, getting to the bottom line of everything
