@@ -279,7 +279,7 @@ sections:
         margin:
           - mt-20
           - mb-20
-          - ml-7
+          - ml-0
           - mr-7
         padding:
           - pt-28
