@@ -152,7 +152,7 @@ sections:
       könnyen elérhető a másolható link segítségével.
     media:
       type: ImageBlock
-      url: /images/Image-on-the-right.svg
+      url: /images/mobilra optimalizált kialakítás.png
       altText: Hero section image
     styles:
       self:
