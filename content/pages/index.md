@@ -57,7 +57,7 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        title: Villámgyors regisztráció
+        title: Villámgyors regisztráció és szálláshely építés
         text: >
           Percek alatt regisztrálhatsz és már másolhatod is a foglalási linket
           weboldaladra, Instára.
