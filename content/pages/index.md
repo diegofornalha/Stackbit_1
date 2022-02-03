@@ -98,7 +98,7 @@ sections:
         rating: 2
         isRatingVisible: false
       - type: FeaturedItem
-        title: Mindig friss foglaltsági naptár
+        title: Automatikusan frissülő foglaltsági naptár
         text: >
           A látogatóid mindig a friss foglaltságot fogják látni, és az alapján
           fognak tudni foglalni.
