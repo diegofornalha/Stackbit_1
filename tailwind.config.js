@@ -21,7 +21,7 @@ module.exports = {
                 'on-complementary-alt': themeStyle.onComplementaryAlt
             },
             fontFamily: {
-                'sans': ['Poppins', 'sans-serif'],
+                'sans': ['Inter', 'sans-serif'],
                 'serif': ['"Noto Serif"', 'serif']
             }
         }
