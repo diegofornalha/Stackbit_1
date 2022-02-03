@@ -428,7 +428,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-c
     backgroundImage: null
     title: Let's do this
     text: >-
