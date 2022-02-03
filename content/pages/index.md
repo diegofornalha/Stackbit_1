@@ -94,6 +94,7 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        rating: 4
       - type: FeaturedItem
         title: Focused
         text: >
