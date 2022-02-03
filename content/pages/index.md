@@ -97,7 +97,7 @@ sections:
         rating: 2
         isRatingVisible: false
       - type: FeaturedItem
-        title: Focused
+        title: Mindig friss foglaltsági naptár
         text: >
           Learn how top tech companies have learned working remote using our
           product.
