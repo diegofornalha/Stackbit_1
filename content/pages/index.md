@@ -180,7 +180,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-b
     title: Foglalási- és árazási szabályok
     text: >
       A foglaló rendszerünk csak a szabályoknak megfelelő foglalásokat enged be.
