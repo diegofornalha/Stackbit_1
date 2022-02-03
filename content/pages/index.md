@@ -99,8 +99,8 @@ sections:
       - type: FeaturedItem
         title: Mindig friss foglaltsági naptár
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          A látogatóid mindig a friss foglaltságot fogják látni, és az alapján
+          fognak tudni foglalni.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
