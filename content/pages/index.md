@@ -221,7 +221,7 @@ sections:
       product.
     actions:
       - type: Button
-        label: Sign Up
+        label: Ingyenes regisztráció
         url: /
         style: secondary
       - type: Link
