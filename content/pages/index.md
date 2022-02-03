@@ -149,7 +149,8 @@ sections:
     text: >
       Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
       megkönnyítsük a foglalások leadását. Akár egy Instagram profilról is
-      könnyen elérhető a másolható link segítségével.
+      könnyen elérhető és foglalható lesz a szállásod a másolható link
+      segítségével.
     media:
       type: ImageBlock
       url: /images/mobilra optimalizált kialakítás.png
