@@ -182,7 +182,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: Foglalási- és árazási szabályok
+    title: Önálló weboldalként is működik
     text: >
       A foglaló rendszerünk csak a szabályoknak megfelelő foglalásokat enged be.
       Megadhatsz többek között minimum éjszakaszámot, felkészülési időt, hétvégi
