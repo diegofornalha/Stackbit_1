@@ -78,8 +78,8 @@ sections:
       - type: FeaturedItem
         title: Önálló weboldalként is működik
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Semmi baj, ha nincs még weboldalad, az online foglalási rendszerünkre
+          minden szükséges információt feltölthetsz.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
