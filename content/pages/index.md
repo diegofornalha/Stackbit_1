@@ -79,8 +79,8 @@ sections:
         title: Foglalási- árazási szabályok
         text: >
           Gyermek kedvezmények, vendégek számától függő árazás, hétvégi árak,
-          szezonok. A foglalási rendszerünk csak olyan foglalást enged be, amik
-          megfelelnek az általad megadott szabályoknak.
+          szezonok, stb. A foglalási rendszerünkben csak a te szabályaid alapján
+          lehet foglalni.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
