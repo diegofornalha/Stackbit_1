@@ -76,7 +76,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Foglalási- árazási szabályok
+        title: Foglalási- és árazási szabályok
         text: >
           Gyermek kedvezmények, vendégek számától függő árazás, hétvégi árak,
           szezonok, stb. A foglalási rendszerünkben csak a te szabályaid alapján
