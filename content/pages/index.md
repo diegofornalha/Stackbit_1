@@ -359,7 +359,7 @@ sections:
         textAlign: center
     type: FaqSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundImage: null
     title: Let's do this
     text: >-
