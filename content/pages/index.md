@@ -408,7 +408,7 @@ sections:
           - pt-20
           - pb-20
           - pl-7
-          - pr-4
+          - pr-7
         justifyContent: center
         borderRadius: none
         borderWidth: 0
