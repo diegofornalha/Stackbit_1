@@ -51,7 +51,7 @@ sections:
         justifyContent: flex-start
   - colors: colors-h
     elementId: ''
-    title: Fogadj vendégeket közvetlenül az online felületeidről.
+    title: Profi online foglalási felület a kis szállásadóknak is
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
