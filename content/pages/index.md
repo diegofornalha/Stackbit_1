@@ -84,7 +84,7 @@ sections:
         flexDirection: row
         borderRadius: xx-large
         borderColor: border-secondary
-        borderWidth: 0
+        borderWidth: 4
       title:
         textAlign: left
       subtitle:
