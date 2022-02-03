@@ -360,7 +360,7 @@ sections:
           - mr-0
         padding:
           - pt-32
-          - pb-12
+          - pb-32
           - pl-4
           - pr-4
         justifyContent: center
