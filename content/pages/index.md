@@ -11,7 +11,7 @@ sections:
       vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
     actions:
       - type: Button
-        label: Sign up
+        label: Ingyenes regisztráció
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
