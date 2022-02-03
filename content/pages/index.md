@@ -132,7 +132,7 @@ sections:
           - pl-8
           - pr-8
         justifyContent: center
-        borderRadius: xx-large
+        borderRadius: none
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
