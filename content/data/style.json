@@ -73,7 +73,7 @@
         "borderStyle": "solid",
         "horizontalPadding": 30,
         "verticalPadding": 12,
-        "shadow": "none"
+        "shadow": "md"
     },
     "link": {
         "weight": "normal",
