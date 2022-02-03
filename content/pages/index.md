@@ -83,6 +83,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderRadius: large
       title:
         textAlign: left
       subtitle:
@@ -134,7 +135,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
