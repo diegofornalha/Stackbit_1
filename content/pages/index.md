@@ -84,7 +84,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: xx-large
-        borderColor: border-dark
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
