@@ -311,38 +311,6 @@ sections:
           opacity: 100
       type: ImageBlock
   - elementId: ''
-    colors: colors-a
-    text: |
-      ## Szakmai tudástár szállásadóknak
-
-      [See all posts](/blog)
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-22
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
-    type: TextSection
-  - elementId: ''
     variant: variant-b
     colors: colors-a
     posts:
