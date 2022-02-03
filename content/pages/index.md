@@ -215,7 +215,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-f
-    title: Where did everyone go?
+    title: Online foglalási rendszer
     text: >
       Learn how top tech companies have learned working remote using our
       product.
