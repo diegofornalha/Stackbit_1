@@ -230,7 +230,7 @@ sections:
       feltölthetsz.
     media:
       type: ImageBlock
-      url: /images/Image-on-the-left.svg
+      url: /images/onallo-weboldalkent-is-funkcional.png
       altText: Hero section image
     styles:
       self:
