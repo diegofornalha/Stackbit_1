@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Jutalékmentes vendégfogadás magánszállásoknak
+    title: Jutalékmentes közvetlen online vendégfogadás
     text: |
       Egyszerű és villámgyors foglalómotorunkkal automatizáltan fogadhatod a 
       vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
