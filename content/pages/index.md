@@ -342,7 +342,7 @@ sections:
           text:
             textAlign: center
     actions: []
-    columns: 1
+    columns: 2
     styles:
       self:
         height: auto
