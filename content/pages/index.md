@@ -207,7 +207,7 @@ sections:
           - pt-12
           - pb-12
           - pl-4
-          - pr-8
+          - pr-10
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
