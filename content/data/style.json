@@ -79,7 +79,7 @@
         "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
-        "onPrimary": "#EEE",
+        "onPrimary": "#EEEDF2",
     },
     "fontHeadlines": "sans"
 }
