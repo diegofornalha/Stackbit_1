@@ -83,7 +83,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: xx-large
+        borderRadius: full
       title:
         textAlign: left
       subtitle:
