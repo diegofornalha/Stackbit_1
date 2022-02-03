@@ -338,7 +338,7 @@ sections:
     type: FeaturedPostsSection
   - colors: colors-f
     elementId: ''
-    title: Need Answers?
+    title: Gyakori válaszok
     items:
       - question: How it this different from what we have today?
         answer: >-
