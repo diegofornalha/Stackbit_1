@@ -95,6 +95,7 @@ sections:
           text:
             textAlign: center
         rating: 1
+        isRatingVisible: true
       - type: FeaturedItem
         title: Focused
         text: >
