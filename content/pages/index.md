@@ -78,7 +78,7 @@ sections:
           - pt-28
           - pb-28
           - pl-10
-          - pr-4
+          - pr-10
         alignItems: center
         justifyContent: center
         flexDirection: row
