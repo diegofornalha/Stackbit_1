@@ -225,7 +225,7 @@ sections:
         url: /
         style: secondary
       - type: Link
-        label: Watch Video
+        label: Bemutató felület
         url: /
         showIcon: true
         icon: arrowRight
