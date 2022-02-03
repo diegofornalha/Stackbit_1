@@ -124,7 +124,7 @@ sections:
         margin:
           - mt-0
           - mb-0
-          - ml-10
+          - ml-0
           - mr-10
         padding:
           - pt-28
