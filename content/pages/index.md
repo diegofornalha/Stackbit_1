@@ -183,8 +183,9 @@ sections:
     colors: colors-a
     title: Foglalási- és árazási szabályok
     text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      A foglaló rendszerünk csak a szabályoknak megfelelő foglalásokat enged be.
+      Megadhatsz többek között minimum éjszakaszámot, felkészülési időt, hétvégi
+      árakat és szezonális árakat.
     media:
       type: ImageBlock
       url: /images/Image-on-the-left.svg
