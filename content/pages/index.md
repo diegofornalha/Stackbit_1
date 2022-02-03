@@ -321,7 +321,7 @@ sections:
           Learn how top tech companies have learned working remote using our
           product.
         featuredImage:
-          url: /images/online-foglalasi-rendszer.png
+          url: /images/appartman-logo-1e9c9cd1.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
