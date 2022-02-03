@@ -35,7 +35,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "Ingyenes regisztráció",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
