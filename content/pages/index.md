@@ -192,7 +192,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/IMG_8346.gif
       altText: Hero image
     backgroundImage: null
     styles:
