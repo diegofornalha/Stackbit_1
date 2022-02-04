@@ -49,7 +49,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-h
+  - colors: colors-f
     elementId: ''
     title: Profi online foglalási felület a kis szállásadóknak is
     subtitle: >-
