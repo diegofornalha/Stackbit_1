@@ -144,45 +144,6 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-a
-    title: Mobilra optimalizált kialakítás
-    text: >
-      Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
-      megkönnyítsük a foglalások leadását. Akár egy Instagram profilról is
-      könnyen elérhető és foglalható lesz a szállásod a másolható link
-      segítségével.
-    media:
-      type: ImageBlock
-      url: /images/mobilra optimalizált kialakítás.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-20
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderColor: border-primary
-        borderWidth: 0
-        borderStyle: solid
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
     colors: colors-h
     title: Egyszerű foglalási folyamat a vendégeidnek
     subtitle: ''
@@ -213,6 +174,45 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
+    colors: colors-a
+    title: Mobilra optimalizált kialakítás
+    text: >
+      Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
+      megkönnyítsük a foglalások leadását. Akár egy Instagram profilról is
+      könnyen elérhető és foglalható lesz a szállásod a másolható link
+      segítségével.
+    media:
+      type: ImageBlock
+      url: /images/mobilra optimalizált kialakítás.png
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-20
+          - pb-20
+          - pl-7
+          - pr-7
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderColor: border-primary
+        borderWidth: 0
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
