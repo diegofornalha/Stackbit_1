@@ -184,45 +184,6 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-h
-    title: Automatikus emailek
-    subtitle: ''
-    text: >
-      Vendégeid a foglalás után egy testreszabható automatikus emailben azonnal
-      megkapják a szükséges információkat.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/mobilra optimalizált kialakítás.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-20
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    colors: colors-h
     title: Egyszerű foglalási folyamat a vendégeidnek
     subtitle: ''
     text: >
@@ -249,6 +210,45 @@ sections:
           - pb-12
           - pl-4
           - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
+    colors: colors-h
+    title: Automatikus emailek
+    subtitle: ''
+    text: >
+      Vendégeid a foglalás után egy testreszabható automatikus emailben azonnal
+      megkapják a szükséges információkat.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/mobilra optimalizált kialakítás.png
+      altText: Hero image
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-20
+          - pb-20
+          - pl-7
+          - pr-7
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
