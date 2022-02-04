@@ -60,7 +60,7 @@ sections:
         title: Villámgyors regisztráció és szálláshely építés
         text: >
           Percek alatt regisztrálhatsz és már másolhatod is a foglalási linket
-          weboldaladra, Instára.
+          weboldaladra, Instára, vagy Facebook csoportokba.
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
