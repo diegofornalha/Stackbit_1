@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Foglalómotor magánszálláshelyeknek | Appartman
 layout: PageLayout
 sections:
   - type: HeroSection
