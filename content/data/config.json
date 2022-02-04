@@ -74,7 +74,7 @@
             "emailAltText": "Our email",
             "addressAltText": "Our address"
         },
-        "copyrightText": "Powered by Stackbit",
+        "copyrightText": "© 2022 Appartman PMS Technologies Kft. Minden jog fenntartva!\n",
         "primaryLinks": [
             {
                 "type": "Link",
