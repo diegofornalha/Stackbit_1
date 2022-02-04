@@ -24,7 +24,7 @@
             {
                 "type": "Button",
                 "label": "Ingyenes regisztráció",
-                "url": "/",
+                "url": "https://foglalas.appartman.hu/register",
                 "altText": "Sign up",
                 "style": "primary"
             }
