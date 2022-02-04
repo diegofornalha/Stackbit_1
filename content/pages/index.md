@@ -258,7 +258,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-h
-    title: Love where you work
+    title: Egyszerű foglalási folyamat a vendégeidnek
     subtitle: ''
     text: >-
       One platform, one community, getting to the bottom line of everything
