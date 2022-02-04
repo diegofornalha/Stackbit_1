@@ -192,7 +192,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_8346.gif
+      url: /images/mobilra optimalizált kialakítás.png
       altText: Hero image
     backgroundImage: null
     styles:
