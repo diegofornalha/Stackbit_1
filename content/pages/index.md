@@ -261,9 +261,9 @@ sections:
     title: Egyszerű foglalási folyamat a vendégeidnek
     subtitle: ''
     text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      Ajánlatkérés, bizonytalanság és várakozás helyett a vendégeid
+      automatikusan a naprakész foglaltsági naptár és az általad beállított
+      szabályok alapján tudnak foglalni.
     actions: []
     media:
       type: ImageBlock
