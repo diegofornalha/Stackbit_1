@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Ingyenes regisztráció
-        url: 'https://www.stackbit.com/'
+        url: 'https://foglalas.appartman.hu/register'
         style: primary
         elementId: hero-main-button
     media:
