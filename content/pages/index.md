@@ -101,7 +101,7 @@ sections:
         title: Automatikusan frissülő foglaltsági naptár
         text: >
           A látogatóid mindig a friss foglaltságot fogják látni, és az alapján
-          fognak tudni foglalni.
+          fognak tudni foglalni. 
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
