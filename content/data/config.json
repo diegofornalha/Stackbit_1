@@ -15,12 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "altText": "Blog",
                 "url": "/blog"
