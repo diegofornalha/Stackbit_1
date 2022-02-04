@@ -219,7 +219,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-h
     title: Mobilra optimalizált kialakítás
     text: >
       Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
