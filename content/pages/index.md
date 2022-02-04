@@ -1,5 +1,5 @@
 ---
-title: Foglalómotor magánszálláshelyeknek | Appartman
+title: Online foglalási rendszer magánszálláshelyeknek | Appartman
 layout: PageLayout
 sections:
   - type: HeroSection
