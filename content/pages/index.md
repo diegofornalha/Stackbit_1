@@ -430,7 +430,7 @@ sections:
     actions:
       - type: Button
         label: Ingyenes regisztráció
-        url: /
+        url: 'https://foglalas.appartman.hu/register'
         style: primary
     styles:
       self:
