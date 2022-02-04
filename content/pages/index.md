@@ -185,6 +185,41 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
+    title: Önálló weboldalként is működik
+    text: >
+      Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy az Insta
+      profilodról foglaljanak, hiszen a foglalómotorra minden fontos információt
+      feltölthetsz.
+    media:
+      type: ImageBlock
+      url: /images/onallo-weboldalkent-is-funkcional-fc2b5f1d.png
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-20
+          - pb-20
+          - pl-7
+          - pr-7
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
+    colors: colors-a
     title: Mobilra optimalizált kialakítás
     text: >
       Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
@@ -213,41 +248,6 @@ sections:
         borderColor: border-primary
         borderWidth: 0
         borderStyle: solid
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: Önálló weboldalként is működik
-    text: >
-      Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy az Insta
-      profilodról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      feltölthetsz.
-    media:
-      type: ImageBlock
-      url: /images/onallo-weboldalkent-is-funkcional-fc2b5f1d.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-20
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
       title:
         textAlign: left
       subtitle:
