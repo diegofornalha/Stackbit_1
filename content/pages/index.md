@@ -338,9 +338,10 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: 2. Másold ki és illeszd be a foglalási linket
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >
+          A foglalási linket bemásolhatod szállásközvetítői csoportokba, a
+          weboldaladra, az Instagram oldaladra, így a látogatóid bármelyik
+          platformról egyszerűen tudnak foglalni hozzád.
         styles:
           title:
             textAlign: center
