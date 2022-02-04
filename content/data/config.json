@@ -103,6 +103,15 @@
         ],
         "socialLinks": [
             {
+                "label": "",
+                "altText": "Facebook",
+                "url": "/",
+                "showIcon": true,
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
+            },
+            {
                 "type": "Social",
                 "altText": "Twitter",
                 "url": "/",
