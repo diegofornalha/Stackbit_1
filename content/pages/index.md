@@ -244,7 +244,7 @@ sections:
           - pr-7
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: row-reverse
         borderColor: border-primary
         borderWidth: 0
         borderStyle: solid
