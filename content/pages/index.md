@@ -422,8 +422,10 @@ sections:
       - question: >-
           Manuálisan szeretném visszaigazolni a foglalásokat. Erre van
           lehetőség?
-        answer: |
-          Természetesen.
+        answer: >
+          Természetesen. Ennek a beállításával az automatikusan generált emailt
+          csak akkor küldjük ki a foglalónak, ha mindent rendben találtál és
+          visszaigazoltad a foglalást.
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
