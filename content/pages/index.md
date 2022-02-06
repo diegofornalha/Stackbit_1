@@ -145,7 +145,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-a
-    title: Egyszerű foglalási folyamat a vendégeidnek
+    title: Egyszerű foglalási folyamat a vendégeidnek – és neked
     subtitle: ''
     text: >
       Ajánlatkérés, bizonytalanság és várakozás helyett a vendégeid
