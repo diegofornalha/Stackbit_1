@@ -426,7 +426,9 @@ sections:
           Természetesen. Ennek a beállításával az automatikusan generált emailt
           csak akkor küldjük ki a foglalónak, ha mindent rendben találtál és
           visszaigazoltad a foglalást.
-      - question: How it this different from what we have today?
+      - question: >-
+          Hogy kerülnek be a más csatornán érkezett foglalások a foglalómotor
+          naptárába?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
