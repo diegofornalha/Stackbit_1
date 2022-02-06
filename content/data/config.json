@@ -78,7 +78,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Főoldal",
                 "url": "/",
                 "altText": ""
             },
