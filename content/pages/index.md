@@ -360,9 +360,8 @@ sections:
     items:
       - type: FeaturedItem
         title: 1. Add meg a lakóegységeidet
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Pár perc alatt kész is a regisztráció a lakóegységeid adataival.
         featuredImage:
           altText: altText of the image
           caption: Caption of the image
