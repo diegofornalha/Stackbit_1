@@ -53,8 +53,8 @@ sections:
     elementId: ''
     title: Profi online foglalási felület a kis szállásadóknak is
     subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+      Zökkenőmentes foglalási folyamat ajánlatkérések, árszámolgatás, kézi
+      visszajelzés és bizonytalanság nélkül.
     items:
       - type: FeaturedItem
         title: Villámgyors regisztráció és szálláshely építés
