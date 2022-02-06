@@ -360,8 +360,9 @@ sections:
     items:
       - type: FeaturedItem
         title: 1. Add meg a lakóegységeidet
-        text: |
-          Pár perc alatt kész is a regisztráció a lakóegységeid adataival.
+        text: >
+          Pár perc alatt kész is a regisztráció a lakóegységeid áraival,
+          képeivel és fő felszereltségével.
         featuredImage:
           altText: altText of the image
           caption: Caption of the image
