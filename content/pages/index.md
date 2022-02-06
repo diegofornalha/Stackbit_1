@@ -144,7 +144,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Egyszerű foglalási folyamat a vendégeidnek
     subtitle: ''
     text: >
