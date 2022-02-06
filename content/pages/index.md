@@ -429,11 +429,9 @@ sections:
       - question: >-
           Hogy kerülnek be a más csatornán érkezett foglalások a foglalómotor
           naptárába?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          Hamarosan érkezik az iCal naptárszinkron funkció, addig manuálisan
+          lehet lezárni a napokat egy egyszerű folyamattal
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
