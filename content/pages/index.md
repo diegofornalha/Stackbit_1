@@ -297,7 +297,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-f
-    title: Online foglalási rendszer – ingyen
+    title: 'Online foglalási rendszer '
     text: >
       Ingyenes felhasználóinktól mindössze 2% jutalékot vonunk le
       foglalásonként. Fizetős csomagjainkban semmilyen jutalék nem kerül
