@@ -142,42 +142,6 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-a
-    title: Egyszerű foglalási folyamat a vendégeidnek – és neked
-    subtitle: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero-1.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    colors: colors-a
     title: Önálló weboldalként is működik
     text: >
       Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy az Insta
