@@ -261,8 +261,9 @@ sections:
     title: Automatikusan generált emailek
     subtitle: ''
     text: >
-      Vendégeid a foglalás után egy testreszabható automatikus emailben azonnal
-      megkapják a szükséges információkat.
+      Vendégeid a foglalás után egy testreszabható emailben azonnal megkapják a
+      szükséges információkat. Igény szerint az email csak akkor megy ki egy
+      gombnyomással, ha ellenőriztél mindent.
     actions: []
     media:
       type: ImageBlock
