@@ -98,7 +98,7 @@ sections:
         rating: 2
         isRatingVisible: false
       - type: FeaturedItem
-        title: Automatikusan frissülő foglaltsági naptár
+        title: Azonnali visszajelzés az árról és szabad helyekről
         text: >
           A látogatóid mindig a friss foglaltságot fogják látni, és az alapján
           fognak tudni foglalni. 
