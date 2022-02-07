@@ -258,7 +258,7 @@ sections:
     subtitle: Spórolj időt a felesleges adminisztráció elkerülésével
   - elementId: ''
     colors: colors-f
-    title: 'Regisztrálj, és legyen több közvetlen foglalásod'
+    title: Próbáld ki kockázat nélkül
     text: >
       Ingyenes felhasználóinktól mindössze 2% jutalékot vonunk le
       foglalásonként. Fizetős csomagjainkban semennyi jutalék nem kerül
