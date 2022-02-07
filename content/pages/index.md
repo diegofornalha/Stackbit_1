@@ -100,8 +100,8 @@ sections:
       - type: FeaturedItem
         title: Azonnali visszajelzés az árról és szabad helyekről
         text: >
-          A látogatóid mindig a friss foglaltságot fogják látni, és az alapján
-          fognak tudni foglalni. 
+          A látogatóid foglaltsági naptáron keresztül foglalhatnak, az ár pedig
+          automatikusan számítódik.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
