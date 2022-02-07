@@ -6,9 +6,9 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Érj el több direkt foglalást online felületeiden
-    text: |
-      Egyszerű és villámgyors foglalómotorunkkal automatizáltan fogadhatod a 
-      vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
+    text: >
+      Foglalómotorunk megkönnyíti a foglalóid dolgát, egyszerű foglalási
+      folyamatának köszönhetően.
     actions:
       - type: Button
         label: Ingyenes regisztráció
