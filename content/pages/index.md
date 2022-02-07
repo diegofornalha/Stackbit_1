@@ -101,7 +101,7 @@ sections:
         title: Azonnali visszajelzés az árról és szabad helyekről
         text: >
           A látogatóid foglaltsági naptáron keresztül foglalhatnak, az ár pedig
-          automatikusan számítódik.
+          automatikusan számítódik, az általad megadott árszámítási módon.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
