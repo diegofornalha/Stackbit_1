@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Növeld direkt foglalásaid számát felhasználóbarát foglalómotorunkkal
+    title: Növeld direkt foglalásaid számát felhasználóbarát foglalási rendszerünkkel
     text: |
       Egyszerű és villámgyors foglalómotorunkkal automatizáltan fogadhatod a 
       vendégeidet anélkül, hogy ajánlatkérő emailekre kellene válaszolnod.
