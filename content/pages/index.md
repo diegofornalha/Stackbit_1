@@ -300,7 +300,7 @@ sections:
     title: 'Regisztrálj, és legyen több közvetlen foglalásod'
     text: >
       Ingyenes felhasználóinktól mindössze 2% jutalékot vonunk le
-      foglalásonként. Fizetős csomagjainkban semmilyen jutalék nem kerül
+      foglalásonként. Fizetős csomagjainkban semennyi jutalék nem kerül
       levonásra.
     actions:
       - type: Button
