@@ -258,7 +258,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: Automatikus emailek
+    title: Automatikusan generált emailek
     subtitle: ''
     text: >
       Vendégeid a foglalás után egy testreszabható automatikus emailben azonnal
