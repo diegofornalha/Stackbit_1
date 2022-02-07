@@ -259,7 +259,6 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Automatikusan generált emailek
-    subtitle: ml
     text: >
       Vendégeid a foglalás után egy testreszabható emailben azonnal megkapják a
       szükséges információkat. Igény szerint az email csak akkor megy ki egy
