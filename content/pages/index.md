@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Érj el több direkt foglalást online felületeiden
+    title: "Érj el több direkt foglalást\_ a saját online felületeiden"
     text: >
       Foglalómotorunk megkönnyíti a foglalóid dolgát, egyszerű foglalási
       folyamatának köszönhetően.
