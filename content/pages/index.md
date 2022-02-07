@@ -144,12 +144,6 @@ sections:
     colors: colors-a
     title: Egyszerű foglalási folyamat a vendégeidnek – és neked
     subtitle: ''
-    text: >+
-      Ajánlatkérés, bizonytalanság és várakozás helyett a vendégeid
-      automatikusan a naprakész foglaltsági naptár és az általad beállított
-      szabályok alapján tudnak foglalni. Neked pedig nem kell számolgatni, hogy
-      mennyi az annyi, mert a foglalómotor elvégzi ezt helyetted.
-
     actions: []
     media:
       type: ImageBlock
