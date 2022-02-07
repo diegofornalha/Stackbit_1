@@ -299,8 +299,9 @@ sections:
     colors: colors-f
     title: Online foglalási rendszer
     text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+      Ingyenes felhasználóinktól mindössze 2% jutalékot vonunk le
+      foglalásonként. Fizetős csomagjainkban semmilyen jutalék nem kerül
+      levonásra.
     actions:
       - type: Button
         label: Ingyenes regisztráció
