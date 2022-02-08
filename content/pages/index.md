@@ -220,10 +220,11 @@ sections:
     colors: colors-a
     title: Foglalási- és árazási szabályok
     subtitle: 'Csak olyan foglalásokat engedj be, ami neked megéri'
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      A könnyen beállítható és kezelhető foglalás- és árazási szabályainkkal
+      biztosíthatod, hogy csak a neked megfelelő foglalásokat engedje be a
+      rendszer. Beállíthatsz szezonokat, hétvégi árakat, minimum foglalható
+      éjszakákat, érkezési napokat, stb.
     actions: []
     media:
       type: ImageBlock
