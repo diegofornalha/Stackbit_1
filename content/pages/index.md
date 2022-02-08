@@ -300,53 +300,6 @@ sections:
     type: HeroSection
     subtitle: Spórolj időt a felesleges adminisztráció elkerülésével
   - elementId: ''
-    colors: colors-a
-    subtitle: ''
-    text: >
-      ###### hamarosan
-
-
-      Gentlemen a short view back to the past. Thirty years ago, Niki Lauda told
-      us: take a trained monkey, place him into the cockpit and he is able to
-      drive the car.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero-1.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    title: Ez egy teszt funkció bemutatás
-  - elementId: ''
     colors: colors-f
     title: Próbáld ki kockázat (és bankkártya) nélkül
     text: >
