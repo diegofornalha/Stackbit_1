@@ -279,7 +279,7 @@ sections:
       #### Spórolj időt a felesleges adminisztráció elkerülésével
 
 
-      Vendégeid a foglalás után egy testre szabható emailben azonnal megkapják a
+      Vendégeid a foglalás után egy testreszabható emailben azonnal megkapják a
       szükséges információkat, legyen szó előlegről, fizetési információkról,
       házirendről, vagy megközelíthetőségről.
     actions: []
