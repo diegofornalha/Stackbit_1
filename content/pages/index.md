@@ -81,7 +81,6 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Focused
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
