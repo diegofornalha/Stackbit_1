@@ -322,8 +322,7 @@ sections:
         subtitle: ''
         text: >
           Néhány lépésben kész is a regisztráció a lakóegységeid áraival,
-          képeivel és fő felszereltségével. Megadhatsz foglalási szabályokat is
-          (pl.: minimum éjszaka).
+          képeivel és fő felszereltségével. 
         author: ''
         rating: 1
         isRatingVisible: false
