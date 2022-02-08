@@ -69,7 +69,6 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Smarter
         featuredImage:
           type: ImageBlock
           url: /images/smarter.svg
