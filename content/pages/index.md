@@ -224,7 +224,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    subtitle: 'Értékesítsd közvetlen szálláshelyed akár Instáról, vagy Facebookról'
   - elementId: ''
     colors: colors-a
     title: Foglalási- és árazási szabályok
