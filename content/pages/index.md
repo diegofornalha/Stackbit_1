@@ -60,8 +60,9 @@ sections:
       - type: FeaturedItem
         title: Naprakész naptár
         text: >
-          Percek alatt regisztrálhatsz és már másolhatod is a foglalási linket
-          weboldaladra, Instára, vagy Facebook csoportokba.
+          Érdeklődő vendégeid látják mikor foglalt, vagy éppen szabad a
+          vendégházad, így szívesebben foglalnak a saját felületeden.
+          Főszezonban pedig nem kell felesleges emailekre válaszolnod.
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
