@@ -345,7 +345,7 @@ sections:
           actions:
             justifyContent: flex-start
       - elementId: ''
-        title: Item Title
+        title: 2. Másold ki és illeszd be a foglalási linket
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
