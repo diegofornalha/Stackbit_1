@@ -227,7 +227,6 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Foglalási- és árazási szabályok
-    subtitle: 'Csak olyan foglalásokat engedj be, ami neked megéri'
     text: >
       #### Csak olyan foglalásokat engedj be, ami neked megéri
 
