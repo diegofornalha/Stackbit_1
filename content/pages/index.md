@@ -98,7 +98,7 @@ sections:
         rating: 2
         isRatingVisible: false
       - type: FeaturedItem
-        title: Azonnali visszajelzés az árról és szabad helyekről
+        title: 'Azonnali visszajelzések, érthető foglalási szabályok'
         text: >
           A látogatóid foglaltsági naptáron keresztül foglalhatnak, az ár pedig
           automatikusan számítódik, az általad megadott árszámítási módon.
