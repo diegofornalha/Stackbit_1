@@ -147,6 +147,9 @@ sections:
     colors: colors-a
     title: Önálló weboldalként is működik
     text: >
+      #### Percek alatt elindíthatod teljeskörű közvetlen foglalási felületedet
+
+
       Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy közvetlen az Insta
       profilodról foglaljanak, hiszen a foglalómotorra minden fontos információt
       feltölthetsz.
