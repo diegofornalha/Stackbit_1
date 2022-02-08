@@ -308,7 +308,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    subtitle: Spórolj időt a felesleges adminisztráció elkerülésével
   - elementId: ''
     colors: colors-f
     title: Próbáld ki kockázat (és bankkártya) nélkül
