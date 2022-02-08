@@ -495,9 +495,10 @@ sections:
     colors: colors-f
     backgroundImage: null
     title: Használd örökké előfizetés nélkül
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Előfizetés nélkül a jutalék mindössze a foglalási érték 2%-a. Fizetős
+      konstrukciónkban pedig a 0% jutalék mellett olyan előnyöket találsz, mint
+      az iCal naptárszinkron, vagy a saját színtémák.
     actions:
       - type: Button
         label: Ingyenes regisztráció
