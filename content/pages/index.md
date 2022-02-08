@@ -77,7 +77,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: 'Bizalomgerjesztő, egyszerű foglalási felület'
+        title: Mobilbarát
         text: >
           Az Appartman modern, és információdús felületével könnyű lesz bizalmat
           ébreszteni a foglalókban.
