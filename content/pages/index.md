@@ -60,7 +60,7 @@ sections:
         title: Faster
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/Frame 1349.png
           altText: Item image
         styles:
           title:
