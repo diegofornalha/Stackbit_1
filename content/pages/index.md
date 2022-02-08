@@ -104,8 +104,7 @@ sections:
         isRatingVisible: false
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/facebook.png
           altText: Item image
         actions: []
         styles:
