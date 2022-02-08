@@ -34,6 +34,7 @@ module.exports = {
             addBase({
                 body: {
                     fontFamily: theme(`fontFamily.${themeStyle.fontBody}`)
+                    colo
                 },
                 'h1,h2,h3,h4,h5,h6': {
                     fontFamily: theme(`fontFamily.${themeStyle.fontHeadlines}`)
