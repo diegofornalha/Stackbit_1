@@ -371,7 +371,7 @@ sections:
           actions:
             justifyContent: flex-start
     actions: []
-    columns: 2
+    columns: 1
     styles:
       self:
         height: auto
