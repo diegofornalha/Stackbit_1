@@ -83,7 +83,7 @@ sections:
       - type: FeaturedItem
         featuredImage:
           type: ImageBlock
-          url: /images/image 1.png
+          url: /images/Frame 1351.png
           altText: Item image
         styles:
           title:
