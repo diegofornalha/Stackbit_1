@@ -64,6 +64,7 @@
         "horizontalPadding": 22,
         "verticalPadding": 12,
         "shadow": "md"
+        "color"
     },
     "buttonSecondary": {
         "weight": "normal",
