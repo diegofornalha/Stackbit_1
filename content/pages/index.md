@@ -403,7 +403,7 @@ sections:
           actions:
             justifyContent: flex-start
       - elementId: ''
-        title: 2. Másold ki és illeszd be a foglalási linket
+        title: 3. Másold ki és illeszd be a foglalási linket
         subtitle: ''
         text: >
           A foglalási linket bemásolhatod szállásközvetítői csoportokba, a
