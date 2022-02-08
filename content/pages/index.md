@@ -280,7 +280,8 @@ sections:
 
 
       Vendégeid a foglalás után egy testreszabható emailben azonnal megkapják a
-      szükséges információkat. Igény szerint az email csak akkor megy ki egy
+      szükséges információkat, legyen szó előlegről, házirendről, vagy
+      megközelíthetőségről. Igény szerint az email csak akkor megy ki egy
       gombnyomással, ha ellenőriztél mindent.
     actions: []
     media:
