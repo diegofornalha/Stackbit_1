@@ -270,6 +270,9 @@ sections:
     colors: colors-a
     title: Automatikusan generált emailek
     text: >
+      #### Spórolj időt a felesleges adminisztráció elkerülésével
+
+
       Vendégeid a foglalás után egy testreszabható emailben azonnal megkapják a
       szükséges információkat. Igény szerint az email csak akkor megy ki egy
       gombnyomással, ha ellenőriztél mindent.
