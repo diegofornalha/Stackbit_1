@@ -314,7 +314,7 @@ sections:
       type: ImageBlock
   - colors: colors-h
     elementId: ''
-    title: Online foglalási felület percek alatt
+    title: Online foglalási rendszer percek alatt
     subtitle: Így hozhatod létre a saját foglalómotorod
     items:
       - elementId: ''
