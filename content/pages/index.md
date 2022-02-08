@@ -79,8 +79,9 @@ sections:
       - type: FeaturedItem
         title: Mobilbarát és bizalomgerjesztő kialakítás
         text: >
-          Az Appartman modern, és információdús felületével könnyű lesz bizalmat
-          ébreszteni a foglalókban.
+          Egy felmérés szerint az interneten foglaló vendégek kb. 67%-a mobilról
+          foglal. Az Appartman rendszere nem csak mobilbarát, de még egyszerűen
+          is használható.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
