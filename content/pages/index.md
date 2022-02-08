@@ -222,9 +222,9 @@ sections:
     subtitle: 'Csak olyan foglalásokat engedj be, ami neked megéri'
     text: >
       A könnyen beállítható és kezelhető foglalás- és árazási szabályainkkal
-      biztosíthatod, hogy csak a neked megfelelő foglalásokat engedje be a
-      rendszer. Beállíthatsz szezonokat, hétvégi árakat, minimum foglalható
-      éjszakákat, érkezési napokat, stb.
+      biztosíthatod, hogy csak a neked megfelelő foglalásaid legyenek.
+      Beállíthatsz szezonokat, hétvégi árakat, minimum foglalható éjszakákat,
+      érkezési napokat, stb.
     actions: []
     media:
       type: ImageBlock
