@@ -144,7 +144,7 @@ sections:
     colors: colors-a
     title: Önálló weboldalként is működik
     text: >
-      Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy az Insta
+      Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy közvetlen az Insta
       profilodról foglaljanak, hiszen a foglalómotorra minden fontos információt
       feltölthetsz.
     media:
