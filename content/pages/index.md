@@ -317,27 +317,6 @@ sections:
     title: Online foglalási felület percek alatt
     subtitle: Hogy működik a foglalómotor?
     items:
-      - type: FeaturedItem
-        title: 1. Add meg a lakóegységeidet
-        text: >
-          Pár perc alatt kész is a regisztráció a lakóegységeid áraival,
-          képeivel és fő felszereltségével. Megadhatsz foglalási szabályokat is
-          (pl.: minimum éj).
-        featuredImage:
-          altText: altText of the image
-          caption: Caption of the image
-          elementId: ''
-          styles:
-            self:
-              opacity: 100
-          type: ImageBlock
-        styles:
-          title:
-            textAlign: center
-          subtitle:
-            textAlign: center
-          text:
-            textAlign: center
       - elementId: ''
         title: 1. Add meg a lakóegységeidet
         subtitle: ''
