@@ -71,17 +71,6 @@ sections:
       - type: FeaturedItem
         featuredImage:
           type: ImageBlock
-          altText: Item image
-        styles:
-          title:
-            textAlign: center
-          subtitle:
-            textAlign: center
-          text:
-            textAlign: center
-      - type: FeaturedItem
-        featuredImage:
-          type: ImageBlock
           url: /images/Frame 1351.png
           altText: Item image
         styles:
