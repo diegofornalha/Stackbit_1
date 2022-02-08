@@ -345,6 +345,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: Ez egy teszt funkció bemutatás
   - elementId: ''
     colors: colors-f
     title: Próbáld ki kockázat (és bankkártya) nélkül
