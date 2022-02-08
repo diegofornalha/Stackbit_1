@@ -303,10 +303,16 @@ sections:
     colors: colors-a
     title: Love where you work
     subtitle: ''
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      ## Ez egy teszt funkció bemutatás
+
+
+      ###### hamarosan
+
+
+      Gentlemen a short view back to the past. Thirty years ago, Niki Lauda told
+      us: take a trained monkey, place him into the cockpit and he is able to
+      drive the car.
     actions:
       - type: Button
         label: Sign Up
