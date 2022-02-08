@@ -266,7 +266,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-h
     title: Automatikusan generált emailek
     text: >
       #### Spórolj időt a felesleges adminisztráció elkerülésével
