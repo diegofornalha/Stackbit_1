@@ -347,10 +347,8 @@ sections:
       - elementId: ''
         title: 2. Másold ki és illeszd be a foglalási linket
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          A foglalási linket bemásolhatod szállásközvetítői csoportokba,
         author: ''
         rating: 1
         isRatingVisible: false
