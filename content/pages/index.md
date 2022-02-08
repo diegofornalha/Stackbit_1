@@ -227,7 +227,7 @@ sections:
     colors: colors-a
     title: Foglalási- és árazási szabályok
     text: >
-      #### Csak olyan foglalásokat engedj be, ami neked megéri
+      #### Üzemeltesd szálláshelyed saját feltételeid szerint
 
 
       Könnyedén állíthatsz be szezonokat, hétvégi árakat, minimum foglalható
