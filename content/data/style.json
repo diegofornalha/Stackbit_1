@@ -41,6 +41,7 @@
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal"
+        "onLight": "#434459",
     },
     "fontBody": "sans",
     "main": "#F8F7FA",
