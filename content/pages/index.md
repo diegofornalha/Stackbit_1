@@ -494,7 +494,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundImage: null
-    title: Könnyen kezelhető foglalómotor. Ingyen
+    title: Használd örökké előfizetés nélkül
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
