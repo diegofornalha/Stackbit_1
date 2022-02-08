@@ -181,7 +181,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    subtitle: 'Percek alatt elindíthatod teljeskörű közvetlen foglalási felületedet '
   - elementId: ''
     colors: colors-a
     title: Mobilra optimalizált kialakítás
