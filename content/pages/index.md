@@ -373,7 +373,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     title: Online foglalási rendszer percek alatt
     subtitle: Így hozhatod létre a saját foglalómotorod
