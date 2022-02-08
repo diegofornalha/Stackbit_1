@@ -71,7 +71,6 @@ sections:
       - type: FeaturedItem
         featuredImage:
           type: ImageBlock
-          url: /images/Frame 1350-1f22e237.png
           altText: Item image
         styles:
           title:
