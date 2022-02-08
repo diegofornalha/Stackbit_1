@@ -120,7 +120,7 @@ sections:
         isRatingVisible: false
         featuredImage:
           type: ImageBlock
-          url: /images/instagram.png
+          url: /images/instagram-07f85a14.png
           altText: Item image
         actions: []
         styles:
