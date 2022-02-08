@@ -281,8 +281,7 @@ sections:
 
       Vendégeid a foglalás után egy testreszabható emailben azonnal megkapják a
       szükséges információkat, legyen szó előlegről, házirendről, vagy
-      megközelíthetőségről. Igény szerint az email csak akkor megy ki egy
-      gombnyomással, ha ellenőriztél mindent.
+      megközelíthetőségről. 
     actions: []
     media:
       type: ImageBlock
