@@ -309,7 +309,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-f
-    title: Próbáld ki kockázat (és bankkártya) nélkül
+    title: Próbáld ki ingyen és fogadj vendégeket 3 perc múlva
     text: >
       ###### bármeddig, előfizetés nélkül
 
