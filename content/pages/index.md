@@ -102,8 +102,9 @@ sections:
       - type: FeaturedItem
         title: 'Azonnali visszajelzések, érthető foglalási szabályok'
         text: >
-          A látogatóid foglaltsági naptáron keresztül foglalhatnak, az ár pedig
-          automatikusan számítódik, az általad megadott árszámítási módon.
+          Foglalási és árazási feltételeid a beállításaid és a választott dátum
+          szerint változnak. Így vendégeid könnyen átláthatják, hogy milyen
+          feltételekkel foglalhatnak.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
