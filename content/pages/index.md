@@ -461,7 +461,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
-  - colors: colors-a
+  - colors: colors-h
     elementId: ''
     title: Gyakori válaszok
     items:
