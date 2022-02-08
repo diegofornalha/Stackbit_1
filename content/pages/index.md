@@ -340,7 +340,9 @@ sections:
           actions:
             justifyContent: flex-start
       - elementId: ''
-        title: Item Title
+        title: >-
+          2. Add meg a szezonális áraidat és a foglalási szabályaidat (ha
+          vannak)
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
