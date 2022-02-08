@@ -140,6 +140,9 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
+    subtitle: >-
+      Az Appartman foglalómotor végig a magánszállásadók igényeit szem előtt
+      tartva készül.
   - elementId: ''
     colors: colors-a
     title: Önálló weboldalként is működik
