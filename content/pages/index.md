@@ -58,7 +58,7 @@ sections:
     title: 'Több direkt foglalás, kevesebb fizetett jutalék'
     items:
       - type: FeaturedItem
-        title: Villámgyors regisztráció és szálláshely építés
+        title: Naprakész naptár
         text: >
           Percek alatt regisztrálhatsz és már másolhatod is a foglalási linket
           weboldaladra, Instára, vagy Facebook csoportokba.
