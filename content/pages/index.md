@@ -218,7 +218,7 @@ sections:
     subtitle: 'Értékesítsd közvetlen szálláshelyed akár Instáról, vagy Facebookról'
   - elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: Foglalási- és árazási szabályok
     subtitle: ''
     text: >-
       One platform, one community, getting to the bottom line of everything
