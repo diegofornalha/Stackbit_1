@@ -312,6 +312,9 @@ sections:
     colors: colors-f
     title: Próbáld ki kockázat (és bankkártya) nélkül
     text: >
+      ###### örökké használható előfizetés nélkül
+
+
       Ingyenes felhasználóinktól mindössze 2% jutalékot vonunk le
       foglalásonként. Fizetős csomagjainkban semennyi jutalék nem kerül
       levonásra.
