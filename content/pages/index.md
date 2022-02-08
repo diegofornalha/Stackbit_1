@@ -51,7 +51,7 @@ sections:
         justifyContent: flex-start
   - colors: colors-f
     elementId: ''
-    title: Profi online foglalási felület a kis szállásadóknak is
+    title: 'Több direkt foglalás, kevesebb fizetett jutalék'
     items:
       - type: FeaturedItem
         title: Villámgyors regisztráció és szálláshely építés
