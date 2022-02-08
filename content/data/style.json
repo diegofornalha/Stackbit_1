@@ -39,7 +39,7 @@
         "size": "lg",
         "weight": "bold",
         "decoration": "none",
-        "case": "allcaps",
+        "case": "caps",
         "letterSpacing": "normal"
     },
     "fontBody": "sans",
