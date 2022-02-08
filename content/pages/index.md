@@ -314,7 +314,7 @@ sections:
       type: ImageBlock
   - colors: colors-h
     elementId: ''
-    title: Hogy működik a foglalómotor?
+    title: Online foglalási felület percek alatt
     subtitle: ''
     items:
       - type: FeaturedItem
