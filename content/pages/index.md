@@ -272,6 +272,9 @@ sections:
       #### Spórolj időt a felesleges adminisztráció elkerülésével
 
 
+      ###### teszt
+
+
       Vendégeid a foglalás után egy testreszabható emailben azonnal megkapják a
       szükséges információkat. Igény szerint az email csak akkor megy ki egy
       gombnyomással, ha ellenőriztél mindent.
