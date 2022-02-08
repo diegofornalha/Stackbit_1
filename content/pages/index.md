@@ -158,7 +158,7 @@ sections:
 
       Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy közvetlen az Insta
       profilodról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      feltölthetsz.
+      és képet feltölthetsz.
     media:
       type: ImageBlock
       url: /images/onallo-weboldalkent-is-funkcional-fc2b5f1d.png
