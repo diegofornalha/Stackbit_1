@@ -339,7 +339,7 @@ sections:
           text:
             textAlign: center
       - elementId: ''
-        title: Item Title
+        title: 1. Add meg a lakóegységeidet
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
