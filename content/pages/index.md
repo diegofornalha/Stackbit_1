@@ -321,7 +321,8 @@ sections:
         title: 1. Add meg a lakóegységeidet
         text: >
           Pár perc alatt kész is a regisztráció a lakóegységeid áraival,
-          képeivel és fő felszereltségével.
+          képeivel és fő felszereltségével. Megadhatsz foglalási szabályokat is
+          (pl.: minimum éj).
         featuredImage:
           altText: altText of the image
           caption: Caption of the image
