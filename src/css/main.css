@@ -11,7 +11,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 h6 {
     color: #F8F7FA;
-    background-color: #6051BC;
+    background: rgb(96,81,188);
+background: linear-gradient(90deg, rgba(96,81,188,1) 0%, rgba(125,84,208,1) 100%);
     padding: 6px 6px 6px 8px;
     border-radius: 8px;
 }
