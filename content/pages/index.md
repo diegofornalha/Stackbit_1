@@ -115,10 +115,6 @@ sections:
             justifyContent: flex-start
       - elementId: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
         author: ''
         rating: 1
         isRatingVisible: false
