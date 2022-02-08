@@ -221,10 +221,9 @@ sections:
     title: Foglalási- és árazási szabályok
     subtitle: 'Csak olyan foglalásokat engedj be, ami neked megéri'
     text: >
-      A könnyen beállítható és kezelhető foglalás- és árazási szabályainkkal
-      biztosíthatod, hogy csak neked megfelelő foglalásaid legyenek.
-      Beállíthatsz szezonokat, hétvégi árakat, minimum foglalható éjszakákat,
-      érkezési napokat, stb.
+      Könnyedén állíthatsz be szezonokat, hétvégi árakat, minimum foglalható
+      éjszakákat, érkezési napokat, stb., így biztosíthatod, hogy csak neked
+      megfelelő foglalásaid legyenek. 
     actions: []
     media:
       type: ImageBlock
