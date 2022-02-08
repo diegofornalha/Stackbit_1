@@ -71,7 +71,7 @@ sections:
       - type: FeaturedItem
         featuredImage:
           type: ImageBlock
-          url: /images/smarter.svg
+          url: /images/Frame 1350.png
           altText: Item image
         styles:
           title:
