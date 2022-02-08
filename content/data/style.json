@@ -41,7 +41,6 @@
         "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
-        "text-background"
     },
     "fontBody": "sans",
     "main": "#F8F7FA",
