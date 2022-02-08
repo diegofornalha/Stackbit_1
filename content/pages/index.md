@@ -219,7 +219,7 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Foglalási- és árazási szabályok
-    subtitle: ''
+    subtitle: 'Csak olyan foglalásokat engedj be, ami neked megéri'
     text: >-
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
