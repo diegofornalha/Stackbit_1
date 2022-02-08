@@ -303,9 +303,6 @@ sections:
     colors: colors-a
     subtitle: ''
     text: >
-      ## Ez egy teszt funkció bemutatás
-
-
       ###### hamarosan
 
 
