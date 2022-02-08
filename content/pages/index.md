@@ -315,7 +315,7 @@ sections:
   - colors: colors-h
     elementId: ''
     title: Online foglalási felület percek alatt
-    subtitle: Hogy működik a foglalómotor?
+    subtitle: Így hozhatod létre a saját foglalómotorod
     items:
       - elementId: ''
         title: 1. Add meg a lakóegységeidet
