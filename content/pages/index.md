@@ -321,7 +321,7 @@ sections:
       - type: Button
         label: Ingyenes regisztráció
         url: 'https://foglalas.appartman.hu/register'
-        style: secondary
+        style: primary
       - type: Link
         label: Bemutató felület
         url: /
