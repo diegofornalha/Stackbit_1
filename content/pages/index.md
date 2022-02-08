@@ -341,10 +341,10 @@ sections:
       - elementId: ''
         title: 1. Add meg a lakóegységeidet
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Néhány lépés alatt kész is a regisztráció a lakóegységeid áraival,
+          képeivel és fő felszereltségével. Megadhatsz foglalási szabályokat is
+          (pl.: minimum éjszaka).
         author: ''
         rating: 1
         isRatingVisible: false
