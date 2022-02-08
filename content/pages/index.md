@@ -114,7 +114,7 @@ sections:
           actions:
             justifyContent: flex-start
     actions: []
-    columns: 4
+    columns: 2
     styles:
       self:
         height: auto
