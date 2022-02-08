@@ -75,9 +75,8 @@ sections:
       - type: FeaturedItem
         title: 'Bizalomgerjesztő, egyszerű foglalási felület'
         text: >
-          Gyermek kedvezmények, vendégek számától függő árazás, hétvégi árak,
-          szezonok, stb. A foglalási rendszerünkben csak a te szabályaid alapján
-          lehet foglalni.
+          Az Appartman modern, és információdús felületével könnyű lesz bizalmat
+          ébreszteni a foglalókban.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
