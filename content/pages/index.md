@@ -301,7 +301,6 @@ sections:
     subtitle: Spórolj időt a felesleges adminisztráció elkerülésével
   - elementId: ''
     colors: colors-a
-    title: Love where you work
     subtitle: ''
     text: >
       ## Ez egy teszt funkció bemutatás
