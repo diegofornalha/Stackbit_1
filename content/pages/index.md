@@ -222,8 +222,8 @@ sections:
     subtitle: 'Csak olyan foglalásokat engedj be, ami neked megéri'
     text: >
       Könnyedén állíthatsz be szezonokat, hétvégi árakat, minimum foglalható
-      éjszakákat, érkezési napokat, így biztosíthatod, hogy csak neked megfelelő
-      foglalásaid legyenek.
+      éjszakákat, érkezési napokat, felkészülési időt, így biztosíthatod, hogy
+      csak neked megfelelő foglalásaid legyenek.
     actions: []
     media:
       type: ImageBlock
