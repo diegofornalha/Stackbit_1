@@ -551,9 +551,8 @@ sections:
     type: CtaSection
   - elementId: ''
     colors: colors-a
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      “Fasza”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage: null
