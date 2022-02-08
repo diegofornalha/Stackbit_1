@@ -312,7 +312,7 @@ sections:
     colors: colors-f
     title: Próbáld ki kockázat (és bankkártya) nélkül
     text: >
-      ###### korlátlan ideig, előfizetés nélkül
+      ###### bármeddig, előfizetés nélkül
 
 
       Ingyenes felhasználóinktól mindössze 2% jutalékot vonunk le
