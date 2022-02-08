@@ -370,19 +370,6 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
-      - type: FeaturedItem
-        title: 2. Másold ki és illeszd be a foglalási linket
-        text: >
-          A foglalási linket bemásolhatod szállásközvetítői csoportokba, a
-          weboldaladra, az Instagram oldaladra, így a látogatóid bármelyik
-          platformról egyszerűen tudnak foglalni hozzád.
-        styles:
-          title:
-            textAlign: center
-          subtitle:
-            textAlign: center
-          text:
-            textAlign: center
     actions: []
     columns: 2
     styles:
