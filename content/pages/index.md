@@ -57,7 +57,6 @@ sections:
     elementId: ''
     items:
       - type: FeaturedItem
-        title: Faster
         featuredImage:
           type: ImageBlock
           url: /images/Frame 1349.png
