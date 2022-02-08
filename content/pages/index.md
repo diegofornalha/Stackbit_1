@@ -347,8 +347,9 @@ sections:
       - elementId: ''
         title: 2. Másold ki és illeszd be a foglalási linket
         subtitle: ''
-        text: |
-          A foglalási linket bemásolhatod szállásközvetítői csoportokba,
+        text: >
+          A foglalási linket bemásolhatod szállásközvetítői csoportokba, a
+          weboldaladra, vagy akár Insta profilodra is.
         author: ''
         rating: 1
         isRatingVisible: false
