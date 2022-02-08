@@ -343,10 +343,10 @@ sections:
           2. Add meg a szezonális áraidat és a foglalási szabályaidat (ha
           vannak)
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Az Appartman könnyedén kezeli a szezonokra, vagy kiemelt hétvégékre
+          megadott árakat. Megadhatsz gyermek kedvezményt, minimum foglalható
+          éjszakát, előfoglalási időt, stb.
         author: ''
         rating: 1
         isRatingVisible: false
