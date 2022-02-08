@@ -185,6 +185,10 @@ sections:
     colors: colors-a
     title: Mobilra optimalizált kialakítás
     text: >
+      #### Értékesítsd közvetlen szálláshelyed, akár Instagramról, vagy
+      Facebookról
+
+
       Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
       megkönnyítsük a foglalások leadását. Akár egy Instagram profilról is
       könnyen elérhető és foglalható lesz a szállásod a másolható link
