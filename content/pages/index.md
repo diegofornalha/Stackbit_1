@@ -316,7 +316,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: Extra szolgáltatások
     subtitle: ''
     text: >+
       ###### hamarosan
