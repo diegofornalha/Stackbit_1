@@ -87,7 +87,7 @@ sections:
         isRatingVisible: false
         featuredImage:
           type: ImageBlock
-          url: /images/facebook-f759a157.png
+          url: /images/facebook-a02e184f.png
           altText: Item image
         actions: []
         styles:
