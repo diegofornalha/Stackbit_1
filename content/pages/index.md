@@ -254,7 +254,7 @@ sections:
       és képet feltölthetsz.
     media:
       type: ImageBlock
-      url: /images/onallo-weboldalkent-is-funkcional-fc2b5f1d.png
+      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
       altText: Hero section image
     styles:
       self:
