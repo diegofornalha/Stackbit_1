@@ -71,7 +71,7 @@ sections:
       - type: FeaturedItem
         featuredImage:
           type: ImageBlock
-          url: /images/Frame 1351.png
+          url: /images/wordpress.png
           altText: Item image
         styles:
           title:
