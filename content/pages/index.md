@@ -336,7 +336,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/mobilra optimalizált kialakítás.png
+      url: /images/foglalasi-arazasi-szabalyok.png
       altText: Hero image
     backgroundImage: null
     styles:
