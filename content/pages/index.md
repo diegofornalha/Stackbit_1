@@ -294,7 +294,7 @@ sections:
       segítségével.
     media:
       type: ImageBlock
-      url: /images/mobilra optimalizált kialakítás.png
+      url: /images/automatikusan-generalt-emailek-d126e832.png
       altText: Hero section image
     styles:
       self:
