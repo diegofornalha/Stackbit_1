@@ -157,7 +157,7 @@ sections:
           vendégházad, így szívesebben foglalnak a saját felületeden.
           Főszezonban pedig nem kell felesleges emailekre válaszolnod.
         featuredImage:
-          url: /images/naprakesz-foglaltsagi-naptar.png
+          url: /images/naprakesz-foglaltsagi-naptar-6f34904b.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
