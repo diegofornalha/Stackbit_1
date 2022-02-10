@@ -177,7 +177,7 @@ sections:
           foglal. Az Appartman rendszere nem csak mobilbarát, de még egyszerűen
           is használható.
         featuredImage:
-          url: /images/smarter.svg
+          url: /images/mobilbarat-online-szobafoglalasi-rendszer.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
