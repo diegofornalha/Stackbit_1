@@ -378,7 +378,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/automatikusan-generalt-emailek.png
+      url: /images/kozvetlen-online-foglalasi-rendszer-automatikus-email.png
       altText: Hero image
     backgroundImage: null
     styles:
