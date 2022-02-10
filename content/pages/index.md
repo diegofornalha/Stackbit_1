@@ -199,7 +199,7 @@ sections:
           szerint változnak. Így vendégeid könnyen átláthatják, hogy milyen
           feltételekkel foglalhatnak.
         featuredImage:
-          url: /images/focused.svg
+          url: /images/azonnali-visszajelzesek.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
