@@ -336,7 +336,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/foglalasi-arazasi-szabalyok-d039e74e.png
+      url: /images/foglalasi-arazasi-szabalyok-3da3c2b7.png
       altText: Hero image
     backgroundImage: null
     styles:
