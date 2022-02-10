@@ -458,7 +458,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     media:
-      url: /images/Frame 1178.png
+      url: /images/ingyenes-online-szobafoglalasi-rendszer.png
       altText: Where did everyone go?
       caption: Team meeting
       elementId: ''
