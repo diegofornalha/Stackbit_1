@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: >-
     /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-vendghazaknak-apartmanoknak-blogposzt-hero.png
-  altText: 'Online szobafoglalási rendszer '
+  altText: Online szobafoglalási rendszer borítókép
   caption: ''
 bottomSections: []
 layout: PostLayout
