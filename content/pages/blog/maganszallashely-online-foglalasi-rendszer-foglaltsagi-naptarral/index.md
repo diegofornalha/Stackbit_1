@@ -16,7 +16,7 @@ bottomSections:
     backgroundImage: null
     title: Érj el több közvetlen foglalást az Appartmannal
     text: |+
-      ## Érj el több közvetlen foglalást az Appartmannal
+      # Érj el több közvetlen foglalást az Appartmannal
 
       ###### előfizetés nélkül, örökre
 
