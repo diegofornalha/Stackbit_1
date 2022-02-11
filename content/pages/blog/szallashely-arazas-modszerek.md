@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/szallashely-arazasi-modszerek-vendeghazaknak-apartmanoknak-hero.png
-  altText: Post thumbnail image
+  altText: Árazási módszerek vendégházaknak és apartmanoknak borítókép
   caption: ''
 bottomSections: []
 layout: PostLayout
