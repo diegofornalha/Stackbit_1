@@ -1,5 +1,5 @@
 ---
-title: Blog post page
+title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
 seo:
   title: Random cím | Appartman
   description: He...
