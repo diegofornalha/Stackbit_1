@@ -2,7 +2,7 @@
 title: Blog post page
 seo:
   title: Random cím | Appartman
-  description: He...
+  description: Szállásadóknak szánt szakmai cikkeinkkel a vendégházak, apartmanok és kisebb panziók fejlődését igyekszünk segíteni.
 layout: PageLayout
 sections:
   - type: PostFeedSection
