@@ -14,9 +14,8 @@ bottomSections:
     colors: colors-f
     backgroundImage: null
     title: Fogadj közvetlen vendégeket bármilyen árazási szabállyal
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Regisztrálj ingyenesen az Appartman online foglalási rendszerbe.
     actions:
       - type: Button
         label: Try it now
