@@ -11,6 +11,10 @@ export default function BaseLayoutWithSEO(props) {
     const pageMeta = page?.__metadata || {};
     const Header = getComponent('Header');
     const Footer = getComponent('Footer');
+    const page = _.get(this.props, 'page');
+    const pageTitle = _.get(page, 'title');
+    const config = _.get(this.props, 'config');
+    const configTitle = _.get(config, 'title');
     const seo = _.get(page, 'seo');
     const seoTitle = _.get(seo, 'title');
     const title = seoTitle ? seoTitle : [pageTitle, configTitle].join(' | ');
