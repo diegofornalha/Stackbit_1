@@ -12,8 +12,6 @@ export default function BaseLayoutWithSEO(props) {
     const Header = getComponent('Header');
     const Footer = getComponent('Footer');
     const pageTitle = _.get(page, 'title');
-    console.log('site', site);
-
     const seo = _.get(page, 'seo');
     const seoTitle = _.get(seo, 'title');
     const title = seoTitle ? seoTitle : [pageTitle, site.header.title].join(' | ');
