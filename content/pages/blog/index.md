@@ -27,7 +27,7 @@ sections:
         justifyContent: center
         borderRadius: x-small
         borderWidth: 3
-        borderStyle: none
+        borderStyle: solid
         borderColor: border-dark
       title:
         textAlign: center
