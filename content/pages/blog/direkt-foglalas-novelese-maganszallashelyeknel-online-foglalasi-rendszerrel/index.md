@@ -2,8 +2,8 @@
 title: Hogyan növeljük direkt foglalásaink számát?
 date: '2021-11-18'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
+  alkalmazni, hogy növeljük az arányát?
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
