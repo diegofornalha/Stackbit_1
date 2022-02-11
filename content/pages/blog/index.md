@@ -1,7 +1,7 @@
 ---
 title: Blog post page
 seo:
-  title: Online foglalási rendszer magánszálláshelyeknek | Appartman
+  title: Random cím | Appartman
   description: Legyen már valami értelmes.
 layout: PageLayout
 sections:
