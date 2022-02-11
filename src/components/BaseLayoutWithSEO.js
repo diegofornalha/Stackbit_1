@@ -16,7 +16,7 @@ export default function BaseLayoutWithSEO(props) {
 
     const seo = _.get(page, 'seo');
     const seoTitle = _.get(seo, 'title');
-    const title = seoTitle ? seoTitle : [pageTitle, site.title].join(' | ');
+    const title = seoTitle ? seoTitle : [pageTitle, site.header.title].join(' | ');
     const seoDescription = _.get(seo, 'description', '');
     const seoRobots = _.get(seo, 'robots', []).join(',');
     const seoExtra = _.get(seo, 'extra', []).map((meta, index) => {
