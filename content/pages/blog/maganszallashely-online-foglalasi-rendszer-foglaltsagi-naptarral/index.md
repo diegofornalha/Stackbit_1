@@ -24,7 +24,7 @@ bottomSections:
     actions:
       - type: Button
         label: Ingyenes feliratkozás
-        url: /
+        url: 'https://foglalas.appartman.hu/register'
         style: primary
     styles:
       self:
