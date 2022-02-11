@@ -41,7 +41,9 @@ export default function DefaultBaseLayout(props) {
             <div className="sb-base sb-default-base-layout">
                 <Head>
                     <title>{title}</title>
-                    <meta name="description" content="Stackbit Components Library" />
+                    <meta name="description" content={seoDescription} />
+                    {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
+                    {seoExtra}
                     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
                     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
                 </Head>
