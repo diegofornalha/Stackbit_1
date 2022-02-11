@@ -2,7 +2,7 @@ import * as React from 'react';
 import Head from 'next/head';
 import classNames from 'classnames';
 
-import { getComponent } from '../../components-registry';
+import { getComponent } from '@stackbit/components';
 
 export default function DefaultBaseLayout(props) {
     const { page, site } = props;
