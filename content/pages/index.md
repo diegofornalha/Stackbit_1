@@ -2,7 +2,7 @@
 title: Online foglalási rendszer magánszálláshelyeknek | Appartman
 seo:
   title: Online foglalási rendszer magánszálláshelyeknek | Appartman
-  description: Teszt
+  description: Legyen már valami értelmes.
 layout: PageLayout
 sections:
   - type: HeroSection
