@@ -10,7 +10,6 @@ sections:
       és egyszerű megoldás is elérhető legyen.
     media:
       type: ImageBlock
-      url: /images/hero-4.jpg
       caption: Team meeting
       altText: Hero section image
     styles:
