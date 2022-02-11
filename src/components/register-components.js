@@ -6,7 +6,7 @@ import DefaultBaseLayout from './layout'
 registerComponents({
     // Register all Stackbit components
     ...componentsMap,
-    BaseLayout: DefaultBaseLayout
+    BaseLayoutWithSEO: DefaultBaseLayout
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
