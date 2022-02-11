@@ -1,5 +1,5 @@
 ---
-title: This is a blog post title
+title: Hogyan árazzuk szálláshelyünket
 date: '2021-11-02'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
