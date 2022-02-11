@@ -2,8 +2,8 @@
 title: 'Szálláshely automatizáció: online foglalási rendszer'
 date: '2021-11-17'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást, és elhagyható
+  vele az ajánlatkéréskre válaszolgatás.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
