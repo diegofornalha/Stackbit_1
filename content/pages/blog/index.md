@@ -1,6 +1,8 @@
 ---
 title: Blog post page
-description: Teszt
+seo:
+  title: Online foglalási rendszer magánszálláshelyeknek | Appartman
+  description: Legyen már valami értelmes.
 layout: PageLayout
 sections:
   - type: PostFeedSection
