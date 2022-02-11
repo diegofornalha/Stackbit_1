@@ -1,7 +1,7 @@
 ---
 title: Blog post page
 seo:
-  title: Random cím | Appartman
+  title: Tudástár magánszállásadóknak | Appartman Blog
   description: Szállásadóknak szánt szakmai cikkeinkkel a vendégházak, apartmanok és kisebb panziók fejlődését igyekszünk segíteni.
 layout: PageLayout
 sections:
