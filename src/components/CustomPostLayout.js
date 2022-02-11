@@ -1,7 +1,7 @@
 import * as React from 'react';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
-import { getComponent } from '';
+import { getComponent } from '@stackbit/components';
 
 export default function PostLayout(props) {
     const { page, site } = props;
