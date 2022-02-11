@@ -1,7 +1,7 @@
 ---
 title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
 seo:
-  title: Random cím | Appartman
+  title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
   description: Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes alkalmazni, hogy növeljük az arányát?
 layout: PageLayout
 sections:
