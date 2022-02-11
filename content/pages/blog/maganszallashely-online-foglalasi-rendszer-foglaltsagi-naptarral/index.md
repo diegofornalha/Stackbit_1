@@ -14,7 +14,7 @@ bottomSections:
   - elementId: ''
     colors: colors-f
     backgroundImage: null
-    title: Let's do this
+    title: Érj el több közvetlen foglalást az Appartmannal
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
