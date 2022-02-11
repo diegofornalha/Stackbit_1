@@ -6,7 +6,7 @@ excerpt: >-
   alkalmazni, hogy növeljük az arányát?
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-hero.png
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
