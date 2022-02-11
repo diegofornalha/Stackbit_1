@@ -1,12 +1,12 @@
 import dynamic from 'next/dynamic';
 import { registerComponents } from '@stackbit/components';
 import { componentsMap } from '@stackbit/components/dist/components-map';
-import BaseLayoutWithSEO from './layout'
+import PageLayout from './layout'
 
 registerComponents({
     // Register all Stackbit components
     ...componentsMap,
-    BaseLayoutWithSEO
+    PageLayout
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
