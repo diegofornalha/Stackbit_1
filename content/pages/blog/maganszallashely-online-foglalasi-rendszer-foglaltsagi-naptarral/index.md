@@ -10,48 +10,7 @@ featuredImage:
     /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-vendghazaknak-apartmanoknak-blogposzt-hero.png
   altText: Online szobafoglalási rendszer borítókép
   caption: ''
-bottomSections:
-  - elementId: ''
-    colors: colors-f
-    title: Get early access
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields:
-        - type: EmailFormControl
-          name: email
-          placeholder: Your email
-          isRequired: 'true'
-          width: full
-      submitLabel: Ingyenes regisztráció
-    media: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-    type: ContactSection
+bottomSections: []
 layout: PostLayout
 author: content/data/team/desmond-eagle.json
 ---
