@@ -15,9 +15,12 @@ bottomSections:
     colors: colors-f
     backgroundImage: null
     title: Érj el több közvetlen foglalást az Appartmannal
-    text: |+
+    text: >
       ###### előfizetés nélkül, örökre
 
+
+      Online foglalási rendszerünkkel percek alatt elindíthatod saját közvetlen
+      értékesítési felületedet
     actions:
       - type: Button
         label: Ingyenes feliratkozás
