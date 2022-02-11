@@ -3,7 +3,7 @@ title: Interjú magánszállásadóknak
 sections:
   - type: HeroSection
     colors: colors-f
-    title: We’re growing fast
+    title: Segítsd egy interjúval a jövő szálláshelykezelőjének létrejöttét
     text: You should join us.
     media:
       type: ImageBlock
