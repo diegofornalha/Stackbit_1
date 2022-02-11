@@ -58,7 +58,6 @@ function BaseLayoutWithSEO(props) {
 
 export default function PageLayout(props) {
     const { page, site } = props;
-    const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const sections = page.sections || [];
 
     return (
