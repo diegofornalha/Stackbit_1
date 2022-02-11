@@ -4,7 +4,10 @@ sections:
   - type: HeroSection
     colors: colors-f
     title: Segítsd egy interjúval a jövő szálláshelykezelőjének létrejöttét
-    text: You should join us.
+    text: >
+      Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
+      egy mélyinterjúval segíthetsz, hogy nemsokára egy igazán felhasználóbarát
+      és egyszerű megoldás is elérhető legyen.
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
