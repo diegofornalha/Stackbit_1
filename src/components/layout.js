@@ -11,6 +11,31 @@ export default function DefaultBaseLayout(props) {
     const pageMeta = page?.__metadata || {};
     const Header = getComponent('Header');
     const Footer = getComponent('Footer');
+            const seo = _.get(page, 'seo');
+        const seoTitle = _.get(seo, 'title');
+        const title = seoTitle ? seoTitle : [pageTitle, configTitle].join(' | ');
+        const seoDescription = _.get(seo, 'description', '');
+        const seoRobots = _.get(seo, 'robots', []).join(',');
+        const seoExtra = _.get(seo, 'extra', []).map((meta, index) => {
+            const keyName = _.get(meta, 'keyName', 'name');
+            const name = _.get(meta, 'name');
+            if (!name) {
+                return null;
+            }
+            const nameAttr = { [keyName]: name };
+            const relativeUrl = _.get(meta, 'relativeUrl');
+            let value = _.get(meta, 'value');
+            if (!value) {
+                return null;
+            }
+            if (relativeUrl) {
+                if (!domain) {
+                    return null;
+                }
+                value = domain + withPrefix(value);
+            }
+            return <meta key={index} {...nameAttr} content={value} />;
+        });
     return (
         <div className={classNames('sb-page', pageMeta.pageCssClasses)} data-sb-object-id={pageMeta.id}>
             <div className="sb-base sb-default-base-layout">
