@@ -3,6 +3,8 @@ import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
 import { getComponent } from '@stackbit/components';
 
+import BaseLayoutWithSEO from './BaseLayoutWithSEO';
+
 export default function PostLayout(props) {
     const { page, site } = props;
     const sections = page.bottomSections || [];
