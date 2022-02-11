@@ -12,7 +12,7 @@ export default function BaseLayoutWithSEO(props) {
     const Header = getComponent('Header');
     const Footer = getComponent('Footer');
     const pageTitle = _.get(page, 'title');
-    console.log();
+    console.log('site', site);
     
     const seo = _.get(page, 'seo');
     const seoTitle = _.get(seo, 'title');
