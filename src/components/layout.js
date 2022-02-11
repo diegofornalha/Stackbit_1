@@ -62,7 +62,7 @@ export default function PageLayout(props) {
     const sections = page.sections || [];
 
     return (
-        <BaseLayout page={page} site={site}>
+        <BaseLayoutWithSEO page={page} site={site}>
             <main id="main" className="sb-layout sb-page-layout">
                 {page.title && (
                     <h1 className="sr-only" data-sb-field-path="title">
@@ -85,6 +85,6 @@ export default function PageLayout(props) {
                     </div>
                 )}
             </main>
-        </BaseLayout>
+        </BaseLayoutWithSEO>
     );
 }
