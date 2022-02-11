@@ -1,6 +1,6 @@
 ---
 title: Blog post page
-description: 
+description: Teszt
 layout: PageLayout
 sections:
   - type: PostFeedSection
