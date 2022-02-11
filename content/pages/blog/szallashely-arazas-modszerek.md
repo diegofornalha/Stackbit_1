@@ -2,7 +2,7 @@
 title: Hogyan árazzuk szálláshelyünket
 date: '2021-11-02'
 seo:
-  description: Legyen már valami értelmes.
+  description: Nagyon jó leírás.
 excerpt: >-
   A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható a
   kihasználtság és az árbevétel.
