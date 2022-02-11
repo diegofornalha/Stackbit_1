@@ -1,7 +1,7 @@
 import dynamic from 'next/dynamic';
 import { registerComponents } from '@stackbit/components';
 import { componentsMap } from '@stackbit/components/dist/components-map';
-import PageLayout from './layout'
+import PageLayout from './CustomPageLayout'
 
 registerComponents({
     // Register all Stackbit components
