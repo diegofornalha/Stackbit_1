@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-hero.png
-  altText: Post thumbnail image
+  altText: Direkt foglalás tippek vendégházaknak apartmanoknak borítókép
   caption: ''
 bottomSections: []
 layout: PostLayout
