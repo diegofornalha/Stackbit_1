@@ -5,7 +5,7 @@ import _ from 'lodash';
 
 import { getComponent } from '@stackbit/components';
 
-export default function DefaultBaseLayout(props) {
+export default function BaseLayoutWithSEO(props) {
     const { page, site } = props;
     const siteMeta = site?.__metadata || {};
     const pageMeta = page?.__metadata || {};
