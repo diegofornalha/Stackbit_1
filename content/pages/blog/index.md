@@ -2,7 +2,7 @@
 title: Blog post page
 seo:
   title: Random cím | Appartman
-  description: Legyen már valami értelmes.
+  description: He.
 layout: PageLayout
 sections:
   - type: PostFeedSection
