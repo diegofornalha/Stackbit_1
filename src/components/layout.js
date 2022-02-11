@@ -40,7 +40,7 @@ export default function DefaultBaseLayout(props) {
         <div className={classNames('sb-page', pageMeta.pageCssClasses)} data-sb-object-id={pageMeta.id}>
             <div className="sb-base sb-default-base-layout">
                 <Head>
-                    <title>{page.title}</title>
+                    <title>{title}</title>
                     <meta name="description" content="Stackbit Components Library" />
                     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
                     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
