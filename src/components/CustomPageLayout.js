@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { getComponent } from '@stackbit/components';
-import 
+import BaseLayoutWithSEO from './BaseLayoutWithSEO';
 
 
 
