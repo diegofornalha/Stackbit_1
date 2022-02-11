@@ -14,12 +14,54 @@ bottomSections: []
 layout: PostLayout
 author: content/data/team/desmond-eagle.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+A foglalómotor a szálláshely weboldalába beágyazható, vagy különálló linkként működő naprakész foglaltsági naptár, amely segít a vendégeknek a foglalásuk véglegesítésében.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+### Miért éri meg?
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+A szállásközvetítő oldalak foglalásonként akár 12–16% közötti jutalékot is felszámíthatnak, ami egy kisebb szálláshely esetében is **havi több tízezer forintot** jelent.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Ezért sok szállásadó az ismert közvetítő oldalak (Szállás.hu, Booking, Airbnb) mellett saját weboldalt és foglalási lehetőséget is biztosít azért, hogy **csökkentse a költségeit** és személyesebb kapcsolatot építsen ki a vendégekkel.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### Milyen foglalási lehetőségek vannak?
+
+A közvetítő oldalakon túl a vendégek az alábbi foglalási csatornákat is alkalmazzák:
+
+*   telefon
+
+*   email
+
+*   Facebook/Instagram
+
+*   Saját weboldal űrlapja
+
+A legfőbb probléma ezekkel a csatornákkal, hogy **sokszor időrablók és folyamatos személyes jelenlétet igényelnek**.
+
+A telefonos foglalások automatizálásáért sajnos nem tehetünk sokat, viszont a weboldalról érkező érdeklődőkkel kapcsolatos adminisztrációt csökkenthetjük.
+
+> Főszezonban számtalanszor előfordul, hogy a vendégek emailben a szabad szobák iránt érdeklődnek — amikor már teltház van — , mert valós időben frissülő foglaltsági naptár hiányában egyszerűen nem látják a weboldalon a foglalt kapacitásainkat...
+
+Ha pedig van naptárunk, de továbbra is egy űrlapon kell jelentkezniük, akkor válasz emailben kell megerősítenünk a foglalásukat, a szabad szobákat pedig lemondani a közvetítő oldalakon. Ez elég időigényes tud lenni.
+
+### Miben segít az Appartman online foglalási rendszere?
+
+Az Appartman foglalómotorja egy a saját weboldalba ágyazható jutalékmentes szobafoglalási rendszer kifejezetten kis szállásadóknak, amely segíti a foglalások automatizált kezelését.
+
+##### Személyre szabható árazás
+
+Az admin felületen lehetőségünk van a [különböző árazási módszerek](https://medium.com/sz%C3%A1ll%C3%A1sad%C3%B3k-szakmai-k%C3%B6z%C3%B6ss%C3%A9ge/hogyan-arazzuk-szallashelyunket-f61e05776705) beállítására ami miatt lakóegység, létszám vagy akár hibrid árazásban is foglalhatnak vendégeink.
+
+##### Naptárszinkron
+
+A foglalómotor összeköttetésben van a közvetítő oldalakkal így a funkció segítségével a vendég naprakész információt kap a szabad időpontokról. A foglalás beérkezését követő néhány órán belül a foglalómotor automatikusan lemondja a szabad kapacitásokat a közvetítő oldalakon így nem kell aggódni a túlfoglalások miatt sem.
+
+##### Email automatizmusok
+
+Foglalás beérkezését követően a foglaló automatikus emailt kap a foglalás adatairól, előleg fizetésének összegéről és menetéről.
+
+##### Felhasználóbarát kialakítás
+
+A foglalómotor weboldalba ágyazható, de akár weboldal nélküli saját linken is közvetlenül elérhető. Mobilbarát és egyszerű kialakításának köszönhetően pedig segíti a látogatót, hogy könnyen, gördülékenyen intézze foglalását.
+
+Ha érdekel a megoldás, bővebb információkat az [appartman.hu foglalómotor](https://appartman.hu/) weboldalán találsz.
+
+Az eredeti cikk a Szállásadók szakmai közössége [Medium oldalán](https://medium.com/sz%C3%A1ll%C3%A1sad%C3%B3k-szakmai-k%C3%B6z%C3%B6ss%C3%A9ge/sz%C3%A1ll%C3%A1shely-automatiz%C3%A1ci%C3%B3-foglal%C3%B3motor-d6103c7cbf98) található. A Szállásadók szakmai közössége egy magánszállásadókból álló, egymást segítő közösség. [Csatlakozz bátran a Facebook csoportunkhoz](https://www.facebook.com/groups/szallasadok)!
