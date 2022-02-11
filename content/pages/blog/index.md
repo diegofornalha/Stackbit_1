@@ -26,7 +26,7 @@ sections:
           - pl-4
         justifyContent: center
         borderRadius: x-small
-        borderWidth: 0
+        borderWidth: 3
         borderStyle: none
         borderColor: border-dark
       title:
