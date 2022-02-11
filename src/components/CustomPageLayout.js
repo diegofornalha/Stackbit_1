@@ -2,8 +2,6 @@ import * as React from 'react';
 import { getComponent } from '@stackbit/components';
 import BaseLayoutWithSEO from './BaseLayoutWithSEO';
 
-
-
 export default function PageLayout(props) {
     const { page, site } = props;
     const sections = page.sections || [];
