@@ -2,8 +2,8 @@
 title: Hogyan árazzuk szálláshelyünket
 date: '2021-11-02'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható a
+  kihasználtság és az árbevétel.
 featuredImage:
   type: ImageBlock
   url: /images/szallashely-arazasi-modszerek-vendeghazaknak-apartmanoknak-hero.png
