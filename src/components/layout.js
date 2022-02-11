@@ -1,66 +1,28 @@
-import React from 'react';
-import { Helmet } from 'react-helmet';
-import _ from 'lodash';
-import { getComponent } from '@stackbit/components'
+import * as React from 'react';
+import Head from 'next/head';
+import classNames from 'classnames';
 
-import { withPrefix } from '../utils';
-import Header from './Header';
-import Footer from './Footer';
+import { getComponent } from '../../components-registry';
 
-export default class Body extends React.Component {
-    render() {
-        const page = _.get(this.props, 'page');
-        const pageTitle = _.get(page, 'title');
-        const config = _.get(this.props, 'config');
-        const configTitle = _.get(config, 'title');
-        const favicon = _.get(config, 'favicon');
-        const domain = _.trim(_.get(config, 'domain', ''), '/');
-        const seo = _.get(page, 'seo');
-        const seoTitle = _.get(seo, 'title');
-        const title = seoTitle ? seoTitle : [pageTitle, configTitle].join(' | ');
-        const seoDescription = _.get(seo, 'description', '');
-        const seoRobots = _.get(seo, 'robots', []).join(',');
-        const seoExtra = _.get(seo, 'extra', []).map((meta, index) => {
-            const keyName = _.get(meta, 'keyName', 'name');
-            const name = _.get(meta, 'name');
-            if (!name) {
-                return null;
-            }
-            const nameAttr = { [keyName]: name };
-            const relativeUrl = _.get(meta, 'relativeUrl');
-            let value = _.get(meta, 'value');
-            if (!value) {
-                return null;
-            }
-            if (relativeUrl) {
-                if (!domain) {
-                    return null;
-                }
-                value = domain + withPrefix(value);
-            }
-            return <meta key={index} {...nameAttr} content={value} />;
-        });
-
-        return (
-            <React.Fragment>
-                <Helmet>
-                    <title>{title}</title>
-                    <meta charSet="utf-8" />
-                    <meta name="viewport" content="width=device-width, initial-scale=1" />
-                    <meta name="google" content="notranslate" />
-                    <meta name="description" content={seoDescription} />
-                    {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
-                    {seoExtra}
-                    {favicon && <link rel="icon" href={withPrefix(favicon)} />}
-                </Helmet>
-                <div id="site-wrap" className="site">
-                    <Header page={page} config={config} />
-                    <main id="content" className="site-content">
-                        {this.props.children}
-                    </main>
-                    <Footer config={config} />
-                </div>
-            </React.Fragment>
-        );
-    }
+export default function DefaultBaseLayout(props) {
+    const { page, site } = props;
+    const siteMeta = site?.__metadata || {};
+    const pageMeta = page?.__metadata || {};
+    const Header = getComponent('Header');
+    const Footer = getComponent('Footer');
+    return (
+        <div className={classNames('sb-page', pageMeta.pageCssClasses)} data-sb-object-id={pageMeta.id}>
+            <div className="sb-base sb-default-base-layout">
+                <Head>
+                    <title>{page.title}</title>
+                    <meta name="description" content="Stackbit Components Library" />
+                    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
+                    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
+                </Head>
+                {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
+                {props.children}
+                {site.footer && <Footer {...site.footer} annotationPrefix={siteMeta.id} />}
+            </div>
+        </div>
+    );
 }
