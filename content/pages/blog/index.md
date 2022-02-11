@@ -1,8 +1,8 @@
 ---
-title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
+title: Blog post page
 seo:
-  title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
-  description: Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes alkalmazni, hogy növeljük az arányát?
+  title: Random cím | Appartman
+  description: He...
 layout: PageLayout
 sections:
   - type: PostFeedSection
@@ -27,7 +27,7 @@ sections:
         justifyContent: center
         borderRadius: x-small
         borderWidth: 0
-        borderStyle: none
+        borderStyle: solid
         borderColor: border-dark
       title:
         textAlign: center
