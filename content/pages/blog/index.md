@@ -5,14 +5,22 @@ sections:
   - type: PostFeedSection
     variant: variant-a
     colors: colors-a
-    title: Blog
+    title: Tudástár szállásadóknak
     showRecent: false
     styles:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-14', 'pb-24', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-14
+          - pb-24
+          - pr-4
+          - pl-4
         justifyContent: center
         borderRadius: none
         borderWidth: 0
