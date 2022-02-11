@@ -28,7 +28,7 @@ bottomSections:
           placeholder: Your email
           isRequired: 'true'
           width: full
-      submitLabel: Sign Up
+      submitLabel: Ingyenes regisztráció
     media: null
     styles:
       self:
