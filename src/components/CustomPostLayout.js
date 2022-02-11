@@ -48,7 +48,7 @@ export default function PostLayout(props) {
                     </div>
                 )}
             </main>
-        </BaseLayout>
+        </BaseLayoutWithSEO>
     );
 }
 
