@@ -4,7 +4,6 @@
     "firstName": "Bezerédy ",
     "lastName": "Bence",
     "role": "Appartman Blog",
-    "bio": "This feature is the thing you were missing in your workflow, thank god we have it for you to use.",
     "image": {
         "type": "ImageBlock",
         "url": "/images/hugh-saturation.jpg",
