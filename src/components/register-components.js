@@ -8,7 +8,7 @@ registerComponents({
     // Register all Stackbit components
     ...componentsMap,
     PageLayout,
-    POstLayout
+    PostLayout
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
