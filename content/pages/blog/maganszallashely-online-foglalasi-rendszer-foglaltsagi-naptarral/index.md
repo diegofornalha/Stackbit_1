@@ -6,7 +6,8 @@ excerpt: >-
   vele az ajánlatkéréskre válaszolgatás.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/weboldal-szallashely-automatizacio-jutalekmentes-foglalomotor-vendghazaknak-apartmanoknak-blogposzt-hero.png
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
