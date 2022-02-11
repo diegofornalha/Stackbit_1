@@ -2,8 +2,8 @@
 title: 'Szálláshely automatizáció: online foglalási rendszer'
 date: '2021-11-17'
 excerpt: >-
-  A foglalómotor lehetővé teszi a jutalékmentes vendégfogadást, és elhagyható
-  vele az ajánlatkéréskre válaszolgatás.
+  Az online foglalási rensd lehetővé teszi a jutalékmentes vendégfogadást, és
+  elhagyható vele az ajánlatkéréskre válaszolgatás.
 featuredImage:
   type: ImageBlock
   url: >-
