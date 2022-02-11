@@ -1,5 +1,5 @@
 ---
-title: Interjú magánszállásadóknak
+title: Interjú magánszállásadóknak | Appartman
 sections:
   - type: HeroSection
     colors: colors-f
