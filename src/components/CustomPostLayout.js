@@ -1,7 +1,7 @@
 import * as React from 'react';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
-import { getComponent } from '../../components-registry';
+import { getComponent } from '';
 
 export default function PostLayout(props) {
     const { page, site } = props;
