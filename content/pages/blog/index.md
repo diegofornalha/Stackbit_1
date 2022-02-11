@@ -1,5 +1,6 @@
 ---
 title: Blog post page
+description: 
 layout: PageLayout
 sections:
   - type: PostFeedSection
