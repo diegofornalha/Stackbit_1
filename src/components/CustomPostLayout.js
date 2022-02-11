@@ -12,7 +12,7 @@ export default function PostLayout(props) {
     const formattedDate = dayjs(page.date).format('MMMM D, YYYY');
 
     return (
-        <BaseLayout page={page} site={site}>
+        <BaseLayoutWithSEO page={page} site={site}>
             <main id="main" className="sb-layout sb-post-layout">
                 <article className="colors-a px-4 sm:px-8 py-14 lg:py-20">
                     <div className="max-w-screen-2xl mx-auto">
