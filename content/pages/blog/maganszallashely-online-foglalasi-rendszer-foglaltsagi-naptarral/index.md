@@ -3,7 +3,7 @@ title: 'Szálláshely automatizáció: online foglalási rendszer'
 date: '2021-11-17'
 excerpt: >-
   Az online foglalási rendszer lehetővé teszi, hogy több közvetlen foglalásod
-  legyen vendégfogadást, és elhagyható vele az ajánlatkéréskre válaszolgatás.
+  legyen, és elhagyható vele az ajánlatkéréskre válaszolgatás.
 featuredImage:
   type: ImageBlock
   url: >-
