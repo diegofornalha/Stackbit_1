@@ -2,9 +2,6 @@ import * as React from 'react';
 import Head from 'next/head';
 import classNames from 'classnames';
 import _ from 'lodash';
-import * as React from 'react';
-import { getComponent } from '../../components-registry';
-import { getBaseLayoutComponent } from '../../utils/base-layout';
 
 import { getComponent } from '@stackbit/components';
 
