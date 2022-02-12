@@ -53,7 +53,7 @@ sections:
       szálláshelyeddel kapcsolatos dolgokról beszélgetünk.
     form:
       type: FormBlock
-      elementId: contact-form
+      elementId: jelentkezes-urlap
       action: /.netlify/functions/submission_created
       destination: ''
       fields:
