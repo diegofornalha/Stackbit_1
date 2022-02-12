@@ -55,7 +55,7 @@ sections:
       type: FormBlock
       elementId: jelentkezes-urlap
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: hello@appartman.hu
       fields:
         - type: TextFormControl
           name: név
