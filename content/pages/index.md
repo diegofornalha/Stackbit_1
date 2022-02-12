@@ -420,8 +420,7 @@ sections:
 
 
       Ingyenes felhasználóinktól mindössze 2% jutalékot vonunk le
-      foglalásonként. Fizetős csomagjainkban semennyi jutalék nem kerül
-      levonásra.
+      foglalásonként. 
     actions:
       - type: Button
         label: Ingyenes regisztráció
