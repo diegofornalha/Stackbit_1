@@ -67,7 +67,7 @@ sections:
           name: address
           label: Home address
           placeholder: Your home address
-          isRequired: 'false'
+          isRequired: false
           width: full
         - type: CheckboxFormControl
           name: adatkezelesi
