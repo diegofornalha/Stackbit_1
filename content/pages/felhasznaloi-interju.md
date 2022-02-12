@@ -73,7 +73,7 @@ sections:
           label: Elfogadom az adatkezelési nyilatkoatot
           isRequired: true
           width: full
-      submitLabel: Send Message
+      submitLabel: Jelentkezés
     media: null
     styles:
       self:
