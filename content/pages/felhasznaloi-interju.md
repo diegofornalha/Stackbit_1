@@ -6,8 +6,8 @@ sections:
     title: Segítsd egy interjúval a jövő magánszálláshely szoftvereinek létrejöttét
     text: >
       Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
-      egy mélyinterjúval segíthetsz, hogy nemsokára egy igazán felhasználóbarát
-      és egyszerű megoldás is elérhető legyen.
+      egy mélyinterjúval segíthetsz, hogy nemsokára egy igazán felhasználóbarát,
+      egyszerű és nem hotelekre szabott megoldás is elérhető legyen.
     media:
       type: ImageBlock
       caption: Team meeting
