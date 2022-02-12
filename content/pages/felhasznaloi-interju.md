@@ -66,7 +66,6 @@ sections:
         - type: TextFormControl
           name: address
           label: Home address
-          placeholder: Your home address
           isRequired: false
           width: full
         - type: CheckboxFormControl
