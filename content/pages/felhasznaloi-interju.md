@@ -54,7 +54,7 @@ sections:
       destination: ''
       fields:
         - type: TextFormControl
-          name: name
+          name: név
           label: Name
           placeholder: Your name
           isRequired: 'true'
