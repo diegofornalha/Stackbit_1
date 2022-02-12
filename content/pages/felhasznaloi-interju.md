@@ -41,7 +41,9 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     colors: colors-a
-    title: Not seeing the right role? Contact us
+    title: >-
+      Jelentkezz interjúra és oldjuk meg együtt a foglalással és
+      adminisztrációval kapcsolatos problémákat!
     text: >-
       We might have more roles soon, and we’ll contact you if we think there
       might be a good match
