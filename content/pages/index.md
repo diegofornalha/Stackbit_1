@@ -2,7 +2,9 @@
 title: Online foglalási rendszer magánszálláshelyeknek | Appartman
 seo:
   title: Online foglalási rendszer magánszálláshelyeknek | Appartman
-  description: Kis szálláshelyekre szabott foglalómotorunkkal több közvetlen foglalást érhetsz el a saját felületeidről és növelheted a bevételed.
+  description: >-
+    Kis szálláshelyekre szabott foglalómotorunkkal több közvetlen foglalást
+    érhetsz el a saját felületeidről és növelheted a bevételed.
 layout: PageLayout
 sections:
   - type: HeroSection
@@ -425,11 +427,6 @@ sections:
         label: Ingyenes regisztráció
         url: 'https://foglalas.appartman.hu/register'
         style: secondary
-      - type: Link
-        label: Bemutató felület
-        url: /
-        showIcon: true
-        icon: arrowRight
     styles:
       self:
         height: auto
