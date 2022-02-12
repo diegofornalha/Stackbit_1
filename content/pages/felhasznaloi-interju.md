@@ -65,7 +65,7 @@ sections:
           width: 1/2
         - type: TextFormControl
           name: address
-          label: Home address
+          label: Telefonszám
           isRequired: false
           width: full
         - type: CheckboxFormControl
