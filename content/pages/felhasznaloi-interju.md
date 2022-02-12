@@ -44,9 +44,12 @@ sections:
     title: >-
       Jelentkezz interjúra és oldjuk meg együtt a foglalással és
       adminisztrációval kapcsolatos problémákat!
-    text: >-
-      We might have more roles soon, and we’ll contact you if we think there
-      might be a good match
+    text: >
+      Résztvevőink életre szóló kedvezményeket kapnak a szoftvereinkből.
+
+
+      Az interjú online zajlik az általad választott időpontban, és csak a
+      szálláshelyeddel kapcsolatos dolgokról beszélgetünk.
     form:
       type: FormBlock
       elementId: contact-form
