@@ -70,7 +70,7 @@ sections:
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: adatkezelesi
           label: Sign me up to receive updates
           isRequired: true
           width: full
