@@ -578,12 +578,6 @@ sections:
           Hamarosan érkezik az iCal naptárszinkron funkció, addig manuálisan
           lehet lezárni a napokat, vagy bevinni egy foglalást egy egyszerű
           folyamattal.
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
     styles:
       self:
         height: auto
