@@ -41,9 +41,6 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     colors: colors-a
-    title: >-
-      Jelentkezz interjúra és oldjuk meg együtt a foglalással és
-      adminisztrációval kapcsolatos problémákat!
     text: >
       ### Jelentkezz interjúra és oldjuk meg együtt a foglalással és
       adminisztrációval kapcsolatos problémákat!
