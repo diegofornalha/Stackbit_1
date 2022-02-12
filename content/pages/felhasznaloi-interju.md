@@ -56,7 +56,6 @@ sections:
         - type: TextFormControl
           name: név
           label: Név
-          placeholder: Your name
           isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
