@@ -45,6 +45,10 @@ sections:
       Jelentkezz interjúra és oldjuk meg együtt a foglalással és
       adminisztrációval kapcsolatos problémákat!
     text: >
+      ### Jelentkezz interjúra és oldjuk meg együtt a foglalással és
+      adminisztrációval kapcsolatos problémákat!
+
+
       Résztvevőink életre szóló kedvezményeket kapnak a szoftvereinkből.
 
 
