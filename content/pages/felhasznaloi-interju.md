@@ -40,7 +40,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: ContactSection
-    colors: colors-f
+    colors: colors-a
     title: Not seeing the right role? Contact us
     text: >-
       We might have more roles soon, and we’ll contact you if we think there
