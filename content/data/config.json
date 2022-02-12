@@ -22,7 +22,7 @@
             {
                 "label": "Jelentkezz interjúra",
                 "altText": "Jelentkezz interjúra",
-                "url": "/",
+                "url": "/felhasznaloi-interju",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
