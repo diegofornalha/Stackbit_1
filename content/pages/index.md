@@ -608,10 +608,8 @@ sections:
     colors: colors-f
     backgroundImage: null
     title: Használd örökké előfizetés nélkül
-    text: >
-      Előfizetés nélkül a jutalék mindössze a foglalási érték 2%-a. Fizetős
-      konstrukciónkban pedig a 0% jutalék mellett olyan előnyöket találsz, mint
-      az iCal naptárszinkron, vagy a saját színtémák.
+    text: |
+      Előfizetés nélkül a jutalék mindössze a foglalási érték 2%-a. 
     actions:
       - type: Button
         label: Ingyenes regisztráció
