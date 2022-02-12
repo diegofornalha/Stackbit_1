@@ -64,7 +64,7 @@ sections:
           isRequired: true
           width: 1/2
         - type: TextFormControl
-          name: address
+          name: telefonszam
           label: Telefonszám
           isRequired: false
           width: full
