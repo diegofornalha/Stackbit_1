@@ -61,7 +61,7 @@ sections:
         - type: EmailFormControl
           name: email
           label: Email
-          isRequired: 'true'
+          isRequired: true
           width: 1/2
         - type: TextFormControl
           name: address
