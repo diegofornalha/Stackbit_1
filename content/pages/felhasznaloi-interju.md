@@ -56,7 +56,7 @@ sections:
         - type: TextFormControl
           name: név
           label: Név
-          isRequired: 'true'
+          isRequired: true
           width: 1/2
         - type: EmailFormControl
           name: email
