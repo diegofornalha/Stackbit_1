@@ -71,7 +71,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: adatkezelesi
-          label: Sign me up to receive updates
+          label: Elfogadom az adatkezelési nyilatkoatot
           isRequired: true
           width: full
       submitLabel: Send Message
