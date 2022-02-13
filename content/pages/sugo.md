@@ -47,7 +47,7 @@ sections:
 
 
           [**Szálláshely
-          létrehozása**](https://green-sparrow-4d8db.stackbit.app/sugo/szallashely-letrehozasa/)
+          létrehozása**](green-sparrow-4d8db.stackbit.app/sugo/szallashely-letrehozasa/)
 
 
           **Szálláshely szerkesztése és törlése**
