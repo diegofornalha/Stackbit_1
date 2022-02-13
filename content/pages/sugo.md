@@ -43,8 +43,11 @@ sections:
       - type: FeaturedItem
         title: Szálláshely létrehozása
         text: |
-          **Szálláshely létrehozása
-          Szálláshely szerkesztése és törlése**
+          ****
+
+          **Szálláshely létrehozása**
+
+          **Szálláshely szerkesztése és törlése**
         featuredImage: null
         styles:
           title:
