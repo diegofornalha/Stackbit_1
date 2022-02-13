@@ -41,7 +41,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Product
+        title: Foglalási- és árazási szabályok
         text: >
           Director of product management
 
