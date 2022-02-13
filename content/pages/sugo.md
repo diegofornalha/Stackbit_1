@@ -41,9 +41,9 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Foglalási- és árazási szabályok
+        title: Engineering
         text: >
-          Director of product management
+          Head of eng
 
 
           **San Francisco**
@@ -61,9 +61,9 @@ sections:
           text:
             textAlign: left
       - type: FeaturedItem
-        title: Engineering
+        title: Foglalási- és árazási szabályok
         text: >
-          Head of eng
+          Director of product management
 
 
           **San Francisco**
