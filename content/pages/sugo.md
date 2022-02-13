@@ -42,10 +42,13 @@ sections:
     items:
       - type: FeaturedItem
         title: Szálláshely létrehozása
-        text: |
-          ****
+        text: >
+          ***
 
-          **Szálláshely létrehozása**
+
+          [**Szálláshely
+          létrehozása**](https://green-sparrow-4d8db.stackbit.app/sugo/szallashely-letrehozasa/)
+
 
           **Szálláshely szerkesztése és törlése**
         featuredImage: null
