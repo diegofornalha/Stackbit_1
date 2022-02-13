@@ -41,7 +41,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Engineering
+        title: Szálláshely létrehozása
         text: >
           Head of eng
 
