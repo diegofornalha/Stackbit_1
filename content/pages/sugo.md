@@ -61,7 +61,7 @@ sections:
           text:
             textAlign: left
       - type: FeaturedItem
-        title: Foglalási- és árazási szabályok
+        title: Product
         text: >
           Director of product management
 
@@ -81,7 +81,7 @@ sections:
           text:
             textAlign: left
       - type: FeaturedItem
-        title: Product
+        title: Foglalási- és árazási szabályok
         text: >
           Director of product management
 
