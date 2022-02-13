@@ -4,7 +4,6 @@ sections:
   - type: HeroSection
     colors: colors-h
     title: Szálláshely létrehozása
-    text: You should join us.
     styles:
       self:
         height: auto
