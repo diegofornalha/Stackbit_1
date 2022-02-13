@@ -2,7 +2,7 @@
 title: Careers
 sections:
   - type: HeroSection
-    colors: colors-f
+    colors: colors-e
     title: We’re growing fast
     text: You should join us.
     styles:
