@@ -38,7 +38,6 @@ sections:
         justifyContent: flex-start
   - type: FeaturedItemsSection
     colors: colors-a
-    title: Convinced? check out these open roles
     subtitle: ''
     items:
       - type: FeaturedItem
