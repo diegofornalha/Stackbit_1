@@ -3,7 +3,7 @@ title: Careers
 sections:
   - type: HeroSection
     colors: colors-h
-    title: We’re growing fast
+    title: Szálláshely létrehozása
     text: You should join us.
     styles:
       self:
