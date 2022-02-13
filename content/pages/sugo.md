@@ -3,7 +3,7 @@ title: Súgó
 sections:
   - type: HeroSection
     colors: colors-f
-    title: We’re growing fast
+    title: Appartman segítség
     text: You should join us.
     media:
       type: ImageBlock
