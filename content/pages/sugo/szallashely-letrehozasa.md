@@ -38,15 +38,71 @@ sections:
       - type: FeaturedItem
         title: Product
         text: >
-          Director of product management
+          **Új szálláshely hozzáadása**
 
 
-          **San Francisco**
+          Itt a következő alapadatokat kell megadnod.
 
 
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
+          *   Szálláshely neve
+
+
+          *   Szálláshely email címe
+
+
+          *   Szálláshely telefonszáma
+
+
+          *   Irányítószám
+
+
+          *   Város (automatikusan ajánl irányítószám alapján)
+
+
+          *   Cím
+
+
+          *   Szálláshely képei
+
+              Az ide feltöltött képek a foglalómotor főoldalán fognak megjelenni.
+              Az első helyen megjelenő képet a kép jobb felső sarkában található gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
+
+              A képet törölni szintén a jobb felső sarokban található gombbal előhívott Kép törlése menüponttal lehetséges.
+
+          S**zobák számának megadása**
+
+
+          ***Külön foglalható*** lakóegységeid számának megadása. A szám
+          megadása után megjelenik egy lista a megfelelő elemszámmal.
+
+
+          **Lakóegység adatok megadása**
+
+
+          Az előzőleg létrehozott listaelemeket megnyitva tudod megadni az adott
+          lakóegység paramétereit. A következő paraméterekre lesz szükség:
+
+
+          *   lakóegység neve
+
+
+          *   férőhely
+
+
+          *   árszámítás módja
+
+
+          *   egységár
+
+
+          *   lakóegység képei
+
+
+          **Mentés**
+
+
+          Miután megadtad az összes szükséges lakóegységet, a mentés gombbal
+          véglegesítheted az újonnan megadott szálláshelyedet.
         featuredImage: null
         styles:
           title:
