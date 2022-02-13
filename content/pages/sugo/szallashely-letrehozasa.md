@@ -36,7 +36,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Product
         text: >
           **Új szálláshely hozzáadása**
 
