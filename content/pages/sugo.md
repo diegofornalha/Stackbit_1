@@ -42,16 +42,10 @@ sections:
     items:
       - type: FeaturedItem
         title: Szálláshely létrehozása
-        text: >
-          Head of eng
+        text: |
+          **Szálláshely létrehozása**
 
-
-          **San Francisco**
-
-
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
+          **Szálláshely szerkesztése és törlése**
         featuredImage: null
         styles:
           title:
