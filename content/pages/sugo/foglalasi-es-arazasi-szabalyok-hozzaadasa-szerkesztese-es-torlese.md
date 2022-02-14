@@ -142,7 +142,7 @@ sections:
 
 
           `Ünnepek, hosszú hétvégék beállítása. Lehet nem egybefüggő is (pl.:
-          egyszerre megadható egy kiemelt ár augusztus 2 környékére és
+          egyszerre megadható egy kiemelt ár augusztus 20 környékére és
           karácsonyra. A szezont és az alapértelmezett árakat is felülírja a
           megadott dátumokra.`
 
