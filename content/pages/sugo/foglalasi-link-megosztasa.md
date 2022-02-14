@@ -3,7 +3,7 @@ title: Foglalás bevitele és törlése | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Foglalás bevitele és törlése
+    title: Foglalási link megosztása
     styles:
       self:
         height: auto
