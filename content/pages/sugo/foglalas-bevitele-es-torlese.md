@@ -3,7 +3,7 @@ title: Foglalás bevitele és törlése | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Foglalás bevitele és törlése
+    title: Mik azok a foglalási- és árazási szabályok?
     styles:
       self:
         height: auto
