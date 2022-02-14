@@ -70,12 +70,12 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
-          `A foglalási linkkel tudod bárhol megosztani a foglalási felületedet,
-          úgy, hogy a látogatók egyből a friss foglalási naptárra érkezzenek. Az
-          online foglalási rendszer linkjét beillesztheted a weboldaladba, vagy
-          az Instagram profilodra, lehetővé téve, hogy közvetlenül az
-          Instagramról foglaljanak hozzád.`
+        text: >
+          ##### `A foglalási linkkel tudod bárhol megosztani a foglalási
+          felületedet, úgy, hogy a látogatók egyből a friss foglalási naptárra
+          érkezzenek. Az online foglalási rendszer linkjét beillesztheted a
+          weboldaladba, vagy az Instagram profilodra, lehetővé téve, hogy
+          közvetlenül az Instagramról foglaljanak hozzád.`
 
 
           ### Hol található a foglalási link?
@@ -93,7 +93,6 @@ sections:
 
           A link másolása után bárhol megoszthatod a szálláshelyed naprakész
           online foglalási rendszerét.
-
         featuredImage: null
         styles:
           title:
