@@ -149,12 +149,6 @@ sections:
       Keress minket a Kapcsolat oldalon található ügyfélszolgálatos email címen,
       vagy térj vissza a Segítség oldalra.
     actions:
-      - type: Button
-        label: Kapcsolat
-        showIcon: true
-        icon: arrowRight
-        url: /
-        style: link
       - label: Learn more
         altText: Learn more
         url: /
@@ -163,6 +157,12 @@ sections:
         iconPosition: left
         elementId: ''
         type: Link
+      - type: Button
+        label: Kapcsolat
+        showIcon: true
+        icon: arrowRight
+        url: /
+        style: link
     styles:
       self:
         height: auto
