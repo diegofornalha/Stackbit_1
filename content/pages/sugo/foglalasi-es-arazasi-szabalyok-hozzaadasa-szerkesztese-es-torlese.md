@@ -3,7 +3,7 @@ title: Mik azok a foglalási- és árazási szabályok? | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Mik azok a foglalási- és árazási szabályok?
+    title: 'Foglalási- és árazási szabályok hozzáadása, szerkesztése és törlése'
     styles:
       self:
         height: auto
