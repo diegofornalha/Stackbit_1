@@ -71,11 +71,11 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ##### `A foglalási linkkel tudod bárhol megosztani a foglalási
+          ##### A foglalási linkkel tudod bárhol megosztani a foglalási
           felületedet, úgy, hogy a látogatók egyből a friss foglalási naptárra
           érkezzenek. Az online foglalási rendszer linkjét beillesztheted a
           weboldaladba, vagy az Instagram profilodra, lehetővé téve, hogy
-          közvetlenül az Instagramról foglaljanak hozzád.`
+          közvetlenül az Instagramról foglaljanak hozzád.
 
 
           ### Hol található a foglalási link?
