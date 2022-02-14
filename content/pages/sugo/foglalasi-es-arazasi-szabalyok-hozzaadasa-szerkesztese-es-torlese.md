@@ -85,14 +85,14 @@ sections:
           hozzáadása > Szezon hozzáadása*
 
 
-          #### **1. Dátum megadása**
+          #### 1. Dátum megadása
 
 
           A szezon egy egybefüggő időszak, tehát egy kezdő és egy befejező
           dátumot kell megadni.
 
 
-          #### **2. Árak és elérhetőség (kapacitás) beállítása**
+          #### 2. Árak és elérhetőség (kapacitás) beállítása
 
 
           A következő lépésben lakóegységenként állíthatod be az árakat, illetve
@@ -111,7 +111,7 @@ sections:
           *   hétvégi árak
 
 
-          #### **3. Foglalási szabályok beállítása**
+          #### 3. Foglalási szabályok beállítása
 
 
           A Foglalási szabályok fülre navigálva megadhatsz az összes
@@ -131,7 +131,7 @@ sections:
           *   érkezési napok
 
 
-          #### **4. Mentés**
+          #### 4. Mentés
 
 
           A mentés gombbal véglegesíted az új szezon megadását. Az árazás
@@ -151,14 +151,14 @@ sections:
           hozzáadása > Kiemelt időszak hozzáadása
 
 
-          #### **1. Dátum megadása**
+          #### 1. Dátum megadása
 
 
           A kiemelt időszak lehet nem  egybefüggő időszak, így a napok egyenként
           jelölendők be.
 
 
-          #### **2. Árak és elérhetőség (kapacitás) beállítása**
+          #### 2. Árak és elérhetőség (kapacitás) beállítása
 
 
           A következő lépésben lakóegységenként állíthatod be az árakat, illetve
@@ -174,7 +174,7 @@ sections:
           *   egységárak
 
 
-          #### **3. Foglalási szabályok beállítása**
+          #### 3. Foglalási szabályok beállítása
 
 
           A foglalási szabályok fülre navigálva megadhatsz az összes
@@ -191,7 +191,7 @@ sections:
           *   maximum foglalható éjszakák
 
 
-          #### **4. Mentés**
+          #### 4. Mentés
 
 
           A mentés gombbal véglegesíted az új kiemelt időszak megadását. Az
@@ -209,7 +209,7 @@ sections:
           módosítható
 
 
-          #### **Mentés**
+          #### Mentés
 
 
           Az módosított beállítások a jövőbeli foglalásokra lesznek érvényesek.
