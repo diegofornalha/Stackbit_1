@@ -141,7 +141,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Learn More
+        label: Kapcsolat
         showIcon: true
         icon: arrowRight
         url: /
