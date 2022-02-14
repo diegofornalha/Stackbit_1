@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Foglalás bevitele és törlése | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
