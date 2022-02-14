@@ -33,7 +33,9 @@ h5 {
     display: inline-block;
 }
 
-p
+p {
+    margin
+}
 
 .colors-h p {
     color: #897ECD
