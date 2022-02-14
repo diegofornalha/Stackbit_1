@@ -66,7 +66,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-i
     title: The Section Title
     subtitle: ''
     text: >-
