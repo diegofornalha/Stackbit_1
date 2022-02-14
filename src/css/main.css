@@ -33,7 +33,9 @@ h5 {
     display: inline-block;
 }
 
-code
+code {
+    
+}
 
 .sb-markdown p {
     margin-top: 0px;
