@@ -83,7 +83,7 @@ sections:
           *   lakóegységekhez kapcsolódóan
 
 
-          ## Szálláshelyhez kapcsolódó képek feltöltése
+          ### Szálláshelyhez kapcsolódó képek feltöltése
 
 
           A szálláshelyhez kapcsolódó képek a foglalómotor vendég oldali
@@ -119,7 +119,7 @@ sections:
           előhívott Kép törlése menüponttal lehetséges.
 
 
-          ## Lakóegységhez kapcsolódó képek feltöltése
+          ### Lakóegységhez kapcsolódó képek feltöltése
 
 
           A szálláshelyhez kapcsolódó képek a foglalómotor vendég oldali
