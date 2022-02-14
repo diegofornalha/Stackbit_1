@@ -42,12 +42,15 @@ sections:
     items:
       - type: FeaturedItem
         title: Szálláshely létrehozása
-        text: |
+        text: >
           ***
+
 
           [**Szálláshely létrehozása**](/sugo/szallashely-letrehozasa/)
 
-          **Szálláshely szerkesztése és törlése**
+
+          [**Szálláshely szerkesztése és
+          törlése**](/sugo/szallashely-szerkesztese-es-torlese)
         featuredImage: null
         styles:
           title:
