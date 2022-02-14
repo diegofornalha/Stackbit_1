@@ -141,10 +141,6 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
-        url: /
-        style: primary
-      - type: Button
         label: Learn More
         showIcon: true
         icon: arrowRight
