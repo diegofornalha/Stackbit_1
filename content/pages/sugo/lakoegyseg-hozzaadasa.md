@@ -151,7 +151,7 @@ sections:
     actions:
       - label: Vissza a Segítség oldalra
         altText: Learn more
-        url: /
+        url: /sugo
         showIcon: true
         icon: arrowLeft
         iconPosition: left
