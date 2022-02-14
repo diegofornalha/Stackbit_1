@@ -70,160 +70,92 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
-          ## Foglalási- és árazási szabály hozzáadása
+        text: >+
+          # Képek feltöltése
 
 
-          ### Szezon hozzáadása
+          Az Appartman foglalási rendszerben a képek megjelenhetnek
 
 
-          `Hosszabb egybefüggő időszak (pl.: főszezon, utószezon), ami felülírja
-          az alapértelmezett beállításokat a megadott dátumok között.`
+          *   a szálláshelyhez
 
 
-          *Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
-          hozzáadása > Szezon hozzáadása*
+          *   lakóegységekhez kapcsolódóan
 
 
-          #### **1. Dátum megadása**
+          ## Szálláshelyhez kapcsolódó képek feltöltése
 
 
-          A szezon egy egybefüggő időszak, tehát egy kezdő és egy befejező
-          dátumot kell megadni.
+          A szálláshelyhez kapcsolódó képek a foglalómotor vendég oldali
+          főoldalán fognak megjelenni a nyitóképernyőn.
 
 
-          #### **2. Árak és elérhetőség (kapacitás) beállítása**
+          Új képek hozzáadásához a következő menüpontba kell navigálnod:
 
 
-          A következő lépésben lakóegységenként állíthatod be az árakat, illetve
-          zárolhatod szobáidat. A következő elemek megadására van lehetőség
+          Szálláshelyed > Legördülő menü > Beállítások > Szálláshely képei
 
 
-          *   elérhető/zárolt lakóegység
+          **Új kép hozzáadása**
 
 
-          *   árszámítás módja
+          Az új képek feltöltése gombbal tudsz új képeket hozzáadni a
+          szálláshelyhez
 
 
-          *   egységárak
+          **Kép megtevése főképnek**
 
 
-          *   hétvégi árak
+          Az ide feltöltött képek a foglalómotor főoldalán fognak megjelenni.
 
+          Az első helyen megjelenő képet a kép jobb felső sarkában található
+          gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
 
-          #### **3. Foglalási szabályok beállítása**
 
+          **Kép törlése**
 
-          A Foglalási szabályok fülre navigálva megadhatsz az összes
-          lakóegységedre vonatkozó és a korábban megadott dátumok között
-          érvényes szabályokat:
 
+          Meglévő képet törölni a kép jobb felső sarkában található gombbal
+          előhívott Kép törlése menüponttal lehetséges.
 
-          *   minimum foglalható éjszakák
 
+          ## Lakóegységhez kapcsolódó képek feltöltése
 
-          *   minimum előfoglalási idő
 
+          A szálláshelyhez kapcsolódó képek a foglalómotor vendég oldali
+          főoldalán fognak megjelenni a nyitóképernyőn.
 
-          *   maximum foglalható éjszakák
 
+          Új képek hozzáadásához a következő menüpontba kell navigálnod:
 
-          *   érkezési napok
 
+          Szálláshelyed > Szobák
 
-          #### **4. Mentés**
 
+          **Új kép hozzáadása**
 
-          A mentés gombbal véglegesíted az új szezon megadását. Az árazás
-          automatikusan életbe fog lépni a megadott dátumok elérkeztével.
 
+          Az új képek feltöltése gombbal tudsz új képeket hozzáadni a
+          szálláshelyhez
 
-          ### Kiemelt időszak hozzáadása
 
+          **Kép megtevése főképnek**
 
-          `Ünnepek, hosszú hétvégék beállítása. Lehet nem egybefüggő is (pl.:
-          egyszerre megadható egy kiemelt ár augusztus 20 környékére és
-          karácsonyra. A szezont és az alapértelmezett árakat is felülírja a
-          megadott dátumokra.`
 
+          A szoba főképe lesz az elsőként megjelenő kép, ami a lakóegység
+          kártyáján megjelenik a felületen, például az egyedi szobakiosztás
+          készítésénél.
 
-          Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
-          hozzáadása > Kiemelt időszak hozzáadása
+          Az első helyen megjelenő képet a kép jobb felső sarkában található
+          gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
 
 
-          #### **1. Dátum megadása**
+          **Kép törlése**
 
 
-          A kiemelt időszak lehet nem  egybefüggő időszak, így a napok egyenként
-          jelölendők be.
+          Meglévő képet törölni a kép jobb felső sarkában található gombbal
+          előhívott Kép törlése menüponttal lehetséges.
 
-
-          #### **2. Árak és elérhetőség (kapacitás) beállítása**
-
-
-          A következő lépésben lakóegységenként állíthatod be az árakat, illetve
-          zárolhatod szobáidat. A következő elemek megadására van lehetőség
-
-
-          *   elérhető/zárolt lakóegység
-
-
-          *   árszámítás módja
-
-
-          *   egységárak
-
-
-          #### **3. Foglalási szabályok beállítása**
-
-
-          A foglalási szabályok fülre navigálva megadhatsz az összes
-          lakóegységedre vonatkozó és a korábban megadott dátumok között
-          érvényes szabályokat:
-
-
-          *   minimum foglalható éjszakák
-
-
-          *   minimum előfoglalási idő
-
-
-          *   maximum foglalható éjszakák
-
-
-          #### **4. Mentés**
-
-
-          A mentés gombbal véglegesíted az új kiemelt időszak megadását. Az
-          árazás automatikusan életbe fog lépni a megadott dátumok elérkeztével.
-
-
-          ## Foglalási- és árazási szabály szerkesztése
-
-
-          A foglalási- és árazási szabályok kártyáin a jobb felső sarokban
-          található Opciók gombra kattintva érhető el a Szerkesztés opció.
-
-
-          Ezután a megjelenő panelben minden korábban megadott beállítás
-          módosítható
-
-
-          #### **Mentés**
-
-
-          Az módosított beállítások a jövőbeli foglalásokra lesznek érvényesek.
-
-
-          ## Foglalási- és árazási szabály törlése
-
-
-          A foglalási- és árazási szabályok kártyáin a jobb felső sarokban
-          található Opciók gombra kattintva érhető el a Törlés opció.
-
-
-          A megjelenő figyelmeztetés jóvahagyása után törlődik a foglalási- és
-          árazási szabály.
         featuredImage: null
         styles:
           title:
