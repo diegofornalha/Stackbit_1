@@ -42,7 +42,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Szálláshely és lakóegységek
-        text: >
+        text: >+
           ***
 
 
@@ -61,6 +61,10 @@ sections:
 
           [**Lakóegység szerkesztése és
           törlése**](/sugo/lakoegyseg-szerkesztese-es-torlese)
+
+
+          Képek hozzáadása, szerkesztése és törlése
+
         featuredImage: null
         styles:
           title:
