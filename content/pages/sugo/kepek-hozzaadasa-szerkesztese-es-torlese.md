@@ -96,14 +96,14 @@ sections:
           Szálláshelyed > Legördülő menü > Beállítások > Szálláshely képei
 
 
-          #### **Új kép hozzáadása**
+          #### Új kép hozzáadása
 
 
           Az új képek feltöltése gombbal tudsz új képeket hozzáadni a
           szálláshelyhez
 
 
-          #### **Kép megtevése főképnek**
+          #### Kép megtevése főképnek
 
 
           Az ide feltöltött képek a foglalómotor főoldalán fognak megjelenni.
@@ -112,7 +112,7 @@ sections:
           gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
 
 
-          #### **Kép törlése**
+          #### Kép törlése
 
 
           Meglévő képet törölni a kép jobb felső sarkában található gombbal
@@ -132,14 +132,14 @@ sections:
           Szálláshelyed > Szobák
 
 
-          ##### **Új kép hozzáadása**
+          #### Új kép hozzáadása
 
 
           Az új képek feltöltése gombbal tudsz új képeket hozzáadni a
           szálláshelyhez
 
 
-          ##### **Kép megtevése főképnek**
+          #### Kép megtevése főképnek
 
 
           A szoba főképe lesz az elsőként megjelenő kép, ami a lakóegység
@@ -150,7 +150,7 @@ sections:
           gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
 
 
-          ##### **Kép törlése**
+          #### Kép törlése
 
 
           Meglévő képet törölni a kép jobb felső sarkában található gombbal
