@@ -416,11 +416,11 @@ sections:
     colors: colors-f
     title: Próbáld ki ingyen és fogadj vendégeket 3 perc múlva
     text: >
-      ###### bármeddig, előfizetés nélkül
+      ###### 3 hónap ingyenes próbidőszak
 
 
-      Ingyenes felhasználóinktól mindössze 2% jutalékot vonunk le
-      foglalásonként. 
+      A próbaidőszakot követően is csupán 2% jutalékot vonunk le a megvalósult
+      foglalások után.
     actions:
       - type: Button
         label: Ingyenes regisztráció
