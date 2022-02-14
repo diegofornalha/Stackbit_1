@@ -71,21 +71,18 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          ### Lakóegység hozzáadása
+          ### Lakóegység szerkesztése
 
 
-          Bármikor van lehetőséged másodpercek alatt egy új lakóegységet
-          hozzáadni a szálláshelyedhez. Ehhez a következő menüpontba kell
-          látogatnod:
+          *Szálláshelyed > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal
+          jelölt gomb) > Szobák szerkesztése*
 
 
-          *Szálláshelyed > Szobák > Új szoba hozzáadása*
+          *Szálláshelyed > Szobák > Szobák szerkesztése*
 
 
-          ### Lakóegység adatok megadása
-
-
-          Az új lakóegység megadásához a következő paraméterekre lesz szükség:
+          Ebben a menüben módosíthatod a lakóegységek korábban megadott adatait,
+          azaz a következőket:
 
 
           *   lakóegység neve
@@ -103,11 +100,9 @@ sections:
           *   lakóegység képei
 
 
-          ### Mentés
+          ### Lakóegység törlése
 
 
-          Miután megadtad a lakóegységed paramétereit, a mentés gombbal
-          véglegesítheted az új lakóegységet.
 
         featuredImage: null
         styles:
