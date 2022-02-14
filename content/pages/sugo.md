@@ -45,25 +45,25 @@ sections:
       - type: FeaturedItem
         title: Szálláshely és lakóegységek
         text: >
-          [**Szálláshely létrehozása**](/sugo/szallashely-letrehozasa/)
+          [Szálláshely létrehozása](/sugo/szallashely-letrehozasa/)
 
 
-          [**Szálláshely szerkesztése és
-          törlése**](/sugo/szallashely-szerkesztese-es-torlese)
+          [Szálláshely szerkesztése és
+          törlése](/sugo/szallashely-szerkesztese-es-torlese)
 
 
-          [**Lakóegység hozzáadása**](/sugo/lakoegyseg-hozzaadasa)
+          [Lakóegység hozzáadása](/sugo/lakoegyseg-hozzaadasa)
 
 
-          [**Lakóegység zárolása**](/sugo/lakoegyseg-zarolasa)
+          [Lakóegység zárolása](/sugo/lakoegyseg-zarolasa)
 
 
-          [**Lakóegység szerkesztése és
-          törlése**](/sugo/lakoegyseg-szerkesztese-es-torlese)
+          [Lakóegység szerkesztése és
+          törlése](/sugo/lakoegyseg-szerkesztese-es-torlese)
 
 
-          [**Képek hozzáadása, szerkesztése és
-          törlése**](/sugo/kepek-hozzaadasa-szerkesztese-es-torlese/)
+          [Képek hozzáadása, szerkesztése és
+          törlése](/sugo/kepek-hozzaadasa-szerkesztese-es-torlese/)
         featuredImage: null
         styles:
           title:
