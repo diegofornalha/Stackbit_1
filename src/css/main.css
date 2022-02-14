@@ -39,18 +39,7 @@ code {
     margin-bottom: 12px;
 }
 
-.sb-markdown a, {
-    color: #6051BC;
-    font-weight: 400;
-    text-decoration: underline;
-    text-decoration-color: #6051BC;
-    background: #EEEDF2;
-    padding-inline-end: 4px;
-    padding-inline-start: 4px;
-    padding-bottom: 2px;
-    padding-top: 2px;
-    border-radius: 4px;
-}
+
 
 .sb-markdown h5 {
     margin-top: 12px;
