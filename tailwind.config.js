@@ -79,8 +79,8 @@ module.exports = {
                     letterSpacing: theme(`letterSpacing.${themeStyle.h6.letterSpacing}`),
                     textDecoration: themeStyle.h6.decoration,
                     textTransform: themeStyle.h6.case
-                    
-                h6: {
+
+                h7: {
                     fontSize: theme(`fontSize.${themeStyle.h6.size}`),
                     fontWeight: theme(`fontWeight.${themeStyle.h6.weight}`),
                     letterSpacing: theme(`letterSpacing.${themeStyle.h6.letterSpacing}`),
