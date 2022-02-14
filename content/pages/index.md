@@ -11,9 +11,6 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     text: >
-      # Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
-
-
       Érj el több vendéget saját felületeiden modern és felhasználóbarát
       foglalómotorral.
 
