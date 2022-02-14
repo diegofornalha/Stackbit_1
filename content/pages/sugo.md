@@ -56,6 +56,9 @@ sections:
           [**Lakóegység hozzáadása**](/sugo/lakoegyseg-hozzaadasa)
 
 
+          [**Lakóegység zárolása**](/sugo/lakoegyseg-zarolasa)
+
+
           [**Lakóegység szerkesztése és
           törlése**](/sugo/lakoegyseg-szerkesztese-es-torlese)
         featuredImage: null
