@@ -77,9 +77,8 @@ sections:
           ### Szezon hozzáadása
 
 
-          ##### A szezon hosszabb **egybefüggő időszak** (pl.: főszezon,
-          utószezon), ami **felülírja az alapértelmezett beállításokat** a
-          megadott dátumok között
+          `Hosszabb undefined(pl.: főszezon, utószezon), ami undefined a
+          megadott dátumok között`
 
 
           *Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
