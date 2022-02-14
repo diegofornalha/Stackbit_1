@@ -136,6 +136,8 @@ sections:
     colors: colors-i
     backgroundImage: null
     text: |
+      ### További segítségre van szükséged?
+
       Keress minket a Kapcsolat oldalon található ügyfélszolgálatos email címen!
     actions:
       - type: Button
