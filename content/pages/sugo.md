@@ -90,7 +90,8 @@ sections:
       - type: FeaturedItem
         title: Foglalási- és árazási szabályok
         text: >
-          **Mik azok a foglalási és árazási szabályok?**
+          [**Mik azok a foglalási és árazási
+          szabályok?**](/sugo/mik-azok-a-foglalasi-es-arazasi-szabalyok)
 
 
           **Foglalási- és árazási szabályok hozzáadása, szerkesztése és
