@@ -1,5 +1,5 @@
 ---
-title: Lakóegység hozzáadása  | Appartman
+title: Lakóegység zárolása  | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
