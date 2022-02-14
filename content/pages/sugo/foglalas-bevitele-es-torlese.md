@@ -20,7 +20,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: flex-start
-        flexDirection: col
+        flexDirection: row
       title:
         textAlign: center
       subtitle:
