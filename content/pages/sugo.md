@@ -67,8 +67,13 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Foglalások kezelése
-        text: |
+        text: >+
           [**Foglalás bevitele és törlése**](/sugo/foglalas-bevitele-es-torlese)
+
+
+          ****[**Foglalási link
+          megosztása**](/sugo/foglalasi-link-megosztasa)****
+
         featuredImage: null
         styles:
           title:
