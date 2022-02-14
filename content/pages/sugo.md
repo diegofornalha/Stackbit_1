@@ -1,5 +1,5 @@
 ---
-title: Súgó
+title: 'Lakóegység szerkesztése és törlése '
 sections:
   - type: HeroSection
     colors: colors-f
