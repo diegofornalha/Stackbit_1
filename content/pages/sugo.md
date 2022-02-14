@@ -76,9 +76,9 @@ sections:
       - type: FeaturedItem
         title: Foglalások kezelése
         text: |
-          [**Foglalás bevitele és törlése**](/sugo/foglalas-bevitele-es-torlese)
+          [Foglalás bevitele és törlése](/sugo/foglalas-bevitele-es-torlese)
 
-          [**Foglalási link megosztása**](/sugo/foglalasi-link-megosztasa)
+          [Foglalási link megosztása](/sugo/foglalasi-link-megosztasa)
         featuredImage: null
         styles:
           title:
