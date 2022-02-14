@@ -74,7 +74,7 @@ sections:
           ### Foglalás bevitele
 
 
-          ##### Szálláshelyed > Új foglalás
+          *Szálláshelyed > Új foglalás*
 
 
           **Vendégszám megadása**
