@@ -203,7 +203,7 @@ sections:
           módosítható
 
 
-          **Mentés**
+          #### **Mentés**
 
 
           Az módosított beállítások a jövőbeli foglalásokra lesznek érvényesek.
