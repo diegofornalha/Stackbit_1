@@ -66,7 +66,7 @@ sections:
           text:
             textAlign: left
       - type: FeaturedItem
-        title: Product
+        title: Foglalások kezelése
         text: |
           [**Foglalás bevitele és törlése**](/sugo/foglalas-bevitele-es-torlese)
         featuredImage: null
