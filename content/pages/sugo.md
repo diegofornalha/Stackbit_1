@@ -67,11 +67,8 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Product
-        text: |+
-
-
-          **San Francisco**
-
+        text: |
+          [**Foglalás bevitele és törlése**](/sugo/foglalas-bevitele-es-torlese)
         featuredImage: null
         styles:
           title:
