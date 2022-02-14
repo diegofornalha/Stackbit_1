@@ -135,7 +135,6 @@ sections:
   - elementId: ''
     colors: colors-i
     backgroundImage: null
-    title: Let's do this
     text: |
       Keress minket a Kapcsolat oldalon található ügyfélszolgálatos email címen!
     actions:
