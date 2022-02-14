@@ -1,5 +1,7 @@
 ---
-title: Mik azok a foglalási- és árazási szabályok? | Appartman
+title: >-
+  Foglalási- és árazási szabályok hozzáadása, szerkesztése és törlése |
+  Appartman
 sections:
   - type: HeroSection
     colors: colors-h
