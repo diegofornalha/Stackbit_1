@@ -1,5 +1,5 @@
 ---
-title: Lakóegység szerkesztése és törlése  | Appartman
+title: Appartman segítség
 sections:
   - type: HeroSection
     colors: colors-f
