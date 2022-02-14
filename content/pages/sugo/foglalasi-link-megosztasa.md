@@ -71,71 +71,28 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          ### Foglalás bevitele
+          `A foglalási linkkel tudod bárhol megosztani a foglalási felületedet,
+          úgy, hogy a látogatók egyből a friss foglalási naptárra érkezzenek. Az
+          online foglalási rendszer linkjét beillesztheted a weboldaladba, vagy
+          az Instagram profilodra, lehetővé téve, hogy közvetlenül az
+          Instagramról foglaljanak hozzád.`
 
 
-          Szálláshelyed > Új foglalás
+          ### Hol található a foglalási link?
 
 
-          **Vendégszám megadása**
+          A foglalási linket a következő helyeken találod az Appartman
+          foglalómotor felületén:
 
 
-          A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
-          hol van az adott vendégszámra elegendő hely.
+          *Szálláshelyed > Legördülő menü > Foglalási link másolása*
 
 
-          **Dátumok megadása**
+          *Szálláshelyed > Legördülő menü > Beállítások > Szálláshely linkje*
 
 
-          **Ajánlott lakóegység(ek) kiválasztása...**
-
-
-          Alapértelmezetten az ajánlott szobakiosztás képernyőjére érkezel, ahol
-          az Ajánlat kiválasztása gombbal tudod kiválasztani a felajánlott
-          szobakiosztást.
-
-
-          **...vagy egyedi szobakiosztás készítése**
-
-
-          A középen található rádiógombos mezőben az “Egyedi szobakiosztás”
-          opciót kiválasztva tudsz tetszőleges szobakiosztást megadni a
-          foglaláshoz.
-
-
-          A szobákat jelölő kártyák jobb alsó sarkában található legördülő
-          menüvel tudod kiválasztani hány darabot szeretnél hozzáadni a
-          foglaláshoz az adott lakóegységből.
-
-
-          A lenti Tovább gombbal tudod véglegesíteni a szobakiosztást.
-
-
-          **Vendég nevének megadása**
-
-
-          **Megjegyzés írása**
-
-
-          **Mentés**
-
-
-          ### Foglalás törlése
-
-
-          *Szálláshelyed > Foglalások*
-
-
-          A foglalások menüpontban listázódnak a foglalások, két részre osztva:
-          kiemelve azok, amiknek a következő hét napban lesz az érkezési
-          dátumuk, alattuk pedig minden további foglalás foglal helyet.
-
-
-          A foglalás elemre kattintva megjelenik a foglalás részletes nézete
-
-
-          A foglalás adatai alatt található piros Foglalás törlése gombbal lehet
-          törölni a foglalást.
+          A link másolása után bárhol megoszthatod a szálláshelyed naprakész
+          online foglalási rendszerét.
 
         featuredImage: null
         styles:
