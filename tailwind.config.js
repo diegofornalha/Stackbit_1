@@ -83,9 +83,9 @@ module.exports = {
                 h7: {
                     fontSize: theme(`fontSize.${themeStyle.h7.size}`),
                     fontWeight: theme(`fontWeight.${themeStyle.h7.weight}`),
-                    letterSpacing: theme(`letterSpacing.${themeStyle.h6.letterSpacing}`),
-                    textDecoration: themeStyle.h6.decoration,
-                    textTransform: themeStyle.h6.case
+                    letterSpacing: theme(`letterSpacing.${themeStyle.h7.letterSpacing}`),
+                    textDecoration: themeStyle.h7.decoration,
+                    textTransform: themeStyle.h7.case
                 }
             }),
             addComponents({
