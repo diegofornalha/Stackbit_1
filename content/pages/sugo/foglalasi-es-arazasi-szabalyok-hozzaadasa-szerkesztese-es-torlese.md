@@ -77,7 +77,7 @@ sections:
           ### Szezon hozzáadása
 
 
-          ##### A szezon hosszabb \*\*egybefüggő időszak \*\*(pl.: főszezon,
+          ##### A szezon hosszabb **egybefüggő időszak** (pl.: főszezon,
           utószezon), ami **felülírja az alapértelmezett beállításokat** a
           megadott dátumok között
 
@@ -137,8 +137,6 @@ sections:
 
           A mentés gombbal véglegesíted az új szezon megadását. Az árazás
           automatikusan életbe fog lépni a megadott dátumok elérkeztével.
-
-
 
 
           ### Kiemelt időszak hozzáadása
