@@ -37,7 +37,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          **Új szálláshely hozzáadása**
+          ### **Új szálláshely hozzáadása**
 
 
           Itt a következő alapadatokat kell megadnod.
@@ -68,7 +68,7 @@ sections:
 
               A képet törölni szintén a jobb felső sarokban található gombbal előhívott Kép törlése menüponttal lehetséges.
 
-          S**zobák számának megadása**
+          ### **Szobák számának megadása**
 
 
           ***Külön foglalható*** lakóegységeid számának megadása. A szám
