@@ -44,7 +44,7 @@ sections:
         url: /
         style: primary
       - type: Button
-        label: Learn More
+        label: Vissza a Súgó oldalra
         showIcon: true
         icon: arrowRight
         url: /
