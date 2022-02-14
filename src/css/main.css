@@ -41,7 +41,7 @@ code {
 
 .sb-markdown b, .sb-markdown strong {
     color: #6051BC;
-    font
+    font-weight: ;
 }
 
 .sb-markdown h5 {
