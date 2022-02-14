@@ -36,7 +36,7 @@ sections:
     backgroundImage: null
     actions:
       - type: Button
-        label: Vissza a Súgó oldalra
+        label: Vissza a Segítség oldalra
         showIcon: true
         icon: arrowRight
         url: /sugo
