@@ -142,10 +142,12 @@ sections:
   - elementId: ''
     colors: colors-i
     backgroundImage: null
-    text: |
+    text: >
       ### További segítségre van szükséged?
 
-      Keress minket a Kapcsolat oldalon található ügyfélszolgálatos email címen!
+
+      Keress minket a Kapcsolat oldalon található ügyfélszolgálatos email címen,
+      vagy térj vissza a Segítség oldalra.
     actions:
       - type: Button
         label: Kapcsolat
