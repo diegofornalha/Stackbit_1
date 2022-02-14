@@ -1,5 +1,5 @@
 ---
-title: Foglalás bevitele és törlése | Appartman
+title: Mik azok a foglalási- és árazási szabályok | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
