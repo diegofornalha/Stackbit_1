@@ -35,9 +35,6 @@ sections:
     colors: colors-f
     backgroundImage: null
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
     actions:
       - type: Button
         label: Vissza a Súgó oldalra
