@@ -37,6 +37,10 @@ h5 {
     margin-top: 0px;
     margin-bottom: 12px;
 }
+.sb-markdown p {
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
 
 .colors-h p {
     color: #897ECD
