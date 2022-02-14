@@ -519,6 +519,9 @@ sections:
         title: 3. Másold ki és illeszd be a foglalási linket
         subtitle: ''
         text: >
+          #### 3. Másold ki a foglalási linket
+
+
           A foglalási linket bemásolhatod szállásközvetítői csoportokba, a
           weboldaladra, vagy akár Insta profilodra is.
         author: ''
