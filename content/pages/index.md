@@ -516,7 +516,6 @@ sections:
           actions:
             justifyContent: flex-start
       - elementId: ''
-        title: 3. Másold ki és illeszd be a foglalási linket
         subtitle: ''
         text: >
           #### 3. Másold ki és illeszd be a foglalási linket
