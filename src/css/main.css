@@ -39,7 +39,7 @@ code {
     margin-bottom: 12px;
 }
 
-.sb-markdown b, {
+.sb-markdown a, {
     color: #6051BC;
     font-weight: 400;
     text-decoration: underline;
