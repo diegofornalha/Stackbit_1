@@ -251,7 +251,8 @@ sections:
     colors: colors-a
     title: Önálló weboldalként is működik
     text: >
-      #### Percek alatt elindíthatod teljeskörű közvetlen foglalási felületedet
+      #### Indítsd el saját teljeskörű közvetlen foglalási felületedet
+      programozói tudás nélkül
 
 
       Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy közvetlen az Insta
