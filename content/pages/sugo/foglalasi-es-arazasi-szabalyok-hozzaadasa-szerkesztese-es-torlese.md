@@ -77,8 +77,8 @@ sections:
           ### Szezon hozzáadása
 
 
-          `Hosszabb undefined(pl.: főszezon, utószezon), ami undefined a
-          megadott dátumok között`
+          `Hosszabb egybefüggő időszak (pl.: főszezon, utószezon), ami felülírja
+          az alapértelmezett beállításokat a megadott dátumok között.`
 
 
           *Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
@@ -90,11 +90,6 @@ sections:
 
           A szezon egy egybefüggő időszak, tehát egy kezdő és egy befejező
           dátumot kell megadni.
-
-
-          `Gentlemen a short view back to the past thirty years ago Niki Lauda
-          told us take a trained monkey place him into the cockpit and he is
-          able to drive the car. Thirty years later Sebastian`
 
 
           #### **Árak és elérhetőség (kapacitás) beállítása**
