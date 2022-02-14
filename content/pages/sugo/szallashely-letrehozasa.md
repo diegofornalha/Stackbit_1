@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Szálláshely létrehozása
 sections:
   - type: HeroSection
     colors: colors-h
