@@ -70,72 +70,123 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
-          ### Foglalás bevitele
+        text: >+
+          ##### A foglalási és árazási szabályokkal az alapértelmezettől eltérő
+          árakat és szabályokat (pl.: minimum foglalható éjszakák száma)
+          állíthatsz be az általad meghatározott dátumokra. 
 
 
-          *Szálláshelyed > Új foglalás*
+          ## Milyen dátumokra érvényesek a szabályok?
 
 
-          **Vendégszám megadása**
+          Két beállítható időszak lehetséges:
 
 
-          A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
-          hol van az adott vendégszámra elegendő hely.
+          **Szezon**
 
 
-          **Dátumok megadása**
+          Hosszabb **egybefüggő időszak** (pl.: főszezon, utószezon), ami
+          **felülírja az alapértelmezett beállításokat** a megadott dátumok
+          között
 
 
-          **Ajánlott lakóegység(ek) kiválasztása...**
+          **Kiemelt időszak**
 
 
-          Alapértelmezetten az ajánlott szobakiosztás képernyőjére érkezel, ahol
-          az Ajánlat kiválasztása gombbal tudod kiválasztani a felajánlott
-          szobakiosztást.
+          Ünnepek, hosszú hétvégék beállítása. **Lehet nem egybefüggő is** (pl.:
+          egyszerre megadható egy kiemelt ár augusztus 20 környékére és
+          karácsonyra). A **szezont és az alapértelmezett árat is felülírja** a
+          megadott dátumokra.
 
 
-          **...vagy egyedi szobakiosztás készítése**
+          ### Példa
 
 
-          A középen található rádiógombos mezőben az “Egyedi szobakiosztás”
-          opciót kiválasztva tudsz tetszőleges szobakiosztást megadni a
-          foglaláshoz.
+          Adott egy alapértelmezett ár, amit a regisztrációnál megadtál.
+          Szeretnéd nyárra felemelni az árat, illetve az augusztus 20-i
+          hétvégére megadni egy kiemelt árat, ami eltér a szezon árától.
 
 
-          A szobákat jelölő kártyák jobb alsó sarkában található legördülő
-          menüvel tudod kiválasztani hány darabot szeretnél hozzáadni a
-          foglaláshoz az adott lakóegységből.
+          *   hozzáadsz egy szezont például június 1. és szeptember 15. között,
+          és megadsz egy árat
 
 
-          A lenti Tovább gombbal tudod véglegesíteni a szobakiosztást.
+          *   hozzáadsz egy kiemelt időszakot egy magasabb árral augusztus 19.
+          és 21. között, ami automatikusan felülírja a szezon árait
 
 
-          **Vendég nevének megadása**
+          ## Milyen foglalási- és árazási szabályok állíthatók be?
 
 
-          **Megjegyzés írása**
+          ### Foglalási szabályok
 
 
-          **Mentés**
+          **Minimum foglalható éjszaka**
 
 
-          ### Foglalás törlése
+          A legkevesebb éjszakaszám amit egyszerre le kell foglalnia egy
+          vendégnek.
 
 
-          *Szálláshelyed > Foglalások*
+          **Minimum előfoglalási idő**
 
 
-          A foglalások menüpontban listázódnak a foglalások, két részre osztva:
-          kiemelve azok, amiknek a következő hét napban lesz az érkezési
-          dátumuk, alattuk pedig minden további foglalás foglal helyet.
+          m
 
 
-          A foglalás elemre kattintva megjelenik a foglalás részletes nézete
+          **Maximum foglalható éjszaka**
 
 
-          A foglalás adatai alatt található piros Foglalás törlése gombbal lehet
-          törölni a foglalást.
+          Maximum éjszakaszám amit egyszerre lefoglalhat egy vendég.
+
+
+          **Érkezési napok**
+
+
+          Az itt beállított napokon kezdődhetnek a foglalómotoron keresztül
+          bevitt foglalások
+
+
+          **Kapacitás**
+
+
+          Adott időszakra lezárhatók a lakóegységek
+
+
+          ### Árazási szabályok
+
+
+          **Lakóegységenkénti árazás**
+
+
+          Adott lakóegység a vendégek számától függetlenül egy fix összegbe
+          kerül éjszakánként.
+
+
+          **Hibrid árazás**
+
+
+          Adott lakóegység éjszakánkénti ára a vendégek számától függően
+          változik.
+
+
+          **Vendégéjszakánkénti árazás**
+
+
+          Az éjszakánkénti árat a vendégek száma határozza meg.
+
+
+          **Hétvégi ár**
+
+
+          Mindhárom fentebbi árazás esetén beállítható.
+
+
+          **Gyermek ár**
+
+
+          Hibrid és vendégéjszakánkénti árazás esetén állítható be.
+
         featuredImage: null
         styles:
           title:
