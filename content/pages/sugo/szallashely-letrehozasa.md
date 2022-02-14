@@ -75,7 +75,7 @@ sections:
           megadása után megjelenik egy lista a megfelelő elemszámmal.
 
 
-          **Lakóegység adatok megadása**
+          #### **Lakóegység adatok megadása**
 
 
           Az előzőleg létrehozott listaelemeket megnyitva tudod megadni az adott
