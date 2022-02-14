@@ -40,10 +40,6 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
-        url: /
-        style: primary
-      - type: Button
         label: Vissza a Súgó oldalra
         showIcon: true
         icon: arrowRight
