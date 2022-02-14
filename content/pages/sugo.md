@@ -94,8 +94,8 @@ sections:
           szabályok?**](/sugo/mik-azok-a-foglalasi-es-arazasi-szabalyok)
 
 
-          **Foglalási- és árazási szabályok hozzáadása, szerkesztése és
-          törlése**
+          [**Foglalási- és árazási szabályok hozzáadása, szerkesztése és
+          törlése**](/sugo/foglalasi-es-arazasi-szabalyok-hozzaadasa-szerkesztese-es-torlese/)
         featuredImage: null
         styles:
           title:
