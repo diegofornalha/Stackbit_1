@@ -149,7 +149,7 @@ sections:
       Keress minket a Kapcsolat oldalon található ügyfélszolgálatos email címen,
       vagy térj vissza a Segítség oldalra.
     actions:
-      - label: Learn more
+      - label: Vissza a Segítség oldalra
         altText: Learn more
         url: /
         showIcon: true
