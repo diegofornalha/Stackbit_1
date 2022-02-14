@@ -86,14 +86,14 @@ sections:
           hozzáadása > Szezon hozzáadása*
 
 
-          **Dátum megadása**
+          #### **Dátum megadása**
 
 
           A szezon egy egybefüggő időszak, tehát egy kezdő és egy befejező
           dátumot kell megadni.
 
 
-          **Árak és elérhetőség (kapacitás) beállítása**
+          #### **Árak és elérhetőség (kapacitás) beállítása**
 
 
           A következő lépésben lakóegységenként állíthatod be az árakat, illetve
@@ -112,7 +112,7 @@ sections:
           *   hétvégi árak
 
 
-          **Foglalási szabályok beállítása**
+          #### **Foglalási szabályok beállítása**
 
 
           A Foglalási szabályok fülre navigálva megadhatsz az összes
@@ -132,7 +132,7 @@ sections:
           *   érkezési napok
 
 
-          **Mentés**
+          #### **Mentés**
 
 
           A mentés gombbal véglegesíted az új szezon megadását. Az árazás
@@ -152,14 +152,14 @@ sections:
           hozzáadása > Kiemelt időszak hozzáadása
 
 
-          **Dátum megadása**
+          #### **Dátum megadása**
 
 
           A kiemelt időszak lehet nem  egybefüggő időszak, így a napok egyenként
           jelölendők be.
 
 
-          **Árak és elérhetőség (kapacitás) beállítása**
+          #### **Árak és elérhetőség (kapacitás) beállítása**
 
 
           A következő lépésben lakóegységenként állíthatod be az árakat, illetve
@@ -175,7 +175,7 @@ sections:
           *   egységárak
 
 
-          **Foglalási szabályok beállítása**
+          #### **Foglalási szabályok beállítása**
 
 
           A foglalási szabályok fülre navigálva megadhatsz az összes
@@ -192,7 +192,7 @@ sections:
           *   maximum foglalható éjszakák
 
 
-          **Mentés**
+          #### **Mentés**
 
 
           A mentés gombbal véglegesíted az új kiemelt időszak megadását. Az
