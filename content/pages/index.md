@@ -579,11 +579,10 @@ sections:
           lehet lezárni a napokat, vagy bevinni egy foglalást egy egyszerű
           folyamattal.
       - question: 'Nem vagyok webfejlesztő, én is be tudom üzemelni?'
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation. At the office, working together is often a
-          distruction, on remote, it could be motivation. At the office, working
-          together is often a distruction, on remote, it could be motivation.
+        answer: >
+          Természetesen. Az Appartmant úgy alakítottuk ki, hogy a regisztrációt
+          követően 1 linket kapsz, amit akár saját weboldaladra akár Facebook
+          vagy Instagram oldaladra belinkelhetsz. Ha mégis elakadnál, segítünk!
     styles:
       self:
         height: auto
