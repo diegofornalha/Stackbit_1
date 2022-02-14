@@ -12,6 +12,9 @@ sections:
     colors: colors-a
     title: Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
     text: >
+      # Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
+
+
       Érj el több vendéget saját felületeiden modern és felhasználóbarát
       foglalómotorral.
 
