@@ -492,9 +492,6 @@ sections:
           actions:
             justifyContent: flex-start
       - elementId: ''
-        title: >-
-          2. Add meg a szezonális áraidat és a foglalási szabályaidat (ha
-          vannak)
         subtitle: ''
         text: >
           #### 2. Add meg a szezonális áraidat és foglalási szabályaidat (ha
