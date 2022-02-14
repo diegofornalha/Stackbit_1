@@ -1,5 +1,5 @@
 ---
-title: 'Szálláshely szerkesztése és törlése '
+title: Szálláshely szerkesztése és törlése | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
