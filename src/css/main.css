@@ -30,7 +30,7 @@ code {
     padding: 20px 16px 20px 16px;
     margin-bottom: 12px;
     border-radius: 16px;
-    display: inline-block;
+    display: block;
 }
 
 .sb-markdown p {
