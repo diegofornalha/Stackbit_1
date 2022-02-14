@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Lakóegység szerkesztése és törlése  | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
