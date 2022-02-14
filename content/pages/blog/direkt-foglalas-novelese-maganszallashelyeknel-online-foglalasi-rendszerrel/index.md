@@ -23,7 +23,7 @@ Ez nem azt jelenti, hogy a szállásközvetítő oldalak rosszak, hiszen bárhon
 
 ## Hogyan növelhetjük direkt foglalásaink számát?
 
-##### **1. Jutalékmentes foglalómotor használata**
+### 1. Jutalékmentes foglalómotor használata
 
 Egy könnyen kezelhető, [weboldalba építhető foglalómotor](https://appartman.hu/blog/maganszallashely-jutalekmentes-foglalomotor-naptarszinkronnal/) segít abban, hogy vendégeid naprakész információt kapjanak a foglaltságról, árakról és kedvezményekről.
 
@@ -62,4 +62,3 @@ A foglalómotorunk email automatizmusai sokat segíthetnek abban, hogy a gyakran
 Megadhatjuk például, hogy hová utalja az előleget, mikor érkezhet/távozhat és, hogy honnan tudja megközelíteni a szálláshelyünket stb. Ezen felül pedig személyre szabott információkat is beállíthatunk.
 
 Ha érdekesnek találtad a cikkünket, csatlakozz a [Szállásadók szakmai közösségéhez](https://www.facebook.com/szallasadokkozossege) további tartalmakért!
-
