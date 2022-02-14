@@ -87,17 +87,17 @@ sections:
           *Szálláshelyed > Új foglalás*
 
 
-          #### Vendégszám megadása
+          #### 1. Vendégszám megadása
 
 
           A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
           hol van az adott vendégszámra elegendő hely.
 
 
-          #### Dátumok megadása
+          #### 2. Dátumok megadása
 
 
-          #### Egyedi szobakiosztás készítése
+          #### 3. Egyedi szobakiosztás készítése
 
 
           Ahhoz hogy a kívánt lakóegységet tudd lezárni (ha több van a
@@ -109,16 +109,16 @@ sections:
           menni.
 
 
-          #### Vendég nevének megadása
+          #### 4. Vendég nevének megadása
 
 
           Javasoljuk egy minta név megadását (Zárolt Lakóegység)
 
 
-          #### Megjegyzés írása (nem kötelező)
+          #### 5. Megjegyzés írása (nem kötelező)
 
 
-          #### Mentés
+          #### 6. Mentés
 
         featuredImage: null
         styles:
