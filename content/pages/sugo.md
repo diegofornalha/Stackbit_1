@@ -85,15 +85,11 @@ sections:
       - type: FeaturedItem
         title: Foglalási- és árazási szabályok
         text: >
-          Director of product management
+          **Mik azok a foglalási és árazási szabályok?**
 
 
-          **San Francisco**
-
-
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
+          **Foglalási- és árazási szabályok hozzáadása, szerkesztése és
+          törlése**
         featuredImage: null
         styles:
           title:
