@@ -57,6 +57,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    title: Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
   - colors: colors-a
     elementId: ''
     items:
