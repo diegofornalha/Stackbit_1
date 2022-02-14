@@ -39,7 +39,7 @@ code {
     margin-bottom: 12px;
 }
 
-.sb-markdown b, .sb-markdown stron {
+.sb-markdown b, .sb-markdown strong {
     color: aqua;
 }
 
