@@ -1,5 +1,5 @@
 ---
-title: Szálláshely szerkesztése és törlése
+title: 'Szálláshely szerkesztése és törlése '
 sections:
   - type: HeroSection
     colors: colors-h
