@@ -90,12 +90,12 @@ sections:
       - type: FeaturedItem
         title: Foglalási- és árazási szabályok
         text: >
-          [**Mik azok a foglalási és árazási
-          szabályok?**](/sugo/mik-azok-a-foglalasi-es-arazasi-szabalyok)
+          [Mik azok a foglalási és árazási
+          szabályok?](/sugo/mik-azok-a-foglalasi-es-arazasi-szabalyok)
 
 
-          [**Foglalási- és árazási szabályok hozzáadása, szerkesztése és
-          törlése**](/sugo/foglalasi-es-arazasi-szabalyok-hozzaadasa-szerkesztese-es-torlese/)
+          [Foglalási- és árazási szabályok hozzáadása, szerkesztése és
+          törlése](/sugo/foglalasi-es-arazasi-szabalyok-hozzaadasa-szerkesztese-es-torlese/)
         featuredImage: null
         styles:
           title:
