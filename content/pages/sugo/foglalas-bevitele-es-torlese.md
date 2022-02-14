@@ -71,38 +71,71 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          ### Lakóegység szerkesztése
+          ### Foglalás bevitele
 
 
-          *Szálláshelyed > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal
-          jelölt gomb) > Szobák szerkesztése*
+          Szálláshelyed > Új foglalás
 
 
-          *Szálláshelyed > Szobák > Szobák szerkesztése*
+          **Vendégszám megadása**
 
 
-          Ebben a menüben módosíthatod a lakóegységek korábban megadott adatait,
-          azaz a következőket:
+          A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
+          hol van az adott vendégszámra elegendő hely.
 
 
-          *   lakóegység neve
+          **Dátumok megadása**
 
 
-          *   férőhely
+          **Ajánlott lakóegység(ek) kiválasztása...**
 
 
-          *   árszámítás módja
+          Alapértelmezetten az ajánlott szobakiosztás képernyőjére érkezel, ahol
+          az Ajánlat kiválasztása gombbal tudod kiválasztani a felajánlott
+          szobakiosztást.
 
 
-          *   egységár
+          **...vagy egyedi szobakiosztás készítése**
 
 
-          *   lakóegység képei
+          A középen található rádiógombos mezőben az “Egyedi szobakiosztás”
+          opciót kiválasztva tudsz tetszőleges szobakiosztást megadni a
+          foglaláshoz.
 
 
-          ### Lakóegység törlése
+          A szobákat jelölő kártyák jobb alsó sarkában található legördülő
+          menüvel tudod kiválasztani hány darabot szeretnél hozzáadni a
+          foglaláshoz az adott lakóegységből.
 
 
+          A lenti Tovább gombbal tudod véglegesíteni a szobakiosztást.
+
+
+          **Vendég nevének megadása**
+
+
+          **Megjegyzés írása**
+
+
+          **Mentés**
+
+
+          ### Foglalás törlése
+
+
+          *Szálláshelyed > Foglalások*
+
+
+          A foglalások menüpontban listázódnak a foglalások, két részre osztva:
+          kiemelve azok, amiknek a következő hét napban lesz az érkezési
+          dátumuk, alattuk pedig minden további foglalás foglal helyet.
+
+
+          A foglalás elemre kattintva megjelenik a foglalás részletes nézete
+
+
+          A foglalás adatai alatt található piros Foglalás törlése gombbal lehet
+          törölni a foglalást.
 
         featuredImage: null
         styles:
