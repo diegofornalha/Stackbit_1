@@ -78,7 +78,7 @@ sections:
           közvetlenül az Instagramról foglaljanak hozzád.
 
 
-          ### Hol található a foglalási link?
+          ## Hol található a foglalási link?
 
 
           A foglalási linket a következő helyeken találod az Appartman
