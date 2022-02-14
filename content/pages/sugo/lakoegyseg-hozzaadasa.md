@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Lakóegység hozzáadása  | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
