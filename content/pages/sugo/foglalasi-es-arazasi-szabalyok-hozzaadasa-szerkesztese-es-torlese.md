@@ -71,123 +71,153 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ##### A foglalási és árazási szabályokkal az alapértelmezettől eltérő
-          árakat és szabályokat (pl.: minimum foglalható éjszakák száma)
-          állíthatsz be az általad meghatározott dátumokra.
+          A foglalási és árazási szabályokkal könnyedén hozhatunk létre
+          szezonális árakat és szabályokat, illetve egy
 
 
-          ## Milyen dátumokra érvényesek a szabályok?
+          ## Foglalási és árazási szabály hozzáadása
 
 
-          Két beállítható időszak lehetséges:
+          ### Szezon hozzáadása
 
 
-          **Szezon**
+          *Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
+          hozzáadása > Szezon hozzáadása*
 
 
-          Hosszabb **egybefüggő időszak** (pl.: főszezon, utószezon), ami
-          **felülírja az alapértelmezett beállításokat** a megadott dátumok
-          között
+          **Dátum megadása**
 
 
+          A szezon egy egybefüggő időszak, tehát egy kezdő és egy befejező
+          dátumot kell megadni.
 
 
-          **Kiemelt időszak**
+          **Árak és elérhetőség (kapacitás) beállítása**
 
 
-          Ünnepek, hosszú hétvégék beállítása. **Lehet nem egybefüggő is** (pl.:
-          egyszerre megadható egy kiemelt ár augusztus 20 környékére és
-          karácsonyra). A **szezont és az alapértelmezett árat is felülírja** a
-          megadott dátumokra.
+          A következő lépésben lakóegységenként állíthatod be az árakat, illetve
+          zárolhatod szobáidat. A következő elemek megadására van lehetőség
 
 
-          ### Példa
+          *   elérhető/zárolt lakóegység
 
 
-          Adott egy alapértelmezett ár, amit a regisztrációnál megadtál.
-          Szeretnéd nyárra felemelni az árat, illetve az augusztus 20-i
-          hétvégére megadni egy kiemelt árat, ami eltér a szezon árától.
+          *   árszámítás módja
 
 
-          *   hozzáadsz egy szezont például június 1. és szeptember 15. között,
-          és megadsz egy árat
+          *   egységárak
 
 
-          *   hozzáadsz egy kiemelt időszakot egy magasabb árral augusztus 19.
-          és 21. között, ami automatikusan felülírja a szezon árait
+          *   hétvégi árak
 
 
-          ## Milyen foglalási- és árazási szabályok állíthatók be?
+          **Foglalási szabályok beállítása**
 
 
-          ### Foglalási szabályok
+          A Foglalási szabályok fülre navigálva megadhatsz az összes
+          lakóegységedre vonatkozó és a korábban megadott dátumok között
+          érvényes szabályokat:
 
 
-          **Minimum foglalható éjszaka**
+          *   minimum foglalható éjszakák
 
 
-          A legkevesebb éjszakaszám amit egyszerre le kell foglalnia egy
-          vendégnek.
+          *   minimum előfoglalási idő
 
 
-          **Minimum előfoglalási idő**
+          *   maximum foglalható éjszakák
 
 
-          m
+          *   érkezési napok
 
 
-          **Maximum foglalható éjszaka**
+          **Mentés**
 
 
-          Maximum éjszakaszám amit egyszerre lefoglalhat egy vendég.
+          A mentés gombbal véglegesíted az új szezon megadását. Az árazás
+          automatikusan életbe fog lépni a megadott dátumok elérkeztével.
 
 
-          **Érkezési napok**
+          ### Kiemelt időszak hozzáadása
 
 
-          Az itt beállított napokon kezdődhetnek a foglalómotoron keresztül
-          bevitt foglalások
+          Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
+          hozzáadása > Kiemelt időszak hozzáadása
 
 
-          **Kapacitás**
+          **Dátum megadása**
 
 
-          Adott időszakra lezárhatók a lakóegységek
+          A kiemelt időszak lehet nem  egybefüggő időszak, így a napok egyenként
+          jelölendők be.
 
 
-          ### Árazási szabályok
+          **Árak és elérhetőség (kapacitás) beállítása**
 
 
-          **Lakóegységenkénti árazás**
+          A következő lépésben lakóegységenként állíthatod be az árakat, illetve
+          zárolhatod szobáidat. A következő elemek megadására van lehetőség
 
 
-          Adott lakóegység a vendégek számától függetlenül egy fix összegbe
-          kerül éjszakánként.
+          *   elérhető/zárolt lakóegység
 
 
-          **Hibrid árazás**
+          *   árszámítás módja
 
 
-          Adott lakóegység éjszakánkénti ára a vendégek számától függően
-          változik.
+          *   egységárak
 
 
-          **Vendégéjszakánkénti árazás**
+          **Foglalási szabályok beállítása**
 
 
-          Az éjszakánkénti árat a vendégek száma határozza meg.
+          A foglalási szabályok fülre navigálva megadhatsz az összes
+          lakóegységedre vonatkozó és a korábban megadott dátumok között
+          érvényes szabályokat:
 
 
-          **Hétvégi ár**
+          *   minimum foglalható éjszakák
 
 
-          Mindhárom fentebbi árazás esetén beállítható.
+          *   minimum előfoglalási idő
 
 
-          **Gyermek ár**
+          *   maximum foglalható éjszakák
 
 
-          Hibrid és vendégéjszakánkénti árazás esetén állítható be.
+          **Mentés**
+
+
+          A mentés gombbal véglegesíted az új kiemelt időszak megadását. Az
+          árazás automatikusan életbe fog lépni a megadott dátumok elérkeztével.
+
+
+          ## Foglalási és árazási szabály szerkesztése
+
+
+          A foglalási- és árazási szabályok kártyáin a jobb felső sarokban
+          található Opciók gombra kattintva érhető el a Szerkesztés opció.
+
+
+          Ezután a megjelenő panelben minden korábban megadott beállítás
+          módosítható
+
+
+          **Mentés**
+
+
+          Az módosított beállítások a jövőbeli foglalásokra lesznek érvényesek.
+
+
+          ## Foglalási- és árazási szabály törlése
+
+
+          A foglalási- és árazási szabályok kártyáin a jobb felső sarokban
+          található Opciók gombra kattintva érhető el a Törlés opció.
+
+
+          A megjelenő figyelmeztetés jóvahagyása után törlődik a foglalási- és
+          árazási szabály.
         featuredImage: null
         styles:
           title:
