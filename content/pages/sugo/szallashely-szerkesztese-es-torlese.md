@@ -36,50 +36,19 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
-          ### **Új szálláshely hozzáadása**
+        text: >+
+          ### Lakóegységek szerkesztése
 
 
-          Itt a következő alapadatokat kell megadnod.
+          *Szálláshelyed > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal
+          jelölt gomb) > Szobák szerkesztése*
 
 
-          *   Szálláshely neve
+          *Szálláshelyed > Szobák > Szobák szerkesztése*
 
 
-          *   Szálláshely email címe
-
-
-          *   Szálláshely telefonszáma
-
-
-          *   Irányítószám
-
-
-          *   Város (automatikusan ajánl irányítószám alapján)
-
-
-          *   Cím
-
-
-          *   Szálláshely képei
-
-              Az ide feltöltött képek a foglalómotor főoldalán fognak megjelenni.
-              Az első helyen megjelenő képet a kép jobb felső sarkában található gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
-
-              A képet törölni szintén a jobb felső sarokban található gombbal előhívott Kép törlése menüponttal lehetséges.
-
-          ### **Szobák számának megadása**
-
-
-          ***Külön foglalható*** lakóegységeid számának megadása. A szám
-          megadása után megjelenik egy lista a megfelelő elemszámmal.
-
-
-          ### **Lakóegység adatok megadása**
-
-
-          Az előzőleg létrehozott listaelemeket megnyitva tudod megadni az adott
-          lakóegység paramétereit. A következő paraméterekre lesz szükség:
+          Ebben a menüben módosíthatod a lakóegységek korábban megadott adatait,
+          azaz a következőket:
 
 
           *   lakóegység neve
@@ -97,11 +66,15 @@ sections:
           *   lakóegység képei
 
 
-          ### **Mentés**
+          **Mentés**
 
 
-          Miután megadtad az összes szükséges lakóegységet, a mentés gombbal
-          véglegesítheted az újonnan megadott szálláshelyedet.
+          ### Szálláshely törlése
+
+
+          *Szálláshelyed > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal
+          jelölt gomb) > Szálláshely törlése.*
+
         featuredImage: null
         styles:
           title:
