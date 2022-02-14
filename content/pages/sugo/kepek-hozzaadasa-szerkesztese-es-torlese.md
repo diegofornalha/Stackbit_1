@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ## Foglalási és árazási szabály hozzáadása
+          ## Foglalási- és árazási szabály hozzáadása
 
 
           ### Szezon hozzáadása
@@ -198,7 +198,7 @@ sections:
           árazás automatikusan életbe fog lépni a megadott dátumok elérkeztével.
 
 
-          ## Foglalási és árazási szabály szerkesztése
+          ## Foglalási- és árazási szabály szerkesztése
 
 
           A foglalási- és árazási szabályok kártyáin a jobb felső sarokban
