@@ -35,7 +35,7 @@ module.exports = {
                 body: {
                     fontFamily: theme(`fontFamily.${themeStyle.fontBody}`)
                 },
-                'h1,h2,h3,h4,h5,h6': {
+                'h1,h2,h3,h4,h5,h6,h7': {
                     fontFamily: theme(`fontFamily.${themeStyle.fontHeadlines}`)
                 },
                 h1: {
