@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          # Lakóegység zárolása
+          ## Lakóegység zárolása
 
 
           A lakóegység zárolás egy hamarosan érkező funkciónk.
@@ -81,23 +81,23 @@ sections:
           lakóegységek gyors zárolása.
 
 
-          ## Lakóegység zárolása foglalás bevitelével
+          ### Lakóegység zárolása foglalás bevitelével
 
 
           *Szálláshelyed > Új foglalás*
 
 
-          **Vendégszám megadása**
+          #### Vendégszám megadása
 
 
           A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
           hol van az adott vendégszámra elegendő hely.
 
 
-          **Dátumok megadása**
+          #### Dátumok megadása
 
 
-          **Egyedi szobakiosztás készítése**
+          #### Egyedi szobakiosztás készítése
 
 
           Ahhoz hogy a kívánt lakóegységet tudd lezárni (ha több van a
@@ -109,16 +109,16 @@ sections:
           menni.
 
 
-          **Vendég nevének megadása**
+          #### Vendég nevének megadása
 
 
           Javasoljuk egy minta név megadását (Zárolt Lakóegység)
 
 
-          **Megjegyzés írása (nem kötelező)**
+          #### Megjegyzés írása (nem kötelező)
 
 
-          **Mentés**
+          #### Mentés
 
         featuredImage: null
         styles:
