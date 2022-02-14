@@ -119,11 +119,6 @@
                 "type": "Link",
                 "label": "Adatkezelési nyilatkozat",
                 "url": "/adatkezelesi-nyilatkozat"
-            },
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
             }
         ],
         "styles": {
