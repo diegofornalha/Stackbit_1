@@ -70,50 +70,22 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
-          ### **Új szálláshely hozzáadása**
+        text: >+
+          ### Lakóegység hozzáadása
 
 
-          Itt a következő alapadatokat kell megadnod.
+          Bármikor van lehetőséged másodpercek alatt egy új lakóegységet
+          hozzáadni a szálláshelyedhez. Ehhez a következő menüpontba kell
+          látogatnod:
 
 
-          *   Szálláshely neve
+          *Szálláshelyed > Szobák > Új szoba hozzáadása*
 
 
-          *   Szálláshely email címe
+          ### Lakóegység adatok megadása
 
 
-          *   Szálláshely telefonszáma
-
-
-          *   Irányítószám
-
-
-          *   Város (automatikusan ajánl irányítószám alapján)
-
-
-          *   Cím
-
-
-          *   Szálláshely képei
-
-              Az ide feltöltött képek a foglalómotor főoldalán fognak megjelenni.
-              Az első helyen megjelenő képet a kép jobb felső sarkában található gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
-
-              A képet törölni szintén a jobb felső sarokban található gombbal előhívott Kép törlése menüponttal lehetséges.
-
-          ### **Szobák számának megadása**
-
-
-          ***Külön foglalható*** lakóegységeid számának megadása. A szám
-          megadása után megjelenik egy lista a megfelelő elemszámmal.
-
-
-          ### **Lakóegység adatok megadása**
-
-
-          Az előzőleg létrehozott listaelemeket megnyitva tudod megadni az adott
-          lakóegység paramétereit. A következő paraméterekre lesz szükség:
+          Az új lakóegység megadásához a következő paraméterekre lesz szükség:
 
 
           *   lakóegység neve
@@ -131,11 +103,12 @@ sections:
           *   lakóegység képei
 
 
-          ### **Mentés**
+          ### Mentés
 
 
-          Miután megadtad az összes szükséges lakóegységet, a mentés gombbal
-          véglegesítheted az újonnan megadott szálláshelyedet.
+          Miután megadtad a lakóegységed paramétereit, a mentés gombbal
+          véglegesítheted az új lakóegységet.
+
         featuredImage: null
         styles:
           title:
