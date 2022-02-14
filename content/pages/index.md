@@ -10,7 +10,6 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
     text: >
       # Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
 
