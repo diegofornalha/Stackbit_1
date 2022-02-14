@@ -471,7 +471,6 @@ sections:
     subtitle: Így hozhatod létre a saját foglalómotorod
     items:
       - elementId: ''
-        title: 1. Add meg a lakóegységeidet
         subtitle: ''
         text: >
           #### 1. Add meg a lakóegységeidet
