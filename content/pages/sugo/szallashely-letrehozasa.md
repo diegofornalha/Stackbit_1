@@ -1,5 +1,5 @@
 ---
-title: Szálláshely létrehozása
+title: Szálláshely létrehozása | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
