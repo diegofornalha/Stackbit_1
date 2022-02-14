@@ -53,7 +53,7 @@ sections:
           törlése**](/sugo/szallashely-szerkesztese-es-torlese)
 
 
-          **Lakóegység hozzáadása**
+          [**Lakóegység hozzáadása**](/sugo/lakoegyseg-hozzaadasa)
 
 
           **Lakóegység szerkesztése és törlése**
