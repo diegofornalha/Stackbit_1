@@ -474,8 +474,11 @@ sections:
         title: 1. Add meg a lakóegységeidet
         subtitle: ''
         text: >
+          #### 1. Add meg a lakóegységeidet
+
+
           Néhány lépésben kész is a regisztráció a lakóegységeid áraival,
-          képeivel és fő felszereltségével. 
+          képeivel és fő felszereltségével.
         author: ''
         rating: 1
         isRatingVisible: false
