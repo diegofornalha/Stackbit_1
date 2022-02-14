@@ -497,6 +497,10 @@ sections:
           vannak)
         subtitle: ''
         text: >
+          #### 2. Add meg a szezonális áraidat és foglalási szabályaidat (ha
+          vannak)
+
+
           Az Appartman könnyedén kezeli a szezonokra, vagy kiemelt hétvégékre
           megadott árakat. Megadhatsz gyermek kedvezményt, minimum foglalható
           éjszakát, előfoglalási időt, stb.
