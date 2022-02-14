@@ -133,7 +133,7 @@ sections:
         fontStyle: normal
         textAlign: center
   - elementId: ''
-    colors: colors-a
+    colors: colors-h
     title: The Section Title
     subtitle: ''
     text: >-
