@@ -71,10 +71,6 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          A foglalási és árazási szabályokkal könnyedén hozhatunk létre
-          szezonális árakat és szabályokat, illetve egy
-
-
           ## Foglalási és árazási szabály hozzáadása
 
 
