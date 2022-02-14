@@ -41,7 +41,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Szálláshely létrehozása
+        title: Szálláshely és lakóegységek
         text: >
           ***
 
