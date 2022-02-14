@@ -1,5 +1,5 @@
 ---
-title: Foglalás bevitele és törlése | Appartman
+title: Foglalási link megosztása | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
