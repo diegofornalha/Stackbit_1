@@ -75,15 +75,7 @@ sections:
             textAlign: left
           text:
             textAlign: left
-        actions:
-          - label: Learn more
-            altText: Learn more
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-            type: Link
+        actions: []
       - type: FeaturedItem
         title: Foglalások kezelése
         text: |
