@@ -3,7 +3,7 @@ title: Careers
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Lakóegység szerkesztése és törlése
+    title: Foglalás bevitele és törlése
     styles:
       self:
         height: auto
