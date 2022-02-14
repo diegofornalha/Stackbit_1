@@ -77,6 +77,11 @@ sections:
           ### Szezon hozzáadása
 
 
+          ##### Hosszabb **egybefüggő időszak **(pl.: főszezon, utószezon), ami
+          **felülírja az alapértelmezett beállításokat** a megadott dátumok
+          között
+
+
           *Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
           hozzáadása > Szezon hozzáadása*
 
