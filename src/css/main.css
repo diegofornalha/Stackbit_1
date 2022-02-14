@@ -18,7 +18,7 @@ h6 {
     background: rgb(96,81,188);
     background: linear-gradient(90deg, rgba(96,81,188,1) 0%, rgba(125,84,208,1) 100%);
     padding: 6px 8px 6px 8px;
-    margin-bottom: 120px;
+    margin-bottom: 12px;
     border-radius: 8px;
     display: inline;
 }
