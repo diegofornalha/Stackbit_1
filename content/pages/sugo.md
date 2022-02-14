@@ -45,9 +45,6 @@ sections:
       - type: FeaturedItem
         title: Szálláshely és lakóegységek
         text: >
-          ***
-
-
           [**Szálláshely létrehozása**](/sugo/szallashely-letrehozasa/)
 
 
@@ -65,7 +62,7 @@ sections:
           törlése**](/sugo/lakoegyseg-szerkesztese-es-torlese)
 
 
-          ****[**Képek hozzáadása, szerkesztése és
+          [**Képek hozzáadása, szerkesztése és
           törlése**](/sugo/kepek-hozzaadasa-szerkesztese-es-torlese/)
         featuredImage: null
         styles:
