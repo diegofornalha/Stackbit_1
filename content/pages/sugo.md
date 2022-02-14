@@ -4,7 +4,9 @@ sections:
   - type: HeroSection
     colors: colors-f
     title: Appartman segítség
-    text: You should join us.
+    text: |+
+
+
     media:
       type: ImageBlock
       caption: Team meeting
