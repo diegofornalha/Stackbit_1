@@ -160,7 +160,7 @@ sections:
         url: /
         showIcon: true
         icon: arrowLeft
-        iconPosition: right
+        iconPosition: left
         elementId: ''
         type: Link
     styles:
