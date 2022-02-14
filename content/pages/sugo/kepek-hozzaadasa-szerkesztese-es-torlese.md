@@ -70,8 +70,8 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
-          # Képek feltöltése
+        text: >
+          ## Képek feltöltése
 
 
           Az Appartman foglalási rendszerben a képek megjelenhetnek
@@ -155,7 +155,6 @@ sections:
 
           Meglévő képet törölni a kép jobb felső sarkában található gombbal
           előhívott Kép törlése menüponttal lehetséges.
-
         featuredImage: null
         styles:
           title:
