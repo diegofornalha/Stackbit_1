@@ -71,43 +71,54 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          ### Lakóegység hozzáadása
+          # Lakóegység zárolása
 
 
-          Bármikor van lehetőséged másodpercek alatt egy új lakóegységet
-          hozzáadni a szálláshelyedhez. Ehhez a következő menüpontba kell
-          látogatnod:
+          A lakóegység zárolás egy hamarosan érkező funkciónk.
 
 
-          *Szálláshelyed > Szobák > Új szoba hozzáadása*
+          A funkció megérkeztéig egy foglalás bevitelével lehetséges a
+          lakóegységek gyors zárolása.
 
 
-          ### Lakóegység adatok megadása
+          ## Lakóegység zárolása foglalás bevitelével
 
 
-          Az új lakóegység megadásához a következő paraméterekre lesz szükség:
+          *Szálláshelyed > Új foglalás*
 
 
-          *   lakóegység neve
+          **Vendégszám megadása**
 
 
-          *   férőhely
+          A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
+          hol van az adott vendégszámra elegendő hely.
 
 
-          *   árszámítás módja
+          **Dátumok megadása**
 
 
-          *   egységár
+          **Egyedi szobakiosztás készítése**
 
 
-          *   lakóegység képei
+          Ahhoz hogy a kívánt lakóegységet tudd lezárni (ha több van a
+          szálláshelyeden) a középen található rádiógombos mezőben az “Egyedi
+          szobakiosztás” opciót kell kiválasztanod.
 
 
-          ### Mentés
+          A lakóegységek kiválasztása után alul a Tovább gombbal tudsz tovább
+          menni.
 
 
-          Miután megadtad a lakóegységed paramétereit, a mentés gombbal
-          véglegesítheted az új lakóegységet.
+          **Vendég nevének megadása**
+
+
+          Javasoljuk egy minta név megadását (Zárolt Lakóegység)
+
+
+          **Megjegyzés írása (nem kötelező)**
+
+
+          **Mentés**
 
         featuredImage: null
         styles:
