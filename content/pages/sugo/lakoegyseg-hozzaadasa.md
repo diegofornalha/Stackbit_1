@@ -154,7 +154,7 @@ sections:
         url: /sugo
         showIcon: true
         icon: arrowLeft
-        iconPosition: left
+        iconPosition: right
         elementId: ''
         type: Link
       - type: Button
