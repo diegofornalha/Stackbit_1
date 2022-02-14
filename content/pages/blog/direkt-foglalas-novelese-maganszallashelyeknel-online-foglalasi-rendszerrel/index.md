@@ -35,7 +35,7 @@ Egy mobilbarát foglalómotor — egyedi beállításaid alapján — me
 
 Fontos az is, hogy ez a folyamat egyszerű és gyors legyen, hiszen itt már a látogató eldöntötte, hogy tetszik neki a szálláshelyed és a szabad időpontokat és árakat böngészi.
 
-##### **2. Megbízható weboldal**
+### 2. Megbízható weboldal
 
 Ahhoz, hogy növeljük a direkt foglalásaink számát meg kell nyugtatnunk a weboldal látogatóinkat, hogy ha itt foglalnak, akkor gördülékenyen megérkezik hozzánk a foglalás és zavartalanul készülhetnek a kikapcsolódásukra.
 
@@ -43,7 +43,7 @@ Egy elavult weboldal, rossz felbontású képekkel, rossz első benyomást kelth
 
 Könnyítsük meg a látogatók dolgait, hogy szembetűnő helyre rakjuk a **“Foglalj most”** gombot, hogy egyszerű legyen navigálniuk az oldalon.
 
-##### **3. Közösségi média marketing**
+### 3. Közösségi média marketing
 
 Ha már van egy jó alapunk, hogy közvetlen foglalásokat fogadjunk, nincs más hátra, mint a marketing.
 
@@ -53,7 +53,7 @@ Legyünk aktívak Facebookon, Instagramon vagy akár a TikTokon. Készítsünk k
 
 A posztokban pedig linkeljük be a weboldalunk foglalási oldalát.
 
-##### **4. Elérhetőség**
+### 4. Elérhetőség
 
 Ha már sikerült felkelteni a kikapcsolódni vágyók figyelmét a szálláshelyünkkel, akarva-akaratlanul érkezni fognak hozzánk a kérdések. Igyekezzünk gyors választ adni, hogy véletlenül se legyen ideje vendégünknek más szálláshelyet keresni.
 
