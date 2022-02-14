@@ -34,9 +34,8 @@ h5 {
 }
 
 code {
-    background: aqua;
     font-family: Inter, sans-serif;
-        color: #6B6C82;
+    color: #6B6C82;
     background: #EEEDF2;
     padding: 20px 16px 20px 16px;
     border-radius: 16px;
