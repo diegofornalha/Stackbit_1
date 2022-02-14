@@ -155,6 +155,14 @@ sections:
         icon: arrowRight
         url: /
         style: link
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     styles:
       self:
         height: auto
