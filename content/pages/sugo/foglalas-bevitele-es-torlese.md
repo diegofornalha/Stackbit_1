@@ -70,11 +70,11 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### Foglalás bevitele
 
 
-          Szálláshelyed > Új foglalás
+          ##### Szálláshelyed > Új foglalás
 
 
           **Vendégszám megadása**
@@ -136,7 +136,6 @@ sections:
 
           A foglalás adatai alatt található piros Foglalás törlése gombbal lehet
           törölni a foglalást.
-
         featuredImage: null
         styles:
           title:
