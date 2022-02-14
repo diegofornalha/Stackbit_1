@@ -3,7 +3,7 @@ title: Lakóegység hozzáadása  | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Lakóegység hozzáadása
+    title: Lakóegység zárolása
     styles:
       self:
         height: auto
