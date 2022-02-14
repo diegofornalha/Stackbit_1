@@ -3,7 +3,7 @@ title: Careers
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Szálláshely létrehozása
+    title: Szálláshely szerkesztése és törlése
     styles:
       self:
         height: auto
