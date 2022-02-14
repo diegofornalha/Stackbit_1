@@ -1,5 +1,5 @@
 ---
-title: Mik azok a foglalási- és árazási szabályok? | Appartman
+title: 'Képek hozzáadása, szerkesztése és törlése | Appartman'
 sections:
   - type: HeroSection
     colors: colors-h
