@@ -136,9 +136,8 @@ sections:
     colors: colors-f
     backgroundImage: null
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Keress minket a Kapcsolat oldalon található ügyfélszolgálatos email címen!
     actions:
       - type: Button
         label: Kapcsolat
