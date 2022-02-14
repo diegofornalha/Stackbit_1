@@ -38,7 +38,7 @@ sections:
       - type: Button
         label: Vissza a Segítség oldalra
         showIcon: true
-        icon: arrowRight
+        icon: arrowLeft
         url: /sugo
         style: link
     styles:
