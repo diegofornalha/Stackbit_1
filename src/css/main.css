@@ -54,6 +54,11 @@ code {
     margin-bottom: 12px;
     font-weight: 500;
 }
+.sb-markdown h4 {
+    margin-top: 36px;
+    margin-bottom: 12px;
+    font-weight: 500;
+}
 
 .colors-h p {
     color: #897ECD
