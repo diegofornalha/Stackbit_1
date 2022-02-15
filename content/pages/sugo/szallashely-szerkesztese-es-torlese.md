@@ -32,7 +32,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundImage: null
     actions:
       - type: Button
