@@ -71,9 +71,6 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          ## Lakóegység zárolása
-
-
           `A lakóegység zárolás egy hamarosan érkező funkciónk. A funkció
           megérkeztéig egy foglalás bevitelével lehetséges a lakóegységek gyors
           zárolása.`
