@@ -36,7 +36,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### Lakóegységek szerkesztése
 
 
@@ -66,7 +66,7 @@ sections:
           *   lakóegység képei
 
 
-          **Mentés**
+          A Mentés gombra kattintva véglegesítheted a módosításaidat.
 
 
           ### Szálláshely törlése
@@ -74,7 +74,6 @@ sections:
 
           *Szálláshelyed > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal
           jelölt gomb) > Szálláshely törlése.*
-
         featuredImage: null
         styles:
           title:
