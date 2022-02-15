@@ -59,6 +59,10 @@ code {
     margin-top: 12px;
     margin-bottom: 36px;
 }
+.sb-markdown h3 {
+    margin-top: 12px;
+    margin-bottom: 36px;
+}
 
 .colors-h p {
     color: #897ECD
