@@ -77,14 +77,14 @@ sections:
           *Szálláshelyed > Új foglalás*
 
 
-          #### Vendégszám megadása
+          #### 1. Vendégszám megadása
 
 
           A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
           hol van az adott vendégszámra elegendő hely.
 
 
-          #### Dátumok megadása
+          #### 2. Dátumok megadása
 
 
           #### Ajánlott lakóegység(ek) kiválasztása...
@@ -95,7 +95,7 @@ sections:
           szobakiosztást.
 
 
-          #### ...vagy egyedi szobakiosztás készítése
+          #### 3. ...vagy egyedi szobakiosztás készítése
 
 
           A középen található rádiógombos mezőben az “Egyedi szobakiosztás”
@@ -111,13 +111,13 @@ sections:
           A lenti Tovább gombbal tudod véglegesíteni a szobakiosztást.
 
 
-          #### Vendég nevének megadása
+          #### 4. Vendég nevének megadása
 
 
-          #### Megjegyzés írása
+          #### 5. Megjegyzés írása
 
 
-          #### Mentés
+          #### 6. Mentés
 
 
           ### Foglalás törlése
