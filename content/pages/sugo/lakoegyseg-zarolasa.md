@@ -74,11 +74,9 @@ sections:
           ## Lakóegység zárolása
 
 
-          A lakóegység zárolás egy hamarosan érkező funkciónk.
-
-
-          A funkció megérkeztéig egy foglalás bevitelével lehetséges a
-          lakóegységek gyors zárolása.
+          `A lakóegység zárolás egy hamarosan érkező funkciónk. A funkció
+          megérkeztéig egy foglalás bevitelével lehetséges a lakóegységek gyors
+          zárolása.`
 
 
           ### Lakóegység zárolása foglalás bevitelével
@@ -100,9 +98,13 @@ sections:
           #### 3. Egyedi szobakiosztás készítése
 
 
+          ```
+
           Ahhoz hogy a kívánt lakóegységet tudd lezárni (ha több van a
           szálláshelyeden) a középen található rádiógombos mezőben az “Egyedi
           szobakiosztás” opciót kell kiválasztanod.
+
+          ```
 
 
           A lakóegységek kiválasztása után alul a Tovább gombbal tudsz tovább
