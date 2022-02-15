@@ -99,7 +99,7 @@ sections:
           megadott dátumokra.
 
 
-          ### Példa
+          #### Példa
 
 
           Adott egy alapértelmezett ár, amit a regisztrációnál megadtál.
