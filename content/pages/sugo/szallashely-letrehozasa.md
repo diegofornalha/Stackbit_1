@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ### **Új szálláshely hozzáadása**
+          ### Új szálláshely hozzáadása
 
 
           Itt a következő alapadatokat kell megadnod.
@@ -102,14 +102,14 @@ sections:
 
               A képet törölni szintén a jobb felső sarokban található gombbal előhívott Kép törlése menüponttal lehetséges.
 
-          ### **Szobák számának megadása**
+          ### Szobák számának megadása
 
 
           ***Külön foglalható*** lakóegységeid számának megadása. A szám
           megadása után megjelenik egy lista a megfelelő elemszámmal.
 
 
-          ### **Lakóegység adatok megadása**
+          ### Lakóegység adatok megadása
 
 
           Az előzőleg létrehozott listaelemeket megnyitva tudod megadni az adott
@@ -131,7 +131,7 @@ sections:
           *   lakóegység képei
 
 
-          ### **Mentés**
+          ### Mentés
 
 
           Miután megadtad az összes szükséges lakóegységet, a mentés gombbal
