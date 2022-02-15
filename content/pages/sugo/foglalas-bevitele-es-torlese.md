@@ -80,9 +80,6 @@ sections:
           #### 1. Vendégszám megadása
 
 
-          ##### Ez egy random H5
-
-
           A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
           hol van az adott vendégszámra elegendő hely.
 
