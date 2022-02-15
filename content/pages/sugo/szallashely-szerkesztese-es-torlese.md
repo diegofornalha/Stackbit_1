@@ -34,7 +34,6 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundImage: null
-    title: Let's do this
     actions:
       - type: Button
         label: Try it now
