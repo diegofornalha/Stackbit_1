@@ -39,7 +39,7 @@ sections:
         label: Vissza a Segítség oldalra
         showIcon: true
         icon: arrowLeft
-        url: /
+        url: /sugo
         style: link
     styles:
       self:
