@@ -143,10 +143,10 @@ sections:
           ### Kiemelt időszak hozzáadása
 
 
-          `Ünnepek, hosszú hétvégék beállítása. Lehet nem egybefüggő is (pl.:
-          egyszerre megadható egy kiemelt ár augusztus 20 környékére és
-          karácsonyra. A szezont és az alapértelmezett árakat is felülírja a
-          megadott dátumokra.`
+          `A kiemelt időszak ünnepek, hosszú hétvégék beállítására alkalmas.
+          Lehet nem egybefüggő is (pl.: egyszerre megadható egy kiemelt ár
+          augusztus 20 környékére és karácsonyra). A szezont és az
+          alapértelmezett árakat is felülírja a megadott dátumokra.`
 
 
           Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
