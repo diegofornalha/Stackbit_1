@@ -38,7 +38,7 @@ sections:
       - type: Button
         label: Learn More
         showIcon: true
-        icon: arrowRight
+        icon: arrowLeft
         url: /
         style: link
     styles:
