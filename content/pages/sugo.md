@@ -91,7 +91,7 @@ sections:
         title: Foglalási- és árazási szabályok
         text: >
           [Mik azok a foglalási és árazási
-          szabályok?](/sugo/mik-azok-a-foglalasi-es-arazasi-szabalyok)
+          szabályok?](/sugo/mik-azok-a-foglalasi-arazasi-szabalyok)
 
 
           [Foglalási- és árazási szabályok hozzáadása, szerkesztése és
