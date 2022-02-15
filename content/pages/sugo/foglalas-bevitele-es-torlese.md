@@ -87,7 +87,7 @@ sections:
           #### 2. Dátumok megadása
 
 
-          #### Ajánlott lakóegység(ek) kiválasztása...
+          #### 3. Ajánlott lakóegység(ek) kiválasztása...
 
 
           Alapértelmezetten az ajánlott szobakiosztás képernyőjére érkezel, ahol
@@ -95,7 +95,7 @@ sections:
           szobakiosztást.
 
 
-          #### 3. ...vagy egyedi szobakiosztás készítése
+          #### 4. ...vagy egyedi szobakiosztás készítése
 
 
           A középen található rádiógombos mezőben az “Egyedi szobakiosztás”
@@ -111,13 +111,13 @@ sections:
           A lenti Tovább gombbal tudod véglegesíteni a szobakiosztást.
 
 
-          #### 4. Vendég nevének megadása
+          #### 5. Vendég nevének megadása
 
 
-          #### 5. Megjegyzés írása
+          #### 6. Megjegyzés írása
 
 
-          #### 6. Mentés
+          #### 7. Mentés
 
 
           ### Foglalás törlése
