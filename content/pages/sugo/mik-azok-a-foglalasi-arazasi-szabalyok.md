@@ -121,33 +121,33 @@ sections:
           ### Foglalási szabályok
 
 
-          **Minimum foglalható éjszaka**
+          #### Minimum foglalható éjszaka
 
 
           A legkevesebb éjszakaszám amit egyszerre le kell foglalnia egy
           vendégnek.
 
 
-          **Minimum előfoglalási idő**
+          #### Minimum előfoglalási idő
 
 
           m
 
 
-          **Maximum foglalható éjszaka**
+          #### Maximum foglalható éjszaka
 
 
           Maximum éjszakaszám amit egyszerre lefoglalhat egy vendég.
 
 
-          **Érkezési napok**
+          #### Érkezési napok
 
 
           Az itt beállított napokon kezdődhetnek a foglalómotoron keresztül
           bevitt foglalások
 
 
-          **Kapacitás**
+          #### Kapacitás
 
 
           Adott időszakra lezárhatók a lakóegységek
@@ -156,33 +156,33 @@ sections:
           ### Árazási szabályok
 
 
-          **Lakóegységenkénti árazás**
+          #### Lakóegységenkénti árazás
 
 
           Adott lakóegység a vendégek számától függetlenül egy fix összegbe
           kerül éjszakánként.
 
 
-          **Hibrid árazás**
+          #### Hibrid árazás
 
 
           Adott lakóegység éjszakánkénti ára a vendégek számától függően
           változik.
 
 
-          **Vendégéjszakánkénti árazás**
+          #### Vendégéjszakánkénti árazás
 
 
           Az éjszakánkénti árat a vendégek száma határozza meg.
 
 
-          **Hétvégi ár**
+          #### Hétvégi ár
 
 
           Mindhárom fentebbi árazás esetén beállítható.
 
 
-          **Gyermek ár**
+          #### Gyermek ár
 
 
           Hibrid és vendégéjszakánkénti árazás esetén állítható be.
