@@ -36,7 +36,7 @@ sections:
     backgroundImage: null
     actions:
       - type: Button
-        label: Learn More
+        label: Vissza a Segítség oldalra
         showIcon: true
         icon: arrowLeft
         url: /
