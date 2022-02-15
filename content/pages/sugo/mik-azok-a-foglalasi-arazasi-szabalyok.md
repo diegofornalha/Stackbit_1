@@ -131,7 +131,8 @@ sections:
           #### Minimum előfoglalási idő
 
 
-          m
+          A jelenlegi naptári naptól kezdve minimum ennyi napnak kell eltelnie
+          az érkezésig.
 
 
           #### Maximum foglalható éjszaka
