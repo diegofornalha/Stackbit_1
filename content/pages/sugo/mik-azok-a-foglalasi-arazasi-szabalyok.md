@@ -71,9 +71,9 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ##### A foglalási és árazási szabályokkal az alapértelmezettől eltérő
+          `A foglalási és árazási szabályokkal az alapértelmezettől eltérő
           árakat és szabályokat (pl.: minimum foglalható éjszakák száma)
-          állíthatsz be az általad meghatározott dátumokra.
+          állíthatsz be az általad meghatározott dátumokra.`
 
 
           ## Milyen dátumokra érvényesek a szabályok?
@@ -88,8 +88,6 @@ sections:
           Hosszabb **egybefüggő időszak** (pl.: főszezon, utószezon), ami
           **felülírja az alapértelmezett beállításokat** a megadott dátumok
           között
-
-
 
 
           **Kiemelt időszak**
