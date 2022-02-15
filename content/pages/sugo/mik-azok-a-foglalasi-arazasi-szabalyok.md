@@ -82,7 +82,7 @@ sections:
           Két beállítható időszak lehetséges:
 
 
-          ##### Szezon
+          #### Szezon
 
 
           Hosszabb **egybefüggő időszak** (pl.: főszezon, utószezon), ami
@@ -90,7 +90,7 @@ sections:
           között
 
 
-          ##### Kiemelt időszak
+          #### Kiemelt időszak
 
 
           Ünnepek, hosszú hétvégék beállítása. **Lehet nem egybefüggő is** (pl.:
