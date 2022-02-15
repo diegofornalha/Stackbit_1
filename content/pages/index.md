@@ -290,8 +290,7 @@ sections:
     colors: colors-a
     title: Mobilra optimalizált kialakítás
     text: >
-      #### Értékesítsd közvetlen szálláshelyed, akár Instagramról, vagy
-      Facebookról
+      #### Növeld mobilról érkező foglalásaid számát
 
 
       Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
