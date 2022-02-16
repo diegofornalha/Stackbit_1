@@ -49,7 +49,7 @@ code {
     font-weight: 500;
 }
 
-.sb-markdown h6 {
+.sb-markdown h6:first-child {
     margin-bottom: 200px;
 }
 
