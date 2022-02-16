@@ -18,6 +18,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: full
+          label: Email cím
       submitLabel: Feliratkozás
     media: null
     styles:
