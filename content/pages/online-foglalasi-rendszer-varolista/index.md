@@ -1,5 +1,7 @@
 ---
 title: Online foglalási rendszer várólista | Appartman
+seo:
+  
 sections:
   - type: ContactSection
     colors: colors-f
