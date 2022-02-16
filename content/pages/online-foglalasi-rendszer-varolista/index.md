@@ -8,6 +8,9 @@ sections:
       ###### 0% jutalék május végéig
 
 
+      \&nbsp; 
+
+
       2022\. június 1-től mindössze 2% jutalék kerül levonásra a megvalósult
       foglalásokból.
     form:
