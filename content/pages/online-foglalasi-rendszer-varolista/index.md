@@ -23,7 +23,7 @@ sections:
           label: Email cím
         - name: adatkezelesi
           label: Elfogadom az adatkezelési nyilatkozatot
-          isRequired: false
+          isRequired: true
           width: full
           type: CheckboxFormControl
       submitLabel: Feliratkozás
