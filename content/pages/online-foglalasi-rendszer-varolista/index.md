@@ -11,7 +11,7 @@ sections:
       type: FormBlock
       elementId: feliratkozas
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: hello@appartman.hu
       fields:
         - type: EmailFormControl
           name: email
