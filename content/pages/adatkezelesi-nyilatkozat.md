@@ -33,9 +33,6 @@ sections:
   - elementId: ''
     colors: colors-a
     subtitle: ''
-    text: |+
-      ####
-
     styles:
       self:
         height: auto
