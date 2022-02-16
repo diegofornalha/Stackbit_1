@@ -304,40 +304,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-a
-    title: ''
-    text: >
-      ## We sometimes write things. You should read it, it might shed some 
-      light on why we’re doing what we’re doing
-
-
-
-
-      [See all posts](/blog)
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-22
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
   - type: ContactSection
     colors: colors-f
     title: Get early access
