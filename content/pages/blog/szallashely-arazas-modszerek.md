@@ -2,6 +2,7 @@
 title: Hogyan árazzuk szálláshelyünket
 seo:
   title: Hogyan árazzuk szálláshelyünket | Appartman Blog
+  
 
 excerpt: >-
   A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható a
