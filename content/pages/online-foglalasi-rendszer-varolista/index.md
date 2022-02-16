@@ -5,6 +5,8 @@ sections:
     colors: colors-f
     title: Iratkozz fel az online foglalási rendszerünk várólistájára
     text: |
+      ###### 3 hónapig ingyenes
+
       Hamarosan elérhetővé válik a szobafoglalási rendszer első verziója.
     form:
       type: FormBlock
