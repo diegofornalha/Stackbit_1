@@ -3,7 +3,7 @@ title: Online foglalási rendszer várólista | Appartman
 sections:
   - type: ContactSection
     colors: colors-f
-    title: Get early access
+    title: Iratkozz fel az online foglalási rendszerünk várólistájára
     text: >-
       Sign up your team today to be the first to try out our new product to
       increase your team's productivity.
