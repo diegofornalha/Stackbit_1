@@ -3,8 +3,7 @@ title: Online foglalási rendszer magánszálláshelyeknek | Appartman
 seo:
   title: Online foglalási rendszer magánszálláshelyeknek | Appartman
   description: >-
-    Kis szálláshelyekre szabott foglalómotorunkkal több közvetlen foglalást 
-    érhetsz el a saját felületeidről és növelheted a bevételed.
+    Kis szálláshelyekre szabott foglalómotorunkkal több közvetlen foglalást érhetsz el a saját felületeidről és növelheted a bevételed.
 layout: PageLayout
 sections:
   - type: HeroSection
