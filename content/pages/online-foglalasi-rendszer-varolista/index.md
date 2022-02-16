@@ -21,7 +21,7 @@ sections:
           isRequired: true
           width: full
           label: Email cím
-        - name: updates
+        - name: adatkezelesi
           label: Sign me up to receive updates
           isRequired: false
           width: full
