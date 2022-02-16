@@ -3,7 +3,6 @@ title: Adatkezelési nyilatkozat
 sections:
   - type: FaqSection
     colors: colors-a
-    title: Need Answers?
     subtitle: ''
     items:
       - {}
