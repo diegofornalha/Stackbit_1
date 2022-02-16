@@ -4,9 +4,8 @@ sections:
   - type: ContactSection
     colors: colors-f
     title: Iratkozz fel az online foglalási rendszerünk várólistájára
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
+    text: |
+      Hamarosan elérhetővé válik a szobafoglalási rendszer első verziója.
     form:
       type: FormBlock
       elementId: feliratkozas
