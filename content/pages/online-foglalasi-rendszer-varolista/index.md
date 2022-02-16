@@ -21,6 +21,11 @@ sections:
           isRequired: true
           width: full
           label: Email cím
+        - name: updates
+          label: Sign me up to receive updates
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
       submitLabel: Feliratkozás
     media: null
     styles:
