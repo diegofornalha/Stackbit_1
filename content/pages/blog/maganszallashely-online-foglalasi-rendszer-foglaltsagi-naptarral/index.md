@@ -1,7 +1,7 @@
 ---
 title: 'Szálláshely automatizáció: online foglalási rendszer'
 seo:
-  title: 
+  title: Szálláshely automatizáció: online foglalási rendszer
 date: '2021-11-17'
 excerpt: >-
   Az online foglalási rendszer lehetővé teszi, hogy több közvetlen foglalásod
