@@ -9,7 +9,7 @@ sections:
       increase your team's productivity.
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: feliratkozas
       action: /.netlify/functions/submission_created
       destination: ''
       fields:
