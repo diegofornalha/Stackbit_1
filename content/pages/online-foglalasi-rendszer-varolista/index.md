@@ -2,7 +2,7 @@
 title: Online foglalási rendszer várólista | Appartman
 seo:
   title: Online foglalási rendszer várólista | Appartman
-  description: Magánszálláshelyekre szabott online szobafoglalási rendszerünk hamarosan elkészül. 
+  description: Magánszálláshelyekre szabott online szobafoglalási rendszerünk hamarosan elkészül. Ha feliratkozol, az elsők között próbálhatod ki
 sections:
   - type: ContactSection
     colors: colors-f
