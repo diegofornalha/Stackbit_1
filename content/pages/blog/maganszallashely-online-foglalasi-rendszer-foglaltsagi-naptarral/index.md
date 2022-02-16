@@ -2,7 +2,7 @@
 title: 'Szálláshely automatizáció: online foglalási rendszer'
 seo:
   title: 'Szálláshely automatizáció: online foglalási rendszer | Appartman Blog'
-  description: Egy jó foglalómotor leegyszerűsíti a foglalások adminisztrációját, és pénzt is takarít meg. A cikkben megtudod, hogyan segíthet egy online foglalási rendszer.
+  description: Egy jó foglalómotor leegyszerűsíti a foglalási folyamatot a vendégeidnek és neked egyaránt. A cikkben megtudod, hogyan segíthet egy online foglalási rendszer.
 date: '2021-11-17'
 excerpt: >-
   Az online foglalási rendszer lehetővé teszi, hogy több közvetlen foglalásod
