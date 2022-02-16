@@ -2,7 +2,7 @@
 title: Hogyan árazzuk szálláshelyünket | Appartman Blog
 date: '2021-11-02'
 seo:
-  title: 
+  title: Hogyan árazzuk szálláshelyünket | Appartman Blog
   description: A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható a kihasználtság és az árbevétel.
 excerpt: >-
   A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható a
