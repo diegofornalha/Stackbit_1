@@ -626,7 +626,7 @@ sections:
     actions:
       - type: Button
         label: Ingyenes regisztráció
-        url: 'https://foglalas.appartman.hu/register'
+        url: /online-foglalasi-rendszer-varolista/
         style: primary
     styles:
       self:
