@@ -2,6 +2,7 @@
 title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
 seo:
   title: 
+  description: Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes alkalmazni, hogy növeljük az arányát?
 date: '2021-11-18'
 excerpt: >-
   Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
