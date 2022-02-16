@@ -15,7 +15,7 @@ sections:
       fields:
         - type: EmailFormControl
           name: email
-          isRequired: 'true'
+          isRequired: true
           width: full
           label: Email cím
       submitLabel: Feliratkozás
