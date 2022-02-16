@@ -15,7 +15,6 @@ sections:
       fields:
         - type: EmailFormControl
           name: email
-          placeholder: Your email
           isRequired: 'true'
           width: full
           label: Email cím
