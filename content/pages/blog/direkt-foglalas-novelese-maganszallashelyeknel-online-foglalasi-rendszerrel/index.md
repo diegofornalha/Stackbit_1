@@ -1,5 +1,5 @@
 ---
-title: Hogyan növeljük direkt foglalásaink számát?
+title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
 seo:
   title: 
 date: '2021-11-18'
