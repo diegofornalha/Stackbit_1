@@ -29,6 +29,7 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
+    title: Adatkezelési nyilatkozat
   - elementId: ''
     colors: colors-a
     subtitle: ''
