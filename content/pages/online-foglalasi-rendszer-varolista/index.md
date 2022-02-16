@@ -5,10 +5,7 @@ sections:
     colors: colors-f
     title: Iratkozz fel az online foglalási rendszerünk várólistájára
     text: >
-      ###### 2022. 05. 31-ig 0% jutalék
-
-
-      \*\*\*\*
+      ###### `2022. 05. 31-ig 0% jutalék`
 
 
       2022\. június 1-től mindössze 2% jutalék kerül levonásra a megvalósult
