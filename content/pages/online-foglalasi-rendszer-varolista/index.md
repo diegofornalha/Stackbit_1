@@ -338,35 +338,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: FeaturedPostsSection
-    variant: variant-b
-    colors: colors-a
-    title: ''
-    subtitle: ''
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
   - type: ContactSection
     colors: colors-f
     title: Get early access
