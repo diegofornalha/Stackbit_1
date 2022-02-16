@@ -1,5 +1,5 @@
 ---
-title: Szakmai tudástár szállásadóknak  | Appartman Blog
+title: Szakmai tudástár szállásadóknak
 seo:
   title: Tudástár magánszállásadóknak | Appartman Blog
   description: >-
