@@ -22,7 +22,7 @@ sections:
           width: full
           label: Email cím
         - name: adatkezelesi
-          label: Sign me up to receive updates
+          label: Elfogadom az adatkezelési nyilatkozatot
           isRequired: false
           width: full
           type: CheckboxFormControl
