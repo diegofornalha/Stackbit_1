@@ -10,9 +10,6 @@ sections:
 
       2022\. június 1-től mindössze 2% jutalék kerül levonásra a megvalósult
       foglalásokból.
-
-
-      Hamarosan elérhetővé válik a szobafoglalási rendszer első verziója.
     form:
       type: FormBlock
       elementId: feliratkozas
