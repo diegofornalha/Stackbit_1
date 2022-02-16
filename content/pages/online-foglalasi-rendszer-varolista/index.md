@@ -18,7 +18,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: full
-      submitLabel: Sign Up
+      submitLabel: Feliratkozás
     media: null
     styles:
       self:
