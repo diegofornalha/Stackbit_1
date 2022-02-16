@@ -1,5 +1,5 @@
 ---
-title: Hogyan árazzuk szálláshelyünket
+title: Hogyan árazzuk szálláshelyünket | Appartman Blog
 date: '2021-11-02'
 seo:
   description: Nagyon jó leírás.
