@@ -3,8 +3,7 @@ title: Szakmai tudástár szállásadóknak  | Appartman Blog
 seo:
   title: Tudástár magánszállásadóknak | Appartman Blog
   description: >-
-    Szállásadóknak szánt szakmai cikkeinkkel a vendégházak, apartmanok és kisebb
-    panziók fejlődését igyekszünk segíteni.
+    Szállásadóknak szánt szakmai cikkeinkkel a vendégházak, apartmanok és kisebb panziók fejlődését igyekszünk segíteni.
 layout: PageLayout
 sections:
   - type: PostFeedSection
