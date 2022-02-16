@@ -1,7 +1,8 @@
 ---
 title: 'Szálláshely automatizáció: online foglalási rendszer'
 seo:
-  title: >'Szálláshely automatizáció: online foglalási rendszer | Appartman Blog'
+  title: >- 
+  'Szálláshely automatizáció: online foglalási rendszer | Appartman Blog'
 
 date: '2021-11-17'
 excerpt: >-
