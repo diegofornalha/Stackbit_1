@@ -416,12 +416,8 @@ sections:
   - elementId: ''
     colors: colors-f
     title: Próbáld ki ingyen és fogadj vendégeket 3 perc múlva
-    text: >+
+    text: |+
       ###### 3 hónap ingyenes próbidőszak
-
-
-      A próbaidőszakot követően is csupán 2% jutalékot vonunk le a megvalósult
-      foglalások után.
 
     actions:
       - type: Button
