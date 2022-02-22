@@ -417,7 +417,7 @@ sections:
     colors: colors-f
     title: Próbáld ki ingyen és fogadj vendégeket 3 perc múlva
     text: |+
-      ###### 3 hónap ingyenes próbidőszak
+      ###### ingyenes próbidőszak
 
     actions:
       - type: Button
