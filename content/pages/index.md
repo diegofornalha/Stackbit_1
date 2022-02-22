@@ -618,8 +618,6 @@ sections:
     title: >-
       Regisztrálj, üzemeld be percek alatt és növeld közvetlen foglalásaid
       számát
-    text: |
-      Előfizetés nélkül a jutalék mindössze a foglalási érték 2%-a. 
     actions:
       - type: Button
         label: Ingyenes regisztráció
