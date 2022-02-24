@@ -1,7 +1,7 @@
 import '../components/register-components';
 import '../css/main.css';
 import Head from 'next/head';
-import Script from 'next/sc';
+import Script from 'next/script';
 
 export default function MyApp({ Component, pageProps }) {
     return (
