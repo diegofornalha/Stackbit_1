@@ -7,6 +7,7 @@ export default function MyApp({ Component, pageProps }) {
         <>
             <Head>
                 <link rel="icon" href="/favicon.png" />
+                
             </Head>
             <Component {...pageProps} />
         </>
