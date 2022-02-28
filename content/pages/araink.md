@@ -77,7 +77,7 @@ sections:
                 </tr>
                 <tr>
                   <td>15</td>
-                  <td>14 500</td>
+                  <td>17 000</td>
                 </tr>
                 <tr>
                   <td>16</td>
