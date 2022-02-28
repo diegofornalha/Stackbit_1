@@ -15,7 +15,7 @@ sections:
           <iframe
             src="https://tally.so/embed/mejWk3?alignLeft=1&hideTitle=1&transparentBackground=1"
             width="100%"
-            height="200"
+            height="600"
             frameborder="0"
             marginheight="0"
             marginwidth="0"
