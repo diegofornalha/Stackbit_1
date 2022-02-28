@@ -7,7 +7,6 @@ sections:
     text: You should join us.
     media:
       type: ImageBlock
-      url: /images/hero-4.jpg
       caption: Team meeting
       altText: Hero section image
     styles:
