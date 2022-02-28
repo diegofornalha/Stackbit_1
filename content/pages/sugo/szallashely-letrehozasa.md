@@ -70,8 +70,12 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
+        text: >+
           #### 1. Új szálláshely hozzáadása
+
+
+          Új szálláshelyet a regisztráció után, vagy a jobb oldalon található
+          legördülő menüben található Szállások menüpontból lehet létrehozni.
 
 
           Itt a következő alapadatokat kell megadnod.
@@ -95,25 +99,14 @@ sections:
           *   Cím
 
 
-          *   Szálláshely képei
-
-              Az ide feltöltött képek a foglalómotor főoldalán fognak megjelenni.
-              Az első helyen megjelenő képet a kép jobb felső sarkában található gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
-
-              A képet törölni szintén a jobb felső sarokban található gombbal előhívott Kép törlése menüponttal lehetséges.
-
-          #### 2. Szobák számának megadása
+          #### 2. Lakóegység adatok megadása
 
 
-          ***Külön foglalható*** lakóegységeid számának megadása. A szám
-          megadása után megjelenik egy lista a megfelelő elemszámmal.
-
-
-          #### 3. Lakóegység adatok megadása
-
-
-          Az előzőleg létrehozott listaelemeket megnyitva tudod megadni az adott
-          lakóegység paramétereit. A következő paraméterekre lesz szükség:
+          A regisztrációs folyamatban a szálláshely létrehozása után, a
+          szálláshely kártyájára kattintva automatikusan a Szobák menüpontba
+          kerülsz, ahol a rendszer arra kér, hogy add meg a lakóegységeket. Ezt
+          a jobb oldalon található Új lakóegység gombbal tudod megtenni. A
+          következő paraméterek megadása szükséges.
 
 
           *   lakóegység neve
@@ -128,14 +121,12 @@ sections:
           *   egységár
 
 
-          *   lakóegység képei
+          *   hétvégi árak (ha van)
 
 
-          #### 4. Mentés
+          *   lakóegység képei (ez az alapadatok megadása és a Mentés gomb
+          megnyomása után jelenik meg)
 
-
-          Miután megadtad az összes szükséges lakóegységet, a mentés gombbal
-          véglegesítheted az újonnan megadott szálláshelyedet.
         featuredImage: null
         styles:
           title:
