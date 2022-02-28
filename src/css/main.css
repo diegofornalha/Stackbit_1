@@ -84,13 +84,8 @@ code {
 .colors-f p {
     color: #AEAFB8
 }
-
-.sb-markdown tr {
-    border-top: solid 1px #C6C5D6;
-}
-
 .sb-markdown table {
-    border: none !important;
+    border: none;
     box-shadow: 0px 4px 20px rgba(63, 51, 111, 0);
     border-radius: 12px;
     padding: 10px;
@@ -108,5 +103,9 @@ code {
 .sb-markdown th {
     border-top: none !important;
     border-bottom: none !important;
+    border-right: none !important;
+}
 
-
+.sb-markdown tr {
+    border-top: solid 1px #C6C5D6;
+}
