@@ -426,6 +426,14 @@ sections:
         label: Ingyenes regisztráció
         url: 'https://foglalas.appartman.hu/register'
         style: secondary
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     styles:
       self:
         height: auto
