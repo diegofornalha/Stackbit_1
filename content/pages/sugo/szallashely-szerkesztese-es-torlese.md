@@ -71,6 +71,53 @@ sections:
     items:
       - type: FeaturedItem
         text: >
+          ### Szálláshely beállítások
+
+
+          A szálláshelyhez kapcsolódóan a következő beállításokra van lehetőség
+
+
+          #### Szálláshely linkje
+
+
+          A foglalási linket másolása a link mellett balra található gombbal
+          lehetséges.
+
+
+          #### Szálláshely képei
+
+
+          Ide lehetséges feltölteni a szálláshelyhez kapcsolódó képeket, amik a
+          foglalási felület nyitóoldalán fognak megjelenni.
+
+
+          ##### Képek feltöltése
+
+
+          Kattints az új képek feltöltése gombra.
+
+
+          1.  Válaszd ki a képeket a számítógépedről a "Choose a local file"
+          gombbal, vagy egyszerűen jelöld ki és húzd be őket
+
+
+          2.  Kattints az ablak jobb alsó sarkában található "Add" gombra.
+
+
+          Képek sorrendjének megváltoztatása
+
+
+          A képek sorrendjének megváltoztatása egy későbbi funkciónk lesz,
+          jelenleg a legelső kép megjelölésére van lehetőség. Ehhez a
+          következőket kell tenni (**miután a feltöltés lépésivel kész vagy**):
+
+
+          1.  Kattints a kép sarkában található gombra
+
+
+          2.  Válaszd ki a "Beállítás főképnek" opciót
+
+
           ### Lakóegységek szerkesztése
 
 
