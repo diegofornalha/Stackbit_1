@@ -105,6 +105,7 @@ code {
     border-top: solid 1px rgb(247, 246, 249);
     border-right: none;
     border-bottom: none;
+    padding-top: 14px
 }
 
 .sb-markdown tr {
