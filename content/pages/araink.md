@@ -23,7 +23,7 @@ sections:
                 <caption>Table with thead, tfoot, and tbody</caption>
               <thead>
                 <tr>
-                  <th>Működj már</th>
+                  <th>Mrűködj má</th>
                   <th>Header content</th>
                 </tr>
               </thead>
