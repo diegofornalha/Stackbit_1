@@ -28,7 +28,7 @@ sections:
                   <td>Body content</td>
                 </tr>
                 <tr>
-                  <td>2</td>
+                  <td>3</td>
                   <td>Body content</td>
                 </tr>
                 <tr>
