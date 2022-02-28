@@ -96,7 +96,7 @@ sections:
                 </tr>
                 <tr>
                   <td>19</td>
-                  <td>15 000</td>
+                  <td>15 200</td>
                 </tr>
               </tbody>
               <tfoot>
