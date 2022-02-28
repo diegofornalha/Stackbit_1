@@ -101,7 +101,7 @@ code {
 }
 
 .sb-markdown th {
-    border-top: none !important;
+    border: none !important;
 }
 
 .sb-markdown tr {
