@@ -102,7 +102,7 @@ sections:
               <tfoot>
                 <tr>
                   <td>20</td>
-                  <td>15 500</td>
+                  <td>15 600</td>
                 </tr>
               </tfoot>
             </table>
