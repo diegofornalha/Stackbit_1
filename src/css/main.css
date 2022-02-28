@@ -106,6 +106,7 @@ code {
     border-right: none;
     border-bottom: none;
     padding-top: 14px;
+    padding-left: 16px;
 }
 
 .sb-markdown tr {
