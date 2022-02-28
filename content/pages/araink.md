@@ -8,8 +8,10 @@ sections:
     items:
       - type: FeaturedItem
         title: null
-        text: |+
-          Áraink havi előfizetés esetén. [Éves áraink](https://appartman.hu/araink-eves/)
+        text: >
+          Áraink havi előfizetés esetén. [Éves
+          áraink](https://appartman.hu/araink-eves/)
+
 
           <div class="responsive-table">
             <table>
@@ -105,7 +107,6 @@ sections:
               </tfoot>
             </table>
           </div>
-
         featuredImage: null
         styles:
           title:
