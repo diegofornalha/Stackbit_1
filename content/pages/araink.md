@@ -18,7 +18,7 @@ sections:
               <thead>
                 <tr>
                   <th>Lakóegységek száma</th>
-                  <th>Havonta fizendő (Ft)</th>
+                  <th>Havonta fizetendő (Ft)</th>
                 </tr>
               </thead>
               <tbody>
