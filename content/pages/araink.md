@@ -24,7 +24,7 @@ sections:
               <thead>
                 <tr>
                   <th>Lakóegységek száma</th>
-                  <th></th>
+                  <th>Havi ár</th>
                 </tr>
               </thead>
               <tbody>
