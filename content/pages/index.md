@@ -428,7 +428,7 @@ sections:
         style: secondary
       - label: Áraink
         altText: Áraink
-        url: /
+        url: /araink
         showIcon: false
         icon: arrowRight
         iconPosition: right
