@@ -419,6 +419,8 @@ sections:
     text: |+
       ###### ingyenes próbidőszak
 
+      Május 31-ig minden funkció ingyenesen használható. 
+
     actions:
       - type: Button
         label: Ingyenes regisztráció
