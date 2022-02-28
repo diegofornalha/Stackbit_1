@@ -21,7 +21,7 @@ sections:
               <tbody>
                 <tr>
                   <td>1</td>
-                  <td>5000</td>
+                  <td>5 000</td>
                 </tr>
                 <tr>
                   <td>2</td>
