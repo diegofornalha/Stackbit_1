@@ -60,7 +60,7 @@ sections:
                 </tr>
                 <tr>
                   <td>10</td>
-                  <td>11 500</td>
+                  <td>11 600</td>
                 </tr>
                 <tr>
                   <td>11</td>
