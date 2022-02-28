@@ -79,7 +79,7 @@ sections:
           látogatnod:
 
 
-          *Főoldal > Szobák > Új lakóegység *
+          \*Főoldal > Szobák > Új lakóegység \*
 
 
           ### Lakóegység adatok megadása
@@ -98,6 +98,29 @@ sections:
 
 
           *   egységár
+
+
+          *   hétvégi árak
+
+
+          ### Képek feltöltése
+
+
+          Képeket a lakóegység létrehozása és az alapadatok elmentése után van
+          lehetőség feltölteni a lakóegység kártyájának alsó részén. Kattints az
+          új képek feltöltése gombra, és tallózd, vagy egyszerűen húzd be a
+          megjelenő ablakba a feltölteni kívánt képeket. Nyomd meg az "Add"
+          gombot, és már fel is töltődnek a képek.
+
+
+          Képek elrendezése
+
+
+          Egyelőre a képek sorrendjét illetően csak egy főkép kiválasztására van
+          lehetőség. A főkép lesz sorrendben az első kép, ami megjelenik a
+          foglalási felületen a lekóegység kártyáján. Ehhez a képeken a 3
+          ponttal jelölt gombra kattintva, a Beállítás főképként opciót
+          kiválasztva van lehetőség.
 
 
           ### Mentés
