@@ -98,7 +98,7 @@ code {
 }
 
 .sb-markdown td {
-    border: none !important;     
+    border: none;     
 }
 
 .sb-markdown thead {
