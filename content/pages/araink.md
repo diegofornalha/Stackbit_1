@@ -79,6 +79,10 @@ sections:
                   <td>15</td>
                   <td>14 500</td>
                 </tr>
+                <tr>
+                  <td>15</td>
+                  <td>14 500</td>
+                </tr>
               </tbody>
               <tfoot>
                 <tr>
