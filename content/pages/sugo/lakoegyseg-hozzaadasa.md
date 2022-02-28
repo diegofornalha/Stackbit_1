@@ -82,7 +82,7 @@ sections:
           *Főoldal > Szobák > Új lakóegység*
 
 
-          ### Lakóegység adatok megadása
+          ### 1. Lakóegység adatok megadása
 
 
           Az új lakóegység megadásához a következő paraméterekre lesz szükség:
@@ -103,7 +103,14 @@ sections:
           *   hétvégi árak
 
 
-          ### Képek feltöltése
+          ### 2. Mentés
+
+
+          Miután megadtad a lakóegységed paramétereit, a mentés gombbal
+          véglegesítheted az új lakóegységet.
+
+
+          ### 3. Képek feltöltése
 
 
           Képeket a lakóegység létrehozása és az alapadatok elmentése után van
@@ -113,7 +120,7 @@ sections:
           gombot, és már fel is töltődnek a képek.
 
 
-          Képek elrendezése
+          #### Képek elrendezése
 
 
           Egyelőre a képek sorrendjét illetően csak egy főkép kiválasztására van
@@ -121,13 +128,6 @@ sections:
           foglalási felületen a lekóegység kártyáján. Ehhez a képeken a 3
           ponttal jelölt gombra kattintva, a Beállítás főképként opciót
           kiválasztva van lehetőség.
-
-
-          ### Mentés
-
-
-          Miután megadtad a lakóegységed paramétereit, a mentés gombbal
-          véglegesítheted az új lakóegységet.
         featuredImage: null
         styles:
           title:
