@@ -125,7 +125,7 @@ sections:
 
 
           *   lakóegység képei (ez az alapadatok megadása és a Mentés gomb
-          megnyomása után jelenik meg)
+          megnyomása után jelenik meg)![](/images/3hc4so7c0z761.gif)
 
         featuredImage: null
         styles:
