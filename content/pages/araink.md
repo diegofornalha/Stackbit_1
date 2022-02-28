@@ -24,7 +24,7 @@ sections:
                   <td>4000</td>
                 </tr>
                 <tr>
-                  <td>Body content</td>
+                  <td>2</td>
                   <td>Body content</td>
                 </tr>
               </tbody>
