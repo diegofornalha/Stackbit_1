@@ -35,8 +35,6 @@ sections:
                 <tr>
                   <td>Body content</td>
                   <td>Body content</td>
-                  <td>Body content</td>
-                  <td>Body content</td>
                 </tr>
               </tbody>
               <tfoot>
