@@ -90,7 +90,7 @@ code {
 }
 
 .sb-markdown table {
-    border: none;
+    border: none !important;
     box-shadow: 0px 4px 20px rgba(63, 51, 111, 0);
     border-radius: 12px;
     padding: 10px;
@@ -102,6 +102,11 @@ code {
 }
 
 .sb-markdown thead {
-    border-bottom: solid 1px #C6C5D6;
+    border-top: none !important;
 }
+
+.sb-markdown th {
+    border-top: none !important;
+    border-bottom: none !important;
+
 
