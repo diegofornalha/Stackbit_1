@@ -57,7 +57,7 @@ sections:
                 </tr>
                 <tr>
                   <td>10</td>
-                  <td>Body content</td>
+                  <td>14 500</td>
                 </tr>
               </tbody>
               <tfoot>
