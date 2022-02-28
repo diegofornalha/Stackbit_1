@@ -104,7 +104,7 @@ sections:
           2.  Kattints az ablak jobb alsó sarkában található "Add" gombra.
 
 
-          Képek sorrendjének megváltoztatása
+          ##### Képek sorrendjének megváltoztatása
 
 
           A képek sorrendjének megváltoztatása egy későbbi funkciónk lesz,
