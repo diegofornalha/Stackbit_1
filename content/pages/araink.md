@@ -20,7 +20,6 @@ sections:
           since the 1500s, when an unknown printer took a galley of type and
           <div class="responsive-table">
             <table>
-                <caption>Table with thead, tfoot, and tbody</caption>
               <thead>
                 <tr>
                   <th>Lakóegységek száma</th>
