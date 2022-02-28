@@ -74,11 +74,11 @@ sections:
           ### Lakóegységek szerkesztése
 
 
-          *Szálláshelyed > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal
-          jelölt gomb) > Szobák szerkesztése*
+          Főoldal* > Legördülő menü > Szállások > Opciók (3 ponttal jelölt gomb)
+          > Szobák szerkesztése*
 
 
-          *Szálláshelyed > Szobák > Szobák szerkesztése*
+          *Főoldal > Szobák > Szobák szerkesztése*
 
 
           Ebben a menüben módosíthatod a lakóegységek korábban megadott adatait,
@@ -97,7 +97,9 @@ sections:
           *   egységár
 
 
-          *   lakóegység képei
+          A lakóegységek képeit a lakóegység kártyáján, alul lehetséges
+          módosítani. A foglalási folyamatban ezek a képek fognak megjelenni a
+          lakóegységeknél
 
 
           A Mentés gombra kattintva véglegesítheted a módosításaidat.
