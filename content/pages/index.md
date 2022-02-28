@@ -427,7 +427,7 @@ sections:
         url: 'https://foglalas.appartman.hu/register'
         style: secondary
       - label: Áraink
-        altText: Learn more
+        altText: Áraink
         url: /
         showIcon: false
         icon: arrowRight
