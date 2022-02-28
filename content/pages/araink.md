@@ -89,10 +89,10 @@ sections:
                 </tr>
                 <tr>
                   <td>18</td>
-                  <td>18 000</td>
+                  <td>18 500</td>
                 </tr>
                 <tr>
-                  <td>18</td>
+                  <td>19</td>
                   <td>18 500</td>
                 </tr>
               </tbody>
