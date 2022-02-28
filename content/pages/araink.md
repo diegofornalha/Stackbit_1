@@ -16,7 +16,7 @@ sections:
               <thead>
                 <tr>
                   <th>Lakóegységek száma</th>
-                  <th>Havi ár éves előfizetés esetén (Ft)</th>
+                  <th>Havonta fizendő (Ft)</th>
                 </tr>
               </thead>
               <tbody>
