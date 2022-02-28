@@ -30,7 +30,7 @@ sections:
               <tbody>
                 <tr>
                   <td>1</td>
-                  <td>Body content</td>
+                  <td>4000</td>
                 </tr>
                 <tr>
                   <td>Body content</td>
