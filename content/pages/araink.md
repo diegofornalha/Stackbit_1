@@ -24,7 +24,7 @@ sections:
               <thead>
                 <tr>
                   <th>Lakóegységek száma</th>
-                  <th>Header content</th>
+                  <th></th>
                 </tr>
               </thead>
               <tbody>
