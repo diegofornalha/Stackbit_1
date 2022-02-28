@@ -21,6 +21,7 @@ sections:
             marginwidth="0"
             title="Vidéki idill megteremtése a szálláshelyen – esemény értékelő kérdőív">
           </iframe>
+          
           <div class="responsive-table">
             <table>
               <thead>
