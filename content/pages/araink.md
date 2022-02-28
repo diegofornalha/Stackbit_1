@@ -23,7 +23,7 @@ sections:
                 <caption>Table with thead, tfoot, and tbody</caption>
               <thead>
                 <tr>
-                  <th>Lakóegységek</th>
+                  <th>Lakóegységek száma</th>
                   <th>Header content</th>
                 </tr>
               </thead>
