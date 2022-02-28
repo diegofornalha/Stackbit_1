@@ -74,8 +74,9 @@ sections:
           #### 1. Új szálláshely hozzáadása
 
 
-          Új szálláshelyet a regisztráció után, vagy a jobb oldalon található
-          legördülő menüben található Szállások menüpontból lehet létrehozni.
+          Új szálláshelyet a regisztráció után, vagy a fejlécen a jobb oldalon
+          található legördülő menüben található Szállások menüpontból lehet
+          létrehozni.
 
 
           Itt a következő alapadatokat kell megadnod.
