@@ -84,7 +84,7 @@ sections:
                   <td>14 500</td>
                 </tr>
                 <tr>
-                  <td>15</td>
+                  <td>16</td>
                   <td>14 500</td>
                 </tr>
               </tbody>
