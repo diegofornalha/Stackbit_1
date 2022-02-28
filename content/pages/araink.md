@@ -23,7 +23,7 @@ sections:
           *   szezonális árazás és foglalási szabályok
 
 
-          *   kiemelt időszakok árazás és foglalási szabályok
+          *   kiemelt időszakok árazása és foglalási szabályok
 
 
           <div class="responsive-table">
