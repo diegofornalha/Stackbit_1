@@ -98,7 +98,7 @@ sections:
               </tbody>
               <tfoot>
                 <tr>
-                  <td>Footer content</td>
+                  <td>20</td>
                   <td>Footer content</td>
                 </tr>
               </tfoot>
