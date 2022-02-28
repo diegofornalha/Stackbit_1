@@ -103,7 +103,7 @@ code {
 .sb-markdown th {
     border-top: solid 1px rgb(247, 246, 249);
     border-right: none;
-    
+    border-bottom: none;
 }
 
 .sb-markdown tr {
