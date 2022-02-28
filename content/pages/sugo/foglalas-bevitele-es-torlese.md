@@ -74,7 +74,7 @@ sections:
           ### Foglalás bevitele
 
 
-          *Szálláshelyed > Új foglalás*
+          *Főoldal > Új foglalás*
 
 
           #### 1. Vendégszám megadása
@@ -85,6 +85,9 @@ sections:
 
 
           #### 2. Dátumok megadása
+
+
+          Válaszd ki a naptárból az érkezés és a távozás dátumát.
 
 
           #### 3. Ajánlott lakóegység(ek) kiválasztása...
