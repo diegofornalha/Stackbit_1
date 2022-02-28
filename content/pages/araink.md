@@ -13,14 +13,14 @@ sections:
           áraink](https://appartman.hu/araink-eves/)
 
           <iframe
-  src="https://tally.so/embed/mejWk3?alignLeft=1&hideTitle=1&transparentBackground=1"
-  width="100%"
-  height="200"
-  frameborder="0"
-  marginheight="0"
-  marginwidth="0"
-  title="Vidéki idill megteremtése a szálláshelyen – esemény értékelő kérdőív">
-</iframe>
+            src="https://tally.so/embed/mejWk3?alignLeft=1&hideTitle=1&transparentBackground=1"
+            width="100%"
+            height="200"
+            frameborder="0"
+            marginheight="0"
+            marginwidth="0"
+            title="Vidéki idill megteremtése a szálláshelyen – esemény értékelő kérdőív">
+          </iframe>
           <div class="responsive-table">
             <table>
               <thead>
