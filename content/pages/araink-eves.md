@@ -8,8 +8,10 @@ sections:
     items:
       - type: FeaturedItem
         title: null
-        text: |+
-          Áraink havi előfizetés esetén. [Éves áraink](https://appartman.hu)
+        text: >+
+          Áraink éves előfizetés esetén. [Havi
+          áraink](https://appartman.hu/araink)
+
 
           <div class="responsive-table">
             <table>
