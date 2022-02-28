@@ -1,5 +1,5 @@
 ---
-title: Áraink | Appartman
+title: Áraink 
 sections:
   - type: FeaturedItemsSection
     colors: colors-a
