@@ -7,8 +7,11 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 
-        text: >
+        title: null
+        text: |+
+          Áraink havi előfizetés esetén. 
+
+
 
           <div class="responsive-table">
             <table>
@@ -104,6 +107,7 @@ sections:
               </tfoot>
             </table>
           </div>
+
         featuredImage: null
         styles:
           title:
