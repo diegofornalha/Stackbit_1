@@ -99,7 +99,7 @@ sections:
               <tfoot>
                 <tr>
                   <td>20</td>
-                  <td>Footer content</td>
+                  <td>19 500</td>
                 </tr>
               </tfoot>
             </table>
