@@ -70,7 +70,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### Lakóegység hozzáadása
 
 
@@ -79,7 +79,7 @@ sections:
           látogatnod:
 
 
-          *Szálláshelyed > Szobák > Új szoba hozzáadása*
+          *Főoldal > Szobák > Új lakóegység *
 
 
           ### Lakóegység adatok megadása
@@ -100,15 +100,11 @@ sections:
           *   egységár
 
 
-          *   lakóegység képei
-
-
           ### Mentés
 
 
           Miután megadtad a lakóegységed paramétereit, a mentés gombbal
           véglegesítheted az új lakóegységet.
-
         featuredImage: null
         styles:
           title:
