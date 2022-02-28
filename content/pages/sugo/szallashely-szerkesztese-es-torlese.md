@@ -108,8 +108,8 @@ sections:
           ### Szálláshely törlése
 
 
-          *Főoldal > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal jelölt
-          gomb) > Szálláshely törlése.*
+          *Főoldal > Legördülő menü > Szállások > Opciók (3 ponttal jelölt gomb)
+          > Szálláshely törlése.*
         featuredImage: null
         styles:
           title:
