@@ -80,7 +80,7 @@ sections:
           *   a szálláshelyhez
 
 
-          *   lakóegységekhez kapcsolódóan
+          *   illetve lakóegységekhez kapcsolódóan
 
 
           ### Szálláshelyhez kapcsolódó képek feltöltése
@@ -93,7 +93,7 @@ sections:
           Új képek hozzáadásához a következő menüpontba kell navigálnod:
 
 
-          Szálláshelyed > Legördülő menü > Beállítások > Szálláshely képei
+          *Főoldal > Legördülő menü > Beállítások > Szálláshely képei*
 
 
           #### Új kép hozzáadása
