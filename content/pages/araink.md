@@ -29,7 +29,7 @@ sections:
               </thead>
               <tbody>
                 <tr>
-                  <td>Body content</td>
+                  <td>1</td>
                   <td>Body content</td>
                 </tr>
                 <tr>
