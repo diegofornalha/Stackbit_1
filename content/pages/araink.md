@@ -9,8 +9,10 @@ sections:
       - type: FeaturedItem
         title: null
         text: >+
-          Áraink havi előfizetés esetén. [Éves
-          áraink](https://appartman.hu/araink-eves/)
+          #### Áraink havi előfizetés esetén
+
+
+          [Éves áraink](https://appartman.hu/araink-eves/)
 
 
           Az Appartman foglalási rendszer május 31-ig minden funkció ingyenesen
