@@ -15,9 +15,9 @@ sections:
           [Éves áraink](https://appartman.hu/araink-eves/)
 
 
-          Az Appartman foglalási rendszer május 31-ig minden funkció ingyenesen
-          használható. Az alábbi árazás 2022. június 1-jén lép életbe, a
-          következő funkciók használata esetén:
+          Május 31-ig az Appartman foglalási rendszer minden funkciója
+          ingyenesen használható. Az alábbi árazás 2022. június 1-jén lép
+          életbe, a következő funkciók használata esetén:
 
 
           *   szezonális árazás és foglalási szabályok
