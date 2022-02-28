@@ -426,7 +426,7 @@ sections:
         label: Ingyenes regisztráció
         url: 'https://foglalas.appartman.hu/register'
         style: secondary
-      - label: Learn more
+      - label: Áraink
         altText: Learn more
         url: /
         showIcon: false
