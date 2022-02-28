@@ -3,7 +3,7 @@ title: Careers
 sections:
   - type: FeaturedItemsSection
     colors: colors-a
-    title: Convinced? check out these open roles
+    title: Áraink
     subtitle: ''
     items:
       - type: FeaturedItem
