@@ -106,6 +106,6 @@ code {
 }
 
 .sb-markdown th {
-    border-bottom: none !important;
+    border-bottom: solid 1px #;
 
 
