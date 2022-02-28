@@ -91,7 +91,7 @@ code {
 .sb-markdown td {
     border: solid 1px #6B6C82;
     background: #EEEDF2;
-    box-shadow: 
+    box-shadow: 0px 4px 20px rgba(63, 51, 111, 0.3);
 }
 
 .sb-markdown thead {
