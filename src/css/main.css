@@ -97,15 +97,13 @@ code {
 }
 
 .sb-markdown thead {
-    border: solid 0px #6B6C82;
-    background: #E7E6F0;
+    border-top: none !important;
 }
 
 .sb-markdown th {
     border: solid 0px #6B6C82;
-    background: #E7E6F0;
 }
 
 .sb-markdown tr {
-    border-bottom: solid 1px #C6C5D6;
+    border-top: solid 1px #C6C5D6;
 }
