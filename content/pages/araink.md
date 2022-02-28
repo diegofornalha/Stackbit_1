@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Áraink | Appartman
 sections:
   - type: FeaturedItemsSection
     colors: colors-a
