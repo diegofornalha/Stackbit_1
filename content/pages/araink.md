@@ -69,7 +69,7 @@ sections:
                 </tr>
                 <tr>
                   <td>13</td>
-                  <td>14 500</td>
+                  <td>16 000</td>
                 </tr>
                 <tr>
                   <td>10</td>
