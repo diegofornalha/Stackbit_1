@@ -85,11 +85,11 @@ code {
     color: #AEAFB8
 }
 .sb-markdown table {
-    border: none;
+    border: solid 0px #E7E6F0;
     box-shadow: 0px 4px 20px rgba(63, 51, 111, 0);
     border-radius: 12px;
     padding: 10px;
-    background: #EEEDF2;
+    background: #E7E6F0;
 }
 
 .sb-markdown td {
@@ -97,13 +97,15 @@ code {
 }
 
 .sb-markdown thead {
-    border-top: none !important;
+    border: solid 0px #6B6C82;
+    background: #E7E6F0;
 }
 
 .sb-markdown th {
-    border-top: none !important;
+    border: solid 0px #6B6C82;
+    background: #E7E6F0;
 }
 
 .sb-markdown tr {
-    border-top: solid 1px #C6C5D6;
+    border-bottom: solid 1px #C6C5D6;
 }
