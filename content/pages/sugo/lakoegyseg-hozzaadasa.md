@@ -82,7 +82,7 @@ sections:
           *Főoldal > Szobák > Új lakóegység*
 
 
-          ### 1. Lakóegység adatok megadása
+          #### 1. Lakóegység adatok megadása
 
 
           Az új lakóegység megadásához a következő paraméterekre lesz szükség:
@@ -103,14 +103,14 @@ sections:
           *   hétvégi árak
 
 
-          ### 2. Mentés
+          #### 2. Mentés
 
 
           Miután megadtad a lakóegységed paramétereit, a mentés gombbal
           véglegesítheted az új lakóegységet.
 
 
-          ### 3. Képek feltöltése
+          #### 3. Képek feltöltése
 
 
           Képeket a lakóegység létrehozása és az alapadatok elmentése után van
