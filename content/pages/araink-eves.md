@@ -9,7 +9,7 @@ sections:
       - type: FeaturedItem
         title: null
         text: >+
-          Áraink éves előfizetés esetén. [Havi
+          Áraink **éves** előfizetés esetén. [Havi
           áraink](https://appartman.hu/araink)
 
 
