@@ -85,6 +85,6 @@ code {
     color: #AEAFB8
 }
 .sb-markdown table {
-    border: solid 1px #6B6C82
+    border: solid 1px #6B6C82;
     border-radius: 4px 
 }
