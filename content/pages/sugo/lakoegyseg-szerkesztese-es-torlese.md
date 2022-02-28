@@ -70,15 +70,16 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### Lakóegység szerkesztése
 
 
-          *Főoldal > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal jelölt
+          *Főoldal > Legördülő menü > Szálláshely > Opciók (3 ponttal jelölt
           gomb) > Szobák szerkesztése*
 
 
-          *Főoldal > Szobák > Szobák szerkesztése*
+          *Főoldal > Szobák > Opciók (3 ponttal jelölt gomb) > Szobák
+          szerkesztése*
 
 
           Ebben a menüben módosíthatod a lakóegységek korábban megadott adatait,
@@ -97,11 +98,14 @@ sections:
           *   egységár
 
 
-          *   lakóegység képei
+          *   lakóegység képei (a szálláshely kártyáján módosíthatók a képek)
 
 
           ### Lakóegység törlése
 
+
+          A lakóegység törlésére szintén a lakóegység kártyáján jobb felül
+          található Opciók menüben van lehetőség.
         featuredImage: null
         styles:
           title:
