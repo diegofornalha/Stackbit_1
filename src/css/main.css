@@ -97,7 +97,7 @@ code {
 }
 
 .sb-markdown thead {
-    border-top: solid 1px rg;
+    border-top: solid 1px rgb(247, 246, 249);
 }
 
 .sb-markdown th {
