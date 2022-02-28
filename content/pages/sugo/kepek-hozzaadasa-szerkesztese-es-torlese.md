@@ -122,14 +122,14 @@ sections:
           ### Lakóegységhez kapcsolódó képek feltöltése
 
 
-          A szálláshelyhez kapcsolódó képek a foglalómotor vendég oldali
-          főoldalán fognak megjelenni a nyitóképernyőn.
+          A lakóegységhez kapcsolódó képek a foglalómotor vendég oldalán a
+          lakóegységek kártyáin jelennek meg.
 
 
           Új képek hozzáadásához a következő menüpontba kell navigálnod:
 
 
-          Szálláshelyed > Szobák
+          *Főoldal > Szobák*
 
 
           #### Új kép hozzáadása
