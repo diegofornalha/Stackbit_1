@@ -79,7 +79,7 @@ sections:
           látogatnod:
 
 
-          \*Főoldal > Szobák > Új lakóegység \*
+          *Főoldal > Szobák > Új lakóegység*
 
 
           ### Lakóegység adatok megadása
