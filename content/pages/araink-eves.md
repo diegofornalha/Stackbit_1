@@ -92,7 +92,7 @@ sections:
                 </tr>
                 <tr>
                   <td>18</td>
-                  <td>14 500</td>
+                  <td>14 800</td>
                 </tr>
                 <tr>
                   <td>19</td>
