@@ -52,7 +52,7 @@ sections:
                 </tr>
                 <tr>
                   <td>8</td>
-                  <td>12 500</td>
+                  <td>10 000</td>
                 </tr>
                 <tr>
                   <td>9</td>
