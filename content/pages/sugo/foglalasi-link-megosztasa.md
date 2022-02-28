@@ -85,14 +85,16 @@ sections:
           foglalómotor felületén:
 
 
-          *Szálláshelyed > Legördülő menü > Foglalási link másolása*
+          *Főoldal > Legördülő menü > Foglalási link másolása*
 
 
-          *Szálláshelyed > Legördülő menü > Beállítások > Szálláshely linkje*
+          *Főoldal > Legördülő menü > Beállítások > Szálláshely linkje*
 
 
           A link másolása után bárhol megoszthatod a szálláshelyed naprakész
-          online foglalási rendszerét.
+          online foglalási rendszerét. A link lényegében így bárhova
+          beilleszthető, akár a weboldalad "Foglalás" gombjára, egy Instagram
+          profil leírásába, vagy a Google Cégem felületre.
         featuredImage: null
         styles:
           title:
