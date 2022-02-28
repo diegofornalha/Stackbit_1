@@ -1,5 +1,5 @@
 ---
-title: Áraink 
+title: Áraink
 sections:
   - type: FeaturedItemsSection
     colors: colors-a
@@ -8,10 +8,22 @@ sections:
     items:
       - type: FeaturedItem
         title: null
-        text: >
+        text: >+
           Áraink havi előfizetés esetén. [Éves
           áraink](https://appartman.hu/araink-eves/)
-          
+
+
+          Az Appartman foglalási rendszer május 31-ig minden funkció ingyenesen
+          használható. Az alábbi árazás 2022. június 1-jén lép életbe, a
+          következő funkciók használata esetén:
+
+
+          *   szezonális árazás és foglalási szabályok
+
+
+          *   kiemelt időszakok árazás és foglalási szabályok
+
+
           <div class="responsive-table">
             <table>
               <thead>
@@ -106,6 +118,7 @@ sections:
               </tfoot>
             </table>
           </div>
+
         featuredImage: null
         styles:
           title:
