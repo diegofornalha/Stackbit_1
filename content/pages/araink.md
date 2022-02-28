@@ -56,7 +56,7 @@ sections:
                   <td>Body content</td>
                 </tr>
                 <tr>
-                  <td>2</td>
+                  <td>10</td>
                   <td>Body content</td>
                 </tr>
               </tbody>
