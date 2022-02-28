@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Engineering
+        title: 
         text: >
 
           <div class="responsive-table">
