@@ -74,11 +74,11 @@ sections:
           ### Lakóegység szerkesztése
 
 
-          *Szálláshelyed > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal
-          jelölt gomb) > Szobák szerkesztése*
+          *Főoldal > Legördülő menü > Szálláshelyeim > Opciók (3 ponttal jelölt
+          gomb) > Szobák szerkesztése*
 
 
-          *Szálláshelyed > Szobák > Szobák szerkesztése*
+          *Főoldal > Szobák > Szobák szerkesztése*
 
 
           Ebben a menüben módosíthatod a lakóegységek korábban megadott adatait,
@@ -101,8 +101,6 @@ sections:
 
 
           ### Lakóegység törlése
-
-
 
         featuredImage: null
         styles:
