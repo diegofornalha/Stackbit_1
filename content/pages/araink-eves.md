@@ -68,7 +68,7 @@ sections:
                 </tr>
                 <tr>
                   <td>12</td>
-                  <td>13 400</td>
+                  <td>12 400</td>
                 </tr>
                 <tr>
                   <td>13</td>
