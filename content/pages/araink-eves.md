@@ -9,8 +9,21 @@ sections:
       - type: FeaturedItem
         title: null
         text: >+
-          Áraink **éves** előfizetés esetén. [Havi
-          áraink](https://appartman.hu/araink)
+          #### Áraink éves előfizetés esetén
+
+
+          [Havi áraink](https://appartman.hu/araink)
+
+
+          Május 31-ig az Appartman foglalási rendszer minden funkciója
+          ingyenesen használható. Az alábbi árazás 2022. június 1-jén lép
+          életbe, a következő funkciók használata esetén:
+
+
+          *   szezonális árazás és foglalási szabályok
+
+
+          *   kiemelt időszakok árazása és foglalási szabályok
 
 
           <div class="responsive-table">
