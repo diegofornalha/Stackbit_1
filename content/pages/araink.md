@@ -33,7 +33,7 @@ sections:
                 </tr>
                 <tr>
                   <td>4</td>
-                  <td>Body content</td>
+                  <td>8 500</td>
                 </tr>
                 <tr>
                   <td>5</td>
