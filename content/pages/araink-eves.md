@@ -36,7 +36,7 @@ sections:
                 </tr>
                 <tr>
                   <td>4</td>
-                  <td>8 800</td>
+                  <td>6 800</td>
                 </tr>
                 <tr>
                   <td>5</td>
