@@ -89,6 +89,7 @@ code {
     box-shadow: 0px 4px 20px rgba(63, 51, 111, 0);
     padding: 10px;
     background: #EEEDF2;
+    border-radius: 14px;
 }
 
 .sb-markdown td {
