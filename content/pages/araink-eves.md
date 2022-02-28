@@ -80,7 +80,7 @@ sections:
                 </tr>
                 <tr>
                   <td>15</td>
-                  <td>17 600</td>
+                  <td>13 600</td>
                 </tr>
                 <tr>
                   <td>16</td>
