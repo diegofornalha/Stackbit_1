@@ -96,6 +96,9 @@ code {
     border: solid 0px #6B6C82;     
 }
 
+.sb-markdown thead {
+    border-top: none !important;
+}
 
 .sb-markdown th {
     border-top: none !important;
