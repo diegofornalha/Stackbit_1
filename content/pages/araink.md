@@ -108,26 +108,6 @@ sections:
             textAlign: left
           text:
             textAlign: left
-      - type: FeaturedItem
-        title: Product
-        text: >
-          Director of product management
-
-
-          **San Francisco**
-
-
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-        featuredImage: null
-        styles:
-          title:
-            textAlign: left
-          subtitle:
-            textAlign: left
-          text:
-            textAlign: left
     columns: 1
     styles:
       self:
