@@ -26,6 +26,9 @@ sections:
           *   kiemelt időszakok árazása és foglalási szabályok
 
 
+          *   iCal naptárszinkron (fejlesztés alatt)
+
+
           <div class="responsive-table">
             <table>
               <thead>
