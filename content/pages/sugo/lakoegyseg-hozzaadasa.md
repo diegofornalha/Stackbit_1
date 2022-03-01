@@ -110,7 +110,7 @@ sections:
 
 
           Sávos árazás vendégszám alapján: bizonyos vendégszámok között
-          megadhatóak külön árak.
+          megadhatóak külön árak. 
 
 
           Példa a hibrid árazásra:
@@ -143,8 +143,6 @@ sections:
           </div>
 
 
-
-
           **Hibrid árazás beállítása**
 
 
@@ -159,6 +157,29 @@ sections:
           jelenti. Tehát ha egy 6 fős szobába szeretnél beállítani egy árazási
           sávot 4-től 6 főig, akkor a bal oldali legördülőben válaszd ki a "4
           főtől", a jobb oldaliban pedig a "Teljes kapacitásig" opciót.
+
+
+          4.  Ha alkalmazol hétvégi árakat is, akkor jelöld be a hétvégi árak
+          jelölőnégyzetet, és add meg az árakat a megjelenő szövegmezőkben.
+
+
+          5.  Ha egy alapárat alkalmazol bizonyos vendégszámig, és azon felül
+          minden vendég adott egységáron adódik az árhoz, akkor az alapárhoz
+          tartozó sáv megadása után válaszd ki a "Minden további vendég" opciót.
+
+
+          #### Lakóegységenkénti árazás
+
+
+          Az éjszakánkénti árak a lakóegységhez meghatározottak, így például egy
+          szoba egy árral rendelkezik. Hétvégi ár beállítása is lehetséges.
+
+
+          #### Vendégéjszakánkénti árazás
+
+
+          Az éjszakánkétn fizetendő árat a vendégszám határozza meg. Hétvégi ár
+          beállítása is lehetséges.
 
 
           ### 2. Mentés
