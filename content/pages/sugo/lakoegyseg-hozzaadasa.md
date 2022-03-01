@@ -133,7 +133,7 @@ sections:
                   <td>24 000</td>
                 </tr>
                 <tr>
-                  <td>3</td>
+                  <td>5–6 fő</td>
                   <td>7 500</td>
                 </tr>
                 <tr>
