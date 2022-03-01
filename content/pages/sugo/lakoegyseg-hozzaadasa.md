@@ -126,16 +126,16 @@ sections:
               <tbody>
                 <tr>
                   <td>1–2 fő</td>
-                  <td>20 000</td>
+                  <td>20 000 Ft</td>
                 </tr>
                 <tr>
                   <td>3–4 fő</td>
-                  <td>24 000</td>
+                  <td>24 000 Ft</td>
                 </tr>
               <tfoot>
                 <tr>
                   <td>5–6 fő</td>
-                  <td>28 000</td>
+                  <td>28 000 Ft</td>
                 </tr>
               </tfoot>
             </table>
