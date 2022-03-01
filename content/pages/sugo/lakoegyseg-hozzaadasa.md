@@ -130,7 +130,7 @@ sections:
                 </tr>
                 <tr>
                   <td>3–4 fő</td>
-                  <td>22 500</td>
+                  <td>22 00</td>
                 </tr>
                 <tr>
                   <td>3</td>
