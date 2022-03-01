@@ -118,7 +118,7 @@
             },
             {
                 "type": "Social",
-                "altText": "Facebook",
+                "altText": "Az Appartman Facebook oldala",
                 "url": "https://www.facebook.com/appartman/",
                 "showIcon": true,
                 "icon": "facebook"
