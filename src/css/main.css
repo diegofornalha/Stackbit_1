@@ -113,6 +113,7 @@ code {
 }
 
 .sb-component-button-primary {
+    border: none;
     border-radius: 10px;
     background: linear-gradient(90deg, rgba(96,81,188,1) 0%, rgba(125,84,208,1) 100%);
 }
