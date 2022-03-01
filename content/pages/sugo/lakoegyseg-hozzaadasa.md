@@ -135,7 +135,7 @@ sections:
               <tfoot>
                 <tr>
                   <td>5–6 fő</td>
-                  <td>19 500</td>
+                  <td>28 000</td>
                 </tr>
               </tfoot>
             </table>
