@@ -119,7 +119,7 @@ sections:
             <table>
               <thead>
                 <tr>
-                  <th>Lakóegységek száma</th>
+                  <th>Vendégek száma</th>
                   <th>Havonta fizetendő (Ft)</th>
                 </tr>
               </thead>
