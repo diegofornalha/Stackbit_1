@@ -125,7 +125,7 @@ sections:
               </thead>
               <tbody>
                 <tr>
-                  <td>1–</td>
+                  <td>1–2 fő</td>
                   <td>5 000</td>
                 </tr>
                 <tr>
