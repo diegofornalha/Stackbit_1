@@ -134,7 +134,7 @@ sections:
             textAlign: left
         actions:
           - label: Ingyenes regisztráció
-            altText: Learn more
+            altText: Ingyenes regisztráció
             url: /
             showIcon: false
             icon: arrowRight
