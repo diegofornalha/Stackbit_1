@@ -115,6 +115,7 @@ sections:
 
           Példa a hibrid árazásra:
 
+
           <div class="responsive-table">
             <table>
               <thead>
@@ -140,6 +141,24 @@ sections:
               </tfoot>
             </table>
           </div>
+
+
+
+
+          **Hibrid árazás beállítása**
+
+
+          1.  A lakóegység hozzáadása ablakban az "Árak" rész jobb oldalán
+          található legördülő menüből válaszd ki a "hibrid árazás" opciót.
+
+
+          2.  Add meg az árazási sávokhoz tartozó vendégszámokat
+
+
+          3.  A "Teljes kapacitásig" opció az utolsó árazási sáv felső határát
+          jelenti. Tehát ha egy 6 fős szobába szeretnél beállítani egy árazási
+          sávot 4-től 6 főig, akkor a bal oldali legördülőben válaszd ki a "4
+          főtől", a jobb oldaliban pedig a "Teljes kapacitásig" opciót.
 
 
           ### 2. Mentés
