@@ -133,7 +133,7 @@ sections:
           text:
             textAlign: left
         actions:
-          - label: Learn more
+          - label: Ingyenes regisztráció
             altText: Learn more
             url: /
             showIcon: false
