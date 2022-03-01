@@ -115,7 +115,7 @@ sections:
 
           Példa a hibrid árazásra:
 
-                  <div class="responsive-table">
+          <div class="responsive-table">
             <table>
               <thead>
                 <tr>
