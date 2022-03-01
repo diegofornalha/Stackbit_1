@@ -135,7 +135,7 @@ sections:
         actions:
           - label: Ingyenes regisztráció
             altText: Ingyenes regisztráció
-            url: /
+            url: 'https://foglalas.appartman.hu/register'
             showIcon: false
             icon: arrowRight
             iconPosition: right
