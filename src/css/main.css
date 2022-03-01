@@ -111,3 +111,7 @@ code {
 .sb-markdown tr {
     border-top: solid 1px #C6C5D6;
 }
+
+.sb-component-button-primary {
+    border-radius: 10px;
+}
