@@ -116,13 +116,6 @@ sections:
           Példa a hibrid árazásra:
 
 
-          ` 1-2 fő – 20 000 Ft  `
-
-
-          ` 3-4 fő – 24 000 Ft  `
-
-
-          `5-6 fő – 28 000 Ft`
 
 
           #### 2. Mentés
