@@ -149,58 +149,6 @@ sections:
                   <td>10 500</td>
                 </tr>
                 <tr>
-                  <td>7</td>
-                  <td>11 500</td>
-                </tr>
-                <tr>
-                  <td>8</td>
-                  <td>12 500</td>
-                </tr>
-                <tr>
-                  <td>9</td>
-                  <td>13 500</td>
-                </tr>
-                <tr>
-                  <td>10</td>
-                  <td>14 500</td>
-                </tr>
-                <tr>
-                  <td>11</td>
-                  <td>15 000</td>
-                </tr>
-                <tr>
-                  <td>12</td>
-                  <td>15 500</td>
-                </tr>
-                <tr>
-                  <td>13</td>
-                  <td>16 000</td>
-                </tr>
-                <tr>
-                  <td>14</td>
-                  <td>16 500</td>
-                </tr>
-                <tr>
-                  <td>15</td>
-                  <td>17 000</td>
-                </tr>
-                <tr>
-                  <td>16</td>
-                  <td>17 500</td>
-                </tr>
-                <tr>
-                  <td>17</td>
-                  <td>18 000</td>
-                </tr>
-                <tr>
-                  <td>18</td>
-                  <td>18 500</td>
-                </tr>
-                <tr>
-                  <td>19</td>
-                  <td>19 000</td>
-                </tr>
-              </tbody>
               <tfoot>
                 <tr>
                   <td>20</td>
