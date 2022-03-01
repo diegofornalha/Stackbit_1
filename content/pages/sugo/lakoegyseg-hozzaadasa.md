@@ -129,7 +129,7 @@ sections:
                   <td>20 000</td>
                 </tr>
                 <tr>
-                  <td>2</td>
+                  <td>3–4 fő</td>
                   <td>6 500</td>
                 </tr>
                 <tr>
