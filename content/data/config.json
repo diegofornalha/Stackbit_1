@@ -122,6 +122,15 @@
                 "url": "https://www.facebook.com/appartman/",
                 "showIcon": true,
                 "icon": "facebook"
+            },
+            {
+                "label": "",
+                "altText": "Facebook",
+                "url": "/",
+                "showIcon": true,
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
