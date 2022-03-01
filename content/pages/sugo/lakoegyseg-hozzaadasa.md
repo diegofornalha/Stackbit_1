@@ -103,14 +103,14 @@ sections:
           *   hétvégi árak
 
 
-          ##### Árszámítási módok
+          #### Árszámítási módok
 
 
           ##### Hibrid árazás
 
 
           Sávos árazás vendégszám alapján: bizonyos vendégszámok között
-          megadhatóak külön árak. 
+          megadhatóak külön árak.
 
 
           Példa a hibrid árazásra:
