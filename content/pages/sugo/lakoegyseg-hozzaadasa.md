@@ -120,7 +120,7 @@ sections:
               <thead>
                 <tr>
                   <th>Vendégek száma</th>
-                  <th>Havonta fizetendő (Ft)</th>
+                  <th>Lakóegység ára éjszakánként</th>
                 </tr>
               </thead>
               <tbody>
