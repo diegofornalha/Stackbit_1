@@ -82,7 +82,7 @@ sections:
           *Főoldal > Szobák > Új lakóegység*
 
 
-          #### 1. Lakóegység adatok megadása
+          ### 1. Lakóegység adatok megadása
 
 
           Az új lakóegység megadásához a következő paraméterekre lesz szükség:
