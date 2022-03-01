@@ -118,14 +118,14 @@ sections:
 
 
 
-          #### 2. Mentés
+          ### 2. Mentés
 
 
           Miután megadtad a lakóegységed paramétereit, a mentés gombbal
           véglegesítheted az új lakóegységet.
 
 
-          #### 3. Képek feltöltése
+          ### 3. Képek feltöltése
 
 
           Képeket a lakóegység létrehozása és az alapadatok elmentése után van
