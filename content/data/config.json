@@ -129,7 +129,8 @@
                 "showIcon": true,
                 "icon": "facebook",
                 "style": "link",
-                "elementId": ""
+                "elementId": "",
+                "url": "https://facebook.com/groups/szallasadok"
             }
         ],
         "legalLinks": [
