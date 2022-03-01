@@ -132,23 +132,6 @@ sections:
                   <td>3–4 fő</td>
                   <td>24 000</td>
                 </tr>
-                <tr>
-                  <td>5–6 fő</td>
-                  <td>28 000</td>
-                </tr>
-                <tr>
-                  <td>4</td>
-                  <td>8 500</td>
-                </tr>
-                <tr>
-                  <td>5</td>
-                  <td>9 500</td>
-                </tr>
-                <tr>
-                  <td>6</td>
-                  <td>10 500</td>
-                </tr>
-                <tr>
               <tfoot>
                 <tr>
                   <td>20</td>
