@@ -122,3 +122,9 @@ code {
 .sb-component-button-secondary {
     border-radius: 10px;
 }
+
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
