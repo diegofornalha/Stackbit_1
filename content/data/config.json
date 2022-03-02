@@ -136,7 +136,7 @@
                 "label": "YouTube",
                 "altText": "YouTube",
                 "url": "https://www.youtube.com/channel/UC2lIyy2pX_5xRgO5yoVxfdA",
-                "showIcon": true,
+                "showIcon": false,
                 "style": "link",
                 "elementId": ""
             }
