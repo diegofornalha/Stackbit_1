@@ -422,29 +422,6 @@ sections:
         title: 
         text: >-
           <div class="responsive-table">
-            <table>
-              <thead>
-                <tr>
-                  <th>Vendégek száma</th>
-                  <th>Lakóegység ára éjszakánként</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>1–2 fő</td>
-                  <td>20 000 Ft</td>
-                </tr>
-                <tr>
-                  <td>3–4 fő</td>
-                  <td>24 000 Ft</td>
-                </tr>
-              <tfoot>
-                <tr>
-                  <td>5–6 fő</td>
-                  <td>28 000 Ft</td>
-                </tr>
-              </tfoot>
-            </table>
           </div>
 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/VQlyAtvGajY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
