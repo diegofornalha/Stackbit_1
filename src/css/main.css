@@ -123,8 +123,17 @@ code {
     border-radius: 10px;
 }
 
-video {
-  /* override other styles to make responsive */
-  width: 100%    !important;
-  height: auto   !important;
+.iframe-container {
+  overflow: hidden;
+  /* 16:9 aspect ratio */
+  padding-top: 56.25%;
+  position: relative;
+}
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
 }
