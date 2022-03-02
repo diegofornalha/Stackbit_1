@@ -106,14 +106,14 @@ sections:
           #### Árszámítási módok
 
 
-          ##### Hibrid árazás
+          ##### Ársávok létszám alapján
 
 
           Sávos árazás vendégszám alapján: bizonyos vendégszámok között
-          megadhatóak külön árak. 
+          megadhatóak külön árak.
 
 
-          Példa a hibrid árazásra:
+          Példa a létszám alapján sávos árazásra:
 
 
           <div class="responsive-table">
@@ -143,20 +143,21 @@ sections:
           </div>
 
 
-          **Hibrid árazás beállítása**
+          **Ársávok beállítása létszám alapján**
 
 
           1.  A lakóegység hozzáadása ablakban az "Árak" rész jobb oldalán
-          található legördülő menüből válaszd ki a "hibrid árazás" opciót.
+          található legördülő menüből válaszd ki a "Ársávok létszám alapján"
+          opciót.
 
 
           2.  Add meg az árazási sávokhoz tartozó vendégszámokat
 
 
-          3.  A "Teljes kapacitásig" opció az utolsó árazási sáv felső határát
-          jelenti. Tehát ha egy 6 fős szobába szeretnél beállítani egy árazási
-          sávot 4-től 6 főig, akkor a bal oldali legördülőben válaszd ki a "4
-          főtől", a jobb oldaliban pedig a "Teljes kapacitásig" opciót.
+          3.  A "Max főig" opció az utolsó árazási sáv felső határát jelenti.
+          Tehát ha egy 6 fős szobába szeretnél beállítani egy árazási sávot
+          4-től 6 főig, akkor a bal oldali legördülőben válaszd ki a "4 főtől",
+          a jobb oldaliban pedig a "Max főig" opciót.
 
 
           4.  Ha alkalmazol hétvégi árakat is, akkor jelöld be a hétvégi árak
