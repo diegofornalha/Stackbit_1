@@ -415,7 +415,7 @@ sections:
     type: HeroSection
   - colors: colors-h
     elementId: ''
-    title: Key value propositions
+    title: Hozz létre egy szálláshelyet percek alatt
     subtitle: ''
     items:
       - type: FeaturedItem
