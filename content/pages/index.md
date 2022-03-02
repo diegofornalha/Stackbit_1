@@ -421,9 +421,7 @@ sections:
       - type: FeaturedItem
         title: 
         text: >-
-
             <iframe width="100%" height="auto" src="https://www.youtube.com/embed/VQlyAtvGajY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
         featuredImage: null
         styles:
           title:
