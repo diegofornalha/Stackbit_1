@@ -422,7 +422,7 @@ sections:
         title: 
         text: >-
           <div class="sb-markdown text-left">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/VQlyAtvGajY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="auto" src="https://www.youtube.com/embed/VQlyAtvGajY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
 
         featuredImage: null
