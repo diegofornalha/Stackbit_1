@@ -413,7 +413,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-e
+  - colors: colors-f
     elementId: ''
     title: Hozz létre egy szálláshelyet percek alatt
     subtitle: ''
