@@ -421,7 +421,7 @@ sections:
       - type: FeaturedItem
         title: 
         text: >-
-                  <div class="responsive-table">
+          <div class="responsive-table">
             <table>
               <thead>
                 <tr>
