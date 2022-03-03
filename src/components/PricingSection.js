@@ -1,4 +1,4 @@
-import './'
+import './p'
 
 export default function PricingSection(props) {
     return <section>
