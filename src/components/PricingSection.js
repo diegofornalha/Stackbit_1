@@ -1,3 +1,5 @@
 export default function PricingSection(props) {
-    return <section>fgagsdfg</section>
+    return <section>
+        <div></div>
+    </section>
 }
