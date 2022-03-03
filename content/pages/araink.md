@@ -27,8 +27,7 @@ sections:
 
 
           *   iCal naptárszinkron (fejlesztés alatt)
-          <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-          <div class="elfsight-app-48e36515-5d20-4a47-af8e-8ee38e28b6e4">
+          
           </div>   
           <div class="responsive-table">
             <table>
