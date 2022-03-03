@@ -134,7 +134,7 @@ sections:
               </div>
             </div>
           </div>
-          
+          <script src=
           <div class="responsive-table">
             <table>
               <thead>
