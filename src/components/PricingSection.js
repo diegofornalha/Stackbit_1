@@ -56,6 +56,7 @@ class Pricing extends React.Component {
                 17: ["Ft", "42000", "/hó"],
                 18: ["Ft", "44000", "/hó"],
                 19: ["Ft", "46000", "/hó"],
+                20: []
             },
             plan2: {
                 0: ["Ft", "13", "/hó"],
