@@ -155,7 +155,7 @@ class Pricing extends React.Component {
                                         <li className='is-checked'>Jutalékmentes vendégfogadás</li>
                                         <li className='is-checked'>Több szálláshely egy helyen</li>
                                         <li className='is-checked'>Naprakész naptár</li>
-                                        <li>Excepteur sint occaecat</li>
+                                        <li>Mobilbarát és bizalomgerjesztő kialakítás</li>
                                         <li>Excepteur sint occaecat</li>
                                     </ul>
                                 </div>
