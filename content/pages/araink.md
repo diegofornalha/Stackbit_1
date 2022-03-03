@@ -29,7 +29,6 @@ sections:
           *   iCal naptárszinkron (fejlesztés alatt)
 
           <div class="responsive-table">
-            dfghdfgh
             <table>
               <thead>
                 <tr>
