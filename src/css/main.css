@@ -160,6 +160,7 @@ code {
   white-space: nowrap;
   transition: background 0.15s ease;
 }
+
 input[type="range"] {
   -moz-appearance: none;
   -webkit-appearance: none;
