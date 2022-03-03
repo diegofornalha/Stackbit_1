@@ -27,7 +27,7 @@ sections:
 
 
           *   iCal naptárszinkron (fejlesztés alatt)
-          <div class="sb-markdown text-left
+          <div class="sb-markdown text-left"
             <div class="pricing">
               <div class="pricing-slider">
                 <label class="form-slider">
