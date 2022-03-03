@@ -75,7 +75,7 @@ sections:
 
 
           **San Francisco**
-                    <div class="pricing">
+            <div class="pricing">
             <div class="pricing-slider">
               <label class="form-slider">
                   <span>How many users do you have?</span>
