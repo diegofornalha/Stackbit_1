@@ -180,12 +180,12 @@ class Pricing extends React.Component {
                                     <div className='pricing-item-title'>Advanced</div>
                                     <div className='pricing-item-price'>
                                         <span className='pricing-item-price-amount'>
-                                            {this.getPricingData(this.state.priceOutput.plan2, 1)}
+                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2, 1)}
                                         </span>
                                         <span className='pricing-item-price-currency'>
-                                            {this.getPricingData(this.state.priceOutput.plan2, 0)}
+                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2, 0)}
                                         </span>
-                                        {this.getPricingData(this.state.priceOutput.plan2, 2)}
+                                        {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2, 2)}
                                     </div>
                                 </div>
                                 <div className='pricing-item-features'>
