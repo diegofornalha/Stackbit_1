@@ -16,7 +16,9 @@ export default function MyApp({ Component, pageProps }) {
                                     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
                     })(window,document,'script','dataLayer','GTM-5SMVSWG');`}
                 </Script>
-                <Script src="pricing-slider.js"></Script>
+                <Script src="pricing-slider.js">
+                    
+                </Script>
             <Component {...pageProps} />
         </>
     );
