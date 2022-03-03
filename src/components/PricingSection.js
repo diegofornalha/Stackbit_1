@@ -128,6 +128,8 @@ class Pricing extends React.Component {
                                         <li className="is-checked">Excepteur sint occaecat</li>
                                         <li className="is-checked">Excepteur sint occaecat</li>
                                         <li className="is-checked">Excepteur sint occaecat</li>
+                                        <li>Excepteur sint occaecat</li>
+                                        <li>Excepteur sint occaecat</li>
                                     </ul>
                                 </div>
                             </div>
