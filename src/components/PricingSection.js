@@ -1,1 +1,3 @@
-export default function PricingSection
+export default function PricingSection(props) {
+    
+}
