@@ -1,7 +1,7 @@
 ---
 title: Áraink
 sections:
-      - type: PricingSection
+  - type: PricingSection
   - type: FeaturedItemsSection
     colors: colors-a
     title: Áraink
