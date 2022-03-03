@@ -120,12 +120,11 @@ class Pricing extends React.Component {
     render() {
         return (
             <div className='pricing'>
-                <div class="flex justify-center">
-                    <div class="form-check form-switch">
-                        <input class="form-check-input appearance-none w-9 -ml-10 rounded-full float-left h-5 align-top bg-white bg-no-repeat bg-contain bg-gray-300 focus:outline-none cursor-pointer shadow-sm" type="checkbox" role="switch" id="flexSwitchCheckDefault" />
-                        <label class="form-check-label inline-block text-gray-800" for="flexSwitchCheckDefault">Default switch checkbox input</label>
-                    </div>
-                </div>
+                <label for="toggle-example" class="flex items-center cursor-pointer relative mb-4">
+  <input type="checkbox" id="toggle-example" class="sr-only">
+  <div class="toggle-bg bg-gray-200 border-2 border-gray-200 h-6 w-11 rounded-full"></div>
+  <span class="ml-3 text-gray-900 text-sm font-medium">Toggle me</span>
+</label>
 
                 <div className='pricing-slider center-content'>
                     <label className='form-slider'>
