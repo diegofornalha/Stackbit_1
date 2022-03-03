@@ -120,125 +120,99 @@ class Pricing extends React.Component {
     render() {
         return (
             <div className='pricing'>
-                <ul class="grid grid-cols-3 gap-x-5 m-10 max-w-md mx-auto">
-                    <li class="relative">
-                        <input class="sr-only peer" type="radio" value="yes" name="answer" id="answer_yes">
-                            <label class="flex p-5 bg-white border border-gray-300 rounded-lg cursor-pointer focus:outline-none hover:bg-gray-50 peer-checked:ring-green-500 peer-checked:ring-2 peer-checked:border-transparent" for="answer_yes">Yes</label>
+                
 
-                            <div class="absolute hidden w-5 h-5 peer-checked:block top-5 right-3">
-                                👍
-    </div>
+                <div className='pricing-slider center-content'>
+                    <label className='form-slider'>
+                        <span>Lakóegységek száma</span>
+                        <input
+                            type='range'
+                            ref={this.slider}
+                            defaultValue={this.state.priceInputValue}
+                            onChange={this.handlePricingSlide}
+                        />
+                    </label>
+                    <div ref={this.sliderValue} className='pricing-slider-value'>
+                        {this.getPricingData(this.state.priceInput)}
+                    </div>
+                </div>
 
-                            <li class="relative">
-                                <input class="sr-only peer" type="radio" value="no" name="answer" id="answer_no">
-                                    <label class="flex p-5 bg-white border border-gray-300 rounded-lg cursor-pointer focus:outline-none hover:bg-gray-50 peer-checked:ring-red-500 peer-checked:ring-2 peer-checked:border-transparent" for="answer_no">No</label>
-
-                                    <div class="absolute hidden w-5 h-5 peer-checked:block top-5 right-3">
-                                        👎
-    </div>
-   </li>
-
-                                <li class="relative">
-                                    <input class="sr-only peer" type="radio" value="maybe" name="answer" id="answer_maybe">
-                                        <label class="flex p-5 bg-white border border-gray-300 rounded-lg cursor-pointer focus:outline-none hover:bg-gray-50 peer-checked:ring-yellow-500 peer-checked:ring-2 peer-checked:border-transparent" for="answer_maybe">Maybe</label>
-
-                                        <div class="absolute hidden w-5 h-5 peer-checked:block top-5 right-3">
-                                            🤔
-    </div>
-  </li>
-</ul>
-
-                                <div className='pricing-slider center-content'>
-                                    <label className='form-slider'>
-                                        <span>Lakóegységek száma</span>
-                                        <input
-                                            type='range'
-                                            ref={this.slider}
-                                            defaultValue={this.state.priceInputValue}
-                                            onChange={this.handlePricingSlide}
-                                        />
-                                    </label>
-                                    <div ref={this.sliderValue} className='pricing-slider-value'>
-                                        {this.getPricingData(this.state.priceInput)}
+                <div className='pricing-items'>
+                    <div className='pricing-item'>
+                        <div className='pricing-item-inner'>
+                            <div className='pricing-item-content'>
+                                <div className='pricing-item-header center-content'>
+                                    <div className='pricing-item-title'>Basic</div>
+                                    <div className='pricing-item-price'>
+                                        <span className='pricing-item-price-amount'>
+                                            {this.getPricingData(this.state.priceOutput.plan1, 1)}
+                                        </span>
+                                        <span className='pricing-item-price-currency'>
+                                            {this.getPricingData(this.state.priceOutput.plan1, 0)}
+                                        </span>
+                                        {this.getPricingData(this.state.priceOutput.plan1, 2)}
                                     </div>
                                 </div>
-
-                                <div className='pricing-items'>
-                                    <div className='pricing-item'>
-                                        <div className='pricing-item-inner'>
-                                            <div className='pricing-item-content'>
-                                                <div className='pricing-item-header center-content'>
-                                                    <div className='pricing-item-title'>Basic</div>
-                                                    <div className='pricing-item-price'>
-                                                        <span className='pricing-item-price-amount'>
-                                                            {this.getPricingData(this.state.priceOutput.plan1, 1)}
-                                                        </span>
-                                                        <span className='pricing-item-price-currency'>
-                                                            {this.getPricingData(this.state.priceOutput.plan1, 0)}
-                                                        </span>
-                                                        {this.getPricingData(this.state.priceOutput.plan1, 2)}
-                                                    </div>
-                                                </div>
-                                                <div className='pricing-item-features'>
-                                                    <ul className='pricing-item-features-list'>
-                                                        <li className='is-checked'>Jutalékmentes vendégfogadás</li>
-                                                        <li className='is-checked'>Több szálláshely egy helyen</li>
-                                                        <li className='is-checked'>Naprakész naptár</li>
-                                                        <li className='is-checked'>
-                                                            Mobilbarát és bizalomgerjesztő kialakítás
+                                <div className='pricing-item-features'>
+                                    <ul className='pricing-item-features-list'>
+                                        <li className='is-checked'>Jutalékmentes vendégfogadás</li>
+                                        <li className='is-checked'>Több szálláshely egy helyen</li>
+                                        <li className='is-checked'>Naprakész naptár</li>
+                                        <li className='is-checked'>
+                                            Mobilbarát és bizalomgerjesztő kialakítás
                                         </li>
-                                                        <li className='is-checked'>
-                                                            Önálló weboldalként is működik
+                                        <li className='is-checked'>
+                                            Önálló weboldalként is működik
                                         </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            {/* <div className='pricing-item-cta'>
+                                    </ul>
+                                </div>
+                            </div>
+                            {/* <div className='pricing-item-cta'>
                                 <a className='button' href='http://cruip.com/'>
                                     Buy Now
                                 </a>
                             </div> */}
-                                        </div>
-                                    </div>
+                        </div>
+                    </div>
 
-                                    <div className='pricing-item'>
-                                        <div className='pricing-item-inner'>
-                                            <div className='pricing-item-content'>
-                                                <div className='pricing-item-header center-content'>
-                                                    <div className='pricing-item-title'>Advanced</div>
-                                                    <div className='pricing-item-price'>
-                                                        <span className='pricing-item-price-amount'>
-                                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 1)}
-                                                        </span>
-                                                        <span className='pricing-item-price-currency'>
-                                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 0)}
-                                                        </span>
-                                                        {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 2)}
-                                                    </div>
-                                                </div>
-                                                <div className='pricing-item-features'>
-                                                    <ul className='pricing-item-features-list'>
-                                                        <li className='is-checked'>Minden ami az ingyenesben</li>
-                                                        <li className='is-checked'>Sávos árazás</li>
-                                                        <li className='is-checked'>
-                                                            Foglalási és árazási szabályok
+                    <div className='pricing-item'>
+                        <div className='pricing-item-inner'>
+                            <div className='pricing-item-content'>
+                                <div className='pricing-item-header center-content'>
+                                    <div className='pricing-item-title'>Advanced</div>
+                                    <div className='pricing-item-price'>
+                                        <span className='pricing-item-price-amount'>
+                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 1)}
+                                        </span>
+                                        <span className='pricing-item-price-currency'>
+                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 0)}
+                                        </span>
+                                        {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 2)}
+                                    </div>
+                                </div>
+                                <div className='pricing-item-features'>
+                                    <ul className='pricing-item-features-list'>
+                                        <li className='is-checked'>Minden ami az ingyenesben</li>
+                                        <li className='is-checked'>Sávos árazás</li>
+                                        <li className='is-checked'>
+                                            Foglalási és árazási szabályok
                                         </li>
-                                                        <li className='is-checked'>Extra szolgáltatások</li>
-                                                        <li className='is-checked'>
-                                                            iCal integráció (hamarosan...)
+                                        <li className='is-checked'>Extra szolgáltatások</li>
+                                        <li className='is-checked'>
+                                            iCal integráció (hamarosan...)
                                         </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            {/* <div className='pricing-item-cta'>
+                                    </ul>
+                                </div>
+                            </div>
+                            {/* <div className='pricing-item-cta'>
                                 <a className='button' href='http://cruip.com/'>
                                     Buy Now
                                 </a>
                             </div> */}
-                                        </div>
-                                    </div>
-                                </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-                            )
-                        }
-                    }
+        )
+    }
+}
