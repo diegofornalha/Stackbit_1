@@ -157,7 +157,7 @@ sections:
     actions:
       - label: Learn more
         altText: Learn more
-        url: /
+        url: /oldal.html
         showIcon: false
         icon: arrowRight
         iconPosition: right
