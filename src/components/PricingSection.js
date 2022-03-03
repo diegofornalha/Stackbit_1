@@ -127,7 +127,7 @@ class Pricing extends React.Component {
             <div className="pricing">
                 <div className="pricing-slider center-content">
                     <label className="form-slider">
-                        <span>Hány lakóegység</span>
+                        <span>Lakóegységek száma</span>
                         <input
                             type="range"
                             ref={this.slider}
