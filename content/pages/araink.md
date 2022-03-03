@@ -51,7 +51,6 @@ sections:
                   </label>
                   <div class="pricing-slider-value"></div>
                 </div>
-
                 <div class="pricing-items">
                   <div class="pricing-item">
                     <div class="pricing-item-inner">
