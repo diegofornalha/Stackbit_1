@@ -10,7 +10,7 @@ registerComponents({
     ...componentsMap,
     PageLayout,
     PostLayout,
-    PricingSection
+    PricingSection: dynamic(() => PricingSection)
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
