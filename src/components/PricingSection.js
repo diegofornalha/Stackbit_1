@@ -108,7 +108,7 @@ class Pricing extends React.Component {
                 </div>
 
                 <div className="pricing-items">
-                    <div className="pricing-item border-">
+                    <div className="pricing-item border-radius-xl">
                         <div className="pricing-item-inner">
                             <div className="pricing-item-content">
                                 <div className="pricing-item-header center-content">
