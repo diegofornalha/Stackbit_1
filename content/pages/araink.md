@@ -30,23 +30,23 @@ sections:
           <div class="pricing">
             <div class="pricing-slider">
               <label class="form-slider">
-                <span>How many users do you have?</span>
-                <input
-                  type="range"
-                  value="1"
-                  data-price-input='{
-                      "0": "1,000",
-                      "1": "1,250",
-                      "2": "1,500",
-                      "3": "2,000",
-                      "4": "2,500",
-                      "5": "3,500",
-                      "6": "6,000",
-                      "7": "15,000",
-                      "8": "50,000",
-                      "9": "50,000+"                        
-                    }'
-                />
+                  <span>How many users do you have?</span>
+                  <input
+                    type="range"
+                    value="1"
+                    data-price-input='{
+                        "0": "1,000",
+                        "1": "1,250",
+                        "2": "1,500",
+                        "3": "2,000",
+                        "4": "2,500",
+                        "5": "3,500",
+                        "6": "6,000",
+                        "7": "15,000",
+                        "8": "50,000",
+                        "9": "50,000+"                        
+                      }'
+                  />
               </label>
               <div class="pricing-slider-value"></div>
             </div>
