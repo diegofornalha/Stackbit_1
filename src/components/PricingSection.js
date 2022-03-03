@@ -152,7 +152,7 @@ class Pricing extends React.Component {
                                 </div>
                                 <div className='pricing-item-features'>
                                     <ul className='pricing-item-features-list'>
-                                        <li className='is-checked'>Jutalékmentes </li>
+                                        <li className='is-checked'>Jutalékmentes</li>
                                         <li className='is-checked'>Excepteur sint occaecat</li>
                                         <li className='is-checked'>Excepteur sint occaecat</li>
                                         <li>Excepteur sint occaecat</li>
