@@ -134,7 +134,7 @@ sections:
               </div>
             </div>
           </div>
-          <script src="pricing-slider.js"></script>
+
           <div class="responsive-table">
             <table>
               <thead>
