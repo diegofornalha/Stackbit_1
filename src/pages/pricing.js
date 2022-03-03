@@ -2,7 +2,7 @@
 
 const PricingPage = () => {
 
-    return <
+    return <div></div>
 }
 
 export default PricingPage
