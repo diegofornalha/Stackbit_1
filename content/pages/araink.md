@@ -134,6 +134,7 @@ sections:
               </div>
             </div>
           </div>
+          
           <div class="responsive-table">
             <table>
               <thead>
