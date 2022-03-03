@@ -121,7 +121,7 @@ class Pricing extends React.Component {
         return (
             <div className='pricing'>
                 <h2 className='text-center'>Áraink</h2>
-                <div className='flex justify-center'>
+                <div className='flex justify-center items-center'>
 
                     <span class="mr-3 text-gray-900 text-sm font-medium">Havi</span>
                     <label for="toggle-example" class="flex items-center cursor-pointer relative mb-4">
