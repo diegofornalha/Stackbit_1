@@ -157,7 +157,7 @@ class Pricing extends React.Component {
                                             {this.getPricingData(this.state.priceOutput.plan1, 1)}
                                         </span>
                                         <span className='pricing-item-price-currency'>
-                                            {this.getPricingData(this.state.priceOutput.plan1, 0)}
+                                           Ingyenes
                                         </span>
                                         {this.getPricingData(this.state.priceOutput.plan1, 2)}
                                     </div>
