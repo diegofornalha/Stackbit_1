@@ -151,7 +151,7 @@ class Pricing extends React.Component {
                         <div className='pricing-item-inner'>
                             <div className='pricing-item-content'>
                                 <div className='pricing-item-header center-content'>
-                                    <div className='pricing-item-title'>Alap</div>
+                                    <div className='pricing-item-title'>Alap csomag</div>
                                     <div className='pricing-item-price'>
                                         <span className='pricing-item-price-amount'>
                                             {this.getPricingData(this.state.priceOutput.plan1, 1)}
