@@ -1,8 +1,9 @@
+import Header from "@stackbit/components/src/components/Header"
 
 
 const PricingPage = () => {
 
-    return <Head
+    return <Header></Header>
 }
 
 export default PricingPage
