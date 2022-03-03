@@ -19,7 +19,7 @@ class Pricing extends React.Component {
             4: "5",
             5: "6",
             6: "7",
-            7: "7",
+            7: "8",
             8: "50,000",
             9: "50,000+"
         },
