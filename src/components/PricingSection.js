@@ -1,4 +1,4 @@
-import './p'
+import './PricingSection.module.css'
 
 export default function PricingSection(props) {
     return <section>
