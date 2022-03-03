@@ -155,16 +155,20 @@ class Pricing extends React.Component {
                                         <li className='is-checked'>Jutalékmentes vendégfogadás</li>
                                         <li className='is-checked'>Több szálláshely egy helyen</li>
                                         <li className='is-checked'>Naprakész naptár</li>
-                                        <li className='is-checked'>Mobilbarát és bizalomgerjesztő kialakítás</li>
-                                        <li className='is-checked'>Önálló weboldalként is működik</li>
+                                        <li className='is-checked'>
+                                            Mobilbarát és bizalomgerjesztő kialakítás
+                                        </li>
+                                        <li className='is-checked'>
+                                            Önálló weboldalként is működik
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
-                            <div className='pricing-item-cta'>
+                            {/* <div className='pricing-item-cta'>
                                 <a className='button' href='http://cruip.com/'>
                                     Buy Now
                                 </a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
 
@@ -187,17 +191,21 @@ class Pricing extends React.Component {
                                     <ul className='pricing-item-features-list'>
                                         <li className='is-checked'>Minden ami az ingyenesben</li>
                                         <li className='is-checked'>Sávos árazás</li>
-                                        <li className='is-checked'>Foglalási és árazási szabályok</li>
+                                        <li className='is-checked'>
+                                            Foglalási és árazási szabályok
+                                        </li>
                                         <li className='is-checked'>Extra szolgáltatások</li>
-                                        <li className='is-checked'>iCal integráció (hamarosan...)</li>
+                                        <li className='is-checked'>
+                                            iCal integráció (hamarosan...)
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
-                            <div className='pricing-item-cta'>
+                            {/* <div className='pricing-item-cta'>
                                 <a className='button' href='http://cruip.com/'>
                                     Buy Now
                                 </a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
