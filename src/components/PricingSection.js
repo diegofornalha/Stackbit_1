@@ -121,7 +121,7 @@ class Pricing extends React.Component {
         return (
             <div className='pricing'>
                 <h2 className='text-center'>Áraink</h2>
-                <div className='flex justify-center align-center'>
+                <div className='flex justify-center'>
 
                 <label for="toggle-example" class="flex items-center cursor-pointer relative mb-4">
                     <input type="checkbox" id="toggle-example" class="sr-only" />
