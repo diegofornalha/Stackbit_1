@@ -1,107 +1,88 @@
- <div class="pricing">
-      <div class="pricing-slider">
-        <label class="form-slider">
-          <span>How many users do you have?</span>
-          <input
-            type="range"
-            value="1"
-            data-price-input='{
-                "0": "1,000",
-                "1": "1,250",
-                "2": "1,500",
-                "3": "2,000",
-                "4": "2,500",
-                "5": "3,500",
-                "6": "6,000",
-                "7": "15,000",
-                "8": "50,000",
-                "9": "50,000+"                        
-              }'
-          />
-        </label>
-        <div class="pricing-slider-value"></div>
-      </div>
+(function() {
+  const pricingSliders = document.querySelectorAll(".pricing-slider");
 
-      <div class="pricing-items">
-        <div class="pricing-item">
-          <div class="pricing-item-inner">
-            <div class="pricing-item-content">
-              <div class="pricing-item-header">
-                <div class="pricing-item-title">Basic</div>
-                <div
-                  class="pricing-item-price"
-                  data-price-output='{
-                    "0": ["", "Free", ""],
-                    "1": ["$", "13", "/m"],
-                    "2": ["$", "17", "/m"],
-                    "3": ["$", "21", "/m"],
-                    "4": ["$", "25", "/m"],
-                    "5": ["$", "42", "/m"],
-                    "6": ["$", "58", "/m"],
-                    "7": ["$", "117", "/m"],
-                    "8": ["$", "208", "/m"],
-                    "9": ["", "Contact us", ""]
-                  }'
-                >
-                  <span class="pricing-item-price-currency"></span>
-                  <span class="pricing-item-price-amount"></span>
-                  <span class="pricing-item-price-after"></span>
-                </div>
-              </div>
-              <div class="pricing-item-features">
-                <ul class="pricing-item-features-list">
-                  <li class="is-checked">Excepteur sint occaecat</li>
-                  <li class="is-checked">Excepteur sint occaecat</li>
-                  <li class="is-checked">Excepteur sint occaecat</li>
-                  <li>Excepteur sint occaecat</li>
-                  <li>Excepteur sint occaecat</li>
-                </ul>
-              </div>
-            </div>
-            <div class="pricing-item-cta">
-              <a class="button" href="#">Buy Now</a>
-            </div>
-          </div>
-        </div>
-        <div class="pricing-item">
-          <div class="pricing-item-inner">
-            <div class="pricing-item-content">
-              <div class="pricing-item-header">
-                <div class="pricing-item-title">Advanced</div>
-                <div
-                  class="pricing-item-price"
-                  data-price-output='{
-                      "0": ["$", "13", "/m"],
-                      "1": ["$", "17", "/m"],
-                      "2": ["$", "21", "/m"],
-                      "3": ["$", "25", "/m"],
-                      "4": ["$", "42", "/m"],
-                      "5": ["$", "58", "/m"],
-                      "6": ["$", "117", "/m"],
-                      "7": ["$", "208", "/m"],
-                      "8": ["$", "402", "/m"],
-                      "9": ["", "Contact us", ""]
-                    }'
-                >
-                  <span class="pricing-item-price-currency"></span>
-                  <span class="pricing-item-price-amount"></span>
-                  <span class="pricing-item-price-after"></span>
-                </div>
-              </div>
-              <div class="pricing-item-features">
-                <ul class="pricing-item-features-list">
-                  <li class="is-checked">Excepteur sint occaecat</li>
-                  <li class="is-checked">Excepteur sint occaecat</li>
-                  <li class="is-checked">Excepteur sint occaecat</li>
-                  <li class="is-checked">Excepteur sint occaecat</li>
-                  <li class="is-checked">Excepteur sint occaecat</li>
-                </ul>
-              </div>
-            </div>
-            <div class="pricing-item-cta">
-              <a class="button" href="#">Buy Now</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+  if (pricingSliders.length > 0) {
+    for (let i = 0; i < pricingSliders.length; i++) {
+      const pricingSlider = pricingSliders[i];
+
+      // Build the input object
+      const pricingInput = {
+        el: pricingSlider.querySelector("input")
+      };
+      pricingInput.data = JSON.parse(
+        pricingInput.el.getAttribute("data-price-input")
+      );
+      pricingInput.currentValEl = pricingSlider.querySelector(
+        ".pricing-slider-value"
+      );
+      pricingInput.thumbSize = parseInt(
+        window
+          .getComputedStyle(pricingInput.currentValEl)
+          .getPropertyValue("--thumb-size"),
+        10
+      );
+
+      // Build the output array
+      const pricingOutputEls = pricingSlider.parentNode.querySelectorAll(
+        ".pricing-item-price"
+      );
+      const pricingOutput = [];
+      for (let i = 0; i < pricingOutputEls.length; i++) {
+        const pricingOutputEl = pricingOutputEls[i];
+        const pricingOutputObj = {};
+        pricingOutputObj.currency = pricingOutputEl.querySelector(
+          ".pricing-item-price-currency"
+        );
+        pricingOutputObj.amount = pricingOutputEl.querySelector(
+          ".pricing-item-price-amount"
+        );
+        pricingOutputObj.after = pricingOutputEl.querySelector(
+          ".pricing-item-price-after"
+        );
+        pricingOutputObj.data = JSON.parse(
+          pricingOutputEl.getAttribute("data-price-output")
+        );
+        pricingOutput.push(pricingOutputObj);
+      }
+
+      pricingInput.el.setAttribute("min", 0);
+      pricingInput.el.setAttribute(
+        "max",
+        Object.keys(pricingInput.data).length - 1
+      );
+      !pricingInput.el.getAttribute("value") &&
+        pricingInput.el.setAttribute("value", 0);
+
+      handlePricingSlider(pricingInput, pricingOutput);
+      window.addEventListener("input", function() {
+        handlePricingSlider(pricingInput, pricingOutput);
+      });
+    }
+  }
+
+  function handlePricingSlider(input, output) {
+    // output the current slider value
+    if (input.currentValEl)
+      input.currentValEl.innerHTML = input.data[input.el.value];
+    // update prices
+    for (let i = 0; i < output.length; i++) {
+      const outputObj = output[i];
+      if (outputObj.currency)
+        outputObj.currency.innerHTML = outputObj.data[input.el.value][0];
+      if (outputObj.amount)
+        outputObj.amount.innerHTML = outputObj.data[input.el.value][1];
+      if (outputObj.after)
+        outputObj.after.innerHTML = outputObj.data[input.el.value][2];
+    }
+    handleSliderValuePosition(input);
+  }
+
+  function handleSliderValuePosition(input) {
+    const multiplier = input.el.value / input.el.max;
+    const thumbOffset = input.thumbSize * multiplier;
+    const priceInputOffset =
+      (input.thumbSize - input.currentValEl.clientWidth) / 2;
+    input.currentValEl.style.left =
+      input.el.clientWidth * multiplier - thumbOffset + priceInputOffset + "px";
+  }
+})();
