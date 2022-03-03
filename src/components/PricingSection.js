@@ -33,10 +33,6 @@ class Pricing extends React.Component {
             18: "19",
             19: "20",
             20: "20+",
-            21: "20",
-            22: "23",
-            23: "24",
-            24: "25"
         },
         priceOutput: {
             plan1: {
