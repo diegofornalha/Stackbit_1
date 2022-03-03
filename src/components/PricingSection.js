@@ -147,11 +147,11 @@ class Pricing extends React.Component {
                                 <div className="pricing-item-header center-content">
                                     <div className="pricing-item-title">Advanced</div>
                                     <div className="pricing-item-price">
-                                        <span className="pricing-item-price-currency">
-                                            {this.getPricingData(this.state.priceOutput.plan2, 0)}
-                                        </span>
                                         <span className="pricing-item-price-amount">
                                             {this.getPricingData(this.state.priceOutput.plan2, 1)}
+                                        </span>
+                                        <span className="pricing-item-price-currency">
+                                            {this.getPricingData(this.state.priceOutput.plan2, 0)}
                                         </span>
                                         {this.getPricingData(this.state.priceOutput.plan2, 2)}
                                     </div>
