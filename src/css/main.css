@@ -138,28 +138,7 @@ code {
    width: 100%;
 }
 
-.button {
-  display: flex;
-  width: 100%;
-  font-size: 14px;
-  line-height: 22px;
-  font-weight: 700;
-  padding: 12px 29px;
-  text-decoration: none !important;
-  text-transform: uppercase;
-  color: #ffffff;
-  background-color: #5f48ff;
-  border-width: 1px;
-  border-style: solid;
-  border-color: transparent;
-  border-radius: 2px;
-  cursor: pointer;
-  justify-content: center;
-  text-align: center;
-  letter-spacing: inherit;
-  white-space: nowrap;
-  transition: background 0.15s ease;
-}
+
 input[type="range"] {
   -moz-appearance: none;
   -webkit-appearance: none;
