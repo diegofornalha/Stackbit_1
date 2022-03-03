@@ -120,7 +120,7 @@ class Pricing extends React.Component {
     render() {
         return (
             <div className='pricing'>
-                <h1>Áraink</h1>
+                <h2>Áraink</h1>
                 <label for="toggle-example" class="flex items-center cursor-pointer relative mb-4">
                     <input type="checkbox" id="toggle-example" class="sr-only" />
                     <div class="toggle-bg bg-gray-200 border-2 border-gray-200 h-6 w-11 rounded-full"></div>
