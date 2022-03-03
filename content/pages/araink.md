@@ -6,6 +6,7 @@ sections:
     title: Áraink
     subtitle: ''
     items:
+      - type: PricingSection
       - type: FeaturedItem
         title: null
         text: >+
