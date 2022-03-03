@@ -94,7 +94,7 @@ class Pricing extends React.Component {
             <div className="pricing">
                 <div className="pricing-slider center-content">
                     <label className="form-slider">
-                        <span>How many users do you have?</span>
+                        <span>Hány lakóegység</span>
                         <input
                             type="range"
                             ref={this.slider}
