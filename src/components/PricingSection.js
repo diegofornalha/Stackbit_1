@@ -122,101 +122,101 @@ class Pricing extends React.Component {
             <div className='pricing'>
                 <label for="toggle-example" class="flex items-center cursor-pointer relative mb-4">
                     <input type="checkbox" id="toggle-example" class="sr-only" />
-                        <div class="toggle-bg bg-gray-200 border-2 border-gray-200 h-6 w-11 rounded-full"></div>
-                        <span class="ml-3 text-gray-900 text-sm font-medium">Toggle me</span>
-</label>
+                    <div class="toggle-bg bg-gray-200 border-2 border-gray-200 h-6 w-11 rounded-full"></div>
+                    <span class="ml-3 text-gray-900 text-sm font-medium">Toggle me</span>
+                </label>
 
-                    <div className='pricing-slider center-content'>
-                        <label className='form-slider'>
-                            <span>Lakóegységek száma</span>
-                            <input
-                                type='range'
-                                ref={this.slider}
-                                defaultValue={this.state.priceInputValue}
-                                onChange={this.handlePricingSlide}
-                            />
-                        </label>
-                        <div ref={this.sliderValue} className='pricing-slider-value'>
-                            {this.getPricingData(this.state.priceInput)}
-                        </div>
+                <div className='pricing-slider center-content'>
+                    <label className='form-slider'>
+                        <span>Lakóegységek száma</span>
+                        <input
+                            type='range'
+                            ref={this.slider}
+                            defaultValue={this.state.priceInputValue}
+                            onChange={this.handlePricingSlide}
+                        />
+                    </label>
+                    <div ref={this.sliderValue} className='pricing-slider-value'>
+                        {this.getPricingData(this.state.priceInput)}
                     </div>
+                </div>
 
-                    <div className='pricing-items'>
-                        <div className='pricing-item'>
-                            <div className='pricing-item-inner'>
-                                <div className='pricing-item-content'>
-                                    <div className='pricing-item-header center-content'>
-                                        <div className='pricing-item-title'>Basic</div>
-                                        <div className='pricing-item-price'>
-                                            <span className='pricing-item-price-amount'>
-                                                {this.getPricingData(this.state.priceOutput.plan1, 1)}
-                                            </span>
-                                            <span className='pricing-item-price-currency'>
-                                                {this.getPricingData(this.state.priceOutput.plan1, 0)}
-                                            </span>
-                                            {this.getPricingData(this.state.priceOutput.plan1, 2)}
-                                        </div>
-                                    </div>
-                                    <div className='pricing-item-features'>
-                                        <ul className='pricing-item-features-list'>
-                                            <li className='is-checked'>Jutalékmentes vendégfogadás</li>
-                                            <li className='is-checked'>Több szálláshely egy helyen</li>
-                                            <li className='is-checked'>Naprakész naptár</li>
-                                            <li className='is-checked'>
-                                                Mobilbarát és bizalomgerjesztő kialakítás
-                                        </li>
-                                            <li className='is-checked'>
-                                                Önálló weboldalként is működik
-                                        </li>
-                                        </ul>
+                <div className='pricing-items'>
+                    <div className='pricing-item'>
+                        <div className='pricing-item-inner'>
+                            <div className='pricing-item-content'>
+                                <div className='pricing-item-header center-content'>
+                                    <div className='pricing-item-title'>Basic</div>
+                                    <div className='pricing-item-price'>
+                                        <span className='pricing-item-price-amount'>
+                                            {this.getPricingData(this.state.priceOutput.plan1, 1)}
+                                        </span>
+                                        <span className='pricing-item-price-currency'>
+                                            {this.getPricingData(this.state.priceOutput.plan1, 0)}
+                                        </span>
+                                        {this.getPricingData(this.state.priceOutput.plan1, 2)}
                                     </div>
                                 </div>
-                                {/* <div className='pricing-item-cta'>
+                                <div className='pricing-item-features'>
+                                    <ul className='pricing-item-features-list'>
+                                        <li className='is-checked'>Jutalékmentes vendégfogadás</li>
+                                        <li className='is-checked'>Több szálláshely egy helyen</li>
+                                        <li className='is-checked'>Naprakész naptár</li>
+                                        <li className='is-checked'>
+                                            Mobilbarát és bizalomgerjesztő kialakítás
+                                        </li>
+                                        <li className='is-checked'>
+                                            Önálló weboldalként is működik
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            {/* <div className='pricing-item-cta'>
                                 <a className='button' href='http://cruip.com/'>
                                     Buy Now
                                 </a>
                             </div> */}
-                            </div>
                         </div>
+                    </div>
 
-                        <div className='pricing-item'>
-                            <div className='pricing-item-inner'>
-                                <div className='pricing-item-content'>
-                                    <div className='pricing-item-header center-content'>
-                                        <div className='pricing-item-title'>Advanced</div>
-                                        <div className='pricing-item-price'>
-                                            <span className='pricing-item-price-amount'>
-                                                {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 1)}
-                                            </span>
-                                            <span className='pricing-item-price-currency'>
-                                                {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 0)}
-                                            </span>
-                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 2)}
-                                        </div>
-                                    </div>
-                                    <div className='pricing-item-features'>
-                                        <ul className='pricing-item-features-list'>
-                                            <li className='is-checked'>Minden ami az ingyenesben</li>
-                                            <li className='is-checked'>Sávos árazás</li>
-                                            <li className='is-checked'>
-                                                Foglalási és árazási szabályok
-                                        </li>
-                                            <li className='is-checked'>Extra szolgáltatások</li>
-                                            <li className='is-checked'>
-                                                iCal integráció (hamarosan...)
-                                        </li>
-                                        </ul>
+                    <div className='pricing-item'>
+                        <div className='pricing-item-inner'>
+                            <div className='pricing-item-content'>
+                                <div className='pricing-item-header center-content'>
+                                    <div className='pricing-item-title'>Advanced</div>
+                                    <div className='pricing-item-price'>
+                                        <span className='pricing-item-price-amount'>
+                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 1)}
+                                        </span>
+                                        <span className='pricing-item-price-currency'>
+                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 0)}
+                                        </span>
+                                        {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 2)}
                                     </div>
                                 </div>
-                                {/* <div className='pricing-item-cta'>
+                                <div className='pricing-item-features'>
+                                    <ul className='pricing-item-features-list'>
+                                        <li className='is-checked'>Minden ami az ingyenesben</li>
+                                        <li className='is-checked'>Sávos árazás</li>
+                                        <li className='is-checked'>
+                                            Foglalási és árazási szabályok
+                                        </li>
+                                        <li className='is-checked'>Extra szolgáltatások</li>
+                                        <li className='is-checked'>
+                                            iCal integráció (hamarosan...)
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            {/* <div className='pricing-item-cta'>
                                 <a className='button' href='http://cruip.com/'>
                                     Buy Now
                                 </a>
                             </div> */}
-                            </div>
                         </div>
                     </div>
+                </div>
             </div>
-                )
-            }
-        }
+        )
+    }
+}
