@@ -29,6 +29,7 @@ sections:
           *   iCal naptárszinkron (fejlesztés alatt)
 
           <div class="responsive-table">
+            <PricingSection />
             <table>
               <thead>
                 <tr>
