@@ -28,7 +28,7 @@ sections:
 
           *   iCal naptárszinkron (fejlesztés alatt)
 
-         
+
           <div class="responsive-table">
             <table>
               <thead>
@@ -154,5 +154,14 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
+    actions:
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
 layout: PageLayout
 ---
