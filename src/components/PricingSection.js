@@ -120,7 +120,7 @@ class Pricing extends React.Component {
     render() {
         return (
             <div className='pricing'>
-                <Button
+                <bu
 
                 <div className='pricing-slider center-content'>
                     <label className='form-slider'>
