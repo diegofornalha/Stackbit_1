@@ -187,7 +187,7 @@ class Pricing extends React.Component {
                                     <ul className='pricing-item-features-list'>
                                         <li className='is-checked'>Minden ami az ingyenesben</li>
                                         <li className='is-checked'>Foglalási és árazási szabályok</li>
-                                        <li className='is-checked'>Excepteur sint occaecat</li>
+                                        <li className='is-checked'>Több szálláshely egy </li>
                                         <li className='is-checked'>Excepteur sint occaecat</li>
                                         <li className='is-checked'>Excepteur sint occaecat</li>
                                     </ul>
