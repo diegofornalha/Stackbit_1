@@ -2,7 +2,7 @@
 
 const PricingPage = () => {
 
-    return <div>asdf</div>
+    return <Head
 }
 
 export default PricingPage
