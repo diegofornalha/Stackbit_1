@@ -189,7 +189,7 @@ class Pricing extends React.Component {
                                         <li className='is-checked'>Sávos árazás</li>
                                         <li className='is-checked'>Foglalási és árazási szabályok</li>
                                         <li className='is-checked'>iCal integráció (hamarosan...)</li>
-                                        <li className='is-checked'>Excepteur sint occaecat</li>
+                                        <li className='is-checked'>Extra szolgáltatások</li>
                                     </ul>
                                 </div>
                             </div>
