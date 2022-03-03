@@ -21,7 +21,7 @@ class Pricing extends React.Component {
             6: "7",
             7: "8",
             8: "9",
-            9: "50,000+"
+            9: "10"
         },
         priceOutput: {
             plan1: {
