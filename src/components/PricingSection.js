@@ -220,7 +220,7 @@ class Pricing extends React.Component {
                                 <a className='button' href='http://foglalas.appartman.hu/register'>
                                     Regisztráció
                                 </a>
-                            </div> */}
+                            </div>
                         </div>
                     </div>
                 </div>
