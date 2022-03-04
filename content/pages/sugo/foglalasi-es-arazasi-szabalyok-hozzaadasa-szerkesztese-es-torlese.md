@@ -98,9 +98,17 @@ sections:
           #### 2. Árak beállítása
 
 
-          A következő fülre navigálva lakóegységenként állíthatod be az árakat. 
+          A következő fülre navigálva lakóegységenként állíthatod be az árakat.
 
 
+          ##### Ársávok létszám alapján
+
+
+          Sávos árazás vendégszám alapján: bizonyos vendégszámok között
+          megadhatóak külön árak.
+
+
+          Példa a létszám alapján sávos árazásra:
 
 
           #### 3. Foglalási szabályok beállítása
