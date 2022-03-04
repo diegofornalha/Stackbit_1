@@ -159,7 +159,7 @@ input:checked + .toggle-bg {
 .button {
   display: flex;
   width: 100%;
-  font-size: 14px;
+  font-size: 1rem;
   line-height: 22px;
   font-weight: 400;
   font-family: Inter, sans-serif;
