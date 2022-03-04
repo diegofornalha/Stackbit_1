@@ -136,14 +136,6 @@ sections:
           ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-04%20-%2017.49.18.png)
 
 
-          <div class="responsive-table">
-            <table>
-              <thead>
-                <tr>
-                  <th>Vendégek száma</th>
-                  <th>Lakóegység á
-
-
           **Ársávok beállítása létszám alapján**
 
 
