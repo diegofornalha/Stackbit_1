@@ -124,7 +124,10 @@ code {
     border-radius: 10px;
 }
 
-
+.sb-card {
+    border-radius: 16px;
+    
+}
 
 .iframe-container {
   overflow: hidden;
