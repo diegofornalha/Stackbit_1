@@ -176,6 +176,7 @@ input:checked + .toggle-bg {
   letter-spacing: inherit;
   white-space: nowrap;
   transition: background 0.15s ease;
+  border-radius: 10px;
 }
 
 input[type="range"] {
