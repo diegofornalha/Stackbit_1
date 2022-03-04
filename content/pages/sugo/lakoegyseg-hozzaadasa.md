@@ -179,7 +179,7 @@ sections:
           #### Vendégéjszakánkénti árazás
 
 
-          Az éjszakánkétn fizetendő árat a vendégszám határozza meg. Hétvégi ár
+          Az éjszakánként fizetendő árat a vendégszám határozza meg. Hétvégi ár
           beállítása is lehetséges.
 
 
