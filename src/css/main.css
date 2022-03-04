@@ -164,7 +164,6 @@ input:checked + .toggle-bg {
   font-weight: 700;
   padding: 12px 29px;
   text-decoration: none !important;
-  text-transform: uppercase;
   color: #ffffff;
   background-color: #5f48ff;
   border-width: 1px;
