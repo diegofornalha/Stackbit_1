@@ -94,14 +94,11 @@ sections:
           dátumot kell megadni.
 
 
-          #### 2. Árak és elérhetőség (kapacitás) beállítása
+          #### 2. Árak és elérhetőség beállítása
 
 
           A következő lépésben lakóegységenként állíthatod be az árakat, illetve
           zárolhatod szobáidat. A következő elemek megadására van lehetőség
-
-
-          *   elérhető/zárolt lakóegység
 
 
           *   árszámítás módja
@@ -156,18 +153,15 @@ sections:
           #### 1. Dátum megadása
 
 
-          A kiemelt időszak lehet nem  egybefüggő időszak, így a napok egyenként
+          A kiemelt időszak lehet nem egybefüggő időszak, így a napok egyenként
           jelölendők be.
 
 
-          #### 2. Árak és elérhetőség (kapacitás) beállítása
+          #### 2. Árak és elérhetőség beállítása
 
 
-          A következő lépésben lakóegységenként állíthatod be az árakat, illetve
-          zárolhatod szobáidat. A következő elemek megadására van lehetőség
-
-
-          *   elérhető/zárolt lakóegység
+          A következő lépésben lakóegységenként állíthatod be az árakat. A
+          következő elemek megadására van lehetőség
 
 
           *   árszámítás módja
