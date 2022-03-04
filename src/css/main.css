@@ -136,7 +136,7 @@ img {
     border-radius: 10px;
 }
 
-.sm {
+.sm\:px-6 {
     padding-left: 0px;
 }
 
