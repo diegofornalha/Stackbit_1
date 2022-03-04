@@ -140,6 +140,10 @@ img {
     padding-left: 2px;
     padding-right: 6px
 }
+.sm\:px-6 {
+    padding-left: 2px;
+    padding-right: 6px
+}
 
 .iframe-container {
   overflow: hidden;
