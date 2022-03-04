@@ -98,13 +98,17 @@ sections:
           #### 2. Árak beállítása
 
 
-          A következő fülre navigálva lakóegységenként állíthatod be az árakat.
+          A következő fülre navigálva lakóegységenként állíthatod be az árakat. 
 
 
           ##### Ársávok létszám alapján
 
 
-          Bizonyos vendégszámok között megadhatóak külön árak.
+          Bizonyos vendégszámok között megadhatóak külön árak. A bal oldalon
+          található két legördülő menüvel tudod megadni az ársávokat vendégszám
+          szerint. Az utolsó sáv felső határa a "Max főig" opcióval adható meg.
+          A "Minden további vendég" opció esetén egy egységáron számítódik a
+          megadott vendégszám felett.
 
 
           #### 3. Foglalási szabályok beállítása
