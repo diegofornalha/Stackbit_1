@@ -71,9 +71,10 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          `A foglalási és árazási szabályokkal az alapértelmezettől eltérő
-          árakat és szabályokat (pl.: minimum foglalható éjszakák száma)
-          állíthatsz be az általad meghatározott dátumokra.`
+          `A foglalási és árazási szabályokkal a foglalási rendszerben
+          beállíthatók a foglaláshoz kapcsolódó szabályok (pl.: minimum
+          foglalható éjszakák száma, érkezési napok, felkészülési idő) illetve
+          árszámítási módok.`
 
 
           ## Milyen dátumokra érvényesek a szabályok?
@@ -87,7 +88,7 @@ sections:
 
           Az alapértelmezett áraknak nincs időkorlátja, addig érvényben
           maradnak, amíg meg nem változtatod őket, illetve amíg felül nem írja
-          őket egy szezon, vagy egy kiemelt időszak bizonyos dátumok között. 
+          őket egy szezon, vagy egy kiemelt időszak bizonyos dátumok között.
 
 
           #### Szezon
@@ -105,8 +106,6 @@ sections:
           egyszerre megadható egy kiemelt ár augusztus 20 környékére és
           karácsonyra). A **szezont és az alapértelmezett árat is felülírja** a
           megadott dátumokra.
-
-
 
 
           #### Példa
