@@ -294,7 +294,7 @@ input[type="range"]::-moz-focus-outer {
 .pricing-item-price {
   display: inline-flex;
   align-items: baseline;
-  font-size: 20px;
+  font-size: 2px;
   margin-bottom: 16px;
 }
 .pricing-item-price-amount {
