@@ -45,11 +45,12 @@ sections:
       - type: FeaturedItem
         title: Szálláshely és lakóegységek
         text: >
-          [Szálláshely létrehozása](/sugo/szallashely-letrehozasa/)
+          [Szálláshely létrehozása, árak és foglalási szabályok
+          beálltása](/sugo/szallashely-letrehozasa-arak-es-foglalasi-szabalyok-beallitasa/)
 
 
           [Szálláshely szerkesztése és
-          törlése](/sugo/szallashely-szerkesztese-es-torlese)
+          törlése](/sugo/szallashely-szerkesztese-es-torlese/)
 
 
           [Lakóegység hozzáadása](/sugo/lakoegyseg-hozzaadasa)
