@@ -313,7 +313,7 @@ input[type="range"]::-moz-focus-outer {
   position: relative;
   display: flex;
   align-items: center;
-  color: #6051BC
+  color: #6051BC;
 }
 .pricing-item-features-list li::before {
   content: "";
