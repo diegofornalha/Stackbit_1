@@ -116,6 +116,9 @@ sections:
           *   férőhely
 
 
+          #### Árazás és árszámítási módok
+
+
           ##### Ársávok létszám alapján
 
 
@@ -124,7 +127,8 @@ sections:
 
 
           Példa a létszám alapján sávos árazásra:
-          
+
+
           <div class="responsive-table">
             <table>
               <thead>
@@ -150,8 +154,33 @@ sections:
               </tfoot>
             </table>
           </div>
-          
-          *   egységár
+
+
+
+          **Ársávok beállítása létszám alapján**
+
+
+          1.  A lakóegység hozzáadása ablakban az "Árak" rész jobb oldalán
+          található legördülő menüből válaszd ki a "Ársávok létszám alapján"
+          opciót.
+
+
+          2.  Add meg az árazási sávokhoz tartozó vendégszámokat
+
+
+          3.  A "Max főig" opció az utolsó árazási sáv felső határát jelenti.
+          Tehát ha egy 6 fős szobába szeretnél beállítani egy árazási sávot
+          4-től 6 főig, akkor a bal oldali legördülőben válaszd ki a "4 főtől",
+          a jobb oldaliban pedig a "Max főig" opciót.
+
+
+          4.  Ha alkalmazol hétvégi árakat is, akkor jelöld be a hétvégi árak
+          jelölőnégyzetet, és add meg az árakat a megjelenő szövegmezőkben.
+
+
+          5.  Ha egy alapárat alkalmazol bizonyos vendégszámig, és azon felül
+          minden vendég adott egységáron adódik az árhoz, akkor az alapárhoz
+          tartozó sáv megadása után válaszd ki a "Minden további vendég" opciót.
 
 
           *   hétvégi árak (ha van)
