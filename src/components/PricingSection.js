@@ -165,7 +165,7 @@ class Pricing extends React.Component {
                                         <li className='is-checked'>Több szálláshely egy helyen</li>
                                         <li className='is-checked'>Naprakész naptár</li>
                                         <li className='is-checked'>
-                                            Mobilbarát és bizalomgerjesztő kialakítás
+                                            Mobilbarát és modern kialakítás
                                         </li>
                                         <li className='is-checked'>
                                             Önálló weboldalként is működik
