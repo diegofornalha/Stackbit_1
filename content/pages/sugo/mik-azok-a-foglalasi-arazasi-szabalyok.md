@@ -184,10 +184,13 @@ sections:
           Mindhárom fentebbi árazás esetén beállítható.
 
 
-          #### Gyermek ár (hamarosan)
+          #### Gyermek ár
 
 
-          Sávos és vendégéjszakánkénti árazás esetén állítható be. 
+          ###### hamarosan
+
+
+          Sávos és vendégéjszakánkénti árazás esetén állítható be.
         featuredImage: null
         styles:
           title:
