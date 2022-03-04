@@ -79,7 +79,15 @@ sections:
           ## Milyen dátumokra érvényesek a szabályok?
 
 
-          Két beállítható időszak lehetséges:
+          Háromféle időszak lehetséges:
+
+
+          #### Alapértelmezett árak és szabályok
+
+
+          Az alapértelmezett áraknak nincs időkorlátja, addig érvényben
+          maradnak, amíg meg nem változtatod őket, illetve amíg felül nem írja
+          őket egy szezon, vagy egy kiemelt időszak bizonyos dátumok között. 
 
 
           #### Szezon
@@ -97,6 +105,8 @@ sections:
           egyszerre megadható egy kiemelt ár augusztus 20 környékére és
           karácsonyra). A **szezont és az alapértelmezett árat is felülírja** a
           megadott dátumokra.
+
+
 
 
           #### Példa
@@ -191,6 +201,13 @@ sections:
 
 
           Sávos és vendégéjszakánkénti árazás esetén állítható be.
+
+
+          #### Hogy állíthatom be a szabályokat
+
+
+          Ebben a cikkben írunk részletesebben a foglalási- és árazási szabályok
+          beállításáról
         featuredImage: null
         styles:
           title:
