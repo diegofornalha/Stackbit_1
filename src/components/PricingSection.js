@@ -161,7 +161,6 @@ class Pricing extends React.Component {
                                 </div>
                                 <div className='pricing-item-features'>
                                     <ul className='pricing-item-features-list'>
-                                        <li className='is-checked'>Jutalékmentes vendégfogadás</li>
                                         <li className='is-checked'>Több szálláshely és szobák egy helyen</li>
                                         <li className='is-checked'>Naprakész naptár</li>
                                         <li className='is-checked'>Testreszabható automatikus emailek</li>
