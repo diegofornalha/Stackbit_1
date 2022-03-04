@@ -122,8 +122,7 @@ sections:
           ##### Ársávok létszám alapján
 
 
-          Sávos árazás vendégszám alapján: bizonyos vendégszámok között
-          megadhatóak külön árak.
+          Bizonyos vendégszámok között megadhatóak külön árak.
 
 
           Példa a létszám alapján sávos árazásra:
@@ -154,7 +153,6 @@ sections:
               </tfoot>
             </table>
           </div>
-
 
 
           **Ársávok beállítása létszám alapján**
