@@ -3,7 +3,7 @@ title: Szálláshely létrehozása | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Szálláshely létrehozása
+    title: 'Szálláshely létrehozása, árak és foglalási szabályok beállítása'
     styles:
       self:
         height: auto
