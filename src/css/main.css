@@ -296,7 +296,7 @@ input[type="range"]::-moz-focus-outer {
   margin-bottom: 20px;
 }
 .pricing-item-price-amount {
-  font-size: 36px;
+  font-size: 20px;
   line-height: 48px;
   font-weight: 500;
   color: #191e2a;
