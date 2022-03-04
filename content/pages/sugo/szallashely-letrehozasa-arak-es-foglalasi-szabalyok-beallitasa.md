@@ -124,7 +124,7 @@ sections:
 
 
           Példa a létszám alapján sávos árazásra:
-
+          
 
           *   egységár
 
