@@ -10,7 +10,7 @@ import React from 'react'
 
 class Pricing extends React.Component {
     state = {
-        priceInputValue: '1',
+        priceInputValue: '0',
         isYearly: false,
         priceInput: {
             0: '1',
