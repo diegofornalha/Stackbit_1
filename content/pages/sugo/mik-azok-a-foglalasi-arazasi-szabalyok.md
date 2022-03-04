@@ -191,13 +191,13 @@ sections:
           Az éjszakánkénti árat a vendégek száma határozza meg.
 
 
-          ##### Hétvégi ár
+          #### Hétvégi ár
 
 
           Mindhárom fentebbi árazás esetén beállítható.
 
 
-          ##### Gyermek ár
+          #### Gyermek ár
 
 
           ###### hamarosan
