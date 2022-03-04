@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          #### 1. Új szálláshely hozzáadása
+          ### 1. Új szálláshely hozzáadása
 
 
           Új szálláshelyet a regisztráció után, vagy a fejlécen a jobb oldalon
@@ -100,7 +100,7 @@ sections:
           *   Cím
 
 
-          #### 2. Lakóegység adatok megadása
+          ### 2. Lakóegység adatok megadása
 
 
           A regisztrációs folyamatban a szálláshely létrehozása után, a
