@@ -300,7 +300,7 @@ input[type="range"]::-moz-focus-outer {
 }
 .pricing-item-price-amount {
   font-size: 26px;
-  font-family: 'General Sans';
+  font-family: 'General Sans',;
   line-height: 48px;
   font-weight: 600;
   color: #434459;
