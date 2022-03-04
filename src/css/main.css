@@ -289,7 +289,7 @@ input[type="range"]::-moz-focus-outer {
 }
 .pricing-item-title {
   font-weight: 500;
-    color: #434459;
+   color: #434459;
 }
 .pricing-item-price {
   display: inline-flex;
