@@ -209,8 +209,9 @@ sections:
           #### Hogy állíthatom be a szabályokat
 
 
-          Ebben a cikkben írunk részletesebben a foglalási- és árazási szabályok
-          beállításáról
+          [Ebben a cikkben írunk
+          részletesebben](/sugo/foglalasi-es-arazasi-szabalyok-hozzaadasa-szerkesztese-es-torlese/)
+          a foglalási- és árazási szabályok beállításáról
         featuredImage: null
         styles:
           title:
