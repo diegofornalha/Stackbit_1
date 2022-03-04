@@ -120,8 +120,9 @@ sections:
           és megadsz egy árat
 
 
-          *   hozzáadsz egy kiemelt időszakot egy magasabb árral augusztus 19.
-          és 21. között, ami automatikusan felülírja a szezon árait
+          *   hozzáadsz egy kiemelt időszakot egy a szezonnál magasabb árral
+          augusztus 19. és 21. között, ami automatikusan felülírja a szezon
+          árait
 
 
           ## Milyen foglalási- és árazási szabályok állíthatók be?
