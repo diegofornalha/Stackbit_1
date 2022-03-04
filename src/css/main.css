@@ -303,7 +303,6 @@ input[type="range"]::-moz-focus-outer {
   line-height: 48px;
   font-weight: 600;
   color: #434459;
-  text-decoration: line-through;
 }
 .pricing-item-features-list {
   list-style: none;
