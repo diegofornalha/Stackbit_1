@@ -187,8 +187,8 @@ class Pricing extends React.Component {
                             <div className='pricing-item-content'>
                                 <div className='pricing-item-header center-content'>
                                     <div className='pricing-item-title'>Prémium csomag</div>
-                                    <div className='pricing-item-price'>
                                         <em className='text-center'>május 31-ig ingyenes</em>
+                                    <div className='pricing-item-price'>
                                         <span className='pricing-item-price-amount mr-1'>
                                             {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 1)}
                                         </span>
