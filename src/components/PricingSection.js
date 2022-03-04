@@ -206,6 +206,7 @@ class Pricing extends React.Component {
                                             Szezonális és kiemelt időszaki árazás
                                         </li>
                                         <li className='is-checked'>Extra szolgáltatások (hamarosan)</li>
+                                        <li className='is-checked'>Extra szolgáltatások (hamarosan)</li>
                                         <li className='is-checked'>
                                             iCal integráció (hamarosan...)
                                         </li>
