@@ -288,12 +288,12 @@ input[type="range"]::-moz-focus-outer {
 }
 .pricing-item-title {
   font-weight: 500;
-  margin-bottom: 20px;
 }
 .pricing-item-price {
   display: inline-flex;
   align-items: baseline;
   font-size: 20px;
+  margin-bottom: 20px;
 }
 .pricing-item-price-amount {
   font-size: 36px;
