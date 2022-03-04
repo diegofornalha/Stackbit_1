@@ -104,11 +104,7 @@ sections:
           ##### Ársávok létszám alapján
 
 
-          Sávos árazás vendégszám alapján: bizonyos vendégszámok között
-          megadhatóak külön árak.
-
-
-          Példa a létszám alapján sávos árazásra:
+          Bizonyos vendégszámok között megadhatóak külön árak.
 
 
           #### 3. Foglalási szabályok beállítása
