@@ -260,7 +260,7 @@ input[type="range"]::-moz-focus-outer {
   font-size: 14px;
   line-height: 22px;
   font-weight: 500;
-  color: #909cb5;
+  color: #6B6C82;
   margin-top: 8px;
   --thumb-size: 36px;
 }
