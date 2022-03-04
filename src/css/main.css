@@ -279,7 +279,7 @@ input[type="range"]::-moz-focus-outer {
   flex-basis: 280px;
   max-width: 300px;
   box-sizing: content-box;
-  justify-content: ;
+  justify-content: spa;
   padding: 12px;
 }
 .pricing-item-inner {
