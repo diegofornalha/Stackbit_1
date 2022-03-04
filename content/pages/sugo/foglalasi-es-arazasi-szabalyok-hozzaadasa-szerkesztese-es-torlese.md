@@ -87,18 +87,19 @@ sections:
           hozzáadása*
 
 
-          #### 1. Dátum megadása
+          #### 1. Dátum és megnevezés megadása
 
 
-          A szezon egy egybefüggő időszak, tehát egy kezdő és egy befejező
-          dátumot kell megadni.
+          Első lépésben megadható az időszak neve. A szezon egy egybefüggő
+          időszak, tehát ezek után egy kezdő és egy befejező dátumot kell
+          megadni.
 
 
           #### 2. Árak és elérhetőség beállítása
 
 
-          A következő lépésben lakóegységenként állíthatod be az árakat, illetve
-          zárolhatod szobáidat. A következő elemek megadására van lehetőség
+          A következő fülre naivgálva lakóegységenként állíthatod be az árakat.
+          A következő elemek megadására van lehetőség
 
 
           *   árszámítás módja
@@ -168,6 +169,9 @@ sections:
 
 
           *   egységárak
+
+
+          *   hétvégi árak
 
 
           #### 3. Foglalási szabályok beállítása
