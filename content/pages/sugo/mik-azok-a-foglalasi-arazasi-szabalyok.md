@@ -164,11 +164,12 @@ sections:
           kerül éjszakánként.
 
 
-          #### Hibrid árazás
+          #### Ársávok vendégszám alapján
 
 
           Adott lakóegység éjszakánkénti ára a vendégek számától függően
-          változik.
+          változik. Például 4 fő esetén 20 000 Ft/éj, 6 fő esetén pedig 26 000
+          Ft/éj.
 
 
           #### Vendégéjszakánkénti árazás
@@ -183,10 +184,10 @@ sections:
           Mindhárom fentebbi árazás esetén beállítható.
 
 
-          #### Gyermek ár
+          #### Gyermek ár (hamarosan)
 
 
-          Hibrid és vendégéjszakánkénti árazás esetén állítható be.
+          Sávos és vendégéjszakánkénti árazás esetén állítható be. 
         featuredImage: null
         styles:
           title:
