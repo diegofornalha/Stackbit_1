@@ -129,7 +129,11 @@ sections:
           megadott vendégszám felett.
 
 
-          Példa a létszám alapján sávos árazásra:
+          Példa a létszám alapján sávos árazásra egy 8 fős lakóegység esetén,
+          hétvégi árakkal:
+
+
+          ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-04%20-%2017.49.18.png)
 
 
           <div class="responsive-table">
