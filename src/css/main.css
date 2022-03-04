@@ -125,7 +125,7 @@ code {
 }
 
 .sb-card {
-    border-radius: 16px;
+    border-radius: 20px;
     border: solid 1px #E7E6F0;
     box-shadow: 0 4px 20px rgba(63, 51, 111, 0.1);
     background: #F8F7FA !important;
