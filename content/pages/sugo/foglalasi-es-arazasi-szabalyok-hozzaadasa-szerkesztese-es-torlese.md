@@ -83,8 +83,8 @@ sections:
           felülírja az alapértelmezett beállításokat a megadott dátumok között.`
 
 
-          *Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
-          hozzáadása > Szezon hozzáadása*
+          *Szálláshely > Legördülő menü > Szabályok > Új hozzáadása > Szezon
+          hozzáadása*
 
 
           #### 1. Dátum megadása
@@ -149,8 +149,8 @@ sections:
           alapértelmezett árakat is felülírja a megadott dátumokra.`
 
 
-          Szálláshely > Legördülő menü > Foglalási és árazási szabályok > Új
-          hozzáadása > Kiemelt időszak hozzáadása
+          Szálláshely > Legördülő menü > Szabályok > Új hozzáadása > Kiemelt
+          időszak hozzáadása
 
 
           #### 1. Dátum megadása
