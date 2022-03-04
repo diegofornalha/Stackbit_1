@@ -136,6 +136,8 @@ img {
     border-radius: 10px;
 }
 
+px-4 py-6 sm:px-6 sm:pb-10
+
 .iframe-container {
   overflow: hidden;
   /* 16:9 aspect ratio */
