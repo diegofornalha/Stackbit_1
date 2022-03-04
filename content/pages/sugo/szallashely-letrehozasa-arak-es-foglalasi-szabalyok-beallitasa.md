@@ -124,7 +124,8 @@ sections:
 
 
           Példa a létszám alapján sávos árazásra:
-                    <div class="responsive-table">
+          
+          <div class="responsive-table">
             <table>
               <thead>
                 <tr>
