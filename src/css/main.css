@@ -292,7 +292,7 @@ input[type="range"]::-moz-focus-outer {
 .pricing-item-price {
   display: inline-flex;
   align-items: baseline;
-  font-size: 20px;
+  font-size: 16px;
   margin-bottom: 20px;
 }
 .pricing-item-price-amount {
