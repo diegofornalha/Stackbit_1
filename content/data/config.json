@@ -110,7 +110,7 @@
             {
                 "label": "Súgó",
                 "altText": "Súgó",
-                "url": "/",
+                "url": "/sugo",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
