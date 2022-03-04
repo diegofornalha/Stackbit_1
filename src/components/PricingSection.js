@@ -170,7 +170,7 @@ class Pricing extends React.Component {
                                             Mobilbarát és modern kialakítás
                                         </li>
                                         <li className='is-checked'>
-                                            Önálló weboldalként is működik
+                                            Alapértelmezett 
                                         </li>
                                     </ul>
                                 </div>
