@@ -295,6 +295,7 @@ input[type="range"]::-moz-focus-outer {
   align-items: baseline;
   font-size: 18px;
   margin-bottom: 16px;
+  text-decoration: line-through;
   color: #6B6C82;
 }
 .pricing-item-price-amount {
