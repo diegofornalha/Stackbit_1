@@ -195,7 +195,7 @@ class Pricing extends React.Component {
                                             {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 0)}
                                         </span>
                                         {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 2)}
-                                    <em className='text-center'>május 31-ig ingyenes</em>
+                                        <em className='text-center'>május 31-ig ingyenes</em>
                                     </div>
                                 </div>
                                 <div className='pricing-item-features'>
