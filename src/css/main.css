@@ -301,7 +301,7 @@ input[type="range"]::-moz-focus-outer {
   font-size: 26px;
   font-family: 'General Sans';
   line-height: 48px;
-  font-weight: 500;
+  font-weight: 600;
   color: #434459;
 }
 .pricing-item-features-list {
