@@ -299,7 +299,7 @@ input[type="range"]::-moz-focus-outer {
 }
 .pricing-item-price-amount {
   font-size: 26px;
-  font-family: ge
+  font-family: ''
   line-height: 48px;
   font-weight: 500;
   color: #434459;
