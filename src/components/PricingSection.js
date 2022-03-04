@@ -210,7 +210,7 @@ class Pricing extends React.Component {
                                             iCal integráció (hamarosan...)
                                         </li>
                                         <li className='is-checked'>
-                                            iCal integráció (hamarosan...)
+                                            Többnyelvűség (hamarosan...)
                                         </li>
                                     </ul>
                                 </div>
