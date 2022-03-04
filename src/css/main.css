@@ -162,7 +162,7 @@ input:checked + .toggle-bg {
   font-size: 14px;
   line-height: 22px;
   font-weight: 700;
-  font-family: Inter, sans
+  font-family: Inter, sans-serif;
   padding: 12px 29px;
   text-decoration: none !important;
   color: #ffffff;
