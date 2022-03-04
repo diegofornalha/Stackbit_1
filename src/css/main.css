@@ -129,6 +129,7 @@ code {
     border: solid 1px #EEEDF2;
     box-shadow: 0 4px 20px rgba(63, 51, 111, 0.1);
     background: #F8F7FA !important;
+    padding: 24px;
 }
 
 .iframe-container {
