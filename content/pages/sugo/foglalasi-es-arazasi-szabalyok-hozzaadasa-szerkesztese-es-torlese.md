@@ -95,20 +95,12 @@ sections:
           megadni.
 
 
-          #### 2. Árak és elérhetőség beállítása
+          #### 2. Árak beállítása
 
 
-          A következő fülre naivgálva lakóegységenként állíthatod be az árakat.
-          A következő elemek megadására van lehetőség
+          A következő fülre navigálva lakóegységenként állíthatod be az árakat. 
 
 
-          *   árszámítás módja
-
-
-          *   egységárak
-
-
-          *   hétvégi árak
 
 
           #### 3. Foglalási szabályok beállítása
