@@ -270,6 +270,7 @@ input[type="range"]::-moz-focus-outer {
   margin-right: -12px;
   margin-left: -12px;
   margin-top: -12px;
+  margin-bottom: 60px;
 }
 .pricing-item {
   flex-basis: 280px;
