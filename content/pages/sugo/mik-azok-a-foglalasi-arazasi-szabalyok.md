@@ -161,6 +161,9 @@ sections:
           #### Kapacitás
 
 
+          ###### hamarosan
+
+
           Adott időszakra lezárhatók a lakóegységek
 
 
