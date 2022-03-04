@@ -122,7 +122,11 @@ sections:
           ##### Ársávok létszám alapján
 
 
-          Bizonyos vendégszámok között megadhatóak külön árak.
+          Bizonyos vendégszámok között megadhatóak külön árak. A bal oldalon
+          található két legördülő menüvel tudod megadni az ársávokat vendégszám
+          szerint. Az utolsó sáv felső határa a "Max főig" opcióval adható meg.
+          A "Minden további vendég" opció esetén egy egységáron számítódik a
+          megadott vendégszám felett.
 
 
           Példa a létszám alapján sávos árazásra:
@@ -179,6 +183,20 @@ sections:
           5.  Ha egy alapárat alkalmazol bizonyos vendégszámig, és azon felül
           minden vendég adott egységáron adódik az árhoz, akkor az alapárhoz
           tartozó sáv megadása után válaszd ki a "Minden további vendég" opciót.
+
+
+          ##### Lakóegységenkénti árazás
+
+
+          A foglalási összeget a lakóegység éjszakánkénti ára határozza meg.
+          Beállítható hétvégi ár (péntek és szombat éjszaka).
+
+
+          ##### Vendégéjszakánkénti árazás
+
+
+          A foglalási összeget a vendégek éjszakánkénti ára határozza meg.
+          Beállítható hétvégi ár (péntek és szombat éjszaka).
 
 
           *   hétvégi árak (ha van)
