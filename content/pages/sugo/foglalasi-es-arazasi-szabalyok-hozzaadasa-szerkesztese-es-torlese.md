@@ -98,7 +98,7 @@ sections:
           #### 2. Árak beállítása
 
 
-          A következő fülre navigálva lakóegységenként állíthatod be az árakat. 
+          A következő fülre navigálva lakóegységenként állíthatod be az árakat.
 
 
           ##### Ársávok létszám alapján
@@ -109,6 +109,20 @@ sections:
           szerint. Az utolsó sáv felső határa a "Max főig" opcióval adható meg.
           A "Minden további vendég" opció esetén egy egységáron számítódik a
           megadott vendégszám felett.
+
+
+          ##### Lakóegységenkénti árazás
+
+
+          A foglalási összeget a lakóegység éjszakánkénti ára határozza meg.
+          Beállítható hétvégi ár (péntek és szombat éjszaka).
+
+
+          ##### Vendégéjszakánkénti árazás
+
+
+          A foglalási összeget a vendégek éjszakánkénti ára határozza meg.
+          Beállítható hétvégi ár (péntek és szombat éjszaka).
 
 
           #### 3. Foglalási szabályok beállítása
