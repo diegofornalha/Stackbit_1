@@ -179,7 +179,7 @@ sections:
           ### 3. Lakóegység képeinek megadása
 
 
-          A lakóegység megadása és azok elmentése után a felületen minden
+          A lakóegységek megadása és azok elmentése után a felületen minden
           lakóegységhez fog tartozni egy kártya a lakóegység adataival. Ezen
           található egy "Új képek feltöltése" gomb is, aminek használatával
           feltöltheted a lakóegységhez tartozó képeket. A képek feltöltése után
@@ -196,7 +196,7 @@ sections:
           szekciójában lehet megadni az "Új képek feltöltése" gombbal
 
 
-          Az előző lépésben megadott 
+          Az előző lépésben megadott
 
 
           ### 5. Foglalási szabályok megadása
@@ -224,7 +224,7 @@ sections:
           *   felkészülési idő
 
 
-          *   érkezési napok   
+          *   érkezési napok
 
         featuredImage: null
         styles:
