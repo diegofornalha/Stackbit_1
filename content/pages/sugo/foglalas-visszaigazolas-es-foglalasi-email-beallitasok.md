@@ -3,7 +3,7 @@ title: Foglalás visszaigazolás és foglalási email beállítások | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Szálláshely szerkesztése és törlése
+    title: Foglalás visszaigazolás és foglalási email beállítások
     styles:
       self:
         height: auto
