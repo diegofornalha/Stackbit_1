@@ -70,7 +70,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### 1. Új szálláshely hozzáadása
 
 
@@ -350,10 +350,6 @@ sections:
 
           A mentés gombbal véglegesíted az új kiemelt időszak megadását. Az
           árazás automatikusan életbe fog lépni a megadott dátumok elérkeztével.
-
-
-          ##
-
         featuredImage: null
         styles:
           title:
