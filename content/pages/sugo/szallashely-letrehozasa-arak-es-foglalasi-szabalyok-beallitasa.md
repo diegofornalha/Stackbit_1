@@ -75,7 +75,7 @@ sections:
 
 
           Új szálláshelyet a regisztráció után, vagy a fejlécen a jobb oldalon
-          található legördülő menüben található Szállások menüpontból lehet
+          található legördülő menüben lévő Szállások menüpontból lehet
           létrehozni.
 
 
