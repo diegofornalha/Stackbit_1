@@ -226,6 +226,19 @@ sections:
 
           *   érkezési napok
 
+
+          ### 6. Szezonális árak és foglalási szabályok megadása
+
+
+          Az előzőekben az alapértelmezett árakat és foglalási szabályokat adtad
+          meg. Az alapértelmezett árak és szabályok mindaddig érvényben vannak,
+          amíg nem változtatod meg őket. 
+
+
+          Az Appartman foglalási rendszerében van lehetőség szezonokat és
+          kiemelt időszakokat megadni, amiknek időtartamában egyedileg
+          módosíthatók az árak és a szabályok.
+
         featuredImage: null
         styles:
           title:
