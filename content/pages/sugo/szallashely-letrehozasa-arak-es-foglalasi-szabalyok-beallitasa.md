@@ -176,11 +176,55 @@ sections:
           Beállítható hétvégi ár (péntek és szombat éjszaka).
 
 
-          *   hétvégi árak (ha van)
+          ### 3. Lakóegység képeinek megadása
 
 
-          *   lakóegység képei (ez az alapadatok megadása és a Mentés gomb
-          megnyomása után jelenik meg)
+          A lakóegység megadása és azok elmentése után a felületen minden
+          lakóegységhez fog tartozni egy kártya a lakóegység adataival. Ezen
+          található egy "Új képek feltöltése" gomb is, aminek használatával
+          feltöltheted a lakóegységhez tartozó képeket. A képek feltöltése után
+          a képeken található gombbal tudod beállítani, hogy melyik kép legyen
+          az első a sorban. Ezek a képek a foglalási folyamatban a lakóegységek
+          megjelenítésénél tűnnek fel.
+
+
+          ### 4. Szálláshely képeinek megadása
+
+
+          A szálláshely képei a foglalási folyamat kezdőképernyőjén jelennek
+          meg. Ezeket a képeket a Beállítások menü "Szálláshely képei"
+          szekciójában lehet megadni az "Új képek feltöltése" gombbal
+
+
+          Az előző lépésben megadott 
+
+
+          ### 5. Foglalási szabályok megadása
+
+
+          Ha kész vagy minden lakóegységed megadásával, akkor megadhatók a
+          foglalási szabályok is. Ez a következő helyen található:
+
+
+          *Legördülő menü > Szabályok*
+
+
+          Itt találsz egy kártyát az alapértelmezett árakkal (amiket megadtál a
+          lakóegységeidhez). A kártyán jobb oldalt található opciók gombbal
+          tudod szerkeszteni az alapértelmezett szabályokat. A megjelenő
+          panelben a következő szabályokat van lehetőség beállítani:
+
+
+          *   minimum foglalható éjszakák száma
+
+
+          *   maximum foglalható éjszakák száma
+
+
+          *   felkészülési idő
+
+
+          *   érkezési napok   
 
         featuredImage: null
         styles:
