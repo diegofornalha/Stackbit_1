@@ -196,9 +196,6 @@ sections:
           szekciójában lehet megadni az "Új képek feltöltése" gombbal
 
 
-          Az előző lépésben megadott
-
-
           ### 5. Foglalási szabályok megadása
 
 
@@ -225,6 +222,9 @@ sections:
 
 
           *   érkezési napok
+
+
+          ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-06%20-%2017.26.59.png)
 
 
           ### 6. Szezonális árak és foglalási szabályok megadása
