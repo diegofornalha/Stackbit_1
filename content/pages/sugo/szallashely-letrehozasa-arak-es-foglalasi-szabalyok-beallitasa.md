@@ -232,12 +232,127 @@ sections:
 
           Az előzőekben az alapértelmezett árakat és foglalási szabályokat adtad
           meg. Az alapértelmezett árak és szabályok mindaddig érvényben vannak,
-          amíg nem változtatod meg őket. 
+          amíg nem változtatod meg őket.
 
 
           Az Appartman foglalási rendszerében van lehetőség szezonokat és
           kiemelt időszakokat megadni, amiknek időtartamában egyedileg
           módosíthatók az árak és a szabályok.
+
+
+          #### Szezon hozzáadása
+
+
+          `A szezon hosszabb egybefüggő időszak (pl.: főszezon, utószezon), ami
+          felülírja az alapértelmezett beállításokat a megadott dátumok között.`
+
+
+          *Szálláshely > Legördülő menü > Szabályok > Új időszak > Szezon
+          hozzáadása*
+
+
+          ##### 1. Dátum és megnevezés megadása
+
+
+          Első lépésben megadható az időszak neve. A szezon egy egybefüggő
+          időszak, tehát ezek után egy kezdő és egy befejező dátumot kell
+          megadni.
+
+
+          ##### 2. Árak beállítása
+
+
+          A következő fülre navigálva lakóegységenként állíthatod be az árakat.
+
+
+          ##### 3. Foglalási szabályok beállítása
+
+
+          A Foglalási szabályok fülre navigálva megadhatsz az összes
+          lakóegységedre vonatkozó és a korábban megadott dátumok között
+          érvényes szabályokat:
+
+
+          *   minimum foglalható éjszakák
+
+
+          *   minimum előfoglalási idő
+
+
+          *   maximum foglalható éjszakák
+
+
+          *   érkezési napok
+
+
+          ##### 4. Mentés
+
+
+          A mentés gombbal véglegesíted az új szezon megadását. Az árazás
+          automatikusan életbe fog lépni a megadott dátumok elérkeztével.
+
+
+          #### Kiemelt időszak hozzáadása
+
+
+          `A kiemelt időszak ünnepek, hosszú hétvégék beállítására alkalmas.
+          Lehet nem egybefüggő is (pl.: egyszerre megadható egy kiemelt ár
+          augusztus 20 környékére és karácsonyra). A szezont és az
+          alapértelmezett árakat is felülírja a megadott dátumokra.`
+
+
+          Szálláshely > Legördülő menü > Szabályok > Új időszak > Kiemelt
+          időszak hozzáadása
+
+
+          ##### 1. Dátum megadása
+
+
+          A kiemelt időszak lehet nem egybefüggő időszak, így a napok egyenként
+          jelölendők be.
+
+
+          ##### 2. Árak és elérhetőség beállítása
+
+
+          A következő lépésben lakóegységenként állíthatod be az árakat. A
+          következő elemek megadására van lehetőség
+
+
+          *   árszámítás módja
+
+
+          *   egységárak
+
+
+          *   hétvégi árak
+
+
+          ##### 3. Foglalási szabályok beállítása
+
+
+          A foglalási szabályok fülre navigálva megadhatsz az összes
+          lakóegységedre vonatkozó és a korábban megadott dátumok között
+          érvényes szabályokat:
+
+
+          *   minimum foglalható éjszakák
+
+
+          *   minimum előfoglalási idő
+
+
+          *   maximum foglalható éjszakák
+
+
+          ##### 4. Mentés
+
+
+          A mentés gombbal véglegesíted az új kiemelt időszak megadását. Az
+          árazás automatikusan életbe fog lépni a megadott dátumok elérkeztével.
+
+
+          ##
 
         featuredImage: null
         styles:
