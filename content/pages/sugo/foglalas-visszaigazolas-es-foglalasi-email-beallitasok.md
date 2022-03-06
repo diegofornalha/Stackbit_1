@@ -1,5 +1,5 @@
 ---
-title: Szálláshely szerkesztése és törlése | Appartman
+title: Foglalás visszaigazolás és foglalási email beállítások | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
