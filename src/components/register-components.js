@@ -7,8 +7,8 @@ import PostLayout from './CustomPostLayout'
 registerComponents({
     // Register all Stackbit components
     ...componentsMap,
-    // PageLayout,
-    // PostLayout,
+    PageLayout,
+    PostLayout,
     PricingSection: dynamic(() => import('./PricingSection'))
 
     // Override any static or dynamic component,
