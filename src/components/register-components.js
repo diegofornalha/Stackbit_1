@@ -4,6 +4,28 @@ import { componentsMap } from '@stackbit/components/dist/components-map';
 import PageLayout from './CustomPageLayout'
 import PostLayout from './CustomPostLayout'
 
+import * as React from 'react';
+import NextLink from 'next/link';
+
+export default function Link({ children, href, ...other }) {
+    // Pass Any internal link to Next.js Link, for anything else, use <a> tag
+    const internal = /^\/(?!\/)/.test(href);
+    if (internal) {
+        return (
+            <NextLink href={href}>
+                <a {...other}>{children}</a>
+            </NextLink>
+        );
+    }
+
+    return (
+        <a href={href} {...other}>
+            {children}
+        </a>
+    );
+}
+
+
 registerComponents({
     // Register all Stackbit components
     ...componentsMap,
