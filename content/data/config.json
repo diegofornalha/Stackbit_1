@@ -22,7 +22,7 @@
             {
                 "label": "Jelentkezz interjúra",
                 "altText": "Jelentkezz interjúra",
-                "url": "/felhasznaloi-interju",
+                "url": "https://appartman.hu/felhasznaloi-interju",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
