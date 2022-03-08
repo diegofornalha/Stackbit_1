@@ -122,11 +122,11 @@ sections:
           ##### Ársávok létszám alapján
 
 
-          Bizonyos vendégszámok között megadhatóak külön árak. A bal oldalon
-          található két legördülő menüvel tudod megadni az ársávokat vendégszám
-          szerint. Az utolsó sáv felső határa a "Max főig" opcióval adható meg.
-          A "Minden további vendég" opció esetén egy egységáron számítódik a
-          megadott vendégszám felett.
+          Ezzel az árazási típussal bizonyos vendégszámok között megadhatók
+          külön árak. A bal oldalon található két legördülő menüvel tudod
+          megadni az ársávokat vendégszám szerint. Az utolsó sáv felső határa a
+          "Max főig" opcióval adható meg. A "Minden további vendég" opció esetén
+          egy egységáron számítódik a megadott vendégszám felett.
 
 
           Példa a létszám alapján sávos árazásra egy 8 fős lakóegység esetén,
