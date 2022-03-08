@@ -87,8 +87,9 @@ sections:
 
 
           Az alapértelmezett áraknak nincs időkorlátja, addig érvényben
-          maradnak, amíg meg nem változtatod őket, illetve amíg felül nem írja
-          őket egy szezon, vagy egy kiemelt időszak bizonyos dátumok között.
+          maradnak, **amíg meg nem változtatod őket**, illetve amíg felül nem
+          írja őket egy szezon, vagy egy kiemelt időszak bizonyos dátumok
+          között.
 
 
           #### Szezon
