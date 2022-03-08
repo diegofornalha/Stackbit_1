@@ -116,7 +116,7 @@ sections:
           *   férőhely
 
 
-          #### Árazás és árszámítási módok
+          #### Árazás és árszámítási módok beállítása
 
 
           ##### Ársávok létszám alapján
