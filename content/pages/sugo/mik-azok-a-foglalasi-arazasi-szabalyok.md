@@ -122,8 +122,11 @@ sections:
 
 
           *   hozzáadsz egy kiemelt időszakot egy a szezonnál magasabb árral
-          augusztus 19. és 21. között, ami automatikusan felülírja a szezon
-          árait
+          augusztus 20. és 22. között, ami automatikusan felülírja a szezon
+          árait.
+
+
+          ![](/images/appartman-online-foglalasi-rendszer-szezonalis-arazas.png)
 
 
           ## Milyen foglalási- és árazási szabályok állíthatók be?
