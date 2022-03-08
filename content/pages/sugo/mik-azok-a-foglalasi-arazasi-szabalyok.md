@@ -151,6 +151,12 @@ sections:
           Maximum éjszakaszám amit egyszerre lefoglalhat egy vendég.
 
 
+          #### Felkészülési idő
+
+
+          Legalább ennyi napnak kell eltelnie a foglalás és az érkezés között.
+
+
           #### Érkezési napok
 
 
