@@ -23,7 +23,7 @@ registerComponents({
     PostLayout,
     Link,
     PricingSection: dynamic(() => import('./PricingSection')),
-    PricingSection: dynamic(() => import('./PricingSection'))
+    HeroSection: dynamic(() => import('./PricingSection'))
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
