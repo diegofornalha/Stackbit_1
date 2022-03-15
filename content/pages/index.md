@@ -27,7 +27,7 @@ sections:
       - label: Minta foglalási felület
         altText: Minta Vendégház
         url: 'https://foglalas.appartman.hu/7'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
