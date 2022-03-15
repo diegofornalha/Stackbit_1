@@ -22,6 +22,7 @@ registerComponents({
     PageLayout,
     PostLayout,
     Link,
+    PricingSection: dynamic(() => import('./PricingSection')),
     PricingSection: dynamic(() => import('./PricingSection'))
 
     // Override any static or dynamic component,
