@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-import { getComponent, mapStylesToClassNames as mapStyles } from '@stackbit/components';
+import { getComponent} from '@stackbit/components';
 
 const TAILWIND_MAP = {
     fontSize: {
