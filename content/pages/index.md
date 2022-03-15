@@ -14,10 +14,6 @@ sections:
     text: >
       Érj el több vendéget saját felületeiden modern és felhasználóbarát
       foglalómotorral.
-
-
-      Villámgyors regisztráció | Egyszerű beüzemelés | Több szálláshely egy
-      helyen
     actions:
       - type: Button
         label: Ingyenes regisztráció
