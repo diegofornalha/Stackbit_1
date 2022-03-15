@@ -247,7 +247,7 @@ sections:
     type: FeaturedItemsSection
     subtitle: >-
       Az Appartman foglalási naptárjában érdeklődő vendégeid könnyebben
-      foglalnak
+      foglalnak a saját weboldadon.
   - elementId: ''
     colors: colors-a
     title: Önálló weboldalként is működik
