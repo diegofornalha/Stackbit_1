@@ -221,7 +221,7 @@ function heroBottomPart(props) {
     return (
         bottomPart ? <Markdown
             options={{ forceBlock: true, forceWrapper: true }}
-            className={classNames('sb-markdown', 'text-xs', styles.text ? mapStyles(styles.text) : null, { 'mt-6': props.title || props.subtitle })}
+            className={classNames('sb-markdown', 'text-sm', styles.text ? mapStyles(styles.text) : null, { 'mt-6': props.title || props.subtitle })}
         >
             {props.bottomPart}
         </Markdown> : null
