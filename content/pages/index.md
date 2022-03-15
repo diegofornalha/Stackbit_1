@@ -245,7 +245,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-    subtitle: Az Appartman foglalási naptárjában érdeklődő vendégeid
+    subtitle: Az Appartman foglalási naptárjában érdeklődő vendégeid könnyebben
   - elementId: ''
     colors: colors-a
     title: Önálló weboldalként is működik
