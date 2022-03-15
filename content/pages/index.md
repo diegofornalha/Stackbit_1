@@ -24,7 +24,7 @@ sections:
         url: 'https://foglalas.appartman.hu/register'
         style: primary
         elementId: hero-main-button
-      - label: Minta Vendégház
+      - label: Nézd meg működésben
         altText: Minta Vendégház
         url: 'https://foglalas.appartman.hu/7'
         showIcon: false
