@@ -464,6 +464,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    subtitle: 'Biztosíthatod, hogy csak azok a foglalások'
   - colors: colors-h
     elementId: ''
     title: Hozz létre egy szálláshelyet percek alatt
