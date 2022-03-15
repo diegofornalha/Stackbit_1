@@ -245,9 +245,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-    subtitle: >-
-      Az Appartman foglalómotor végig a magánszállásadók igényeit szem előtt
-      tartva készül.
+    subtitle: Az Appartman foglalási naptárjában érdeklődő
   - elementId: ''
     colors: colors-a
     title: Önálló weboldalként is működik
