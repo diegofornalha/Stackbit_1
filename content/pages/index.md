@@ -26,7 +26,7 @@ sections:
         elementId: hero-main-button
       - label: Learn more
         altText: Learn more
-        url: /
+        url: 'https://foglalas.appartman.hu/7'
         showIcon: false
         icon: arrowRight
         iconPosition: right
