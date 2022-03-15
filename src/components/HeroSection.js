@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-import { getComponent} from '@stackbit/components';
+import { getComponent } from '@stackbit/components';
 
 const TAILWIND_MAP = {
     fontSize: {
@@ -218,11 +218,13 @@ function heroBody(props) {
 function heroBottomPart(props) {
     const bottomPart = props.bottomPart;
     return (
-        bottomPart ? <div
-            className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2')}
+        bottomPart ? <Markdown
+            options={{ forceBlock: true, forceWrapper: true }}
+            className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-6': props.title || props.subtitle })}
+            data-sb-field-path=".text"
         >
-            {bottomPart}
-        </div> : null
+            {props.text}
+        </Markdown> : null
 
     );
 }
