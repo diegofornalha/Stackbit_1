@@ -32,7 +32,7 @@ sections:
         iconPosition: right
         elementId: ''
         type: Link
-    text: 
+    text: Teszt
     media:
       type: ImageBlock
       url: /images/online-foglalasi-rendszer.png
