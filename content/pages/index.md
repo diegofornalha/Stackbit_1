@@ -32,6 +32,7 @@ sections:
         iconPosition: right
         elementId: ''
         type: Link
+      
     media:
       type: ImageBlock
       url: /images/online-foglalasi-rendszer.png
