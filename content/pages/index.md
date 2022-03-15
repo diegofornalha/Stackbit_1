@@ -430,11 +430,7 @@ sections:
       változik a számodra és a foglaló számára kiküldött e-mail szövege. Az
       emaileket szerkesztőnkben kedvedre testreszabhatod saját szöveges
       részekkel.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/foglalas-visszaigazolas-manualisan.png
