@@ -24,6 +24,14 @@ sections:
         url: 'https://foglalas.appartman.hu/register'
         style: primary
         elementId: hero-main-button
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/online-foglalasi-rendszer.png
