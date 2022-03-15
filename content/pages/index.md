@@ -424,10 +424,12 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Visszaigazolás véglegesítés előtt
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      Bekapcsolva a foglalásokról kapott értesítő emailben egy gombnyomással
+      visszaigazolhatod, vagy elutasíthatod a foglalást. A beállítástól függően
+      változik a számodra és a foglaló számára kiküldött e-mail szövege. Az
+      emaileket szerkesztőnkben kedvedre testreszabhatod saját szöveges
+      részekkel.
     actions:
       - type: Button
         label: Sign Up
