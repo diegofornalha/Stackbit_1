@@ -33,7 +33,8 @@ sections:
         elementId: ''
         type: Link
     bottomPart: >
-      
+      Villámgyors regisztráció | Egyszerű beüzemelés | Több szálláshely egy
+      helyen
     media:
       type: ImageBlock
       url: /images/online-foglalasi-rendszer.png
