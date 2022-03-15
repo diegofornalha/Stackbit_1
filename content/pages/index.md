@@ -67,9 +67,6 @@ sections:
       actions:
         justifyContent: flex-start
     title: Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
-    subtitle: >-
-      Érj el több vendéget saját felületeiden modern és felhasználóbarát
-      foglalómotorral.
   - colors: colors-a
     elementId: ''
     items:
