@@ -436,7 +436,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/foglalas-visszaigazolas-manualisan.png
       altText: Hero image
     backgroundImage: null
     styles:
