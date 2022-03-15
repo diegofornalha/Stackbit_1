@@ -214,6 +214,19 @@ function heroBody(props) {
     );
 }
 
+function heroBottomPart(props) {
+    const bottomPart = props.bottomPart;
+    const styles = props.styles || {};
+    return (
+        bottomPart ? <div
+            className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2')}
+        >
+            {bottomPart}
+        </div> : null
+
+    );
+}
+
 function heroActions(props) {
     const actions = props.actions || [];
     if (actions.length === 0) {
