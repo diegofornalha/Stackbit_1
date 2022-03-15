@@ -73,7 +73,7 @@ const TAILWIND_MAP = {
     }
 };
 
-export function mapStyles(styles: ) {
+export function mapStyles(styles) {
     return Object.entries(styles)
         .map(([prop, value]) => {
             if (prop in TAILWIND_MAP) {
