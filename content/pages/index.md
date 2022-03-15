@@ -25,7 +25,7 @@ sections:
         style: primary
         elementId: hero-main-button
       - label: Learn more
-        altText: Learn more
+        altText: Minta Vendégház
         url: 'https://foglalas.appartman.hu/7'
         showIcon: false
         icon: arrowRight
