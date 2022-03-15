@@ -33,6 +33,7 @@ sections:
         elementId: ''
         type: Link
     bottomPart: >
+      
     media:
       type: ImageBlock
       url: /images/online-foglalasi-rendszer.png
