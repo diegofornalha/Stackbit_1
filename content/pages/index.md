@@ -462,9 +462,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    subtitle: >-
-      Kerüld el a túlfoglalást, és tartsd kézben, hogy mely foglalásokból
-      lesznek tényleges vendégek
   - colors: colors-h
     elementId: ''
     title: Hozz létre egy szálláshelyet percek alatt
