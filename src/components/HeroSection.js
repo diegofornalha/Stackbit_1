@@ -217,6 +217,7 @@ function heroBody(props) {
 
 function heroBottomPart(props) {
     const bottomPart = props.bottomPart;
+    const styles = props.styles || {};
     return (
         bottomPart ? <Markdown
             options={{ forceBlock: true, forceWrapper: true }}
