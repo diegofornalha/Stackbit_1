@@ -340,6 +340,7 @@ input[type="range"]::-moz-focus-outer {
 .pricing-item-features-list {
   list-style: none;
   padding: 0;
+  margin-top: 24px
 }
 .pricing-item-features-list li {
   margin-bottom: 0;
