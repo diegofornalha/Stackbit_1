@@ -163,7 +163,7 @@ class Pricing extends React.Component {
                                         {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 2)}
                                     </div>
                                     <div></div>
-                                    <p className='sb-markdown text-left mt-4'>A jutalék a foglalási rendszeren megvalósult foglalásokra vonatkozik</p>
+                                    
                                     <h6 className='text-center'>május 31-ig ingyenes</h6>
                                 </div>
                                 <div className='pricing-item-features'>
