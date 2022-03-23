@@ -2,7 +2,9 @@
 title: Hogyan árazzuk szálláshelyünket
 seo:
   title: Hogyan árazzuk szálláshelyünket | Appartman Blog
-  description: A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható a magánszálláshely kihasználtsága és az árbevétele.
+  description: >-
+    A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható a
+    magánszálláshely kihasználtsága és az árbevétele.
 excerpt: >-
   A megfelelő árszámítási és árazási tippek alkalmazásával maximalizálható a
   kihasználtság és az árbevétel.
@@ -50,7 +52,7 @@ bottomSections:
 layout: PostLayout
 author: content/data/team/desmond-eagle.json
 ---
-Főként kezdő szálláshely tulajdonosoknál szokott fejtörést okozni a kérdés, hogy hogyan is kellene árazniuk a szálláshelyüket, de azért a tapasztaltabbaknak is igyekszünk néhány iránymutatást adni, hogyan csinálják mások.
+*Főként kezdő szálláshely tulajdonosoknál szokott fejtörést okozni a kérdés, hogy hogyan is kellene árazniuk a szálláshelyüket, de azért a tapasztaltabbaknak is igyekszünk néhány iránymutatást adni, hogyan csinálják mások.*
 
 ## Milyen árazási módszereket használnak mások?
 
