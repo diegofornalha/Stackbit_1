@@ -94,4 +94,3 @@ Néhány ökölszabály azért van, amin érdemes lehet elindulni:
 
 Bízom benne, hogy sikerült néhány támpontot adnom ahhoz, hogy megkönnyítsem a dolgod apartmanod, vendégházad árazásával kapcsolatban. Látogass el további szakmai tartalmakért a [Facebook csoportunkba](https://www.facebook.com/groups/szallasadok) is és kérdezz a közösségtől!
 
-![](/images/yt-banner.png)
