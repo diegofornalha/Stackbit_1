@@ -183,7 +183,7 @@ class Pricing extends React.Component {
                                             iCal naptárszinkron (hamarosan)
                                         </li>
                                         <li className='is-checked'>
-                                            Többnyelvűség (hamarosan)
+                                            Gyermek árak (hamarosan)
                                         </li>
                                     </ul>
                                 </div>
