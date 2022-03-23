@@ -93,3 +93,5 @@ Néhány ökölszabály azért van, amin érdemes lehet elindulni:
 > Érdekesség: A [Szállásadók szakmai közösségének](https://www.facebook.com/groups/szallasadok) egy másik felmérése alapján a szavazásban részt vett szállásadók túlnyomó többsége (kb. 90%-a) 2022-ben 10%-kal fogja növelni az árait.
 
 Bízom benne, hogy sikerült néhány támpontot adnom ahhoz, hogy megkönnyítsem a dolgod apartmanod, vendégházad árazásával kapcsolatban. Látogass el további szakmai tartalmakért a [Facebook csoportunkba](https://www.facebook.com/groups/szallasadok) is és kérdezz a közösségtől!
+
+![](/images/yt-banner.png)
