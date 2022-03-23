@@ -326,7 +326,7 @@ input[type="range"]::-moz-focus-outer {
   display: inline-flex;
   align-items: baseline;
   font-size: 18px;
-  margin-bottom: 16px;
+  margin-bottom: 0px;
   color: #6B6C82;
   text-decoration: line-through;
 }
