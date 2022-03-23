@@ -257,46 +257,6 @@ sections:
       foglalnak a saját weboldadon.
   - elementId: ''
     colors: colors-a
-    title: Önálló weboldalként is működik
-    text: >
-      #### Indítsd el saját teljeskörű közvetlen foglalási felületedet
-      programozói tudás nélkül
-
-
-      Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy közvetlen az Insta
-      profilodról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthetsz.
-    media:
-      type: ImageBlock
-      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
-      altText: Hero section image
-      caption: test
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    colors: colors-a
     title: Mobilra optimalizált kialakítás
     text: >
       #### Növeld mobilról érkező foglalásaid számát
@@ -328,6 +288,46 @@ sections:
         borderColor: border-primary
         borderWidth: 0
         borderStyle: solid
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
+    colors: colors-a
+    title: Önálló weboldalként is működik
+    text: >
+      #### Indítsd el saját teljeskörű közvetlen foglalási felületedet
+      programozói tudás nélkül
+
+
+      Nem gond, ha nincs weboldalad, vagy ha szeretnéd, hogy közvetlen az Insta
+      profilodról foglaljanak, hiszen a foglalómotorra minden fontos információt
+      és képet feltölthetsz.
+    media:
+      type: ImageBlock
+      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
+      altText: Hero section image
+      caption: test
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-20
+          - pl-7
+          - pr-7
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
       title:
         textAlign: left
       subtitle:
