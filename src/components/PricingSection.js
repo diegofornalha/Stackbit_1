@@ -165,23 +165,6 @@ class Pricing extends React.Component {
                                         <li className='is-checked'>Naprakész naptár</li>
                                         <li className='is-checked'>Testreszabható automatikus emailek</li>
                                         <li className='is-checked'>Képek feltöltése</li>
-                                        <li className='is-checked'>
-                                            Mobilbarát és modern kialakítás
-                                        </li>
-                                        <li className='is-checked'>
-                                            Alapértelmezett árazási- és foglalási szabályok
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div className='pricing-item-cta'>
-                                <a className='button' href='http://foglalas.appartman.hu/register/'>
-                                    Ingyenes regisztráció
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
                     <div className='pricing-item'>
                         <div className='pricing-item-inner'>
                             <div className='pricing-item-content'>
@@ -223,6 +206,23 @@ class Pricing extends React.Component {
                             </div>
                         </div>
                     </div>
+                                        <li className='is-checked'>
+                                            Mobilbarát és modern kialakítás
+                                        </li>
+                                        <li className='is-checked'>
+                                            Alapértelmezett árazási- és foglalási szabályok
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div className='pricing-item-cta'>
+                                <a className='button' href='http://foglalas.appartman.hu/register/'>
+                                    Ingyenes regisztráció
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         )
