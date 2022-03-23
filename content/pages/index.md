@@ -270,6 +270,7 @@ sections:
       type: ImageBlock
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
       altText: Hero section image
+      caption: test
     styles:
       self:
         height: auto
