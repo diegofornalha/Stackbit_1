@@ -320,7 +320,7 @@ input[type="range"]::-moz-focus-outer {
 .pricing-item-title {
   font-weight: 500;
   color: #434459;
-  text-decoration
+  text-decoration: 
 }
 .pricing-item-price {
   display: inline-flex;
