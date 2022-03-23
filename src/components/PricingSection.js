@@ -85,7 +85,7 @@ class Pricing extends React.Component {
         }
     }
 
-    slider = React.createRef()
+    /*slider = React.createRef()
     sliderValue = React.createRef()
 
     componentDidMount() {
