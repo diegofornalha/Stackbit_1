@@ -96,7 +96,7 @@ class Pricing extends React.Component {
             10
         )
         this.handleSliderValuePosition(this.slider.current)
-    }
+    }/
 
     handlePricingSlide = (e) => {
         this.setState({ priceInputValue: e.target.value })
