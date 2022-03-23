@@ -172,7 +172,7 @@ class Pricing extends React.Component {
                                     <ul className='pricing-item-features-list'>
                                         <li className='is-checked'>Több szálláshely és szoba egy helyen</li>
                                         <li className='is-checked'>Sávos árazás</li>
-                                        <li className='is-checked'>Sávos árazás</li>
+                                        <li className='is-checked'>Naprakész naptár</li>
                                         <li className='is-checked'>
                                             Szezonális és kiemelt időszaki árazás
                                         </li>
