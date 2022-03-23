@@ -304,6 +304,7 @@ input[type="range"]::-moz-focus-outer {
   max-width: 320px;
   box-sizing: content-box;
   padding: 12px;
+  display: none;
 }
 .pricing-item-inner {
   display: flex;
