@@ -114,7 +114,7 @@ sections:
 
 
           #### 6. Mentés
-                          <div className='pricing-items'>
+                  <div className='pricing-items'>
                     <div className='pricing-item'>
                         <div className='pricing-item-inner'>
                             <div className='pricing-item-content'>
