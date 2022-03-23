@@ -60,7 +60,7 @@ class Pricing extends React.Component {
                 20: ['', 'Írjon nekünk', '']
             },
             plan2: {
-                0: ['+2% jutalék', '2 000 Ft', '/hó+'],
+                0: ['+2% jutalék', '2 000 Ft', '/hó+ÁFA'],
                 1: ['Ft', '7200', '/hó'],
                 2: ['Ft', '9600', '/hó'],
                 3: ['Ft', '11200', '/hó'],
