@@ -180,10 +180,10 @@ class Pricing extends React.Component {
                                         <li className='is-checked'>Magyar nyelvű támogatás</li>
                                         <li className='is-checked'>Extra szolgáltatások (hamarosan)</li>
                                         <li className='is-checked'>
-                                            iCal naptárszinkron (hamarosan)
+                                            Gyermek árak (hamarosan)
                                         </li>
                                         <li className='is-checked'>
-                                            Gyermek árak (hamarosan)
+                                            iCal naptárszinkron (hamarosan)
                                         </li>
                                     </ul>
                                 </div>
