@@ -85,7 +85,7 @@ class Pricing extends React.Component {
         }
     }
 
-    /*slider = React.createRef()
+    slider = React.createRef()
     sliderValue = React.createRef()
 
     componentDidMount() {
@@ -95,7 +95,7 @@ class Pricing extends React.Component {
             window.getComputedStyle(this.sliderValue.current).getPropertyValue('--thumb-size'),
             10
         )
-        this.handleSliderValuePosition(this.slider.current)*/
+        this.handleSliderValuePosition(this.slider.current)
     }
 
     handlePricingSlide = (e) => {
