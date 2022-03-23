@@ -83,7 +83,7 @@ class Pricing extends React.Component {
                 20: ['', 'Írjon nekünk', '']
             }
         }
-    **/}
+}
 
     slider = React.createRef()
     sliderValue = React.createRef()
