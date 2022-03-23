@@ -146,7 +146,7 @@ class Pricing extends React.Component {
                     </div>
                 </div>
 
-                /*<div className='pricing-items'>
+                <div className='pricing-items'>
                     <div className='pricing-item'>
                         <div className='pricing-item-inner'>
                             <div className='pricing-item-content'>
@@ -180,7 +180,7 @@ class Pricing extends React.Component {
                                 </a>
                             </div>
                         </div>
-                    </div>*/
+                    </div>
 
                     <div className='pricing-item'>
                         <div className='pricing-item-inner'>
