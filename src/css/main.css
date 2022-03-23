@@ -380,4 +380,3 @@ input[type="range"]::-moz-focus-outer {
 .myClass ~ .myClass {
 display: none;
 }
-}
