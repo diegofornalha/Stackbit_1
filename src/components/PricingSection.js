@@ -162,7 +162,7 @@ class Pricing extends React.Component {
                                         </span>
                                         {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 2)}
                                     </div>
-                                    <div className='<p className='sb-markdown text-left mt-4'>A jutalék a foglalási rendszeren megvalósult foglalásokra vonatkozik</p>'>
+                                    <div className=''>
                                         <p className='sb-markdown text-left mt-4'>A jutalék a foglalási rendszeren megvalósult foglalásokra vonatkozik</p>
                                     </div>
                                     
