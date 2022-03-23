@@ -148,7 +148,47 @@ class Pricing extends React.Component {
 
                 <div className='pricing-items'>
 
-                    
+                                        <div className='pricing-item'>
+                        <div className='pricing-item-inner'>
+                            <div className='pricing-item-content'>
+                                <div className='pricing-item-header center-content'>
+                                    <div className='pricing-item-title'>Prémium csomag</div>
+                                    <div className='pricing-item-price'>
+                                        <span className='pricing-item-price-amount mr-1'>
+                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 1)}
+                                        </span>
+                                        <span className='pricing-item-price-currency'>
+                                            {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 0)}
+                                        </span>
+                                        {this.getPricingData(this.state.isYearly ? this.state.priceOutput.plan2 : this.state.priceOutput.plan1, 2)}
+                                    </div>
+                                    <h6 className='text-center'>május 31-ig ingyenes</h6>
+                                </div>
+                                <div className='pricing-item-features'>
+                                    <ul className='pricing-item-features-list'>
+                                        <li className='is-checked'>Minden ami az ingyenesben</li>
+                                        <li className='is-checked'>Sávos árazás</li>
+                                        <li className='is-checked'>
+                                            Szezonális és kiemelt időszaki árazás
+                                        </li>
+                                        <li className='is-checked'>Magyar nyelvű támogatás</li>
+                                        <li className='is-checked'>Extra szolgáltatások (hamarosan)</li>
+                                        <li className='is-checked'>
+                                            iCal naptárszinkron (hamarosan)
+                                        </li>
+                                        <li className='is-checked'>
+                                            Többnyelvűség (hamarosan)
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div className='pricing-item-cta'>
+                                <a className='button' href='http://foglalas.appartman.hu/register'>
+                                    Ingyenes regisztráció
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                     <div className='pricing-item'>
                         <div className='pricing-item-inner'>
                             <div className='pricing-item-content'>
