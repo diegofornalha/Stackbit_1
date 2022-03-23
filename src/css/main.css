@@ -377,6 +377,6 @@ input[type="range"]::-moz-focus-outer {
 }
 
 
-.pricing-item ~ .myClass {
+.pricing-item ~ .pricing-item {
 display: none;
 }
