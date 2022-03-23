@@ -37,7 +37,7 @@ class Pricing extends React.Component {
         },
         priceOutput: {
             plan1: {
-                0: ['Ft', '2 500 Ft', '/hó'],
+                0: ['2% jutalék', '2 500 Ft', '/hó'],
                 1: ['Ft', '9000', '/hó'],
                 2: ['Ft', '12000', '/hó'],
                 3: ['Ft', '14000', '/hó'],
