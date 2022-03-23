@@ -114,40 +114,7 @@ sections:
 
 
           #### 6. Mentés
-            <div className='pricing-item'>
-                <div className='pricing-item-inner'>
-                    <div className='pricing-item-content'>
-                        <div className='pricing-item-header center-content'>
-                            <div className='pricing-item-title'>Alap csomag</div>
-                            <div className='pricing-item-price'>
-                                <span className='pricing-item-price-amount'>
-                                    {/* {this.getPricingData(this.state.priceOutput.plan1, 1)} */}
-                                    Ingyenes
-                                </span>
-                            </div>
-                        </div>
-                        <div className='pricing-item-features'>
-                            <ul className='pricing-item-features-list'>
-                                <li className='is-checked'>Több szálláshely és szoba egy helyen</li>
-                                <li className='is-checked'>Naprakész naptár</li>
-                                <li className='is-checked'>Testreszabható automatikus emailek</li>
-                                <li className='is-checked'>Képek feltöltése</li>
-                                <li className='is-checked'>
-                                    Mobilbarát és modern kialakítás
-                                </li>
-                                <li className='is-checked'>
-                                    Alapértelmezett árazási- és foglalási szabályok
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div className='pricing-item-cta'>
-                        <a className='button' href='http://foglalas.appartman.hu/register/'>
-                            Ingyenes regisztráció
-                        </a>
-                    </div>
-                </div>
-            </div>
+
 
         featuredImage: null
         styles:
