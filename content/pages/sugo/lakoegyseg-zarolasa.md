@@ -115,7 +115,6 @@ sections:
 
           #### 6. Mentés
 
-
         featuredImage: null
         styles:
           title:
