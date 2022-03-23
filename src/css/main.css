@@ -377,6 +377,7 @@ input[type="range"]::-moz-focus-outer {
 }
 
 
-.myClass ~ .myClass {
+.myClass ~ .myClass 
+{
 display: none;
 }
