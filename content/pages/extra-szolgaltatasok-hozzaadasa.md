@@ -101,7 +101,7 @@ sections:
           6 típust lehet megadni, amiket példával is szemléltetünk:
 
 
-          ##### Foglalásonként
+          #### Foglalásonként
 
 
           Minden foglaláshoz annyi darab számítódik fel, ahányat megad a
@@ -115,7 +115,7 @@ sections:
           kései távozás – 5 000 Ft (1 db megadása esetén 5 000 Ft számítódik)
 
 
-          ##### Vendégéjszakánként
+          #### Vendégéjszakánként
 
 
           Minden vendégéjszakára annyi darab számítódik fel, ahányat megad a
@@ -126,7 +126,7 @@ sections:
           1 reggelit)
 
 
-          ##### Éjszakánként
+          #### Éjszakánként
 
 
           Minden éjszakára annyi darab számítódik fel, ahányat megad a foglaló
@@ -136,7 +136,7 @@ sections:
           napidíja számítódik minden éjszakára)
 
 
-          ##### Lakóegységenként
+          #### Lakóegységenként
 
 
           Minden lefoglalt lakóegységre annyi darab számítódik fel, ahányat
@@ -147,7 +147,7 @@ sections:
           lakóegységre számítódik fel takarítás)
 
 
-          ##### Vendégenként
+          #### Vendégenként
 
 
           Minden a foglalásban szereplő vendégre annyi darab számítódik fel,
@@ -158,7 +158,7 @@ sections:
           szereplő vendégre számítódik fel borkóstoló)
 
 
-          ##### Lakóegységéjszakánként
+          #### Lakóegységéjszakánként
 
 
           Minden lakóegységéjszakára annyi darab számítódik, ahányat megad a
