@@ -3,7 +3,7 @@ title: Szálláshely szerkesztése és törlése | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Szálláshely szerkesztése és törlése
+    title: Extra szolgáltatások hozzáadása
     styles:
       self:
         height: auto
