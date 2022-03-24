@@ -74,16 +74,20 @@ sections:
           ## Hogy működnek az extra szolgáltatások az Appartmanban?
 
 
+          ```
+
           Az extra szolgáltatások a foglaláshoz egyszerűen hozzáadható
           opcionális, vagy kötelező elemek. Segítségükkel könnyen értékesíthetők
           kiegészítő elemek a foglalás mellé, és ezáltal növelhető a bevétel.
 
-
-          1.  A szállásadó megadja az extra szolgáltatások fő jellemzőit az
-          admin felületen (Beállítások).
+          ```
 
 
-          2.  A foglalók a foglalási folyamat részeként hozzáadhatják a
+          A szállásadó megadja az extra szolgáltatások fő jellemzőit az admin
+          felületen (Beállítások).
+
+
+          1.  A foglalók a foglalási folyamat részeként hozzáadhatják a
           tetszőleges extra szolgáltatásokat a foglalásukhoz.
               Kötelező szolgáltatás esetén a foglalónak csak tájékoztatás jelleggel jelenik meg az extra szolgáltatás. Ilyen lehet például a takarítás.
 
