@@ -108,12 +108,11 @@ sections:
           foglaló.
 
 
-          *   kisállat foglalásonként számolva – 4 000 Ft (2 db megadása esetén
-          8 000 Ft számítódik)
+          kisállat foglalásonként számolva – 4 000 Ft (2 db megadása esetén 8
+          000 Ft számítódik)
 
 
-          *   kései távozás – 5 000 Ft (1 db megadása esetén 5 000 Ft
-          számítódik)
+          kései távozás – 5 000 Ft (1 db megadása esetén 5 000 Ft számítódik)
 
 
           ##### Vendégéjszakánként
