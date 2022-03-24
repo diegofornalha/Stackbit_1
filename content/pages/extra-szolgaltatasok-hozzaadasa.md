@@ -74,8 +74,6 @@ sections:
           ## Hogy működnek az extra szolgáltatások az Appartmanban?
 
 
-
-
           A szállásadó megadja az extra szolgáltatások fő jellemzőit az admin
           felületen (Beállítások).
 
@@ -103,7 +101,7 @@ sections:
           6 típust lehet megadni, amiket példával is szemléltetünk:
 
 
-          **Foglalásonként**
+          ##### Foglalásonként
 
 
           Minden foglaláshoz annyi darab számítódik fel, ahányat megad a
@@ -118,7 +116,7 @@ sections:
           számítódik)
 
 
-          **Vendégéjszakánként**
+          ###### Vendégéjszakánként
 
 
           Minden vendégéjszakára annyi darab számítódik fel, ahányat megad a
@@ -129,7 +127,7 @@ sections:
           nap 1 reggelit)
 
 
-          **Éjszakánként**
+          ###### Éjszakánként
 
 
           Minden éjszakára annyi darab számítódik fel, ahányat megad a foglaló
@@ -139,7 +137,7 @@ sections:
           napidíja számítódik minden éjszakára)
 
 
-          **Lakóegységenként**
+          ###### Lakóegységenként
 
 
           Minden lefoglalt lakóegységre annyi darab számítódik fel, ahányat
@@ -150,7 +148,7 @@ sections:
           szereplő lakóegységre számítódik fel takarítás)
 
 
-          **Vendégenként**
+          ###### Vendégenként
 
 
           Minden a foglalásban szereplő vendégre annyi darab számítódik fel,
@@ -161,7 +159,7 @@ sections:
           szereplő vendégre számítódik fel borkóstoló)
 
 
-          **Lakóegységéjszakánként**
+          ###### Lakóegységéjszakánként
 
 
           Minden lakóegységéjszakára annyi darab számítódik, ahányat megad a
