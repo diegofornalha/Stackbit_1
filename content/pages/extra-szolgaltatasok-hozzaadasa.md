@@ -122,8 +122,8 @@ sections:
           foglaló
 
 
-          *   reggeli – 2 000 Ft (1 db megadása esetén minden vendég kap minden
-          nap 1 reggelit)
+          reggeli – 2 000 Ft (1 db megadása esetén minden vendég kap minden nap
+          1 reggelit)
 
 
           ##### Éjszakánként
@@ -132,7 +132,7 @@ sections:
           Minden éjszakára annyi darab számítódik fel, ahányat megad a foglaló
 
 
-          *   kutya napidíjjal számolva – 2 000 Ft (2 db megadása esetén 2 kutya
+          kutya napidíjjal számolva – 2 000 Ft (2 db megadása esetén 2 kutya
           napidíja számítódik minden éjszakára)
 
 
@@ -143,8 +143,8 @@ sections:
           megad a foglaló
 
 
-          *   takarítás 3 000 Ft (1 db megadása esetén minden a foglalásban
-          szereplő lakóegységre számítódik fel takarítás)
+          takarítás 3 000 Ft (1 db megadása esetén minden a foglalásban szereplő
+          lakóegységre számítódik fel takarítás)
 
 
           ##### Vendégenként
@@ -154,7 +154,7 @@ sections:
           ahányat megad a foglaló
 
 
-          *   borkóstoló 6 000 Ft/fő (1 db megadása esetén minden a foglalásban
+          borkóstoló 6 000 Ft/fő (1 db megadása esetén minden a foglalásban
           szereplő vendégre számítódik fel borkóstoló)
 
 
@@ -165,9 +165,9 @@ sections:
           foglaló
 
 
-          *   klíma használat 2 000 Ft/nap/lakóegység (1 db megadása esetén
-          minden a foglalásban szereplő lakóegység minden éjszakájára számítódik
-          fel klíma használat)
+          klíma használat 2 000 Ft/nap/lakóegység (1 db megadása esetén minden a
+          foglalásban szereplő lakóegység minden éjszakájára számítódik fel
+          klíma használat)
 
 
           ### 3. Egységár megadása
