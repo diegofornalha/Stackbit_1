@@ -466,49 +466,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-h
-    elementId: ''
-    title: Hozz létre egy szálláshelyet percek alatt
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: null
-        text: |-
-          <div class="iframe-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/C0D9c6iP59g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-        featuredImage: null
-        styles:
-          title:
-            textAlign: center
-          subtitle:
-            textAlign: center
-          text:
-            textAlign: center
-    actions: []
-    columns: 1
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedItemsSection
   - elementId: ''
     colors: colors-f
     title: Próbáld ki ingyen és fogadj vendégeket 3 perc múlva
