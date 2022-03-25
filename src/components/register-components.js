@@ -3,6 +3,7 @@ import { registerComponents } from '@stackbit/components';
 import { componentsMap } from '@stackbit/components/dist/components-map';
 import PageLayout from './CustomPageLayout'
 import PostLayout from './CustomPostLayout'
+import {  } from "module";
 
 import * as React from 'react';
 import NextLink from 'next/link';
