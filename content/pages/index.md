@@ -24,6 +24,7 @@ sections:
         altText: Minta Vendégház
         url: 'https://foglalas.appartman.hu/7'
         showIcon: true
+        openInNew: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
