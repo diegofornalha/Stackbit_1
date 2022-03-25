@@ -260,13 +260,13 @@ sections:
     colors: colors-a
     title: Átlátható foglaltsági naptár
     text: >
-      #### Növeld mobilról érkező foglalásaid számát
+      #### Érkezési, távozási nap, vagy éppen éjszaka? Nincs több kérdés a
+      vendégben.
 
 
-      Foglalómotorunkat minden képernyőn könnyen kezelhetőre terveztük, hogy
-      megkönnyítsük a foglalások leadását. Akár egy Instagram profilról is
-      könnyen elérhető és foglalható lesz a szállásod a másolható link
-      segítségével.
+      A foglalás gombra kattintva a vendég kiválaszthatja a vendégek számát és
+      láthatja a szabad időpontokat. A dátumot kiválasztva pedig megjelennek a
+      lakóegységek és árak.
     media:
       type: ImageBlock
       url: /images/automatikusan-generalt-emailek-d126e832.png
