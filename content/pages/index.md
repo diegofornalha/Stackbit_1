@@ -258,7 +258,7 @@ sections:
       oldalon.
   - elementId: ''
     colors: colors-a
-    title: Mobilra optimalizált kialakítás
+    title: Átlátható foglaltsági naptár
     text: >
       #### Növeld mobilról érkező foglalásaid számát
 
