@@ -162,7 +162,7 @@ sections:
     title: Bárhova linkelhető saját foglalási felület
   - colors: colors-f
     elementId: ''
-    title: 'Több direkt foglalás, kevesebb fizetett jutalék'
+    title: 'Egyszerű foglalási felület, több vendég, kevesebb jutalék'
     items:
       - type: FeaturedItem
         title: Naprakész naptár
