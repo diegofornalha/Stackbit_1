@@ -12,8 +12,8 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     text: >
-      Érj el több vendéget saját felületeiden modern és felhasználóbarát
-      foglalómotorral.
+      Növelje direkt foglalásait saját Facebook vagy weboldalán és hagyja az
+      oda-vissza emailezést.
     actions:
       - type: Button
         label: Ingyenes regisztráció
