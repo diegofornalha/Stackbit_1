@@ -578,8 +578,10 @@ sections:
     items:
       - elementId: ''
         subtitle: ''
-        text: |
-          #### A regisztrációt követően a szálláshely kap egy foglalási linket
+        text: >
+          #### 1. A regisztrációt követően a szálláshely kap egy foglalási
+          linket
+
 
           Példa: foglalas.appartman.hu/teszt-vendeghaz
         author: ''
