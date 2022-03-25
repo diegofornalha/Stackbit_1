@@ -269,7 +269,7 @@ sections:
       lakóegységek és árak.
     media:
       type: ImageBlock
-      url: /images/automatikusan-generalt-emailek-d126e832.png
+      url: /images/online-foglaltagi-naptar-maganszallashelyeknek.png
       altText: Hero section image
     styles:
       self:
