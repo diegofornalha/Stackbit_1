@@ -207,7 +207,7 @@ sections:
         rating: 2
         isRatingVisible: false
       - type: FeaturedItem
-        title: 'Azonnali visszajelzések, érthető foglalási szabályok'
+        title: Megbízható megjelenés
         text: >
           Egyszerűen kezelhető foglaltsági naptárunkkal egyértelműek az
           érkezési-távozási napok és foglalás is csak néhány gombnyomás.
