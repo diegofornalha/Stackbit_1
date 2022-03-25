@@ -428,7 +428,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Extra szolgáltatások
     subtitle: ''
     text: >-
