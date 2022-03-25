@@ -209,9 +209,8 @@ sections:
       - type: FeaturedItem
         title: 'Azonnali visszajelzések, érthető foglalási szabályok'
         text: >
-          Foglalási és árazási feltételeid a beállításaid és a választott dátum
-          szerint változnak. Így vendégeid könnyen átláthatják, hogy milyen
-          feltételekkel foglalhatnak.
+          Egyszerűen kezelhető foglaltsági naptárunkkal egyértelműek az
+          érkezési-távozási napok és foglalás is csak néhány gombnyomás.
         featuredImage:
           url: /images/azonnali-visszajelzesek.png
           altText: altText of the image
