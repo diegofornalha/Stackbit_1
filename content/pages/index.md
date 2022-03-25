@@ -187,9 +187,9 @@ sections:
       - type: FeaturedItem
         title: Több szabadidő
         text: >
-          Egy felmérés szerint az interneten foglaló vendégek kb. 67%-a mobilról
-          foglal. Az Appartman rendszere nem csak mobilbarát, de még egyszerűen
-          is használható.
+          Szállás üzemeltetés a saját szabályai szerint. Nem kell folyamatosan
+          az emaileket és a telefonját figyelnie, az Appartman automatikus
+          emailjei és beállításai segítik Önt.
         featuredImage:
           url: /images/mobilbarat-online-szobafoglalasi-rendszer.png
           altText: altText of the image
