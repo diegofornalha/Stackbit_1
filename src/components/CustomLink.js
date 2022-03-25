@@ -2,7 +2,7 @@ import * as React from 'react';
 import classNames from 'classnames';
 import {  } from "@stackbit/components/dist/utils/link";
 import Link from '@stackbit/components/dist/utils/link';
-import ArrowLeft from '../../svgs/arrow-left';
+import ArrowLeft from '@stackbit/components/dist/svgs/arrow-left';
 import ArrowRight from '../../svgs/arrow-right';
 import Cart from '../../svgs/cart';
 import Facebook from '../../svgs/facebook';
