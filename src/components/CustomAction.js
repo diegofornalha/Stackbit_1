@@ -46,6 +46,7 @@ export default function Action(props) {
             aria-label={altText}
             id={cssId}
             target={openInNew ? '_blank' : undefined}
+            rel={openInNew ? ''}
             className={classNames('sb-component', 'sb-component-block', style === 'link' ? 'sb-component-link' : 'sb-component-button', cssClasses, {
                 'sb-component-button-primary': style === 'primary',
                 'sb-component-button-secondary': style === 'secondary'
