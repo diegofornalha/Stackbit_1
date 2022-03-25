@@ -440,7 +440,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /images/extra-szolgaltatasok-foglalasi-rendszer.png
       altText: Hero image
     backgroundImage: null
     styles:
