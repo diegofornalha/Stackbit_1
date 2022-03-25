@@ -22,6 +22,7 @@ registerComponents({
     PageLayout,
     PostLayout,
     Link,
+    Action,
     PricingSection: dynamic(() => import('./PricingSection')),
     HeroSection: dynamic(() => import('./HeroSection'))
 
