@@ -254,9 +254,9 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: >-
-      Érdeklődő vendégei kíváncsiak, mikor szabad a vendégháza, ezért a
-      szálláshely weboldaláról eltávozva felkeresik a szállásközvetítő oldalak
-      naptárait, sok esetben pedig ott is foglalnak
+      Érdeklődő vendégei látják mikor szabad vendégháza, így szívesebben
+      foglalnak saját felületén és nem pedig a Bookingon vagy más közvetítő
+      oldalon.
   - elementId: ''
     colors: colors-a
     title: Mobilra optimalizált kialakítás
