@@ -254,8 +254,9 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: >-
-      Az Appartman foglalási naptárjában érdeklődő vendégeid könnyebben
-      foglalnak a saját weboldadon.
+      Érdeklődő vendégei kíváncsiak, mikor szabad a vendégháza, ezért a
+      szálláshely weboldaláról eltávozva felkeresik a szállásközvetítő oldalak
+      naptárait, sok esetben pedig ott is foglalnak
   - elementId: ''
     colors: colors-a
     title: Mobilra optimalizált kialakítás
