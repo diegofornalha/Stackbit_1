@@ -185,7 +185,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Mobilbarát és bizalomgerjesztő kialakítás
+        title: Több szabadidő
         text: >
           Egy felmérés szerint az interneten foglaló vendégek kb. 67%-a mobilról
           foglal. Az Appartman rendszere nem csak mobilbarát, de még egyszerűen
