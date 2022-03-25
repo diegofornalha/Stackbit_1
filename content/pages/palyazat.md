@@ -6,7 +6,7 @@ sections:
     title: Pályázat
     subtitle: ''
     items:
-      - question: How it this different from what we have today?
+      - question: 
         answer: >-
         Pályázati azonosító: 2020-1.1.4-STARTUP/BNL-004
         Projekt címe: Appartman szálláshelykezelő szoftver fejlesztése és piacra vitele
