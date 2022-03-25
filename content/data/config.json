@@ -28,16 +28,6 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
-            },
-            {
-                "label": "Áraink",
-                "altText": "Áraink",
-                "url": "https://appartman.hu/araink",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
             }
         ],
         "secondaryLinks": [
