@@ -430,7 +430,9 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Extra szolgáltatások
-    subtitle: 'Értékesíts reggelit, üdvözlő kosarat, vagy fürdődézsa használatot'
+    subtitle: >-
+      Értékesíts egyszerűen reggelit, üdvözlő kosarat, vagy fürdődézsa
+      használatot
     text: >-
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
