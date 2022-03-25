@@ -65,7 +65,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Növeld direkt foglalásaid online szobafoglalási rendszerünkkel
+    title: 'Foglaltsági naptár vendégházaknak, apartmanoknak'
   - colors: colors-a
     elementId: ''
     items:
