@@ -435,9 +435,8 @@ sections:
       használatot
 
 
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      A foglalók könnyedén hozzáadhatnak extra tételeket a foglalásukhoz, és
+      azonnal látják az pontos összeget. 
     actions: []
     media:
       type: ImageBlock
