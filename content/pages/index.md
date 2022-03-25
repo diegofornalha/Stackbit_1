@@ -165,7 +165,7 @@ sections:
     title: 'Egyszerű foglalási felület, több vendég, kevesebb jutalék'
     items:
       - type: FeaturedItem
-        title: Naprakész naptár
+        title: Kevesebb jutalék
         text: >
           Érdeklődő vendégeid látják mikor foglalt, vagy éppen szabad a
           vendégházad, így szívesebben foglalnak a saját felületeden.
