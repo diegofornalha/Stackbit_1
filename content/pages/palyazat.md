@@ -12,9 +12,9 @@ sections:
         Projekt címe: Appartman szálláshelykezelő szoftver fejlesztése és piacra vitele
         Startup neve: Appartman PMS Technologies Kft.
         Projekt szerződött támogatási összege: 28.800.000 Ft
-Projekt szerződött összköltsége: 36.000.000 Ft
-Projekt megvalósítási időszaka: 2021.11.01. - 2022.07.01.
-Projekt rövid összefogalása: Az Appartman egy felhasználóbarát szálláshelykezelő szoftver (PMS – Property management system), amely segíti a szálláshely tulajdonosokat vendégeik kötelező adminisztrációjában és kényelmi funkciókkal könnyíti meg a napi munkavégzést.
+        Projekt szerződött összköltsége: 36.000.000 Ft
+        Projekt megvalósítási időszaka: 2021.11.01. - 2022.07.01.
+        Projekt rövid összefogalása: Az Appartman egy felhasználóbarát szálláshelykezelő szoftver (PMS – Property management system), amely segíti a szálláshely tulajdonosokat vendégeik kötelező adminisztrációjában és kényelmi funkciókkal könnyíti meg a napi munkavégzést.
 
     styles:
       self:
