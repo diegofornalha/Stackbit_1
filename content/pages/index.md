@@ -458,6 +458,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderColor: border-complementary-alt
       title:
         textAlign: left
       subtitle:
