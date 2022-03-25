@@ -572,7 +572,7 @@ sections:
       type: ImageBlock
   - colors: colors-a
     elementId: ''
-    title: Online foglalási rendszer percek alatt
+    title: Hogyan működik és hogyan üzemeltethető
     subtitle: Így hozhatod létre a saját foglalómotorod
     items:
       - elementId: ''
