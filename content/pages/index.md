@@ -167,9 +167,9 @@ sections:
       - type: FeaturedItem
         title: Kevesebb jutalék
         text: >
-          Érdeklődő vendégeid látják mikor foglalt, vagy éppen szabad a
-          vendégházad, így szívesebben foglalnak a saját felületeden.
-          Főszezonban pedig nem kell felesleges emailekre válaszolnod.
+          Vendégei kíváncsiak mikor szabad vendégháza, de naptár nélkül a
+          közvetítő oldalakon keresnek erre, sokszor pedig ott foglalnak még
+          akkor is, ha a weboldalán jártak először.
         featuredImage:
           url: /images/naprakesz-foglaltsagi-naptar-440c0a4a.png
           altText: altText of the image
