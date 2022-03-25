@@ -577,12 +577,10 @@ sections:
     items:
       - elementId: ''
         subtitle: ''
-        text: >
-          #### 1. Add meg a lakóegységeidet
+        text: |
+          #### A regisztrációt követően a szálláshely kap egy foglalási linket
 
-
-          Néhány lépésben kész is a regisztráció a lakóegységeid áraival,
-          képeivel és fő felszereltségével.
+          Példa: foglalas.appartman.hu/teszt-vendeghaz
         author: ''
         rating: 1
         isRatingVisible: false
