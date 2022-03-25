@@ -430,9 +430,6 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Extra szolgáltatások
-    subtitle: >-
-      Értékesíts egyszerűen reggelit, üdvözlő kosarat, vagy fürdődézsa
-      használatot
     text: >
       #### Értékesíts egyszerűen reggelit, üdvözlő kosarat, vagy fürdődézsa
       használatot
