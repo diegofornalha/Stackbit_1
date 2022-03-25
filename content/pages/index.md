@@ -159,6 +159,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
+    title: Bárhova linkelhető saját foglalási felület
   - colors: colors-f
     elementId: ''
     title: 'Több direkt foglalás, kevesebb fizetett jutalék'
