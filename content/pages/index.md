@@ -603,10 +603,10 @@ sections:
         subtitle: ''
         text: >
           #### A linket bemásolva egy weboldal szövegébe, gombjába, egy Facebook
-          posztba, bárhonnan elérhető lesz a szállásod saját foglalási felülete
+          posztba, bárhonnan elérhető lesz a szállás saját foglalási felülete
 
 
-          Bárhol is találnak rád a vendégek, könnyedén fognak tudni foglalni.
+          Bárhol is találják meg a vendégek, könnyedén fognak tudni foglalni.
         author: ''
         rating: 1
         isRatingVisible: false
