@@ -182,7 +182,7 @@ sections:
           type: ImageBlock
         styles:
           title:
-            textAlign: center
+            textAlign: left
           text:
             textAlign: left
       - type: FeaturedItem
