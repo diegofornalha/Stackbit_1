@@ -184,7 +184,7 @@ sections:
           title:
             textAlign: center
           text:
-            textAlign: center
+            textAlign: left
       - type: FeaturedItem
         title: Több szabadidő
         text: >
