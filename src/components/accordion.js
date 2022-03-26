@@ -35,4 +35,4 @@ import React from 'react'
             <p>Lorem ipsum...</p>
         </div>
     )
-}
+
