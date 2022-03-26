@@ -1,7 +1,7 @@
 export default function PricingSection(props) {
     return (
         <section>
-            <Pricing />
+            <Accordion />
         </section>
     )
 }
