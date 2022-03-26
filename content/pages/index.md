@@ -746,7 +746,7 @@ sections:
     colors: colors-f
     backgroundImage: null
     title: >-
-      Regisztrálj, üzemeld be percek alatt és növeld közvetlen foglalásaid
+      Regisztráljon, üzemelje be percek alatt és növelje közvetlen foglalásai
       számát
     actions:
       - type: Button
