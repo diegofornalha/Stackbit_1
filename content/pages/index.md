@@ -574,7 +574,7 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Hogyan működik és hogyan üzemeltethető
-    subtitle: Így hozhatod létre a saját foglalómotorod
+    subtitle: Így hozhatja létre a saját foglalási rendszerét
     items:
       - elementId: ''
         subtitle: ''
