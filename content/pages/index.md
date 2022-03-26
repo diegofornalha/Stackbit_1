@@ -691,7 +691,7 @@ sections:
         answer: >
           Természetesen. Az Appartmant úgy alakítottuk ki, hogy a regisztrációt
           követően 1 linket kap, amit akár saját weboldalára, akár Facebook vagy
-          Instagram oldaladra belinkelhet. Ha mégis elakadna, segítünk!
+          Instagram oldalára is belinkelhet. Ha mégis elakadna, segítünk!
     styles:
       self:
         height: auto
