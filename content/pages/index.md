@@ -34,7 +34,7 @@ sections:
       helyen
     media:
       type: ImageBlock
-      url: /images/online-foglalasi-rendszer.png
+      url: /images/hero.png
       altText: Image alt text
       caption: Image caption
     styles:
