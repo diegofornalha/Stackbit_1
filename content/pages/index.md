@@ -647,10 +647,13 @@ sections:
             justifyContent: flex-start
       - elementId: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          #### A naptárat, foglalásokat és a beállításokat az admin felületről
+          kezelheti
+
+
+          Akár mobil eszközökről is könnyedén kezelhetők a foglalások.
+
         author: ''
         rating: 1
         isRatingVisible: false
