@@ -1,4 +1,4 @@
-export default function Accordion(props) {
+export default function accordion(props) {
     return (
         <section>
             <accordion />
