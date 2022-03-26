@@ -7,3 +7,13 @@ export default function Accordion(props) {
 }
 
 import React from 'react'
+
+export default function PricingSection(props) {
+    return (
+        <section>
+            <Pricing />
+        </section>
+    )
+}
+
+import React from 'react'
