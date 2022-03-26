@@ -697,7 +697,7 @@ sections:
     elementId: ''
     title: Gyakori válaszok
     items:
-      - question: How it this different from what we have today?
+      - question: Hogyan lesz több direkt foglalásom?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation. At the office, working together is often a
