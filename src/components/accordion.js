@@ -16,7 +16,7 @@ for (i=0; i<accordion.length; i++) {
   accordion[i].addEventListener('click', function () {
     this.classList.toggle('active')
   return (
-      <div class="accordion-body">
+<div class="accordion-body">
   <div class="accordion">
     <h1>Frequently Asked Questions</h1>
     <hr>
