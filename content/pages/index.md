@@ -717,9 +717,9 @@ sections:
           Hogy kerülnek be a más csatornán érkezett foglalások a foglalómotor
           naptárába?
         answer: >
-          Hamarosan érkezik az iCal naptárszinkron funkció, addig manuálisan
-          lehet lezárni a napokat, vagy bevinni egy foglalást egy egyszerű
-          folyamattal.
+          Egyelőre nincs, viszont heteken belül elkészül az iCal naptárszinkron
+          funkciónk is, amellyel pár órán belül zárolásra kerülnek a máshol
+          lefoglalt időpontok.
       - question: 'Nem vagyok webfejlesztő, én is be tudom üzemelni?'
         answer: >
           Természetesen. Az Appartmant úgy alakítottuk ki, hogy a regisztrációt
