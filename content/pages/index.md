@@ -697,6 +697,12 @@ sections:
     elementId: ''
     title: Gyakori válaszok
     items:
+      - question: How it this different from what we have today?
+        answer: >-
+          At the office, working together is often a distruction, on remote, it
+          could be motivation. At the office, working together is often a
+          distruction, on remote, it could be motivation. At the office, working
+          together is often a distruction, on remote, it could be motivation.
       - question: >-
           Manuálisan szeretném visszaigazolni a foglalásokat. Erre van
           lehetőség?
