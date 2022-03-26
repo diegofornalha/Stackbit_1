@@ -8,7 +8,7 @@ export default function accordion(props) {
 
 import React from 'react'
 
-class Pricing extends React.Component {
+class Pricing extends React.Component 
 
 var acc = document.getElementsByClassName("accordion");
 var i;
