@@ -34,7 +34,7 @@ sections:
       helyen
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/hero-e4e1dd5e.png
       altText: Image alt text
       caption: Image caption
     styles:
