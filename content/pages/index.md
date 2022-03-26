@@ -429,12 +429,12 @@ sections:
     colors: colors-a
     title: Extra szolgáltatások
     text: >
-      #### Értékesíts egyszerűen reggelit, üdvözlő kosarat, vagy fürdődézsa
+      #### Értékesítsen egyszerűen reggelit, üdvözlő kosarat, vagy fürdődézsa
       használatot
 
 
       A foglalók könnyedén hozzáadhatnak extra tételeket a foglalásukhoz, és
-      azonnal látják az pontos összeget. 
+      azonnal látják az pontos összeget.
     actions: []
     media:
       type: ImageBlock
