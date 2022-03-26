@@ -602,13 +602,11 @@ sections:
       - elementId: ''
         subtitle: ''
         text: >
-          #### 2. Add meg a szezonális áraidat és foglalási szabályaidat (ha
-          vannak)
+          #### A linket bemásolva egy weboldal szövegébe, gombjába, egy Facebook
+          posztba, bárhonnan elérhető lesz a szállásod saját foglalási felülete
 
 
-          Az Appartman könnyedén kezeli a szezonokra, vagy kiemelt hétvégékre
-          megadott árakat. Megadhatsz gyermek kedvezményt, minimum foglalható
-          éjszakát, előfoglalási időt, stb.
+          Bárhol is találnak rád a vendégek, könnyedén fognak tudni foglalni.
         author: ''
         rating: 1
         isRatingVisible: false
