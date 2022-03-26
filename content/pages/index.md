@@ -646,7 +646,6 @@ sections:
           actions:
             justifyContent: flex-start
       - elementId: ''
-        title: Item Title
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
