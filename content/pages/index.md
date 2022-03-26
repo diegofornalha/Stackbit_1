@@ -709,9 +709,10 @@ sections:
           Manuálisan szeretném visszaigazolni a foglalásokat. Erre van
           lehetőség?
         answer: >
-          Természetesen. Ennek a beállításával az automatikusan generált emailt
-          csak akkor küldjük ki a foglalónak, ha mindent rendben talált és
-          visszaigazolta a foglalást.
+          Igen. Sok szállásadó szereti kizárni a bulizni vágyó társaságokat,
+          ezért rendszerünkben beállítható, hogy Önnek vissza kelljen igazolnia
+          egy gombnyomással a foglalást. Addig a foglaló csak a “foglalási
+          igényét” adta le Ön felé.
       - question: >-
           Hogy kerülnek be a más csatornán érkezett foglalások a foglalómotor
           naptárába?
