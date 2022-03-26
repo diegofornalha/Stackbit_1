@@ -1,7 +1,6 @@
 ---
 title: Appartman segítség
 sections:
-  - type: accordion
   - type: HeroSection
     colors: colors-f
     title: Appartman segítség
