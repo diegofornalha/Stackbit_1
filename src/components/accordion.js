@@ -26,13 +26,13 @@ for (i = 0; i < acc.length; i++) {
     } else {
         panel.style.display = "block";
     }
+    return(
+        <button class="accordion">Section 1</button>
+        <div class="panel">
+            <p>Lorem ipsum...</p>
+        </div>
+    )
     });
 }
 
-return(
-    <button class="accordion">Section 1</button>
-    <div class="panel">
-        <p>Lorem ipsum...</p>
-    </div>
-)
 
