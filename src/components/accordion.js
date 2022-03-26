@@ -10,7 +10,7 @@ import React from 'react'
 
 
 
-const accordion = document.getElementsByClassName('container');
+const accordion = document.getElementsByClassName('container')[0];
 
 for (let i=0; i<accordion.length; i++) {
   accordion[i].addEventListener('click', function () {
