@@ -510,7 +510,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-f
-    title: Próbáld ki ingyen és fogadj vendégeket 3 perc múlva
+    title: Próbálja ki ingyen és fogadjon vendégeket 3 perc múlva
     text: |+
       ###### ingyenes próbidőszak
 
