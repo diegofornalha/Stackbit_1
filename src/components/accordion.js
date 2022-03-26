@@ -27,7 +27,9 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 
-return
+return(
+    
+)
  <button class="accordion">Section 1</button>
     <div class="panel">
         <p>Lorem ipsum...</p>
