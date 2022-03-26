@@ -387,15 +387,12 @@ sections:
     colors: colors-a
     title: Visszaigazolás véglegesítés előtt
     text: >
-      #### Kerüld el a túlfoglalást, és tartsd kézben, hogy mely foglalásokból
+      #### Kerülje el a túlfoglalást, és tartsa kézben, hogy mely foglalásokból
       lesznek tényleges vendégek
 
 
-      Bekapcsolva a foglalásokról kapott értesítő emailben egy gombnyomással
-      visszaigazolhatod, vagy elutasíthatod a foglalást. A beállítástól függően
-      változik a számodra és a foglaló számára kiküldött e-mail szövege. Az
-      emaileket szerkesztőnkben kedvedre testreszabhatod saját szöveges
-      részekkel.
+      Egy gombnyomással visszaigazolhatja, vagy elutasíthatja a foglalást. Így
+      könnyedén elkerülhető a túlfoglalás, illetve szűrhetők a vendégek.
     actions: []
     media:
       type: ImageBlock
