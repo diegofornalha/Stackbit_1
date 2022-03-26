@@ -25,7 +25,8 @@ registerComponents({
     Link,
     Action,
     PricingSection: dynamic(() => import('./PricingSection')),
-    HeroSection: dynamic(() => import('./HeroSection'))
+    HeroSection: dynamic(() => import('./HeroSection')),
+    accordion: dynamic
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
