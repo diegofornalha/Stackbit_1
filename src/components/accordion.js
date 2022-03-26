@@ -32,7 +32,6 @@ for (i = 0; i < acc.length; i++) {
             <div class="panel">
                 <p>Lorem ipsum...</p>
             </div>
-
         </div>
     )
     });
