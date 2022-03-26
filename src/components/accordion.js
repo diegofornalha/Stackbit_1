@@ -1,7 +1,7 @@
 export default function Accordion(props) {
     return (
         <section>
-            <Accordion />
+            <accordion />
         </section>
     )
 }
