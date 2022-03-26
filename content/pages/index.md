@@ -699,10 +699,12 @@ sections:
     items:
       - question: Hogyan lesz több direkt foglalásom?
         answer: >
-          Igen. Sok szállásadó szereti kizárni a bulizni vágyó társaságokat,
-          ezért rendszerünkben beállítható, hogy Önnek vissza kelljen igazolnia
-          egy gombnyomással a foglalást. Addig a foglaló csak a “foglalási
-          igényét” adta le Ön felé.
+          A vendégek szeretik látni és lefoglalni a szállást. Ahogyan egy
+          webshopnak sem levelezünk, úgy rengeteg ember nem szeret emailezni és
+          telefonálni (persze lesznek, akik igen). Nagyon sok vendég mielőtt
+          foglalna felkeresi a Booking és Szállás.hu oldalát, hogy megnézze az
+          Ön szabad időpontjait. Néhányuk visszamegy a szállást Önnél, de arra
+          is van esély, hogy ott foglal vagy éppen keres más lehetőséget is.
       - question: >-
           Manuálisan szeretném visszaigazolni a foglalásokat. Erre van
           lehetőség?
