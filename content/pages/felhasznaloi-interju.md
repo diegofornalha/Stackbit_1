@@ -42,15 +42,15 @@ sections:
   - type: ContactSection
     colors: colors-a
     text: >
-      ### Jelentkezz interjúra és oldjuk meg együtt a foglalással és
+      ### Jelentkezzen interjúra és oldjuk meg együtt a foglalással és
       adminisztrációval kapcsolatos problémákat!
 
 
       Résztvevőink életre szóló kedvezményeket kapnak a szoftvereinkből.
 
 
-      Az interjú online zajlik az általad választott időpontban, és csak a
-      szálláshelyeddel kapcsolatos dolgokról beszélgetünk.
+      Az interjú online zajlik az ön által választott időpontban, és csak a
+      szálláshelyével kapcsolatos dolgokról beszélgetünk.
     form:
       type: FormBlock
       elementId: jelentkezes-urlap
