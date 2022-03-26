@@ -202,9 +202,9 @@ sections:
           type: ImageBlock
         styles:
           title:
-            textAlign: center
+            textAlign: left
           text:
-            textAlign: center
+            textAlign: left
         rating: 2
         isRatingVisible: false
       - type: FeaturedItem
