@@ -713,7 +713,9 @@ sections:
           ezért rendszerünkben beállítható, hogy Önnek vissza kelljen igazolnia
           egy gombnyomással a foglalást. Addig a foglaló csak a “foglalási
           igényét” adta le Ön felé.
-      - question: Össze van kapcsolva
+      - question: >-
+          Össze van kapcsolva a közvetítő oldalakkal? (Szallas.hu, Airbnb,
+          Booking?
         answer: >
           Egyelőre nincs, viszont heteken belül elkészül az iCal naptárszinkron
           funkciónk is, amellyel pár órán belül zárolásra kerülnek a máshol
