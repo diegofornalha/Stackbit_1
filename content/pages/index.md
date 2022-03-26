@@ -303,12 +303,12 @@ sections:
     colors: colors-a
     title: Foglalási- és árazási szabályok
     text: >
-      #### Üzemeltesd szálláshelyed saját feltételeid szerint
+      #### Üzemeltesse szálláshelyét saját feltételei szerint
 
 
-      Könnyedén állíthatsz be szezonokat, hétvégi árakat, minimum foglalható
-      éjszakákat, érkezési napokat, felkészülési időt, így biztosíthatod, hogy
-      csak neked megfelelő foglalásaid legyenek.
+      Könnyedén állíthat be szezonokat, hétvégi árakat, minimum foglalható
+      éjszakákat, érkezési napokat, felkészülési időt, így biztosíthatja, hogy
+      csak az önnek megfelelő foglalásai legyenek.
     actions: []
     media:
       type: ImageBlock
