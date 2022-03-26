@@ -713,9 +713,7 @@ sections:
           ezért rendszerünkben beállítható, hogy Önnek vissza kelljen igazolnia
           egy gombnyomással a foglalást. Addig a foglaló csak a “foglalási
           igényét” adta le Ön felé.
-      - question: >-
-          Hogy kerülnek be a más csatornán érkezett foglalások a foglalómotor
-          naptárába?
+      - question: Össze van kapcsolva
         answer: >
           Egyelőre nincs, viszont heteken belül elkészül az iCal naptárszinkron
           funkciónk is, amellyel pár órán belül zárolásra kerülnek a máshol
