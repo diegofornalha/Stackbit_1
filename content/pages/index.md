@@ -625,11 +625,13 @@ sections:
       - elementId: ''
         subtitle: ''
         text: >
-          #### 3. Másold ki és illeszd be a foglalási linket
+          #### A foglalók automatikus emailben értesülnek a függőben lévő, majd
+          a visszaigazolt foglalásról
 
 
-          A foglalási linket bemásolhatod szállásközvetítői csoportokba, a
-          weboldaladra, vagy akár Insta profilodra is.
+          Azonnali visszaigazolást kapnak, hogy hogy áll a foglalásuk. Ön dönti
+          el, hogy visszaigazolja-e a foglalást, és hogy mik kerülnek az
+          automatikus emailbe.
         author: ''
         rating: 1
         isRatingVisible: false
