@@ -225,7 +225,7 @@ sections:
           title:
             textAlign: left
           text:
-            textAlign: center
+            textAlign: left
     columns: 3
     styles:
       self:
