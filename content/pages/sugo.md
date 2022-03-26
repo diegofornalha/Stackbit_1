@@ -1,6 +1,7 @@
 ---
 title: Appartman segítség
 sections:
+  – type: 
   - type: HeroSection
     colors: colors-f
     title: Appartman segítség
