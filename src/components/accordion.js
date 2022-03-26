@@ -33,4 +33,3 @@ return(
         <p>Lorem ipsum...</p>
     </div>
 )
-
