@@ -690,8 +690,8 @@ sections:
       - question: 'Nem vagyok webfejlesztő, én is be tudom üzemelni?'
         answer: >
           Természetesen. Az Appartmant úgy alakítottuk ki, hogy a regisztrációt
-          követően 1 linket kapsz, amit akár saját weboldaladra akár Facebook
-          vagy Instagram oldaladra belinkelhetsz. Ha mégis elakadnál, segítünk!
+          követően 1 linket kap, amit akár saját weboldalára, akár Facebook vagy
+          Instagram oldaladra belinkelhet. Ha mégis elakadna, segítünk!
     styles:
       self:
         height: auto
