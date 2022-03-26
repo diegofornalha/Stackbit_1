@@ -1,4 +1,4 @@
-export default function PricingSection(props) {
+export default function Accordion(props) {
     return (
         <section>
             <Accordion />
