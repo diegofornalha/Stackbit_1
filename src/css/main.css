@@ -381,4 +381,6 @@ input[type="range"]::-moz-focus-outer {
 display: none;
 }
 
-article 
+article {
+    
+}
