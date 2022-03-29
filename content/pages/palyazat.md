@@ -42,7 +42,7 @@ sections:
           product.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/NKFIA_infoblokk_projekt_fekvo_2019_HU.jpeg
           altText: Item image
         styles:
           title:
