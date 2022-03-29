@@ -30,7 +30,6 @@ sections:
         textAlign: left
   - colors: colors-a
     elementId: ''
-    title: Gallery
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
