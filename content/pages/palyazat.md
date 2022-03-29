@@ -38,9 +38,6 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
         url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
         altText: Image four
         caption: Image four caption
