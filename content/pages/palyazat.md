@@ -34,7 +34,6 @@ sections:
       - type: ImageBlock
         url: /images/NKFIA_infoblokk_projekt_fekvo_2019_HU.png
         altText: Image one
-        caption: Image one caption
     spacing: 1
     columns: 1
     aspectRatio: auto
