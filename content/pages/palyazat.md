@@ -39,7 +39,7 @@ sections:
         caption: Image one caption
     spacing: 1
     columns: 1
-    aspectRatio: '16:9'
+    aspectRatio: auto
     imageSizePx: 300
     showCaption: true
     enableHover: true
