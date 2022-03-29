@@ -40,7 +40,7 @@ sections:
     spacing: 1
     columns: 1
     aspectRatio: auto
-    imageSizePx: 401
+    imageSizePx: 402
     showCaption: true
     enableHover: true
     styles:
