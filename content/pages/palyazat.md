@@ -32,7 +32,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/Képernyőfotó 2022-03-29 - 9.56.24-12e3a506.png
+        url: /images/infoblokk.jpg
         altText: Image one
     spacing: 1
     columns: 1
