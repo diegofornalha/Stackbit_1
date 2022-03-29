@@ -37,10 +37,6 @@ sections:
         url: /images/NKFIA_infoblokk_projekt_fekvo_2019_HU.png
         altText: Image one
         caption: Image one caption
-      - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-4.jpeg'
-        altText: Image four
-        caption: Image four caption
     spacing: 1
     columns: 4
     aspectRatio: '16:9'
