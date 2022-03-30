@@ -30,10 +30,7 @@ sections:
         textAlign: left
   - colors: colors-a
     elementId: ''
-    images:
-      - type: ImageBlock
-        url: /images/infoblokk.jpg
-        altText: Image one
+    images: []
     spacing: 1
     columns: 1
     aspectRatio: auto
