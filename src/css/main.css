@@ -125,6 +125,8 @@ code {
 
 .sb-component-button-secondary {
     border-radius: 10px;
+    border: none;
+    box-shadow
 }
 
 .sb-card {
