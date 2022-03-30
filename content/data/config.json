@@ -121,7 +121,7 @@
             {
                 "type": "Button",
                 "label": "Bejelentkezés",
-                "altText": "Learn more",
+                "altText": "Bejelentkezés",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
