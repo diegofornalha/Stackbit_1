@@ -42,7 +42,7 @@
                 "type": "Button",
                 "label": "Bejelentkezés",
                 "altText": "Bejelentkezes",
-                "url": "https://",
+                "url": "https://foglalas.appartman.hu/admin",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
