@@ -120,7 +120,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "Bejelentkezés",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
