@@ -37,6 +37,17 @@
                 "url": "https://foglalas.appartman.hu/register",
                 "altText": "Sign up",
                 "style": "primary"
+            },
+            {
+                "type": "Button",
+                "label": "Learn more",
+                "altText": "Learn more",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "styles": {
