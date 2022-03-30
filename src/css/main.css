@@ -117,7 +117,7 @@ code {
 }
 
 .sb-component-button-primary {
-    border: solid 1px #6051BC;
+    border: solid 2px #6051BC;
     border-radius: 10px;
     background: #6051BC;
     box-shadow: 0px 4px 18px rgba(63, 51, 111, 0.2);
