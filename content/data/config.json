@@ -33,13 +33,6 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Ingyenes regisztráció",
-                "url": "https://foglalas.appartman.hu/register",
-                "altText": "Sign up",
-                "style": "primary"
-            },
-            {
-                "type": "Button",
                 "label": "Bejelentkezés",
                 "altText": "Bejelentkezes",
                 "url": "https://foglalas.appartman.hu/admin",
@@ -48,6 +41,13 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "Ingyenes regisztráció",
+                "url": "https://foglalas.appartman.hu/register",
+                "altText": "Sign up",
+                "style": "primary"
             }
         ],
         "styles": {
