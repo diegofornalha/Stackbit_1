@@ -41,7 +41,7 @@
             {
                 "type": "Button",
                 "label": "Bejelentkezés",
-                "altText": "Learn more",
+                "altText": "Bejelentkezes",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
