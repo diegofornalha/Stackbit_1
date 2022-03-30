@@ -42,7 +42,7 @@
                 "type": "Button",
                 "label": "Bejelentkezés",
                 "altText": "Bejelentkezes",
-                "url": "/",
+                "url": "https://",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
