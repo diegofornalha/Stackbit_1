@@ -570,7 +570,7 @@ sections:
       type: ImageBlock
   - colors: colors-a
     elementId: ''
-    title: Hogyan működik és hogyan üzemeltethető
+    title: Hogyan működik és hogyan üzemeltethető?
     subtitle: Így hozhatja létre a saját foglalási rendszerét
     items:
       - elementId: ''
