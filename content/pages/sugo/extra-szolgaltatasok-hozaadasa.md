@@ -86,7 +86,7 @@ sections:
           ## Extra szolgáltatás megadása
 
 
-          *Főoldal > Legördülő menü > Beállítások > Extra szolgáltatások > Új
+          *Főoldal > Menü > Beállítások > Extra szolgáltatások > Új
           szolgáltatás*
 
 
@@ -146,17 +146,6 @@ sections:
 
           takarítás 3 000 Ft (1 db megadása esetén minden a foglalásban szereplő
           lakóegységre számítódik fel takarítás)
-
-
-          #### Vendégenként
-
-
-          Minden a foglalásban szereplő vendégre annyi darab számítódik fel,
-          ahányat megad a foglaló
-
-
-          borkóstoló 6 000 Ft/fő (1 db megadása esetén minden a foglalásban
-          szereplő vendégre számítódik fel borkóstoló)
 
 
           #### Lakóegységéjszakánként
