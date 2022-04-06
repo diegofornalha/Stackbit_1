@@ -4,7 +4,7 @@ title: 'Képek hozzáadása, szerkesztése és törlése | Appartman'
 sections:
   - type: HeroSection
     colors: colors-h
-    title: 'Képek hozzáadása, szerkesztése és törlése'
+    title: Extra szolgáltatások hozzáadása
     styles:
       self:
         height: auto
