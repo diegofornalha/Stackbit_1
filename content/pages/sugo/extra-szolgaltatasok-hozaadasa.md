@@ -71,91 +71,132 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
-          ## Képek feltöltése
+        text: >+
+          ## Hogy működnek az extra szolgáltatások az Appartmanban?
 
 
-          Az Appartman foglalási rendszerben a képek megjelenhetnek
+          A szállásadó megadja az extra szolgáltatások fő jellemzőit az admin
+          felületen (Beállítások).
 
 
-          *   a szálláshelyhez
+          1.  A foglalók a foglalási folyamat részeként hozzáadhatják a
+          tetszőleges extra szolgáltatásokat a foglalásukhoz.
+              Kötelező szolgáltatás esetén a foglalónak csak tájékoztatás jelleggel jelenik meg az extra szolgáltatás. Ilyen lehet például a takarítás.
+
+          ## Extra szolgáltatás megadása
 
 
-          *   illetve lakóegységekhez kapcsolódóan
+          *Főoldal > Legördülő menü > Beállítások > Extra szolgáltatások > Új
+          szolgáltatás*
 
 
-          ### Szálláshelyhez kapcsolódó képek feltöltése
+          ### 1. Név megadása
 
 
-          A szálláshelyhez kapcsolódó képek a foglalómotor vendég oldali
-          főoldalán fognak megjelenni a nyitóképernyőn.
+          ### 2. Árszámítás alapjának megadása
 
 
-          Új képek hozzáadásához a következő menüpontba kell navigálnod:
+          Mi alapján szeretnéd, hogy a szolgáltatás ára számítódjon?
 
 
-          *Főoldal > Legördülő menü > Beállítások > Szálláshely képei*
+          6 típust lehet megadni, amiket példával is szemléltetünk:
 
 
-          #### Új kép hozzáadása
+          #### Foglalásonként
 
 
-          Az új képek feltöltése gombbal tudsz új képeket hozzáadni a
-          szálláshelyhez
+          Minden foglaláshoz annyi darab számítódik fel, ahányat megad a
+          foglaló.
 
 
-          #### Kép megtevése főképnek
+          kisállat foglalásonként számolva – 4 000 Ft (2 db megadása esetén 8
+          000 Ft számítódik)
 
 
-          Az ide feltöltött képek a foglalómotor főoldalán fognak megjelenni.
-
-          Az első helyen megjelenő képet a kép jobb felső sarkában található
-          gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
+          kései távozás – 5 000 Ft (1 db megadása esetén 5 000 Ft számítódik)
 
 
-          #### Kép törlése
+          #### Vendégéjszakánként
 
 
-          Meglévő képet törölni a kép jobb felső sarkában található gombbal
-          előhívott Kép törlése menüponttal lehetséges.
+          Minden vendégéjszakára annyi darab számítódik fel, ahányat megad a
+          foglaló
 
 
-          ### Lakóegységhez kapcsolódó képek feltöltése
+          reggeli – 2 000 Ft (1 db megadása esetén minden vendég kap minden nap
+          1 reggelit)
 
 
-          A lakóegységhez kapcsolódó képek a foglalómotor vendég oldalán a
-          lakóegységek kártyáin jelennek meg.
+          #### Éjszakánként
 
 
-          Új képek hozzáadásához a következő menüpontba kell navigálnod:
+          Minden éjszakára annyi darab számítódik fel, ahányat megad a foglaló
 
 
-          *Főoldal > Szobák*
+          kutya napidíjjal számolva – 2 000 Ft (2 db megadása esetén 2 kutya
+          napidíja számítódik minden éjszakára)
 
 
-          #### Új kép hozzáadása
+          #### Lakóegységenként
 
 
-          Az új képek feltöltése gombbal tudsz új képeket hozzáadni a
-          szálláshelyhez
+          Minden lefoglalt lakóegységre annyi darab számítódik fel, ahányat
+          megad a foglaló
 
 
-          #### Kép megtevése főképnek
+          takarítás 3 000 Ft (1 db megadása esetén minden a foglalásban szereplő
+          lakóegységre számítódik fel takarítás)
 
 
-          A szoba főképe lesz az elsőként megjelenő kép, ami a lakóegység
-          kártyáján megjelenik a felületen, például az egyedi szobakiosztás
-          készítésénél.
-
-          Az első helyen megjelenő képet a kép jobb felső sarkában található
-          gombra kattintva a Beállítás főképként opcióval tudod kiválasztani.
+          #### Vendégenként
 
 
-          #### Kép törlése
+          Minden a foglalásban szereplő vendégre annyi darab számítódik fel,
+          ahányat megad a foglaló
 
 
-          Meglévő képet törölni a kép jobb felső sarkában található gombbal
-          előhívott Kép törlése menüponttal lehetséges.
+          borkóstoló 6 000 Ft/fő (1 db megadása esetén minden a foglalásban
+          szereplő vendégre számítódik fel borkóstoló)
+
+
+          #### Lakóegységéjszakánként
+
+
+          Minden lakóegységéjszakára annyi darab számítódik, ahányat megad a
+          foglaló
+
+
+          klíma használat 2 000 Ft/nap/lakóegység (1 db megadása esetén minden a
+          foglalásban szereplő lakóegység minden éjszakájára számítódik fel
+          klíma használat)
+
+
+          ### 3. Egységár megadása
+
+
+          Az egységár az előzőleg megadott árszámítási alaponként fog számítódni
+          (pl.: 3 000 Ft/fő/éj)
+
+
+          ### 4. Szolgáltatás kötelezőségének megadása
+
+
+          Olyan esetekben használandó, amikor minden foglaláshoz hozzáadódik a
+          tétel, és csak tájékoztatási szerepe van. A takarítási díj tipikusan
+          ilyen, ha külön fel szeretnéd tüntetni.
+
+
+          ### 5. Több darab is hozzáadható a foglaláshoz?
+
+
+          Ha árszámítási alaponként (pl.: vendégéjszakánként, vagy
+          foglalásonként) több is megadható egy foglaláshoz akkor jelöld be a
+          jelölőnégyzetet. Az alul megjelenő beviteli mezőben megadhatod, hogy
+          van-e maximuma a megadható számnak.
+
+
+          ### 6. Mentés
+
         featuredImage: null
         styles:
           title:
