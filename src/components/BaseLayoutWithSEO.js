@@ -43,7 +43,7 @@ export default function BaseLayoutWithSEO(props) {
                 <Head>
                     <title>{title}</title>
                     <meta name="description" content={seoDescription} />
-                    <meta property="og:image" content="https://appartman.hu/images/rock.jpg" />
+                    <meta property="og:image" content="https://appartman.hu/images/og-kep.png" />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
                     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
