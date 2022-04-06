@@ -85,16 +85,23 @@ sections:
           foglalómotor felületén:
 
 
-          *Főoldal > Legördülő menü > Foglalási link másolása*
+          *Főoldal > Menü > Foglalási link másolása*
 
 
-          *Főoldal > Legördülő menü > Beállítások > Szálláshely linkje*
+          *Főoldal > Menü > Beállítások > Szálláshely linkje*
 
 
           A link másolása után bárhol megoszthatod a szálláshelyed naprakész
           online foglalási rendszerét. A link lényegében így bárhova
           beilleszthető, akár a weboldalad "Foglalás" gombjára, egy Instagram
           profil leírásába, vagy a Google Cégem felületre.
+
+
+          ### Link beillesztése Webnode weboldalba
+
+
+          Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
+          weboldalba beilleszteni a foglalási rendszert.
         featuredImage: null
         styles:
           title:
