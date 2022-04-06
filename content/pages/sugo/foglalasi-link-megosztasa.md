@@ -3,7 +3,7 @@ title: Foglalási link megosztása | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Foglalási link megosztása
+    title: Foglalási link másolása és beillesztése weboldalba
     styles:
       self:
         height: auto
