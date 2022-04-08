@@ -4,7 +4,7 @@ title: Appartman sztori
 date: '2022-04-08'
 featuredImage:
   type: ImageBlock
-  url: /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-hero.png
+  url: /images/appartman-sztori-og.png
   altText: Direkt foglalás tippek vendégházaknak apartmanoknak borítókép
   caption: ''
 bottomSections: []
