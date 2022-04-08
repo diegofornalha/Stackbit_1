@@ -40,7 +40,7 @@ A csendespihenő alatt volt azért lehetőségem próbálgatni az adminisztratí
 
 Egyszerre kb. 4–5 rendszert használtam (Vendégem, Google naptár, weboldal, email stb.) azért, hogy eleget tegyek a jogszabályoknak és átlássam a vendégek kezelését.
 
-> Mondanom sem kell, mennyire bosszantó volt
+#### Mondanom sem kell, mennyire bosszantó volt
 
 > Elkérni, felvinni a vendég adatait azért, hogy a kötelező dolgok meglegyenek, mellette pedig naptárban vezetni az érkező-távozó vendégeket, Excelben a bevételeket, kiadásokat stb.
 
