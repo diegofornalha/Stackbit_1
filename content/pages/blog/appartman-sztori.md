@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: Appartman sztori
-date: '2021-11-18'
+date: '2021-12-18'
 excerpt: >-
   Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
   alkalmazni, hogy növeljük az arányát?
