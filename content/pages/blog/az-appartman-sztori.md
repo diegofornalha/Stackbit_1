@@ -2,9 +2,7 @@
 layout: PostLayout
 title: Az Appartman sztori
 date: '2021-11-18'
-excerpt: >-
-  Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
-  alkalmazni, hogy növeljük az arányát?
+excerpt: 'Az Appartman egy magánszállásadóknak '
 featuredImage:
   type: ImageBlock
   url: /images/appartman-sztori-og-ba837406.png
