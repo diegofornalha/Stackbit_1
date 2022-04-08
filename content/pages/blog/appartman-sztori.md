@@ -41,7 +41,7 @@ Egyszerre kb. 4–5 rendszert használtam (Vendégem, Google naptár, weboldal, 
 
 > Mondanom sem kell, mennyire bosszantó volt
 
-> elkérni, felvinni a vendég adatait azért, hogy a kötelező dolgok meglegyenek, mellette pedig naptárban vezetni az érkező-távozó vendégeket, Excelben a bevételeket, kiadásokat stb.
+> Elkérni, felvinni a vendég adatait azért, hogy a kötelező dolgok meglegyenek, mellette pedig naptárban vezetni az érkező-távozó vendégeket, Excelben a bevételeket, kiadásokat stb.
 
 A történet egy másik tényezője, hogy ekkor már kb. 1,5 éve üzemeltettük informatikai vállalkozásunkat az alapítótársaimmal, Attilával és Bencével, akiknek az Appartman jelenlegi kialakítása és fejlesztői háttérrendszere is köszönhető.
 
