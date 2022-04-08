@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Hogyan növeljük direkt foglalásaink számát?
+title: Appartman sztori
 date: '2021-11-18'
 excerpt: >-
   Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
