@@ -7,7 +7,7 @@ excerpt: >-
   alkalmazni, hogy növeljük az arányát?
 featuredImage:
   type: ImageBlock
-  url: /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-hero.png
+  url: /images/appartman-sztori-og-ba837406.png
   altText: Direkt foglalás tippek vendégházaknak apartmanoknak borítókép
   caption: ''
 bottomSections: []
