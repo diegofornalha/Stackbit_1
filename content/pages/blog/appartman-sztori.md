@@ -2,9 +2,6 @@
 layout: PostLayout
 title: Appartman sztori
 date: '2022-04-08'
-excerpt: >-
-  Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
-  alkalmazni, hogy növeljük az arányát?
 featuredImage:
   type: ImageBlock
   url: /images/direkt-online-foglalas-foglalomotor-vendeghazak-apartmanok-hero.png
