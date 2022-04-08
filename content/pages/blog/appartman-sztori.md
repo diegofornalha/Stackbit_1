@@ -11,7 +11,8 @@ bottomSections: []
 seo:
   title: Az Appartman sztori | Appartman Blog
   description: >-
-    
+    Az Appartman egy magánszállásadóknak készült szoftver, magánszállásadóktól.
+  Rövid történetünkben megismerheti e személyes kötődésű projekt részleteit.
 author: content/data/team/desmond-eagle.json
 excerpt: >-
   Az Appartman egy magánszállásadóknak készült szoftver, magánszállásadóktól.
