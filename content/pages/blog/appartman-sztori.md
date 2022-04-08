@@ -11,8 +11,7 @@ bottomSections: []
 seo:
   title: Az Appartman sztori | Appartman Blog
   description: >-
-    Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
-    alkalmazni, hogy növeljük az arányát?
+    
 author: content/data/team/desmond-eagle.json
 excerpt: >-
   Az Appartman egy magánszállásadóknak készült szoftver, magánszállásadóktól.
