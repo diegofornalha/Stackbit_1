@@ -13,7 +13,7 @@ featuredImage:
   caption: ''
 bottomSections: []
 seo:
-  title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
+  title: Az Appartman sztori | Appartman Blog
   description: >-
     Az Appartman egy magánszállásadóknak fejlesztett szoftver magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid történetét!
 author: content/data/team/desmond-eagle.json
