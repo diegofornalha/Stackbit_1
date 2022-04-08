@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Appartman sztori
+title: Az Appartman sztori
 date: '2022-04-08'
 featuredImage:
   type: ImageBlock
