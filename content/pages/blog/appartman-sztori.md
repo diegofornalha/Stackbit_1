@@ -18,52 +18,60 @@ seo:
     alkalmazni, hogy növeljük az arányát?
 author: content/data/team/desmond-eagle.json
 ---
-## Mit jelent a direkt foglalás?
+> Az Appartman egy 
+>
+> [online szobafoglalási rendszer](https://appartman.hu/)
+>
+>  és szálláshelykezelő szoftver, amely segíti a magánszállásadókat direkt foglalásaik növelésében és a napi adminisztrációban.
 
-Egy szállás esetében direkt foglalásról akkor beszélünk, ha a foglaló közvetlenül a vendégházat, panziót vagy hotelt felkeresve foglal, kihagyva a szállásközvetítő oldalakat (Szállás.hu, Booking, Airbnb).
+Mátyás Krisztián vagyok, a Szállásadók szakmai közösségének és az Appartman szoftvercégnek a társalapítója.
 
-A közvetítő oldalak kb. 12–16% jutalékot számítanak fel, ezért a direkt foglalások növelik vendégházunk nyereségességét és lehetőséget nyújtanak, hogy közvetlenebb kapcsolatot építsünk ki vendégeinkkel.
+Kijelenthetjük, hogy az Appartmant a közösség ihlette és folyamatosan segítette. A visszajelzések és interjúk által egy ténylegesen magánszállásadókra szabott megoldással tudjuk könnyebbé tenni a vendégház tulajdonosok mindennapjait.
 
-Ez nem azt jelenti, hogy a szállásközvetítő oldalak rosszak, hiszen bárhonnan érkezik is a vendégfoglalás, örülünk, ugyanakkor érdemes értékesítésünket és online megjelenésünket tekintve több lábon állni.
+Na, de lássuk is, hogyan kezdődött.
 
-## Hogyan növelhetjük direkt foglalásaink számát?
+A szálláshelyem üzemeltetését egy épp kihasználatlan családi ingatlanból 2020 végén kezdtük el újra, ami nem ment éppen zökkenőmentesen, hiszen ekkor szigorítottak a korlátozásokon, ami annyit jelentett hogy az éppen megnyitott apartmanunkban nem lehetett vendéget fogadni.
 
-### 1. Jutalékmentes foglalómotor használata
+Vagyis lehetett, csak üzleti úttal, aztán védettségivel, aztán anélkül is. Mondanom sem kell, a követhetetlen szabályozásokkal és félinformációkkal nem voltunk egyedül.
 
-Egy könnyen kezelhető, [weboldalba építhető foglalómotor](https://appartman.hu/blog/maganszallashely-jutalekmentes-foglalomotor-naptarszinkronnal/) segít abban, hogy vendégeid naprakész információt kapjanak a foglaltságról, árakról és kedvezményekről.
+A szállásadó ismerőseimmel, akikkel beszéltem, mindannyian a hátuk közepére nem kívánták a bezárást, nem csak azért, mert 0 vendégük volt, de még a hoteleket megillető támogatások sem jártak a kis vendégházak tulajdonosainak. (Utólag volt azért egy minimális korrekció.)
 
-Sok esetben a hosszú foglalási szabályok (pl.: vendégszám, szezon, érkezés) megzavarja a látogatókat, ami miatt lehet, hogy inkább a jól bevált szállásközvetítő oldalon foglal.
+Ezek hatására úgy gondoltam, hogy létrehozok Facebookon egy közösséget, Szállásadók szakmai közössége néven, hogy segítsük egymást az aktuális jogszabályokban, üzemeltetéssel kapcsolatos kérdésekben, támogatásokban stb.
 
-> Eltérő kutatások azt mutatják, hogy a vendégfoglalások 25–39%-a mobilról érkezik. A pontos arány változhat korosztálytól és az utazás céljától is, ugyanakkor sokan mobilról keresik ki szállásukat és asztali gépről foglalnak.
+A csoport neve szándékosan lett **közösség**, hiszen rengeteg témában ekkor még tájékozatlan voltam és a célom az volt, hogy együtt, közösen összedugva a fejünket válaszoljuk meg a kérdéseket.
 
-Egy mobilbarát foglalómotor — egyedi beállításaid alapján — megmutatja a látogatónak, hogy az általa kijelölt időszakra van-e még szabad hely és az mennyibe kerül.
+> És igazam lett, hihetetlenül jó érzés volt látni, hogy mennyi ember áll segítőkészen a sorstársaihoz, a tapasztaltakhoz, újakhoz és bárkihez, aki elveszett a szálláshely üzemeltetés és a követhetetlen jogszabályok útvesztőjében.
 
-Fontos az is, hogy ez a folyamat egyszerű és gyors legyen, hiszen itt már a látogató eldöntötte, hogy tetszik neki a szálláshelyed és a szabad időpontokat és árakat böngészi.
+A csendespihenő alatt volt azért lehetőségem próbálgatni az adminisztratív folyamatokat, de mégis az első vendégek érkezését követően jött a hidegzuhany. Ekkor szembesültem az NTAK, Vendégem és később pedig az okmányolvasás kálváriájával.
 
-### 2. Megbízható weboldal
+Egyszerre kb. 4–5 rendszert használtam (Vendégem, Google naptár, weboldal, email stb.) azért, hogy eleget tegyek a jogszabályoknak és átlássam a vendégek kezelését.
 
-Ahhoz, hogy növeljük a direkt foglalásaink számát meg kell nyugtatnunk a weboldal látogatóinkat, hogy ha itt foglalnak, akkor gördülékenyen megérkezik hozzánk a foglalás és zavartalanul készülhetnek a kikapcsolódásukra.
+> Mondanom sem kell, mennyire bosszantó volt
 
-Egy elavult weboldal, rossz felbontású képekkel, rossz első benyomást kelthet az odatévedőknek, ezért mindenképp fontos, hogy törekedjünk arra, hogy naprakész legyen a weboldalunk kialakítása.
+> elkérni, felvinni a vendég adatait azért, hogy a kötelező dolgok meglegyenek, mellette pedig naptárban vezetni az érkező-távozó vendégeket, Excelben a bevételeket, kiadásokat stb.
 
-Könnyítsük meg a látogatók dolgait, hogy szembetűnő helyre rakjuk a **“Foglalj most”** gombot, hogy egyszerű legyen navigálniuk az oldalon.
+A történet egy másik tényezője, hogy ekkor már kb. 1,5 éve üzemeltettük informatikai vállalkozásunkat az alapítótársaimmal, Attilával és Bencével, akiknek az Appartman jelenlegi kialakítása és fejlesztői háttérrendszere is köszönhető.
 
-### 3. Közösségi média marketing
+Éppen ekkor egy mátrai szálláshely weboldalán dolgoztunk, ahol egy szobafoglalási rendszert kellett integrálnunk, akik hotelekre szabott megoldásokkal és árazásokkal és a kb. 150.000 Ft indulási költséggel oldották meg azt a problémát, hogy jutalékmentesen és automatizáltan tudjon az ügyfelünk vendéget fogadni.
 
-Ha már van egy jó alapunk, hogy közvetlen foglalásokat fogadjunk, nincs más hátra, mint a marketing.
+Elég bosszús hangvételű volt a szállásadó, amikor arról beszélt, hogy mennyire drága. Nagyon sok olyan funkció volt benne, amit — kis szálláshely lévén — nem is tudott kihasználni és a megoldás a rejtett modulokkal együtt így is kb. havi 40.000 Ft-ba került neki. Végül mégis telepítettük neki, hiszen még így is jobban jön ki, mintha a Booking venné le a jutalékot.
 
-Legyünk aktívak Facebookon, Instagramon vagy akár a TikTokon. Készítsünk képeket, mutassuk be a környéket és osszuk meg a közelgő eseményeket.
+Ekkor vált egyértelművé, hogy nekünk **egy kifejezetten kis szállásadókra szabott megoldással kell segítenünk** a vendégházak, apartmanok tulajdonosait.
 
-> Akinek van hozzá kedve, ajánlom a [**Canva**](https://www.canva.com/) szerkesztőjét, ahol egyszerűen lehet közösségi média tartalmakat készíteni.
+Egy olyan megoldással, ami a kötelezőkön túl, **egyszerűbbé **és **átláthatóbbá **teszi szálláshelyük működtetését.
 
-A posztokban pedig linkeljük be a weboldalunk foglalási oldalát.
+### És hát a közösség…
 
-### 4. Elérhetőség
 
-Ha már sikerült felkelteni a kikapcsolódni vágyók figyelmét a szálláshelyünkkel, akarva-akaratlanul érkezni fognak hozzánk a kérdések. Igyekezzünk gyors választ adni, hogy véletlenül se legyen ideje vendégünknek más szálláshelyet keresni.
 
-A foglalómotorunk email automatizmusai sokat segíthetnek abban, hogy a gyakran felmerülő kérdéseket a foglalást követően megválaszolja. Itt beállíthatjuk, hogy milyen automatikus emailt küldjön ki a rendszer a foglalás véglegesítése után a foglaló email címére. 
 
-Megadhatjuk például, hogy hová utalja az előleget, mikor érkezhet/távozhat és, hogy honnan tudja megközelíteni a szálláshelyünket stb. Ezen felül pedig személyre szabott információkat is beállíthatunk.
+Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciók*at tudja és *pofonegyszerű *legyen használni.
 
-Ha érdekesnek találtad a cikkünket, csatlakozz a [Szállásadók szakmai közösségéhez](https://www.facebook.com/szallasadokkozossege) további tartalmakért!
+Azóta természetesen rengeteget kutatunk a témában — külföldi példákat tekintve is — és igyekszünk jegyzetelni a tapasztalatainkat és a folyamatokat a közösség Tudástárában is.
+
+Valahogy így kezdődött az Appartman sztori, az pedig, hogyan folytatódik, legyen egy izgalmas meglepetés ;)
+
+Mátyás Krisztián
+alapító
+Appartman
+
