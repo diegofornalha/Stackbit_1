@@ -15,11 +15,7 @@ seo:
     alkalmazni, hogy növeljük az arányát?
 author: content/data/team/desmond-eagle.json
 ---
-> Az Appartman egy 
->
-> [online szobafoglalási rendszer](https://appartman.hu/)
->
->  és szálláshelykezelő szoftver, amely segíti a magánszállásadókat direkt foglalásaik növelésében és a napi adminisztrációban.
+> Az Appartman egy [online szobafoglalási rendszer ](https://appartman.hu/)és szálláshelykezelő szoftver, amely segíti a magánszállásadókat direkt foglalásaik növelésében és a napi adminisztrációban.
 
 Mátyás Krisztián vagyok, a Szállásadók szakmai közösségének és az Appartman szoftvercégnek a társalapítója.
 
@@ -55,14 +51,11 @@ Elég bosszús hangvételű volt a szállásadó, amikor arról beszélt, hogy m
 
 Ekkor vált egyértelművé, hogy nekünk **egy kifejezetten kis szállásadókra szabott megoldással kell segítenünk** a vendégházak, apartmanok tulajdonosait.
 
-Egy olyan megoldással, ami a kötelezőkön túl, **egyszerűbbé **és **átláthatóbbá **teszi szálláshelyük működtetését.
+Egy olyan megoldással, ami a kötelezőkön túl, \*\*egyszerűbbé \*\*és \*\*átláthatóbbá \*\*teszi szálláshelyük működtetését.
 
 ### És hát a közösség…
 
-
-
-
-Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciók*at tudja és *pofonegyszerű *legyen használni.
+Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciók*at tudja és \*pofonegyszerű \*legyen használni.
 
 Azóta természetesen rengeteget kutatunk a témában — külföldi példákat tekintve is — és igyekszünk jegyzetelni a tapasztalatainkat és a folyamatokat a közösség Tudástárában is.
 
@@ -71,4 +64,3 @@ Valahogy így kezdődött az Appartman sztori, az pedig, hogyan folytatódik, le
 Mátyás Krisztián
 alapító
 Appartman
-
