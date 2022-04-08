@@ -21,7 +21,7 @@ Mátyás Krisztián vagyok, a Szállásadók szakmai közösségének és az App
 
 Kijelenthetjük, hogy az Appartmant a közösség ihlette és folyamatosan segítette. A visszajelzések és interjúk által egy ténylegesen magánszállásadókra szabott megoldással tudjuk könnyebbé tenni a vendégház tulajdonosok mindennapjait.
 
-Na, de lássuk is, hogyan kezdődött.
+## Na, de lássuk is, hogyan kezdődött.
 
 A szálláshelyem üzemeltetését egy épp kihasználatlan családi ingatlanból 2020 végén kezdtük el újra, ami nem ment éppen zökkenőmentesen, hiszen ekkor szigorítottak a korlátozásokon, ami annyit jelentett hogy az éppen megnyitott apartmanunkban nem lehetett vendéget fogadni.
 
@@ -53,7 +53,7 @@ Ekkor vált egyértelművé, hogy nekünk **egy kifejezetten kis szállásadókr
 
 Egy olyan megoldással, ami a kötelezőkön túl, \*\*egyszerűbbé \*\*és \*\*átláthatóbbá \*\*teszi szálláshelyük működtetését.
 
-### És hát a közösség…
+## És hát a közösség…
 
 Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciók*at tudja és \*pofonegyszerű \*legyen használni.
 
