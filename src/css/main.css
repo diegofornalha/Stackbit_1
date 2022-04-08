@@ -41,7 +41,7 @@ code {
 }
 
 .sb-markdown p {
-    margin-bottom: px;
+    margin-bottom: 24px;
     margin-top: 12px;
     line-height: 1.8;
 }
