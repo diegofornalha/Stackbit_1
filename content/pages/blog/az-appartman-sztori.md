@@ -15,8 +15,7 @@ bottomSections: []
 seo:
   title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
   description: >-
-    Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
-    alkalmazni, hogy növeljük az arányát?
+    Az Appartman egy magánszállásadóknak fejlesztett szoftver magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid történetét!
 author: content/data/team/desmond-eagle.json
 ---
 > Az Appartman egy [online szobafoglalási rendszer](https://appartman.hu/) és szálláshelykezelő szoftver, amely segíti a magánszállásadókat direkt foglalásaik növelésében és a napi adminisztrációban.
