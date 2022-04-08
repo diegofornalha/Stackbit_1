@@ -52,11 +52,11 @@ Elég bosszús hangvételű volt a szállásadó, amikor arról beszélt, hogy m
 
 Ekkor vált egyértelművé, hogy nekünk **egy kifejezetten kis szállásadókra szabott megoldással kell segítenünk** a vendégházak, apartmanok tulajdonosait.
 
-Egy olyan megoldással, ami a kötelezőkön túl, egyszerűbbé és átláthatóbbá teszi szálláshelyük működtetését.
+Egy olyan megoldással, ami a kötelezőkön túl, **egyszerűbbé** és **átláthatóbbá** teszi szálláshelyük működtetését.
 
 ## És hát a közösség…
 
-Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciók*at tudja és pofonegyszerű legyen használni.
+Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciókat* tudja és pofonegyszerű legyen használni.
 
 Azóta természetesen rengeteget kutatunk a témában — külföldi példákat tekintve is — és igyekszünk jegyzetelni a tapasztalatainkat és a folyamatokat a közösség Tudástárában is.
 
