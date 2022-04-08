@@ -61,6 +61,8 @@ Azóta természetesen rengeteget kutatunk a témában — külföldi példá
 
 Valahogy így kezdődött az Appartman sztori, az pedig, hogyan folytatódik, legyen egy izgalmas meglepetés ;)
 
-Mátyás Krisztián
-alapító
+**Mátyás Krisztián**
+
+*alapító*
+
 Appartman
