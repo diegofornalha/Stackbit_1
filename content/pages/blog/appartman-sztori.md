@@ -5,7 +5,7 @@ date: '2022-04-08'
 featuredImage:
   type: ImageBlock
   url: /images/appartman-sztori-og.png
-  altText: Direkt foglalás tippek vendégházaknak apartmanoknak borítókép
+  altText: A történet az Appartman foglalási rendszer mögött
   caption: ''
 bottomSections: []
 seo:
