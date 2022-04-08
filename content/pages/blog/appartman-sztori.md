@@ -16,7 +16,7 @@ seo:
 author: content/data/team/desmond-eagle.json
 excerpt: >-
   Az Appartman egy magánszállásadóknak készült szoftver, magánszállásadóktól.
-  Rövid történetünkben megismerheti 
+  Rövid történetünkben megismerheti e személyes kötődésű projekt részleteit.
 ---
 > Az Appartman egy [online szobafoglalási rendszer ](https://appartman.hu/)és szálláshelykezelő szoftver, amely segíti a magánszállásadókat direkt foglalásaik növelésében és a napi adminisztrációban.
 
