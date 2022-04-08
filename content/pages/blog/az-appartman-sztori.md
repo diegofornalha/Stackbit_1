@@ -2,7 +2,9 @@
 layout: PostLayout
 title: Az Appartman sztori
 date: '2021-11-18'
-excerpt: 'Az Appartman egy magánszállásadóknak '
+excerpt: >-
+  Az Appartman egy magánszállásadóknak fejlesztett szoftver
+  magnánszállásadóktól. Olvassa el személyes kötődésű projekt rövid történetét!
 featuredImage:
   type: ImageBlock
   url: /images/appartman-sztori-og-ba837406.png
