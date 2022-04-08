@@ -24,7 +24,7 @@ Mátyás Krisztián vagyok, a Szállásadók szakmai közösségének és az App
 
 Kijelenthetjük, hogy az Appartmant a közösség ihlette és folyamatosan segítette. A visszajelzések és interjúk által egy ténylegesen magánszállásadókra szabott megoldással tudjuk könnyebbé tenni a vendégház tulajdonosok mindennapjait.
 
-Na, de lássuk is, hogyan kezdődött.
+### Na, de lássuk is, hogyan kezdődött.
 
 A szálláshelyem üzemeltetését egy épp kihasználatlan családi ingatlanból 2020 végén kezdtük el újra, ami nem ment éppen zökkenőmentesen, hiszen ekkor szigorítottak a korlátozásokon, ami annyit jelentett hogy az éppen megnyitott apartmanunkban nem lehetett vendéget fogadni.
 
@@ -42,28 +42,28 @@ A csendespihenő alatt volt azért lehetőségem próbálgatni az adminisztratí
 
 Egyszerre kb. 4–5 rendszert használtam (Vendégem, Google naptár, weboldal, email stb.) azért, hogy eleget tegyek a jogszabályoknak és átlássam a vendégek kezelését.
 
-> Mondanom sem kell, mennyire bosszantó volt
+### Mondanom sem kell, mennyire bosszantó volt
 
 > Elkérni, felvinni a vendég adatait azért, hogy a kötelező dolgok meglegyenek, mellette pedig naptárban vezetni az érkező-távozó vendégeket, Excelben a bevételeket, kiadásokat stb.
 
-A történet egy másik tényezője, hogy ekkor már kb. 1,5 éve üzemeltettük informatikai vállalkozásunkat az alapítótársaimmal, Attilával és 
+A történet egy másik tényezője, hogy ekkor már kb. 1,5 éve üzemeltettük informatikai vállalkozásunkat az alapítótársaimmal, Attilával és
 Bencével, akiknek az Appartman jelenlegi kialakítása és fejlesztői háttérrendszere is köszönhető.
 
-Éppen ekkor egy mátrai szálláshely weboldalán dolgoztunk, ahol egy szobafoglalási rendszert kellett integrálnunk, akik hotelekre szabott 
+Éppen ekkor egy mátrai szálláshely weboldalán dolgoztunk, ahol egy szobafoglalási rendszert kellett integrálnunk, akik hotelekre szabott
 megoldásokkal és árazásokkal és a kb. 150.000 Ft indulási költséggel oldották meg azt a problémát, hogy jutalékmentesen és automatizáltan tudjon az ügyfelünk vendéget fogadni.
 
-Elég bosszús hangvételű volt a szállásadó, amikor arról beszélt, hogy mennyire drága. Nagyon sok olyan funkció volt benne, amit — kis 
+Elég bosszús hangvételű volt a szállásadó, amikor arról beszélt, hogy mennyire drága. Nagyon sok olyan funkció volt benne, amit — kis
 szálláshely lévén — nem is tudott kihasználni és a megoldás a rejtett modulokkal együtt így is kb. havi 40.000 Ft-ba került neki. Végül mégis telepítettük neki, hiszen még így is jobban jön ki, mintha a Booking venné le a jutalékot.
 
 Ekkor vált egyértelművé, hogy nekünk **egy kifejezetten kis szállásadókra szabott megoldással kell segítenünk** a vendégházak, apartmanok tulajdonosait.
 
-Egy olyan megoldással, ami a kötelezőkön túl, **egyszerűbbé **és **átláthatóbbá **teszi szálláshelyük működtetését.
+Egy olyan megoldással, ami a kötelezőkön túl, **egyszerűbbé** és **átláthatóbbá** teszi szálláshelyük működtetését.
 
-# És hát a közösség…
+### És hát a közösség…
 
-Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciók*at tudja és *pofonegyszerű *legyen használni.
+Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciókat* tudja és **pofonegyszerű** legyen használni.
 
-Azóta természetesen rengeteget kutatunk a témában — külföldi példákat tekintve is — és igyekszünk jegyzetelni a tapasztalatainkat és a 
+Azóta természetesen rengeteget kutatunk a témában — külföldi példákat tekintve is — és igyekszünk jegyzetelni a tapasztalatainkat és a
 folyamatokat a közösség Tudástárában is.
 
 Valahogy így kezdődött az Appartman sztori, az pedig, hogyan folytatódik, legyen egy izgalmas meglepetés ;)
@@ -73,4 +73,3 @@ Valahogy így kezdődött az Appartman sztori, az pedig, hogyan folytatódik, le
 *alapító*
 
 Appartman
-
