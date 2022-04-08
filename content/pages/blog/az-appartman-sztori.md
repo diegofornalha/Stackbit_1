@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/appartman-sztori-og-ba837406.png
-  altText: Direkt foglalás tippek vendégházaknak apartmanoknak borítókép
+  altText: Az Appartman sztori
   caption: ''
 bottomSections: []
 seo:
