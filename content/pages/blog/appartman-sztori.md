@@ -14,7 +14,7 @@ seo:
     Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
     alkalmazni, hogy növeljük az arányát?
 author: content/data/team/desmond-eagle.json
-excerpt: 'Az Appartman egy szállásadók '
+excerpt: 'Az Appartman egy magánszállásadóknak készült szoftver, magánszállásadóktól. '
 ---
 > Az Appartman egy [online szobafoglalási rendszer ](https://appartman.hu/)és szálláshelykezelő szoftver, amely segíti a magánszállásadókat direkt foglalásaik növelésében és a napi adminisztrációban.
 
