@@ -9,7 +9,7 @@ featuredImage:
   caption: ''
 bottomSections: []
 seo:
-  title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
+  title: Az Appartman sztori | Appartman Blog
   description: >-
     Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
     alkalmazni, hogy növeljük az arányát?
