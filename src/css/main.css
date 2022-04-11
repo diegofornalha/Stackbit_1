@@ -329,7 +329,6 @@ input[type="range"]::-moz-focus-outer {
   font-size: 18px;
   margin-bottom: 0px;
   color: #6B6C82;
-  text-decoration: line-through;
 }
 .pricing-item-price-amount {
   font-size: 26px;
