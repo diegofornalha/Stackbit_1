@@ -166,7 +166,7 @@ class Pricing extends React.Component {
                                         <p>A jutalék a foglalási rendszeren megvalósult foglalásokra vonatkozik</p>
                                     </div>
                                     
-                                    <h6 className='text-center'>1 hónap ingyenes </h6>
+                                    <h6 className='text-center'>1 hónap ingyenes próbaidő</h6>
                                 </div>
                                 <div className='pricing-item-features'>
                                     <ul className='pricing-item-features-list'>
