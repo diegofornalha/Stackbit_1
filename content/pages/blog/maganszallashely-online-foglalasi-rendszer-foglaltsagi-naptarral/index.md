@@ -2,7 +2,9 @@
 title: 'Szálláshely automatizáció: online foglalási rendszer'
 seo:
   title: 'Szálláshely automatizáció: online foglalási rendszer | Appartman Blog'
-  description: Egy jó online foglalási rendszer leegyszerűsíti a foglalási folyamatot a vendégeidnek és neked egyaránt, növelve ezzel közvetlen foglalásaid arányát.
+  description: >-
+    Egy jó online foglalási rendszer leegyszerűsíti a foglalási folyamatot a
+    vendégeidnek és neked egyaránt, növelve ezzel közvetlen foglalásaid arányát.
 date: '2021-11-17'
 excerpt: >-
   Az online foglalási rendszer lehetővé teszi, hogy több közvetlen foglalásod
@@ -86,7 +88,7 @@ Ha pedig van naptárunk, de továbbra is egy űrlapon kell jelentkezniük, akkor
 
 ### Miben segít az Appartman online foglalási rendszere?
 
-Az Appartman foglalómotorja egy a saját weboldalba ágyazható jutalékmentes szobafoglalási rendszer kifejezetten kis szállásadóknak, amely segíti a foglalások automatizált kezelését.
+Az Appartman foglalómotorja egy saját weboldalba ágyazható szobafoglalási rendszer kifejezetten kis szállásadóknak, amely segíti a foglalások automatizált kezelését.
 
 #### Személyre szabható árazás
 
