@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: Az Appartman sztori
-date: '2021-11-18'
+date: '2021-12-18'
 excerpt: >-
   Az Appartman egy magánszállásadóknak fejlesztett szoftver
   magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid
@@ -15,7 +15,9 @@ bottomSections: []
 seo:
   title: Az Appartman sztori | Appartman Blog
   description: >-
-    Az Appartman egy magánszállásadóknak fejlesztett szoftver magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid történetét!
+    Az Appartman egy magánszállásadóknak fejlesztett szoftver
+    magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid
+    történetét!
 author: content/data/team/desmond-eagle.json
 ---
 > Az Appartman egy [online szobafoglalási rendszer](https://appartman.hu/) és szálláshelykezelő szoftver, amely segíti a magánszállásadókat direkt foglalásaik növelésében és a napi adminisztrációban.
