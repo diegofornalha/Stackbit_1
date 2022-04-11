@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: Az Appartman sztori
-date: '2022-02-18'
+date: '2022-04-18'
 excerpt: >-
   Az Appartman egy magánszállásadóknak fejlesztett szoftver
   magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid
