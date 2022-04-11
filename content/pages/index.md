@@ -511,11 +511,10 @@ sections:
   - elementId: ''
     colors: colors-f
     title: Próbálja ki ingyen és fogadjon vendégeket 3 perc múlva
-    text: |+
+    text: |
       ###### ingyenes próbidőszak
 
-      Május 31-ig minden funkció ingyenesen használható. 
-
+      1 hónap ingyenes próbaidő.
     actions:
       - type: Button
         label: Ingyenes regisztráció
