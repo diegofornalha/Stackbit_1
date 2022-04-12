@@ -76,7 +76,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ### Mi az a foglalási link?
+          ## Mi az a foglalási link?
 
 
           A foglalási linkkel tudod beilleszteni a weboldaladba az Appartman
@@ -90,17 +90,17 @@ sections:
           másolódik is a link, már csak be kell illeszteni)*
 
 
-          ### Foglalási link beillesztése Webnode weboldalba
+          ## Foglalási link beillesztése Webnode weboldalba
 
 
           Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
           weboldalba beilleszteni a foglalási rendszert.
 
 
-          #### Foglalási rendszer beillesztése egy kattintható gombbal
+          ### Foglalási rendszer beillesztése egy kattintható gombbal
 
 
-          ##### Gomb hozzádása
+          #### Gomb hozzádása
 
 
           Ezt a bal oldalon található csepp alakú + ikonnal tudja megtenni a
