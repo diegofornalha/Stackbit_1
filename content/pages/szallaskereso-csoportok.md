@@ -89,43 +89,6 @@ sections:
         textAlign: center
   - type: HeroSection
     colors: colors-a
-    title: 'A great feature, we’re proud of'
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
-    media:
-      type: ImageBlock
-      url: /images/Image-on-the-right.svg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-6
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
-    colors: colors-a
     title: And a strong value proposition
     text: >-
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
