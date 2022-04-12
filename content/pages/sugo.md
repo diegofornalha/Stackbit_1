@@ -81,16 +81,18 @@ sections:
         actions: []
       - type: FeaturedItem
         title: Foglalások kezelése
-        text: >+
+        text: >
           [Foglalás bevitele és törlése](/sugo/foglalas-bevitele-es-torlese)
 
 
           [Foglalási link megosztása](/sugo/foglalasi-link-megosztasa)
 
 
+          Foglalási rendszer beillesztése Webnode weboldalba
+
+
           [Foglalás visszaigazolás és foglalási email
           beállítások](/sugo/foglalas-visszaigazolas-es-foglalasi-email-beallitasok/)
-
         featuredImage: null
         styles:
           title:
