@@ -95,6 +95,8 @@ sections:
           Ebben a videóban megtekintheted, hogy hogy kell egy Webnode rendszerű
           weboldalba beilleszteni a foglalási rendszert.
 
+          
+
 
           #### Foglalási rendszer beillesztése egy kattintható gombbal
 
