@@ -173,11 +173,11 @@ sections:
     colors: colors-i
     backgroundImage: null
     text: >
-      ### További segítségre van szükséged?
+      ### További segítségre van szüksége?
 
 
-      Keress minket a Kapcsolat oldalon található ügyfélszolgálatos email címen,
-      vagy térj vissza a Segítség oldalra.
+      Keressen minket a Kapcsolat oldalon található ügyfélszolgálatos email
+      címen, vagy térjen vissza a Segítség oldalra.
     actions:
       - label: Vissza a Segítség oldalra
         altText: Learn more
