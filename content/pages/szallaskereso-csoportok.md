@@ -4,7 +4,7 @@ title: Szálláskereső csoportok
 sections:
   - type: FeaturedItemsSection
     colors: colors-a
-    title: Remote doesn’t mean alone. Here are so great features
+    title: Szálláskereső csoportok gyűjteménye
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
