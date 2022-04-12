@@ -76,7 +76,8 @@ sections:
 
 
           A foglalási linkkel tudja beilleszteni a weboldaladba az Appartman
-          foglalási rendszert. A foglalási linkről bővebben itt tud olvasni.
+          foglalási rendszert. A foglalási linkről bővebben [itt tud
+          olvasni](/sugo/foglalasi-link-megosztasa/).
 
 
           ##### Hol található a foglalási link?
