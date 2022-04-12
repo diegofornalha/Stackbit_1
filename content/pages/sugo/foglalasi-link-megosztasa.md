@@ -93,10 +93,27 @@ sections:
           *Főoldal > Menü > Beállítások > Szálláshely linkje*
 
 
-          A link másolása után bárhol megoszthatod a szálláshelyed naprakész
-          online foglalási rendszerét. A link lényegében így bárhova
-          beilleszthető, akár a weboldalad "Foglalás" gombjára, egy Instagram
-          profil leírásába, vagy a Google Cégem felületre.
+          Hova érdemes beilleszteni a foglalási linket?
+
+
+          Minél több online csatornádra illeszted be, annál több felületről
+          elérhető lesz a saját, közvetlen foglalási felületed, növelve így a
+          közvetlen foglalásaid arányát. Mi a következő csatornákat ajánljuk
+          elsősorban
+
+
+          Weboldal
+
+
+          Facebook oldal
+
+
+          Facebook poszt
+
+
+          Google Cégem 
+
+
 
 
           ### Foglalási link beillesztése Webnode weboldalba
