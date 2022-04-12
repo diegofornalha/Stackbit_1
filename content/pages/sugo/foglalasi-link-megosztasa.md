@@ -73,11 +73,13 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ##### `A foglalási linkkel tudod bárhol megosztani a foglalási
-          felületedet, úgy, hogy a látogatók egyből a friss foglalási naptárra
-          érkezzenek. Az online foglalási rendszer linkjét beillesztheted a
-          weboldaladba, vagy a Facebook oldaladra, lehetővé téve, hogy bárhonnan
-          közvetlenül foglaljanak hozzád.`
+          `Hogyan lehet beilleszteni bárhova az Appartman foglalási rendszert?`
+
+
+          ` Az Appartmant a foglalási linkkel tudod bárhol megosztani. A felület
+          egy külön weboldalként nyílik meg a foglalási linken keresztül, de itt
+          nem listázunk más szálláshelyeket, ez a szálláshelyed saját felülete. 
+          `
 
 
           ##### Hol található a foglalási link?
