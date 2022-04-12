@@ -6,8 +6,8 @@ sections:
     colors: colors-a
     title: Szálláskereső csoportok gyűjteménye
     subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+      Kigyűjtöttük azokat a Facebook csoportokat, ahol érdemes megosztani a
+      szálláshelyeket, hogy minél több közvetlen foglalást érhessen el.
     items:
       - type: FeaturedItem
         title: Faster
