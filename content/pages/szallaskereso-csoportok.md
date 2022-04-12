@@ -66,6 +66,15 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     styles:
       self:
