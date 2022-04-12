@@ -56,9 +56,9 @@ sections:
             elementId: ''
       - type: FeaturedItem
         title: Szállás keres-kínál (Országos)
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |+
+          Létszám ~77 ezer fő
+
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
