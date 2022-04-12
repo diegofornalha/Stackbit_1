@@ -73,7 +73,8 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          `Hogyan lehet beilleszteni bárhova az Appartman foglalási rendszert?`
+          ### `Hogyan lehet beilleszteni bárhova az Appartman foglalási
+          rendszert?`
 
 
           ` Az Appartmant a foglalási linkkel tudod bárhol megosztani. A felület
