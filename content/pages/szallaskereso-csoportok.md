@@ -11,9 +11,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Szállás keres-kínál
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Létszám: ~13 600 fő
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
