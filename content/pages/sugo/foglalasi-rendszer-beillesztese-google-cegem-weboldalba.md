@@ -90,9 +90,6 @@ sections:
           ### Foglalási link beillesztése Google Cégem weboldalba
 
 
-          #### Beillesztés szövegbe egy kattintható linkként
-
-
           A Google Cégem rendszerű weboldalakba csak kattintható szövegként
           lehetséges beilleszteni az Appartman foglalási rendszer foglalási
           linkjét.
@@ -109,10 +106,33 @@ sections:
           ##### Szabad időpontok és online foglalás
 
 
+          ##### Foglaltság és árak
+
+
           ##### Online foglalás
 
 
           ##### Foglaltsági naptár
+
+
+          #### 1. Összefoglaló szövegrész szerkesztése
+
+
+          A Google Cégprofil-kezelő felületén navigáljon a Webhely menüpontba, a
+          középső menüből válassza ki a Szerkesztés opciót, majd görgessen le az
+          "Összefoglaló (fejléc)" részhez. Itt adja hozzá a linkké alakítani
+          kívánt szövegrészt, pl.: Online foglalás. 
+
+
+          #### 2. Szöveg linkké alakítása
+
+
+          Jelölje ki a linkké alakítani kívánt szöveget és nyomja meg a kis link
+          ikont az alsó eszköztárban. Ekkor megjelenik egy felugró ablak egy
+          szövegmezővel; illessze be a foglalási linket és nyomja meg az "OK"
+          gombot. A jobb felső Webhely megtekintése gombbal ellenőrizheti, hogy
+          úgy működik-e ahogy szerette volna. Ha elégedett az eredménnyel,
+          nyomja meg a szintén jobb felül található "Webhely megosztása" gombot.
 
         featuredImage: null
         styles:
