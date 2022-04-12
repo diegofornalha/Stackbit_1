@@ -7,8 +7,7 @@ sections:
   - type: HeroSection
     colors: colors-h
     title: >-
-      Az Appartman foglalási rendszer beillesztése weboldalba, vagy közösségi
-      médiába
+      Az Appartman foglalási rendszer beillesztése weboldalba, vagy közösségi médiába
     styles:
       self:
         height: auto
