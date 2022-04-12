@@ -6,8 +6,8 @@ sections:
     colors: colors-a
     title: Általános szálláskereső csoportok
     subtitle: >-
-      Kigyűjtöttük azokat a Facebook csoportokat, ahol érdemes megosztani a
-      szálláshelyeket, hogy minél több közvetlen foglalást érhessen el.
+      Ezekben a csoportokban jellemzően egész Magyarországra vonatkozóan lehet
+      magánszállásokat megosztani.
     items:
       - type: FeaturedItem
         title: Szállás keres-kínál
