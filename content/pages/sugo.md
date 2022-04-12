@@ -88,7 +88,8 @@ sections:
           [Foglalási link megosztása](/sugo/foglalasi-link-megosztasa)
 
 
-          Foglalási rendszer beillesztése Webnode weboldalba
+          [Foglalási rendszer beillesztése Webnode
+          weboldalba](/sugo/foglalasi-rendszer-beillesztese-webnode-weboldalba-foglalasi-linkkel/)
 
 
           [Foglalás visszaigazolás és foglalási email
