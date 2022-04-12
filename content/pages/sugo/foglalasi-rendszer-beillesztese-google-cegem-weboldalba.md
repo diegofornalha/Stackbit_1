@@ -87,6 +87,19 @@ sections:
           másolódik is a link, már csak be kell illeszteni)*
 
 
+          **
+
+
+          *Hogyan lehet Google Cégem weboldala?*
+
+
+          *A Google Cégem weboldal előfeltétele, hogy vállalkozása számára
+          reigsztrálva legyen egy Google Cégprofil. Az ehhez kapcsolódó
+          tudnivalókat a *[*Google támogatás
+          oldalán*](https://support.google.com/business/answer/6337413?hl=hu)*
+          találja.*
+
+
           ### Foglalási link beillesztése Google Cégem weboldalba
 
 
