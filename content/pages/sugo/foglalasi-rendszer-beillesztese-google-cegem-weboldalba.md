@@ -121,7 +121,9 @@ sections:
           A Google Cégprofil-kezelő felületén navigáljon a Webhely menüpontba, a
           középső menüből válassza ki a Szerkesztés opciót, majd görgessen le az
           "Összefoglaló (fejléc)" részhez. Itt adja hozzá a linkké alakítani
-          kívánt szövegrészt, pl.: Online foglalás. 
+          kívánt szövegrészt, pl.: Online foglalás.
+
+
 
 
           #### 2. Szöveg linkké alakítása
