@@ -80,7 +80,7 @@ sections:
           közvetlenül foglaljanak hozzád.`
 
 
-          ## Hol található a foglalási link?
+          ### Hol található a foglalási link?
 
 
           A foglalási linket a következő helyeken találod az Appartman
@@ -90,7 +90,7 @@ sections:
           *Főoldal > Menü > Foglalási link másolása*
 
 
-          ## Hova érdemes beilleszteni a foglalási linket?
+          ### Hova érdemes beilleszteni a foglalási linket?
 
 
           Minél több online csatornádra illeszted be, annál több felületről
@@ -99,7 +99,7 @@ sections:
           elsősorban:
 
 
-          ##### Weboldal
+          #### Weboldal
 
 
           Ha valaki a saját weboldaladra talál rá, az Appartman naprakész
