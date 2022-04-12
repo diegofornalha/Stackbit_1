@@ -48,6 +48,7 @@ sections:
             textAlign: left
           text:
             textAlign: left
+        rating: 4
       - type: FeaturedItem
         title: Focused
         text: >-
