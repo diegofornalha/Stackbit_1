@@ -1,13 +1,10 @@
 ---
 layout: PageLayout
-title: >-
-  Foglalási rendszer beillesztése Webnode weboldalba |
-  Appartman
+title: Foglalási rendszer beillesztése Webnode weboldalba | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: >-
-      Az Appartman foglalási rendszer Webnode weboldalba.
+    title: Az Appartman foglalási rendszer Webnode weboldalba.
     styles:
       self:
         height: auto
@@ -78,8 +75,8 @@ sections:
           ### Mi az a foglalási link?
 
 
-          A foglalási linkkel tudod beilleszteni a weboldaladba az Appartman
-          foglalási rendszert. A foglalási linkről bővebben itt tudsz olvasni.
+          A foglalási linkkel tudja beilleszteni a weboldaladba az Appartman
+          foglalási rendszert. A foglalási linkről bővebben itt tud olvasni.
 
 
           ##### Hol található a foglalási link?
@@ -92,10 +89,15 @@ sections:
           ### Foglalási link beillesztése Webnode weboldalba
 
 
-          Ebben a videóban megtekintheted, hogy hogy kell egy Webnode rendszerű
+          Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
           weboldalba beilleszteni a foglalási rendszert.
 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/9OF0eGFMHqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/9OF0eGFMHqc" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
 
 
           #### Foglalási rendszer beillesztése egy kattintható gombbal
@@ -104,7 +106,7 @@ sections:
           ##### Gomb hozzádása
 
 
-          Ezt a bal oldalon található csepp alakú + ikonnal tudod megtenni a
+          Ezt a bal oldalon található csepp alakú + ikonnal tudja megtenni a
           képen látható módon. A gomb megynomására megjelenő menüből a Gomb
           opciót kell kiválasztani.
 
