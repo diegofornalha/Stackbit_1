@@ -93,11 +93,23 @@ sections:
           #### Beillesztés szövegbe egy kattintható linkként
 
 
-          A Google Cégem rendszerű weboldalakba csak kattintható szövegtként
+          A Google Cégem rendszerű weboldalakba csak kattintható szövegként
           lehetséges beilleszteni az Appartman foglalási rendszer foglalási
           linkjét.
 
 
+          Érdemes a link szövegét egy világos szövegezéssel ellátni, és a
+          szövegrész elejére és/vagy végére rakni, hogy minél könnyebben észre
+          lehessen venni. Ilyen lehet például:
+
+
+          *   Szabad időpontok
+
+
+          *   Online foglalás
+
+
+          *   Szabad időpontok és online foglalás
 
         featuredImage: null
         styles:
