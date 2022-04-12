@@ -1,5 +1,5 @@
 ---
-title: Foglalási link megosztása | Appartman
+title: Foglalási link másolása és beillesztése weboldalba, vagy közösségi médiába | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
