@@ -27,7 +27,7 @@ sections:
         actions:
           - type: Link
             label: Facebook link
-            altText: Learn more
+            altText: Facebook link
             showIcon: false
             icon: arrowRight
             iconPosition: right
