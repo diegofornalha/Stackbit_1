@@ -4,7 +4,7 @@ title: Szálláskereső csoportok
 sections:
   - type: FeaturedItemsSection
     colors: colors-a
-    title: Szálláskereső csoportok gyűjteménye
+    title: Általános szálláskereső csoportok
     subtitle: >-
       Kigyűjtöttük azokat a Facebook csoportokat, ahol érdemes megosztani a
       szálláshelyeket, hogy minél több közvetlen foglalást érhessen el.
