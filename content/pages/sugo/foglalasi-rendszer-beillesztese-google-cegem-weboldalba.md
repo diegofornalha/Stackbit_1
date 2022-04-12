@@ -4,7 +4,7 @@ title: Foglalási rendszer beillesztése Webnode weboldalba | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Az Appartman foglalási rendszer beillesztése Google Cégem weboldalba.
+    title: Az Appartman foglalási rendszer beillesztése Google Cégem weboldalba
     styles:
       self:
         height: auto
