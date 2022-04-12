@@ -74,8 +74,8 @@ sections:
           ##### `A foglalási linkkel tudod bárhol megosztani a foglalási
           felületedet, úgy, hogy a látogatók egyből a friss foglalási naptárra
           érkezzenek. Az online foglalási rendszer linkjét beillesztheted a
-          weboldaladba, vagy az Instagram profilodra, lehetővé téve, hogy
-          közvetlenül az Instagramról foglaljanak hozzád.`
+          weboldaladba, vagy a Facebook oldaladra, lehetővé téve, hogy bárhonnan
+          közvetlenül foglaljanak hozzád.`
 
 
           ## Hol található a foglalási link?
