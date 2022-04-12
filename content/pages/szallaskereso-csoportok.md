@@ -46,6 +46,15 @@ sections:
             textAlign: left
         rating: 5
         isRatingVisible: false
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
       - type: FeaturedItem
         title: Focused
         text: >-
