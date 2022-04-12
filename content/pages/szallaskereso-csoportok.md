@@ -34,7 +34,7 @@ sections:
             elementId: ''
             url: 'https://www.facebook.com/groups/szallashirdeto'
       - type: FeaturedItem
-        title: Smarter
+        title: Vendégházak Magyarországon
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
