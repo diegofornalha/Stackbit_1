@@ -87,43 +87,6 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-  - type: HeroSection
-    colors: colors-a
-    title: And a strong value proposition
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
-    media:
-      type: ImageBlock
-      url: /images/Image-on-the-left.svg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: TextSection
     colors: colors-a
     title: ''
