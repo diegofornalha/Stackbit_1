@@ -87,7 +87,7 @@ sections:
           másolódik is a link, már csak be kell illeszteni)*
 
 
-          ### Foglalási link beillesztése Webnode weboldalba
+          ### Foglalási link beillesztése Google Cégem weboldalba
 
 
           Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
