@@ -28,7 +28,6 @@ sections:
           - type: Link
             label: Facebook link
             altText: Learn more
-            url: /
             showIcon: false
             icon: arrowRight
             iconPosition: right
