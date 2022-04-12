@@ -104,13 +104,18 @@ sections:
           Szállás.hu-ra a szabad dátumok után nézelődni.
 
 
-          Facebook oldal
+          #### Facebook oldal, poszt, vagy hirdetés
 
 
-          Facebook poszt
+          Akár az oldaladra, posztodra rátalálva is tudnak foglalást indítani a
+          vendégek.
 
 
-          Google Cégem
+          #### Google Cégem
+
+
+          Ha valaki Google-ben, vagy Google Térképeken talál a szálláshelyedre,
+          rögtön le tudja foglalni.
 
 
           ### Foglalási link beillesztése Webnode weboldalba
