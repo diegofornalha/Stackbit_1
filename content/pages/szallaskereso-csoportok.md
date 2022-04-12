@@ -59,10 +59,6 @@ sections:
         text: |+
           Létszám ~77 ezer fő
 
-        featuredImage:
-          type: ImageBlock
-          url: /images/focused.svg
-          altText: Item image
         styles:
           title:
             textAlign: center
