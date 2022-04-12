@@ -93,7 +93,7 @@ sections:
           ## Foglalási link beillesztése Webnode weboldalba
 
 
-          Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
+          Ebben a videóban megtekintheted, hogy hogy kell egy Webnode rendszerű
           weboldalba beilleszteni a foglalási rendszert.
 
 
