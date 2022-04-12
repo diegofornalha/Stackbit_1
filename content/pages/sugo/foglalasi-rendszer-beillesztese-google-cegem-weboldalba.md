@@ -71,7 +71,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
+        text: >+
           ### Mi az a foglalási link?
 
 
@@ -90,56 +90,15 @@ sections:
           ### Foglalási link beillesztése Google Cégem weboldalba
 
 
-          Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
-          weboldalba beilleszteni a foglalási rendszert.
-
-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/9OF0eGFMHqc" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-
-
-          #### Foglalási rendszer beillesztése egy kattintható gombbal
-
-
-          ##### Gomb hozzádása
-
-
-          Ezt a bal oldalon található csepp alakú + ikonnal tudja megtenni a
-          képen látható módon. A gomb megynomására megjelenő menüből a Gomb
-          opciót kell kiválasztani.
-
-
-          ![](/images/Keundefined81pernyoundefined8Bfotoundefined81undefined20-%2011.33.28.png)
-
-
-          ##### Link beillesztése
-
-
-          A felugró menübe egyszerűen illessze be a foglalási linket és nyomja
-          meg az "OK" gombot
-
-
-          ##### *Gomb szövegének módosítása*
-
-
-          Ez után jelölje ki a gomb szövegét és írja át tetszőlegesen, például
-          "Foglalás"-ra
-
-
           #### Beillesztés szövegbe egy kattintható linkként
 
 
-          Ha valamilyen szövegbe szeretné beilleszteni a linket, abban az
-          esetben pedig jelölje ki a linkké alakítani kívánt szót (pl.: itt a
-          foglalás szó lesz az), és nyomja meg a felugró menüben a kis lánc
-          ikont (jobb oldalt). Ezek után megjelenik egy másik felugró menü (alul
-          látható), ahova be lehet illeszteni a foglalási linket.
+          A Google Cégem rendszerű weboldalakba csak kattintható szövegtként
+          lehetséges beilleszteni az Appartman foglalási rendszer foglalási
+          linkjét.
 
 
-          ![](/images/image%20\(10\).png)
+
         featuredImage: null
         styles:
           title:
