@@ -48,7 +48,7 @@ sections:
         isRatingVisible: false
         actions:
           - type: Link
-            label: Learn more
+            label: Facebook link
             altText: Learn more
             url: /
             showIcon: false
