@@ -5,7 +5,9 @@ title: >-
 sections:
   - type: HeroSection
     colors: colors-h
-    title: 'Foglalási rendszer beillesztése weboldalba, vagy közösségi médiába'
+    title: >-
+      Az Appartman foglalási rendszer beillesztése weboldalba, vagy közösségi
+      médiába
     styles:
       self:
         height: auto
