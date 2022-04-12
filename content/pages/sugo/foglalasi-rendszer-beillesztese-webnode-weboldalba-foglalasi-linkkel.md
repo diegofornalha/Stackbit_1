@@ -105,8 +105,12 @@ sections:
 
           ##### Ezt a bal oldalon található csepp alakú + ikonnal tudja megtenni
           a képen látható módon. A megjelenő menüből a Gomb opciót kell
-          kiválasztani.![](https://mail.google.com/mail/u/1?ui=2\&ik=b4e2fd4e0c\&attid=0.2\&permmsgid=msg-a:r-5320695910440220799\&th=17ff92700e81ce02\&view=fimg\&fur=ip\&sz=s0-l75-ft\&attbid=ANGjdJ8vsMXxfzYz6Pk582G4dLTujpi\_302vl-F9L9-IQl4q-VHMPe6OyHFyn6oY2EteYSjccgE9D7xzJtVMDoPCbpZBNJAMa2C753LnRp-VmmFuQVfDwxIWdJsk04E\&disp=emb\&realattid=ii_l1lyc2xv1)&#xA;Link
-          beillesztése
+          kiválasztani.
+
+
+
+
+          ##### Link beillesztése
 
 
           A felugró menübe egyszerűen illessze be a foglalási linket és nyomja
