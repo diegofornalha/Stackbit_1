@@ -37,10 +37,6 @@ sections:
         title: Vendégházak Magyarországon
         text: |
           Létszám ~45 ezer fő
-        featuredImage:
-          type: ImageBlock
-          url: /images/smarter.svg
-          altText: Item image
         styles:
           title:
             textAlign: left
