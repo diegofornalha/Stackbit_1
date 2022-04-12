@@ -69,7 +69,7 @@ sections:
         actions:
           - type: Link
             label: Facebook link
-            altText: Learn more
+            altText: Facebook link
             url: /
             showIcon: false
             icon: arrowRight
