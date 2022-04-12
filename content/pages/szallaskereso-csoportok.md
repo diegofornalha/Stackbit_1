@@ -24,6 +24,15 @@ sections:
             textAlign: center
           text:
             textAlign: center
+        actions:
+          - type: Link
+            label: Learn more
+            altText: Learn more
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
       - type: FeaturedItem
         title: Smarter
         text: >-
