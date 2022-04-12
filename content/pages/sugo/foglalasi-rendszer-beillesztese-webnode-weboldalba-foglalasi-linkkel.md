@@ -76,7 +76,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ## Mi az a foglalási link?
+          ### Mi az a foglalási link?
 
 
           A foglalási linkkel tudod beilleszteni a weboldaladba az Appartman
@@ -90,37 +90,44 @@ sections:
           másolódik is a link, már csak be kell illeszteni)*
 
 
-          ## Foglalási link beillesztése Webnode weboldalba
+          ### Foglalási link beillesztése Webnode weboldalba
 
 
           Ebben a videóban megtekintheted, hogy hogy kell egy Webnode rendszerű
           weboldalba beilleszteni a foglalási rendszert.
 
 
-          ### Foglalási rendszer beillesztése egy kattintható gombbal
+          #### Foglalási rendszer beillesztése egy kattintható gombbal
 
 
-          #### Gomb hozzádása
+          ##### Gomb hozzádása
 
 
-          Ezt a bal oldalon található csepp alakú + ikonnal tudja megtenni a
-          képen látható módon. A megjelenő menüből a Gomb opciót kell
-          kiválasztani.![](https://mail.google.com/mail/u/1?ui=2\&ik=b4e2fd4e0c\&attid=0.2\&permmsgid=msg-a:r-5320695910440220799\&th=17ff92700e81ce02\&view=fimg\&fur=ip\&sz=s0-l75-ft\&attbid=ANGjdJ8vsMXxfzYz6Pk582G4dLTujpi\_302vl-F9L9-IQl4q-VHMPe6OyHFyn6oY2EteYSjccgE9D7xzJtVMDoPCbpZBNJAMa2C753LnRp-VmmFuQVfDwxIWdJsk04E\&disp=emb\&realattid=ii_l1lyc2xv1)
+          ##### Ezt a bal oldalon található csepp alakú + ikonnal tudja megtenni
+          a képen látható módon. A megjelenő menüből a Gomb opciót kell
+          kiválasztani.![](https://mail.google.com/mail/u/1?ui=2\&ik=b4e2fd4e0c\&attid=0.2\&permmsgid=msg-a:r-5320695910440220799\&th=17ff92700e81ce02\&view=fimg\&fur=ip\&sz=s0-l75-ft\&attbid=ANGjdJ8vsMXxfzYz6Pk582G4dLTujpi\_302vl-F9L9-IQl4q-VHMPe6OyHFyn6oY2EteYSjccgE9D7xzJtVMDoPCbpZBNJAMa2C753LnRp-VmmFuQVfDwxIWdJsk04E\&disp=emb\&realattid=ii_l1lyc2xv1)&#xA;Link
+          beillesztése
 
-          \*
 
-          Link beillesztése\*A felugró menübe egyszerűen illessze be a foglalási
-          linket és nyomja meg az "OK" gombot
+          A felugró menübe egyszerűen illessze be a foglalási linket és nyomja
+          meg az "OK" gombot
 
-          *Gomb szövegének módosítása*Ez után jelölje ki a gomb szövegét és írja
-          át tetszőlegesen, például "Foglalás"-ra
 
-          Szöveg linkké alakításaHa valamilyen szövegbe szeretné beilleszteni a
-          linket, abban az esetben pedig jelölje ki a linkké alakítani kívánt
-          szót (pl.: itt a foglalás szó lesz az), és nyomja meg a felugró
-          menüben a kis lánc ikont (jobb oldalt). Ezek után megjelenik egy másik
-          felugró menü (alul látható), ahova be lehet illeszteni a foglalási
-          linket
+          ##### *Gomb szövegének módosítása*
+
+
+          Ez után jelölje ki a gomb szövegét és írja át tetszőlegesen, például
+          "Foglalás"-ra
+
+
+          #### Beillesztés szövegbe egy kattintható linkként
+
+
+          Ha valamilyen szövegbe szeretné beilleszteni a linket, abban az
+          esetben pedig jelölje ki a linkké alakítani kívánt szót (pl.: itt a
+          foglalás szó lesz az), és nyomja meg a felugró menüben a kis lánc
+          ikont (jobb oldalt). Ezek után megjelenik egy másik felugró menü (alul
+          látható), ahova be lehet illeszteni a foglalási linket
         featuredImage: null
         styles:
           title:
