@@ -76,63 +76,53 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ### Hogyan lehet beilleszteni bárhova az Appartman foglalási
-          rendszert?
+          ### Mi az a foglalási link?
 
 
-          ` Az Appartmant a foglalási linkkel tudod bárhol megosztani. A felület
-          egy külön weboldalként nyílik meg a foglalási linken keresztül, de itt
-          nem listázunk más szálláshelyeket, ez a szálláshelyed saját felülete. 
-          `
+          A foglalási linkkel tudod beilleszteni a weboldaladba az Appartman
+          foglalási rendszert. A foglalási linkről bővebben itt tudsz olvasni.
 
 
           ##### Hol található a foglalási link?
 
 
-          *Főoldal > Menü > Foglalási link másolása*
-
-
-          ### Hova érdemes beilleszteni a foglalási linket?
-
-
-          Minél több online csatornádra illeszted be, annál több felületről
-          elérhető lesz a saját, közvetlen foglalási felületed, növelve így a
-          közvetlen foglalásaid arányát. Mi a következő csatornákat ajánljuk
-          elsősorban:
-
-
-          #### Weboldal
-
-
-          Ha valaki a saját weboldaladra talál rá, az Appartman naprakész
-          foglaltsági naptárával és foglalási rendszerével növelheted az
-          esélyét, hogy közvetlenül foglaljon a vendég, ahelyett, hogy átmenne
-          Szállás.hu-ra a szabad dátumok után nézelődni.
-
-
-          #### Facebook oldal, poszt, vagy hirdetés
-
-
-          Akár az oldaladra, posztodra rátalálva is tudnak foglalást indítani a
-          vendégek.
-
-
-          #### Google Cégem
-
-
-          Ha valaki Google-ben, vagy Google Térképeken talál a szálláshelyedre,
-          rögtön le tudja foglalni.
+          *Főoldal > Menü > Foglalási link másolása (a gomb megnyomására
+          másolódik is a link, már csak be kell illeszteni)*
 
 
           ### Foglalási link beillesztése Webnode weboldalba
 
 
           Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
-          weboldalba beilleszteni a foglalási rendszert. <iframe width="560"
-          height="315" src="https://www.youtube.com/embed/9OF0eGFMHqc"
-          title="YouTube video player" frameborder="0" allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope;
-          picture-in-picture" allowfullscreen></iframe>
+          weboldalba beilleszteni a foglalási rendszert. 
+
+
+
+
+          ### Foglalási rendszer beillesztése egy kattintható gombbal
+
+
+          #### Gomb hozzádása
+
+
+          Ezt a bal oldalon található csepp alakú + ikonnal tudja megtenni a
+          képen látható módon. A megjelenő menüből a Gomb opciót kell
+          kiválasztani.![](https://mail.google.com/mail/u/1?ui=2\&ik=b4e2fd4e0c\&attid=0.2\&permmsgid=msg-a:r-5320695910440220799\&th=17ff92700e81ce02\&view=fimg\&fur=ip\&sz=s0-l75-ft\&attbid=ANGjdJ8vsMXxfzYz6Pk582G4dLTujpi\_302vl-F9L9-IQl4q-VHMPe6OyHFyn6oY2EteYSjccgE9D7xzJtVMDoPCbpZBNJAMa2C753LnRp-VmmFuQVfDwxIWdJsk04E\&disp=emb\&realattid=ii_l1lyc2xv1)
+
+          *
+
+          Link beillesztése*A felugró menübe egyszerűen illessze be a foglalási
+          linket és nyomja meg az "OK" gombot
+
+          *Gomb szövegének módosítása*Ez után jelölje ki a gomb szövegét és írja
+          át tetszőlegesen, például "Foglalás"-ra
+
+          Szöveg linkké alakításaHa valamilyen szövegbe szeretné beilleszteni a
+          linket, abban az esetben pedig jelölje ki a linkké alakítani kívánt
+          szót (pl.: itt a foglalás szó lesz az), és nyomja meg a felugró
+          menüben a kis lánc ikont (jobb oldalt). Ezek után megjelenik egy másik
+          felugró menü (alul látható), ahova be lehet illeszteni a foglalási
+          linket
         featuredImage: null
         styles:
           title:
