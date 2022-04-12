@@ -26,7 +26,7 @@ sections:
             textAlign: center
         actions:
           - type: Link
-            label: Learn more
+            label: Facebook
             altText: Learn more
             url: /
             showIcon: false
