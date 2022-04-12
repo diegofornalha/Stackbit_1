@@ -28,7 +28,7 @@ sections:
           - type: Link
             label: Facebook link
             altText: Facebook link
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''
