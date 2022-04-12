@@ -87,10 +87,7 @@ sections:
           másolódik is a link, már csak be kell illeszteni)*
 
 
-          **
-
-
-          *Hogyan lehet Google Cégem weboldala?*
+          ##### *Hogyan lehet Google Cégem weboldala?*
 
 
           *A Google Cégem weboldal előfeltétele, hogy vállalkozása számára
