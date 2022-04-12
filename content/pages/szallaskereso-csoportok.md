@@ -71,7 +71,7 @@ sections:
             label: Facebook link
             altText: Facebook link
             url: 'https://www.facebook.com/groups/szallasfoglalo/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''
