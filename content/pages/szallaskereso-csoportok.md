@@ -70,7 +70,7 @@ sections:
           - type: Link
             label: Facebook link
             altText: Facebook link
-            url: /
+            url: 'https://www.facebook.com/groups/szallasfoglalo/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
