@@ -15,7 +15,6 @@ sections:
           Létszám: ~13 ezer fő
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
           altText: Item image
         styles:
           title:
