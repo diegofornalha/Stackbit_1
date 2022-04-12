@@ -102,7 +102,7 @@ sections:
 
           Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
           weboldalba beilleszteni a foglalási rendszert.
-          
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/9OF0eGFMHqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         featuredImage: null
         styles:
           title:
