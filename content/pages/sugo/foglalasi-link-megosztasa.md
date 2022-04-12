@@ -102,6 +102,7 @@ sections:
 
           Ebben a videóban megtekintheti, hogy hogy kell egy Webnode rendszerű
           weboldalba beilleszteni a foglalási rendszert.
+          
         featuredImage: null
         styles:
           title:
