@@ -92,6 +92,10 @@ sections:
           weboldalba](/sugo/foglalasi-rendszer-beillesztese-webnode-weboldalba-foglalasi-linkkel/)
 
 
+          [Foglalási rendszer beillesztése Google Cégem
+          weboldalba](/sugo/foglalasi-rendszer-beillesztese-google-cegem-weboldalba/)
+
+
           [Foglalás visszaigazolás és foglalási email
           beállítások](/sugo/foglalas-visszaigazolas-es-foglalasi-email-beallitasok/)
         featuredImage: null
