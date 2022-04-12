@@ -32,6 +32,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
+            url: 'https://www.facebook.com/groups/szallashirdeto'
       - type: FeaturedItem
         title: Smarter
         text: >-
