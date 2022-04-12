@@ -74,7 +74,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### Hogyan lehet beilleszteni bárhova az Appartman foglalási
           rendszert?
 
@@ -125,7 +125,6 @@ sections:
 
           Ha valaki Google-ben, vagy Google Térképeken talál a szálláshelyére,
           rögtön le tudja foglalni.
-
         featuredImage: null
         styles:
           title:
