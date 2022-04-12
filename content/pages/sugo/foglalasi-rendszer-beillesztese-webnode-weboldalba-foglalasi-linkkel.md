@@ -103,11 +103,12 @@ sections:
           ##### Gomb hozzádása
 
 
-          ##### Ezt a bal oldalon található csepp alakú + ikonnal tudja megtenni
-          a képen látható módon. A megjelenő menüből a Gomb opciót kell
-          kiválasztani.
+          Ezt a bal oldalon található csepp alakú + ikonnal tudod megtenni a
+          képen látható módon. A gomb megynomására megjelenő menüből a Gomb
+          opciót kell kiválasztani.
 
 
+          ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-04-05%20-%2011.33.28.png)
 
 
           ##### Link beillesztése
@@ -131,7 +132,10 @@ sections:
           esetben pedig jelölje ki a linkké alakítani kívánt szót (pl.: itt a
           foglalás szó lesz az), és nyomja meg a felugró menüben a kis lánc
           ikont (jobb oldalt). Ezek után megjelenik egy másik felugró menü (alul
-          látható), ahova be lehet illeszteni a foglalási linket
+          látható), ahova be lehet illeszteni a foglalási linket.
+
+
+          ![](/images/image%20\(10\).png)
         featuredImage: null
         styles:
           title:
