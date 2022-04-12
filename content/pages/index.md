@@ -596,11 +596,12 @@ sections:
       - elementId: ''
         subtitle: ''
         text: >
-          #### A linket bemásolva egy weboldal szövegébe, gombjába, egy Facebook
-          posztba, bárhonnan elérhető lesz a szállás saját foglalási felülete
+          #### A foglalási linken keresztül sok helyről elérhetővé tehető a
+          saját foglalási felület: weboldal, Facebook poszt, stb.
 
 
-          Bárhol is találják meg a vendégek, könnyedén fognak tudni foglalni.
+          A linket egyszerűen be kell másolni. Így bárhol is találják meg a
+          vendégek, könnyedén fognak tudni közvetlenül foglalni, kedvező áron.
         author: ''
         rating: 1
         isRatingVisible: false
