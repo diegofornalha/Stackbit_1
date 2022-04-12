@@ -71,7 +71,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### Mi az a foglalási link?
 
 
@@ -124,6 +124,7 @@ sections:
           kívánt szövegrészt, pl.: Online foglalás.
 
 
+          ![](/images/Frame%202.png)
 
 
           #### 2. Szöveg linkké alakítása
@@ -136,6 +137,8 @@ sections:
           úgy működik-e ahogy szerette volna. Ha elégedett az eredménnyel,
           nyomja meg a szintén jobb felül található "Webhely megosztása" gombot.
 
+
+          ![](/images/Frame%201-2ca7ecee.png)
         featuredImage: null
         styles:
           title:
