@@ -49,7 +49,7 @@ sections:
           text:
             textAlign: left
         rating: 5
-        isRatingVisible: true
+        isRatingVisible: false
       - type: FeaturedItem
         title: Focused
         text: >-
