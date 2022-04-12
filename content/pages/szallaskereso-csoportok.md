@@ -61,11 +61,11 @@ sections:
 
         styles:
           title:
-            textAlign: center
+            textAlign: left
           subtitle:
-            textAlign: center
+            textAlign: left
           text:
-            textAlign: center
+            textAlign: left
         actions:
           - type: Link
             label: Facebook link
