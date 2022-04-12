@@ -103,13 +103,16 @@ sections:
           lehessen venni. Ilyen lehet például:
 
 
-          *   Szabad időpontok
+          ##### Szabad időpontok
 
 
-          *   Online foglalás
+          ##### Szabad időpontok és online foglalás
 
 
-          *   Szabad időpontok és online foglalás
+          ##### Online foglalás
+
+
+          ##### Foglaltsági naptár
 
         featuredImage: null
         styles:
