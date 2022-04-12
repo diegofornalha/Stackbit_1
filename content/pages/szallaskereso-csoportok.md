@@ -3,49 +3,6 @@ layout: PageLayout
 title: Szálláskereső csoportok
 sections:
   - type: HeroSection
-    colors: colors-a
-    title: 'Love where you work, because work loves you'
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
-    media:
-      type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/hero.png'
-      altText: Hero section image
-    actions:
-      - type: Button
-        label: Sign up
-        url: /
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-11
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
     colors: colors-f
     title: Where did everyone go?
     text: >-
