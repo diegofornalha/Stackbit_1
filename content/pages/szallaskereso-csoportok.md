@@ -51,7 +51,7 @@ sections:
             label: Facebook link
             altText: Facebook link
             url: 'https://www.facebook.com/groups/szallas.keres.kinal'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''
