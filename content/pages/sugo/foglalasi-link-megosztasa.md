@@ -5,7 +5,7 @@ title: >-
 sections:
   - type: HeroSection
     colors: colors-h
-    title: 'Foglalási link másolása és beillesztése weboldalba, vagy közösségi médiába'
+    title: 'Foglalási rendszer beillesztése weboldalba, vagy közösségi médiába'
     styles:
       self:
         height: auto
