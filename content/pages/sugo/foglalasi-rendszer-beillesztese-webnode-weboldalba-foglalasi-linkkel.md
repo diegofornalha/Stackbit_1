@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 title: >-
-  Foglalási link másolása és beillesztése weboldalba, vagy közösségi médiába |
+  Foglalási rendszer beillesztése Webnode weboldalba |
   Appartman
 sections:
   - type: HeroSection
