@@ -10,7 +10,7 @@ sections:
       szálláshelyeket, hogy minél több közvetlen foglalást érhessen el.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Szállás keres-kínál
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
