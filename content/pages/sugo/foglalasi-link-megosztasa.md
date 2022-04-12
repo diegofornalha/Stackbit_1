@@ -90,19 +90,22 @@ sections:
           *Főoldal > Menü > Foglalási link másolása*
 
 
-          *Főoldal > Menü > Beállítások > Szálláshely linkje*
-
-
-          Hova érdemes beilleszteni a foglalási linket?
+          ## Hova érdemes beilleszteni a foglalási linket?
 
 
           Minél több online csatornádra illeszted be, annál több felületről
           elérhető lesz a saját, közvetlen foglalási felületed, növelve így a
           közvetlen foglalásaid arányát. Mi a következő csatornákat ajánljuk
-          elsősorban
+          elsősorban:
 
 
-          Weboldal
+          ##### Weboldal
+
+
+          Ha valaki a saját weboldaladra talál rá, az Appartman naprakész
+          foglaltsági naptárával és foglalási rendszerével növelheted az
+          esélyét, hogy közvetlenül foglaljon a vendég, ahelyett, hogy átmenne
+          Szállás.hu-ra a szabad dátumok után nézelődni.
 
 
           Facebook oldal
@@ -111,9 +114,7 @@ sections:
           Facebook poszt
 
 
-          Google Cégem 
-
-
+          Google Cégem
 
 
           ### Foglalási link beillesztése Webnode weboldalba
