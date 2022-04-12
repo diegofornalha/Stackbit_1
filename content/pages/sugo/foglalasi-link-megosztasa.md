@@ -79,10 +79,10 @@ sections:
           rendszert?
 
 
-          ` Az Appartmant a foglalási linkkel tudod bárhol megosztani. A felület
-          egy külön weboldalként nyílik meg a foglalási linken keresztül, de itt
-          nem listázunk más szálláshelyeket, ez a szálláshelyed saját felülete. 
-          `
+          ` A foglalási rendszerét a foglalási linkkel tudja bárhol megosztani.
+          A felület egy külön weboldalként nyílik meg a foglalási linken
+          keresztül, de itt nem listázunk más szálláshelyeket, ez a szálláshelye
+          saját felülete.  `
 
 
           ##### Hol található a foglalási link?
@@ -94,8 +94,8 @@ sections:
           ### Hova érdemes beilleszteni a foglalási linket?
 
 
-          Minél több online csatornádra illeszted be, annál több felületről
-          elérhető lesz a saját, közvetlen foglalási felületed, növelve így a
+          Minél több online csatornájára illeszti be, annál több felületről
+          elérhető lesz a saját, közvetlen foglalási felülete, növelve így a
           közvetlen foglalásaid arányát. Mi a következő csatornákat ajánljuk
           elsősorban:
 
@@ -103,23 +103,23 @@ sections:
           #### Weboldal
 
 
-          Ha valaki a saját weboldaladra talál rá, az Appartman naprakész
-          foglaltsági naptárával és foglalási rendszerével növelheted az
-          esélyét, hogy közvetlenül foglaljon a vendég, ahelyett, hogy átmenne
+          Ha valaki a szálláshelye weboldalára talál rá, az Appartman naprakész
+          foglaltsági naptárával és foglalási rendszerével növelheti az esélyét,
+          hogy közvetlenül foglaljon a vendég, ahelyett, hogy átmenne
           Szállás.hu-ra a szabad dátumok után nézelődni.
 
 
           #### Facebook oldal, poszt, vagy hirdetés
 
 
-          Akár az oldaladra, posztodra rátalálva is tudnak foglalást indítani a
+          Akár az oldalára, posztjára rátalálva is tudnak foglalást indítani a
           vendégek.
 
 
           #### Google Cégem
 
 
-          Ha valaki Google-ben, vagy Google Térképeken talál a szálláshelyedre,
+          Ha valaki Google-ben, vagy Google Térképeken talál a szálláshelyére,
           rögtön le tudja foglalni.
 
 
