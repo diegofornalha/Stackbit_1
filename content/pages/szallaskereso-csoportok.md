@@ -43,11 +43,11 @@ sections:
           altText: Item image
         styles:
           title:
-            textAlign: center
+            textAlign: left
           subtitle:
-            textAlign: center
+            textAlign: left
           text:
-            textAlign: center
+            textAlign: left
       - type: FeaturedItem
         title: Focused
         text: >-
