@@ -600,8 +600,9 @@ sections:
           saját foglalási felület: weboldal, Facebook poszt, stb.
 
 
-          A linket egyszerűen be kell másolni. Így bárhol is találják meg a
-          vendégek, könnyedén fognak tudni közvetlenül foglalni, kedvező áron.
+          A linket egyszerűen be kell másolni, ami egy önálló weboldalként
+          nyílik majd meg. Így bárhol is találják meg a vendégek, könnyedén
+          fognak tudni közvetlenül foglalni, kedvező áron.
         author: ''
         rating: 1
         isRatingVisible: false
