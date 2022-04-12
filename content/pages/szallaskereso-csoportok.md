@@ -95,7 +95,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedItemsSection
-    colors: colors-h
+    colors: colors-a
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
       These are all excellent features that will provide exactly the things
