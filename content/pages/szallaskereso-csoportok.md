@@ -12,7 +12,7 @@ sections:
       - type: FeaturedItem
         title: Szállás keres-kínál
         text: |
-          Létszám: ~13 600 fő
+          Létszám: ~13 ezer fő
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
