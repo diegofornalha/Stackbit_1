@@ -130,8 +130,9 @@ sections:
 
           Ha valaki Google-ben, vagy Google Térképeken talál a szálláshelyére,
           rögtön le tudja foglalni.
-          
+
           <iframe src="https://foglalas.appartman.hu/teszt-vendeghaz" style="border:0px #ffffff none;" name="Appartman" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+          
         featuredImage: null
         styles:
           title:
