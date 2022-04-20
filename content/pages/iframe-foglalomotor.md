@@ -73,7 +73,9 @@ sections:
       - type: FeaturedItem
         text: |+
           ##
-
+                    <div class="container">
+            <iframe width="100%" height="750" src="https://foglalas.appartman.hu/teszt-vendeghaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
           ###
 
         featuredImage: null
