@@ -22,7 +22,7 @@ sections:
         elementId: hero-main-button
       - label: Minta foglalási felület
         altText: Minta Vendégház
-        url: 'https://foglalas.appartman.hu/7'
+        url: 'https://foglalas.appartman.hu/minta-appartman'
         showIcon: true
         openInNew: true
         icon: arrowRight
