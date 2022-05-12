@@ -210,7 +210,7 @@ sections:
           Sávos és vendégéjszakánkénti árazás esetén állítható be.
 
 
-          #### Hogy állíthatom be a szabályokat
+          #### Hogy állíthatom be a szabályokat?
 
 
           [Ebben a cikkben írunk
