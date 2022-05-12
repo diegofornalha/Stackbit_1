@@ -77,7 +77,7 @@ sections:
           árszámítási módok.`
 
 
-          ## Milyen dátumokra érvényesek a szabályok?
+          ## Milyen dátumokra lehetséges beállítani árakat és szabályokat?
 
 
           Háromféle időszak lehetséges:
