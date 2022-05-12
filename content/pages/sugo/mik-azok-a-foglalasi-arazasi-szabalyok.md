@@ -97,7 +97,7 @@ sections:
 
           Hosszabb **egybefüggő időszak** (pl.: főszezon, utószezon), ami
           **felülírja az alapértelmezett beállításokat** a megadott dátumok
-          között
+          között.
 
 
           #### Kiemelt időszak
