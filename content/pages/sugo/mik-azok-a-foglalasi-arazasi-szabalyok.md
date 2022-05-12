@@ -80,7 +80,7 @@ sections:
           ## Milyen dátumokra lehetséges beállítani árakat és szabályokat?
 
 
-          Háromféle időszak lehetséges:
+          Háromféle beállítás lehetséges:
 
 
           #### Alapértelmezett árak és szabályok
@@ -95,9 +95,8 @@ sections:
           #### Szezon
 
 
-          Hosszabb **egybefüggő időszak** (pl.: főszezon, utószezon), ami
-          **felülírja az alapértelmezett beállításokat** a megadott dátumok
-          között.
+          **Egybefüggő időszak** (pl.: főszezon, utószezon), ami **felülírja az
+          alapértelmezett beállításokat** a megadott dátumok között.
 
 
           #### Kiemelt időszak
@@ -106,7 +105,7 @@ sections:
           Egyenként megadható éjszakák árazása. **Lehet nem egybefüggő is**
           (pl.: egyszerre megadható egy kiemelt ár augusztus 20. környékére és
           karácsonyra). A **szezont és az alapértelmezett árat is felülírja** a
-          megadott dátumokra.
+          megadott éjszakákra.
 
 
           #### Példa
