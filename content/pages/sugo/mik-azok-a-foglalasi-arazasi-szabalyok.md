@@ -103,8 +103,8 @@ sections:
           #### Kiemelt időszak
 
 
-          Ünnepek, hosszú hétvégék beállítása. **Lehet nem egybefüggő is** (pl.:
-          egyszerre megadható egy kiemelt ár augusztus 20 környékére és
+          Egyenként megadható éjszakák árazása. **Lehet nem egybefüggő is**
+          (pl.: egyszerre megadható egy kiemelt ár augusztus 20. környékére és
           karácsonyra). A **szezont és az alapértelmezett árat is felülírja** a
           megadott dátumokra.
 
