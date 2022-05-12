@@ -32,6 +32,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: flex-start
+    subtitle: 'Jelenleg nem támogatjuk a beágyazhatóságot, '
   - type: FeaturedItemsSection
     colors: colors-a
     subtitle: ''
