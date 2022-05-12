@@ -117,7 +117,7 @@ sections:
           hétvégére megadni egy kiemelt árat, ami eltér a szezon árától.
 
 
-          *   hozzáadsz egy szezont például június 1. és szeptember 15. között,
+          *   hozzáadsz egy szezont például június 1. és augusztus 31. között,
           és megadsz egy árat
 
 
