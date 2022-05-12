@@ -155,12 +155,12 @@ sections:
           automatikusan életbe fog lépni a megadott dátumok elérkeztével.
 
 
-          ### Kiemelt időszak hozzáadása
+          ### Kiemelt éjszakák hozzáadása
 
 
-          `A kiemelt időszak ünnepek, hosszú hétvégék beállítására alkalmas.
-          Lehet nem egybefüggő is (pl.: egyszerre megadható egy kiemelt ár
-          augusztus 20 környékére és karácsonyra). A szezont és az
+          `A kiemelt éjszakák funkció ünnepek, hosszú hétvégék beállítására
+          alkalmas. Lehet nem egybefüggő is (pl.: egyszerre megadható egy
+          kiemelt ár augusztus 20 környékére és karácsonyra). A szezont és az
           alapértelmezett árakat is felülírja a megadott dátumokra.`
 
 
