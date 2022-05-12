@@ -98,14 +98,14 @@ sections:
           #### 2. Árak beállítása
 
 
-          A következő fülre navigálva lakóegységenként állíthatod be az árakat.
+          A következő fülre navigálva lakóegységenként állíthatja be az árakat.
 
 
           ##### Ársávok létszám alapján
 
 
           Bizonyos vendégszámok között megadhatóak külön árak. A bal oldalon
-          található két legördülő menüvel tudod megadni az ársávokat vendégszám
+          található két legördülő menüvel tudja megadni az ársávokat vendégszám
           szerint. Az utolsó sáv felső határa a "Max főig" opcióval adható meg.
           A "Minden további vendég" opció esetén egy egységáron számítódik a
           megadott vendégszám felett.
@@ -128,7 +128,7 @@ sections:
           #### 3. Foglalási szabályok beállítása
 
 
-          A Foglalási szabályok fülre navigálva megadhatsz az összes
+          A Foglalási szabályok fülre navigálva megadhatja az összes
           lakóegységedre vonatkozó és a korábban megadott dátumok között
           érvényes szabályokat:
 
@@ -171,15 +171,15 @@ sections:
           #### 1. Dátum megadása
 
 
-          A kiemelt időszak lehet nem egybefüggő időszak, így a napok egyenként
-          jelölendők be.
+          A kiemelt időszak lehet nem egybefüggő időszak, így az éjszakák
+          egyenként jelölendők be.
 
 
           #### 2. Árak és elérhetőség beállítása
 
 
-          A következő lépésben lakóegységenként állíthatod be az árakat. A
-          következő elemek megadására van lehetőség
+          A következő lépésben lakóegységenként állíthatja be az árakat. A
+          következő elemek megadására van lehetőség:
 
 
           *   árszámítás módja
@@ -194,7 +194,7 @@ sections:
           #### 3. Foglalási szabályok beállítása
 
 
-          A foglalási szabályok fülre navigálva megadhatsz az összes
+          A foglalási szabályok fülre navigálva megadhatja az összes
           lakóegységedre vonatkozó és a korábban megadott dátumok között
           érvényes szabályokat:
 
