@@ -35,7 +35,7 @@ sections:
     subtitle: >-
       Jelenleg hivatalosan nem támogatjuk a beágyazhatóságot, viszont a gyakori
       kéréseknek megfelelően megmutatjuk, hogy jelenleg hogy néz ki a megoldás
-      beágyzva.
+      beágyazva.
   - type: FeaturedItemsSection
     colors: colors-a
     subtitle: ''
