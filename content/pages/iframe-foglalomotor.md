@@ -33,8 +33,9 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: >-
-      Jelenleg nem támogatjuk a beágyazhatóságot, viszont a gyakori kéréseknek
-      megfelelően megmutatjuk, hogy jelenleg hogy néz ki a megoldás beágyzva.
+      Jelenleg hivatalosan nem támogatjuk a beágyazhatóságot, viszont a gyakori
+      kéréseknek megfelelően megmutatjuk, hogy jelenleg hogy néz ki a megoldás
+      beágyzva.
   - type: FeaturedItemsSection
     colors: colors-a
     subtitle: ''
