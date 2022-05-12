@@ -83,8 +83,8 @@ sections:
           felülírja az alapértelmezett beállításokat a megadott dátumok között.`
 
 
-          *Szálláshely > Legördülő menü > Szabályok > Új időszak > Szezon
-          hozzáadása*
+          *Szálláshely > Legördülő menü > Árazás és foglalási szabályok > Új
+          időszak > Szezon hozzáadása*
 
 
           #### 1. Dátum és megnevezés megadása
@@ -145,6 +145,9 @@ sections:
           *   érkezési napok
 
 
+          *   távozási napok
+
+
           #### 4. Mentés
 
 
@@ -203,6 +206,12 @@ sections:
 
 
           *   maximum foglalható éjszakák
+
+
+          *   érkezési napok
+
+
+          *   távozási napok
 
 
           #### 4. Mentés
