@@ -112,18 +112,21 @@ sections:
           #### Példa
 
 
-          Adott egy alapértelmezett ár, amit a regisztrációnál megadtál.
-          Szeretnéd nyárra felemelni az árat, illetve az augusztus 20-i
-          hétvégére megadni egy kiemelt árat, ami eltér a szezon árától.
+          Szeretné nyárra felemelni az árat, illetve az augusztus 20-i hétvégére
+          megadni egy kiemelt árat, ami eltér a szezon árától.
 
 
-          *   hozzáadsz egy szezont például június 1. és augusztus 31. között,
-          és megadsz egy árat
+          *   van egy alapértelmezett ár, amit a regisztrációnál megadott (zöld)
 
 
-          *   hozzáadsz egy kiemelt időszakot egy a szezonnál magasabb árral
+          *   hozzáad egy szezont például június 1. és augusztus 31. között, és
+          megad egy árat, ami automatikusan érvénybe lép a megadott dátumok
+          között (kék)
+
+
+          *   hozzáad néhány kiemelt éjszakát egy a szezonnál magasabb árral
           augusztus 20. és 22. között, ami automatikusan felülírja a szezon
-          árait.
+          árait (lila)
 
 
           ![](/images/appartman-online-foglalasi-rendszer-szezonalis-arazas.png)
