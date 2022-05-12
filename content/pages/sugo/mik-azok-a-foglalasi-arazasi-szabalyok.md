@@ -168,15 +168,6 @@ sections:
           bevitt foglalások
 
 
-          #### Kapacitás
-
-
-          ###### hamarosan
-
-
-          Adott időszakra lezárhatók a lakóegységek
-
-
           ### Árazási szabályok
 
 
