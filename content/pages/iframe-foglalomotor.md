@@ -32,40 +32,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-a
-    backgroundImage: null
-    actions:
-      - type: Button
-        label: Vissza a Segítség oldalra
-        showIcon: true
-        icon: arrowLeft
-        url: /sugo
-        style: link
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-4
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: CtaSection
   - type: FeaturedItemsSection
     colors: colors-a
     subtitle: ''
