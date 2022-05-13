@@ -100,6 +100,8 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
 
+          
+
 
           #### Foglalási rendszer beillesztése egy kattintható gombbal
 
