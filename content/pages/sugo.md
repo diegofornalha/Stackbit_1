@@ -85,17 +85,6 @@ sections:
           [Foglalás bevitele és törlése](/sugo/foglalas-bevitele-es-torlese)
 
 
-          [Foglalási link megosztása](/sugo/foglalasi-link-megosztasa)
-
-
-          [Foglalási rendszer beillesztése Webnode
-          weboldalba](/sugo/foglalasi-rendszer-beillesztese-webnode-weboldalba-foglalasi-linkkel/)
-
-
-          [Foglalási rendszer beillesztése Google Cégem
-          weboldalba](/sugo/foglalasi-rendszer-beillesztese-google-cegem-weboldalba/)
-
-
           [Foglalás visszaigazolás és foglalási email
           beállítások](/sugo/foglalas-visszaigazolas-es-foglalasi-email-beallitasok/)
         featuredImage: null
