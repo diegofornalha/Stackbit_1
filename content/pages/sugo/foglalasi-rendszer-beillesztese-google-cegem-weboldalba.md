@@ -101,7 +101,6 @@ sections:
 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/KioPf5BVf2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
           A Google Cégem rendszerű weboldalakba csak kattintható szövegként
           lehetséges beilleszteni az Appartman foglalási rendszer foglalási
           linkjét.
