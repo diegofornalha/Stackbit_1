@@ -110,10 +110,20 @@ sections:
         elementId: ''
         title: Foglalási rendszer beillesztése
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          [Foglalási link megosztása](/sugo/foglalasi-link-megosztasa)
+
+
+          [Foglalási rendszer beillesztése Webnode
+          weboldalba](/sugo/foglalasi-rendszer-beillesztese-webnode-weboldalba-foglalasi-linkkel/)
+
+
+          [Foglalási rendszer beillesztése Google Cégem
+          weboldalba](/sugo/foglalasi-rendszer-beillesztese-google-cegem-weboldalba/)
+
+
+          [Foglalás visszaigazolás és foglalási email
+          beállítások](/sugo/foglalas-visszaigazolas-es-foglalasi-email-beallitasok/)
         author: ''
         rating: 1
         isRatingVisible: false
