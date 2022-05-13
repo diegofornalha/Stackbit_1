@@ -44,7 +44,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Szálláshely és lakóegységek
-        text: >+
+        text: >
           [Szálláshely létrehozása, árak és foglalási szabályok
           beálltása](/sugo/szallashely-letrehozasa-arak-es-foglalasi-szabalyok-beallitasa/)
 
@@ -67,9 +67,8 @@ sections:
           törlése](/sugo/kepek-hozzaadasa-szerkesztese-es-torlese/)
 
 
-          [Extra szolgaltatsok
-          hozzaadasa](/sugo/extra-szolgaltatasok-hozaadasa/)
-
+          [Extra szolgáltatások
+          hozzáadása](/sugo/extra-szolgaltatasok-hozaadasa/)
         featuredImage: null
         styles:
           title:
