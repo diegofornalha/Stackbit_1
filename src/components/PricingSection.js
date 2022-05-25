@@ -206,6 +206,9 @@ class Pricing extends React.Component {
                                             Ingyenes
                                         </span>
                                     </div>
+                                                                        <div className='sb-markdown text-left mt-4'>
+                                        <p>A jutalék a foglalási rendszeren megvalósult foglalásokra vonatkozik</p>
+                                    </div>
                                 </div>
                                 <div className='pricing-item-features'>
                                     <ul className='pricing-item-features-list'>
