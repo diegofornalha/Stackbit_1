@@ -377,9 +377,6 @@ input[type="range"]::-moz-focus-outer {
 }
 
 
-.pricing-item ~ .pricing-item {
-display: none;
-}
 
 article {
     margin-top: 32px;
