@@ -211,7 +211,6 @@ class Pricing extends React.Component {
                                     <ul className='pricing-item-features-list'>
                                         <li className='is-checked'>Foglaltsági naptár</li>
                                         <li className='is-checked'>Admin felület</li>
-                                        <li className='is-checked'>Testreszabható automatikus emailek</li>
                                         <li className='is-checked'>Képek feltöltése</li>
                                         <li className='is-checked'>
                                             Mobilbarát és modern kialakítás
