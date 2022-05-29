@@ -113,9 +113,8 @@ sections:
           weboldalba](/sugo/foglalasi-rendszer-beillesztese-webnode-weboldalba-foglalasi-linkkel/)
 
 
-          Foglalási link beillesztése Google Cégem weboldalba
-
-
+          [Foglalási link beillesztése Google Cégem
+          weboldalba](https://appartman.hu/sugo/foglalasi-rendszer-beillesztese-google-cegem-weboldalba/)
 
 
           #### Facebook oldal, poszt, vagy hirdetés
@@ -130,7 +129,6 @@ sections:
 
           Ha valaki Google-ben, vagy Google Térképeken talál a szálláshelyére,
           rögtön le tudja foglalni.
-
         featuredImage: null
         styles:
           title:
