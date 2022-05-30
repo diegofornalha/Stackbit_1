@@ -179,7 +179,7 @@
             {
                 "type": "Link",
                 "label": "Adatfeldolgozók listája",
-                "altText": "Learn more",
+                "altText": "adatfeldolgozók listája",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
