@@ -158,11 +158,6 @@
         "legalLinks": [
             {
                 "type": "Link",
-                "label": "Adatkezelési nyilatkozat",
-                "url": "/adatkezelesi-nyilatkozat"
-            },
-            {
-                "type": "Link",
                 "label": "ÁSZF",
                 "altText": "általános szerződési feltételek",
                 "url": "/Appartman-ASZF.pdf",
