@@ -170,7 +170,7 @@
                 "type": "Link",
                 "label": "Adatkezelési nyilatkozat",
                 "altText": "adatkezelési nyilatkozat",
-                "url": "/adatkezelesi-nyilatkozat.pdf",
+                "url": "/adatkezelesi-tajekoztato.pdf",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
