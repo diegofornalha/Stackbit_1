@@ -178,7 +178,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Adatfeldolgozók listája",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
