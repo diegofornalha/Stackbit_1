@@ -168,7 +168,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Adatkezelési nyilatkozat",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
