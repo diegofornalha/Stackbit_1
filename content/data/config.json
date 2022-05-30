@@ -169,7 +169,7 @@
             {
                 "type": "Link",
                 "label": "Adatkezelési nyilatkozat",
-                "altText": "Learn more",
+                "altText": "adatkezelési nyilatkozat",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
