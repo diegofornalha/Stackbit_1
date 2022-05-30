@@ -164,7 +164,7 @@
             {
                 "type": "Link",
                 "label": "ÁSZF",
-                "altText": "Learn more",
+                "altText": "általános szerződési feltételek",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
