@@ -47,6 +47,8 @@ sections:
           video player" frameborder="0" scrolling="no" onload="resizeIframe(YouTube video player) allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe> </div>
+
+          <iframe src="http://URL_HERE.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
         featuredImage: null
         styles:
           title:
