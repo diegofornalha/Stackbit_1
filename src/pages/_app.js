@@ -11,11 +11,7 @@ export default function MyApp({ Component, pageProps }) {
             </Head>
     
                 <Script>
-                var iframe = document.getElementById("myFrame");
-                
-                iframe.onload = function(){
-                    iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-                }
+
                 </Script>
                 <Script id="gtm-script" strategy="lazyOnload">
                     {`(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
