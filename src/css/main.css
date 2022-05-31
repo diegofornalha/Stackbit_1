@@ -162,7 +162,7 @@ img {
    left: 0;
    position: absolute;
    top: 0;
-   width: 320px;
+   width: 100%;
    min-width: 320px;
 
 }
