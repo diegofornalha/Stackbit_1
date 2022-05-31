@@ -32,7 +32,7 @@
             {
                 "type": "Link",
                 "label": "Áraink",
-                "altText": "Learn more",
+                "altText": "Araink",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
