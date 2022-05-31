@@ -23,7 +23,7 @@ export default function MyApp({ Component, pageProps }) {
                         resizeIFrameToFitContent( iFrame );
                         }
                     } );
-                    
+                </Script>
 
                 <Script id="gtm-script" strategy="lazyOnload">
                     {`(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
