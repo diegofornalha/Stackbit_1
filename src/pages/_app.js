@@ -9,6 +9,17 @@ export default function MyApp({ Component, pageProps }) {
             <Head>
                 <link rel="icon" href="/favicon.png" />
             </Head>
+                    <iframe src="demo.php" id="myIframe"></iframe>
+    
+    <script>
+    // Selecting the iframe element
+    var iframe = document.getElementById("myIframe");
+    
+    // Adjusting the iframe height onload event
+    iframe.onload = function(){
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    </script>
                 <Script id="gtm-script" strategy="lazyOnload">
                     {`(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
                                     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
