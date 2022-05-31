@@ -10,9 +10,9 @@ export default function MyApp({ Component, pageProps }) {
                 <link rel="icon" href="/favicon.png" />
             </Head>
                 <script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-  }
+                    function resizeIframe(obj) {
+                    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+                    }
                 </script>
 
                 <Script id="gtm-script" strategy="lazyOnload">
