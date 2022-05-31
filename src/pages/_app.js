@@ -11,7 +11,7 @@ export default function MyApp({ Component, pageProps }) {
             </Head>
                 <Script>
                     function resizeIframe(obj) {
-                    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+                    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + '2px';
                     }
                 </Script>
                 <Script id="gtm-script" strategy="lazyOnload">
