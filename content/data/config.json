@@ -33,7 +33,7 @@
                 "type": "Link",
                 "label": "Áraink",
                 "altText": "Araink",
-                "url": "/",
+                "url": "/araink",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
