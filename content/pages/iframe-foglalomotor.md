@@ -48,7 +48,7 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe> </div>
 
-          <iframe src="https://staging-foglalas.appartman.hu/minta-appartman" id="iFrame1"></iframe>
+          <iframe src="https://staging-foglalas.appartman.hu/minta-appartman" id="myFrame"></iframe>
 
         featuredImage: null
         styles:
