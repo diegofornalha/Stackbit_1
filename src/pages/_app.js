@@ -19,8 +19,9 @@ export default function MyApp({ Component, pageProps }) {
 
                     window.addEventListener('DOMContentLoaded', function(e) {
 
-                        var iFrame = document.getElementById( 'iFrame1' );
-                        resizeIFrameToFitContent( iFrame );
+                            var iframes = document.querySelectorAll("iframe");
+    for( var i = 0; i < iframes.length; i++) {
+        resizeIFrameToFitContent( iframes[i] );
                         }
                     } );
                 </Script>
