@@ -44,7 +44,7 @@ sections:
         text: >-
           <div class="container"> <iframe width="100%" height="750"
           src="https://staging-foglalas.appartman.hu/minta-appartman" title="YouTube
-          video player" frameborder="0" "scrolling=no" allow="accelerometer; autoplay;
+          video player" frameborder="0" scrolling=no" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe> </div>
         featuredImage: null
