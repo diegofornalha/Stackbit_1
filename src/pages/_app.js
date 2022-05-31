@@ -11,7 +11,7 @@ export default function MyApp({ Component, pageProps }) {
             </Head>
                 <Script>
                     function resizeIframe (obj) {
-                        
+                        obj
                     }
                 </Script>
                 <Script id="gtm-script" strategy="lazyOnload">
