@@ -155,7 +155,7 @@ img {
   /* 16:9 aspect ratio */
   padding-top: 86.25%;
   position: relative;
-  min-width: 320px
+  min-width: 320px;
 }
 .iframe-container iframe {
    border: 0;
