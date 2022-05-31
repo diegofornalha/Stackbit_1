@@ -10,7 +10,7 @@ export default function MyApp({ Component, pageProps }) {
                 <link rel="icon" href="/favicon.png" />
             </Head>
                 <Script>
-                    function resizeIframe (obj) {
+                    function resizeIframe (Object) {
                         Object
                     }
                 </Script>
