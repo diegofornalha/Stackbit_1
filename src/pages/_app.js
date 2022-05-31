@@ -9,7 +9,6 @@ export default function MyApp({ Component, pageProps }) {
             <Head>
                 <link rel="icon" href="/favicon.png" />
             </Head>
-                    <iframe src="demo.php" id="myIframe"></iframe>
     
                 <Script>
                 var iframe = document.getElementById("myIframe");
