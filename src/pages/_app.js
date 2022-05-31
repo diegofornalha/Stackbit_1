@@ -9,22 +9,6 @@ export default function MyApp({ Component, pageProps }) {
             <Head>
                 <link rel="icon" href="/favicon.png" />
             </Head>
-                <Script type="application/javascript">
-
-                    function resizeIFrameToFitContent( iFrame ) {
-
-                        iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
-                        iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
-                    }
-
-                    window.addEventListener('DOMContentLoaded', function(e) {
-
-                            var iframes = document.querySelectorAll("iframe");
-                            or( var i = 0; i < iframes.length; i++) {
-                            resizeIFrameToFitContent( iframes[i] );
-                            }
-                    } );
-                </Script>
 
                 <Script id="gtm-script" strategy="lazyOnload">
                     {`(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
