@@ -22,7 +22,7 @@ export default function MyApp({ Component, pageProps }) {
                             var iframes = document.querySelectorAll("iframe");
                             or( var i = 0; i < iframes.length; i++) {
                             resizeIFrameToFitContent( iframes[i] );
-                        }
+                            }
                     } );
                 </Script>
 
