@@ -9,7 +9,7 @@ export default function MyApp({ Component, pageProps }) {
             <Head>
                 <link rel="icon" href="/favicon.png" />
             </Head>
-                    <script>
+                    <Script>
         // Selecting the iframe element
         var frame = document.getElementById("Iframe");
           
