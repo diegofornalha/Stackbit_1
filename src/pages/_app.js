@@ -16,7 +16,7 @@ export default function MyApp({ Component, pageProps }) {
                     
                     {/* // Adjusting the iframe height onload event */}
                     frame.onload = function()
-                    // function execute while load the iframe
+
                     {
                     // set the height of the iframe as 
                     // the height of the iframe content
