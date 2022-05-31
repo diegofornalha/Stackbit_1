@@ -11,13 +11,13 @@ export default function MyApp({ Component, pageProps }) {
             </Head>
                     <iframe src="demo.php" id="myIframe"></iframe>
     
-    <Script>
-    var iframe = document.getElementById("myIframe");
-    
-    iframe.onload = function(){
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
-    </Script>
+                <Script>
+                var iframe = document.getElementById("myIframe");
+                
+                iframe.onload = function(){
+                    iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+                }
+                </Script>
                 <Script id="gtm-script" strategy="lazyOnload">
                     {`(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
                                     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
