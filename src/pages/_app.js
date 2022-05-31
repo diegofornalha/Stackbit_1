@@ -9,27 +9,27 @@ export default function MyApp({ Component, pageProps }) {
             <Head>
                 <link rel="icon" href="/favicon.png" />
             </Head>
-                    <Script>
-                    // Selecting the iframe element
-                    var frame = document.getElementById("Iframe");
+                <Script>
+                // Selecting the iframe element
+                var frame = document.getElementById("Iframe");
+                
+                // Adjusting the iframe height onload event
+                frame.onload = function()
+                // function execute while load the iframe
+                {
+                // set the height of the iframe as 
+                // the height of the iframe content
+                frame.style.height = 
+                frame.contentWindow.document.body.scrollHeight + 'px';
+                
+        
+                // set the width of the iframe as the 
+                // width of the iframe content
+                frame.style.width  = 
+                frame.contentWindow.document.body.scrollWidth+'px';
                     
-                    // Adjusting the iframe height onload event
-                    frame.onload = function()
-                    // function execute while load the iframe
-                    {
-                    // set the height of the iframe as 
-                    // the height of the iframe content
-                    frame.style.height = 
-                    frame.contentWindow.document.body.scrollHeight + 'px';
-                    
-            
-                    // set the width of the iframe as the 
-                    // width of the iframe content
-                    frame.style.width  = 
-                    frame.contentWindow.document.body.scrollWidth+'px';
-                        
-                    }
-                    </Script>
+                }
+                </Script>
                 <Script id="gtm-script" strategy="lazyOnload">
                     {`(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
                                     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
