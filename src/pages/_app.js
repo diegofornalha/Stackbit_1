@@ -10,7 +10,9 @@ export default function MyApp({ Component, pageProps }) {
                 <link rel="icon" href="/favicon.png" />
             </Head>
                 <Script>
-                    function resizeIframe (obj) 
+                    function resizeIframe (obj) {
+                        
+                    }
                 </Script>
                 <Script id="gtm-script" strategy="lazyOnload">
                     {`(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
