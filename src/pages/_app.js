@@ -9,7 +9,7 @@ export default function MyApp({ Component, pageProps }) {
             <Head>
                 <link rel="icon" href="/favicon.png" />
             </Head>
-                <script>
+                <Script>
                     function resizeIframe(obj) {
                     obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
                     }
