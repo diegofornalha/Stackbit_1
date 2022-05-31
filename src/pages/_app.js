@@ -13,7 +13,7 @@ export default function MyApp({ Component, pageProps }) {
                 // Selecting the iframe element
                 var frame = document.getElementById("Iframe");
                 
-                // Adjusting the iframe height onload event
+                {/* // Adjusting the iframe height onload event */}
                 frame.onload = function()
                 // function execute while load the iframe
                 {
