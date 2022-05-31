@@ -24,8 +24,7 @@ export default function MyApp({ Component, pageProps }) {
         
                 // set the width of the iframe as the 
                 // width of the iframe content
-                frame.style.width  = 
-                frame.contentWindow.document.body.scrollWidth+'1px';
+                frame.style.width  = frame.contentWindow.document.body.scrollWidth+'1px';
                     
                 }
                 </Script>
