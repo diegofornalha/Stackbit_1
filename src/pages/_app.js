@@ -12,7 +12,6 @@ export default function MyApp({ Component, pageProps }) {
                     <iframe src="demo.php" id="myIframe"></iframe>
     
     <Script>
-    // Selecting the iframe element
     var iframe = document.getElementById("myIframe");
     
     // Adjusting the iframe height onload event
