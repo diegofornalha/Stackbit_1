@@ -164,6 +164,8 @@ img {
    position: absolute;
    top: 0;
    width: 100%;
+   min-width: 320px;
+   
 }
 
 /* toggle */
