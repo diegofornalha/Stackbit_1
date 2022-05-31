@@ -15,7 +15,7 @@ export default function MyApp({ Component, pageProps }) {
 
                         iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
                         iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
-                    }
+                    
 
                     window.addEventListener('DOMContentLoaded', function(e) {
 
