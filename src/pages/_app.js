@@ -9,7 +9,7 @@ export default function MyApp({ Component, pageProps }) {
             <Head>
                 <link rel="icon" href="/favicon.png" />
             </Head>
-                <script type="application/javascript">
+                <Script type="application/javascript">
 
 function resizeIFrameToFitContent( iFrame ) {
 
