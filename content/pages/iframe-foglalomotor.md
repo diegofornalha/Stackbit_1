@@ -48,6 +48,8 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe> </div>
 
+          <iframe src="usagelogs/default.aspx" id="iFrame1"></iframe>
+
         featuredImage: null
         styles:
           title:
