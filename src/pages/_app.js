@@ -11,7 +11,7 @@ export default function MyApp({ Component, pageProps }) {
             </Head>
     
                 <Script>
-                var iframe = document.getElementById("myIframe");
+                var iframe = document.getElementById("myFrame");
                 
                 iframe.onload = function(){
                     iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
