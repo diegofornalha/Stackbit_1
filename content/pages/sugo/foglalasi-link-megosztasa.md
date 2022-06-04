@@ -1,7 +1,5 @@
 ---
-title: >-
-  Foglalási link másolása és beillesztése weboldalba, vagy közösségi médiába |
-  Appartman
+title: 'Foglalási felület beillesztése weboldalba, vagy közösségi médiába | Appartman'
 sections:
   - type: HeroSection
     colors: colors-h
