@@ -99,7 +99,8 @@ sections:
         title: Foglalási rendszer beillesztése
         subtitle: ''
         text: >
-          [Foglalási link megosztása](/sugo/foglalasi-link-megosztasa)
+          [Hogyan illeszthető be a foglalási rendszer?
+          ](/sugo/foglalasi-link-megosztasa)
 
 
           [Foglalási rendszer beillesztése Webnode
