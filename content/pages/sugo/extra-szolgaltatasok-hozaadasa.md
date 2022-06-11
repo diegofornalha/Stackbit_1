@@ -4,7 +4,7 @@ title: Extra szolgáltatások hozzaádása
 sections:
   - type: HeroSection
     colors: colors-h
-    title: 'MiazaziCalnaptárszinkron,éshogyműködik'
+    title: 'Mi az az iCal naptár szinkron ,éshogyműködik'
     styles:
       self:
         height: auto
