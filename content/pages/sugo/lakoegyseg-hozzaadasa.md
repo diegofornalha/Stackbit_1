@@ -82,7 +82,7 @@ sections:
           *Főoldal > Szobák > Új lakóegység*
 
 
-          #### Videón is megtekintheted, hogy hogy lehet létrehozni egy
+          ##### Videón is megtekintheted, hogy hogy lehet létrehozni egy
           lakóegységet az Appartmanban.
 
 
