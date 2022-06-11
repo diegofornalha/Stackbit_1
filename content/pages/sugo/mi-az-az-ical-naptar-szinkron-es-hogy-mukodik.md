@@ -4,7 +4,7 @@ title: Extra szolgáltatások hozzaádása
 sections:
   - type: HeroSection
     colors: colors-h
-    title: MiazaziCal
+    title: MiazaziCalnaptarszinkronéshogyműködik?
     styles:
       self:
         height: auto
