@@ -93,6 +93,14 @@ sections:
           az összes többi naptár linkjét, hogy tudjanak kommunikálni egymással.
 
 
+          ![](/images/ical-naptar-szinkron-appartman-szallas.hu-booking-airbnb.png)
+
+
+          > Az ábrán látszik, hogy mivel a Booking és Szallas.hu nem
+          rendelkeznek egymás naptárjainak linkjeivel, így nem tudnak min
+          keresztül kommunikálni egymással.
+
+
           #### Naptár szinkron beállítása
 
 
