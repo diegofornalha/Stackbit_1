@@ -81,6 +81,14 @@ sections:
 
           *Főoldal > Szobák > Új lakóegység*
 
+          Videón is megtekintheted, hogy hogy lehet létrehozni egy lakóegységet az Appartmanban.
+
+                    <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/9OF0eGFMHqc" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+
 
           ### 1. Lakóegység adatok megadása
 
