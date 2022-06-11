@@ -72,16 +72,6 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ```
-
-          Az iCal naptár szinkronnal könnyedén összehangolhatod az Appartman
-          naptárát a szállásközvetítő oldalakéival (Szallas.hu, Booking.com,
-          Airbnb). A naptár szinkron nagy segítség et nyújt a túlfoglalás
-          elkerülésében.
-
-          ```
-
-
           ### Hogy kell összekapcsolni a naptárakat?
 
 
