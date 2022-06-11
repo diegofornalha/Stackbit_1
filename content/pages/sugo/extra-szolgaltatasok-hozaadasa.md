@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: 'Képek hozzáadása, szerkesztése és törlése | Appartman'
+title: Extra szolgáltatások hozzaádása
 sections:
   - type: HeroSection
     colors: colors-h
