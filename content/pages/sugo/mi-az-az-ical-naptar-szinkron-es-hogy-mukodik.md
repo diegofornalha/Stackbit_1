@@ -93,7 +93,7 @@ sections:
           az összes többi naptár linkjét, hogy tudjanak kommunikálni egymással.
 
 
-          Naptár szinkron beállítása
+          #### Naptár szinkron beállítása
 
 
           *   Szallas.hu-n
