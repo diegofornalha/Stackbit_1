@@ -93,8 +93,16 @@ sections:
           az összes többi naptár linkjét, hogy tudjanak kommunikálni egymással.
 
 
-          Itt tudsz róla olvasni, hogy pontosan hogy kell összekötni a
-          naptárakat közvetítő oldalanként.
+          Naptár szinkron beállítása
+
+
+          *   Szallas.hu-n
+
+
+          *   Bookingon
+
+
+          *   Airbnb-n
 
 
           ### Milyen gyakran frissül az iCal naptár szinkron?
