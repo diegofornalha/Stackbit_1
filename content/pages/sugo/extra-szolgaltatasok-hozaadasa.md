@@ -4,7 +4,7 @@ title: Extra szolgáltatások hozzaádása
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Extra szolgáltatások hozzáadása
+    title: 'MiazaziCalnaptárszinkron,éshogyműködik'
     styles:
       self:
         height: auto
