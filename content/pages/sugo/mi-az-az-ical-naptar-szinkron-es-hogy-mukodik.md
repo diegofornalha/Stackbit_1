@@ -72,119 +72,47 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          ## Hogy működnek az extra szolgáltatások az Appartmanban?
+          Az iCal naptár szinkronnal könnyedén összehangolhatod az Appartman
+          naptárát a szállásközvetítő oldalakéival
+          ([Szallas.hu](http://Szallas.hu), [Booking.com](http://Booking.com),
+          Airbnb). A naptár szinkron nagy segítség et nyújt a túlfoglalás
+          elkerülésében.
 
 
-          A szállásadó megadja az extra szolgáltatások fő jellemzőit az admin
-          felületen (Beállítások).
+          ### Hogy kell összekapcsolni a naptárakat?
 
 
-          1.  A foglalók a foglalási folyamat részeként hozzáadhatják a
-          tetszőleges extra szolgáltatásokat a foglalásukhoz.
-              Kötelező szolgáltatás esetén a foglalónak csak tájékoztatás jelleggel jelenik meg az extra szolgáltatás. Ilyen lehet például a takarítás.
-
-          ## Extra szolgáltatás megadása
-
-
-          *Főoldal > Menü > Beállítások > Extra szolgáltatások > Új
-          szolgáltatás*
+          Az iCal esetében minden egyes lakóegységhez tartozik egy naptár minden
+          foglalási rendszeren, vagy közvetítő oldalon. Tehát ha van egy szobád,
+          és azt értékesíted az Appartman, a [Szallas.hu](http://Szallas.hu) és
+          a Booking felületén, akkor annak lesz egy naptára mindhárom
+          rendszeren.
 
 
-          ### 1. Név megadása
+          A naptárak akkor tudják egymásnak küldeni a foglalt és szabad
+          dátumokat, ha ismerik egymás linkjét. Minden naptárhoz meg kell adni
+          az összes többi naptár linkjét, hogy tudjanak kommunikálni egymással.
 
 
-          ### 2. Árszámítás alapjának megadása
+          Itt tudsz róla olvasni, hogy pontosan hogy kell összekötni a
+          naptárakat közvetítő oldalanként.
 
 
-          Mi alapján szeretnéd, hogy a szolgáltatás ára számítódjon?
+          ### Milyen gyakran frissül az iCal naptár szinkron?
 
 
-          6 típust lehet megadni, amiket példával is szemléltetünk:
+          Az Appartman és az Airbnb 5 perces frissítést garantál, a
+          [Szallas.hu](http://Szallas.hu) és a Booking esetében ez fél- és egy
+          óra közötti gyakoriságra tehető.
 
 
-          #### Foglalásonként
+          ### Milyen adatokat küld az iCal naptár szinkron?
 
 
-          Minden foglaláshoz annyi darab számítódik fel, ahányat megad a
-          foglaló.
-
-
-          kisállat foglalásonként számolva – 4 000 Ft (2 db megadása esetén 8
-          000 Ft számítódik)
-
-
-          kései távozás – 5 000 Ft (1 db megadása esetén 5 000 Ft számítódik)
-
-
-          #### Vendégéjszakánként
-
-
-          Minden vendégéjszakára annyi darab számítódik fel, ahányat megad a
-          foglaló
-
-
-          reggeli – 2 000 Ft (1 db megadása esetén minden vendég kap minden nap
-          1 reggelit)
-
-
-          #### Éjszakánként
-
-
-          Minden éjszakára annyi darab számítódik fel, ahányat megad a foglaló
-
-
-          kutya napidíjjal számolva – 2 000 Ft (2 db megadása esetén 2 kutya
-          napidíja számítódik minden éjszakára)
-
-
-          #### Lakóegységenként
-
-
-          Minden lefoglalt lakóegységre annyi darab számítódik fel, ahányat
-          megad a foglaló
-
-
-          takarítás 3 000 Ft (1 db megadása esetén minden a foglalásban szereplő
-          lakóegységre számítódik fel takarítás)
-
-
-          #### Lakóegységéjszakánként
-
-
-          Minden lakóegységéjszakára annyi darab számítódik, ahányat megad a
-          foglaló
-
-
-          klíma használat 2 000 Ft/nap/lakóegység (1 db megadása esetén minden a
-          foglalásban szereplő lakóegység minden éjszakájára számítódik fel
-          klíma használat)
-
-
-          ### 3. Egységár megadása
-
-
-          Az egységár az előzőleg megadott árszámítási alaponként fog számítódni
-          (pl.: 3 000 Ft/fő/éj)
-
-
-          ### 4. Szolgáltatás kötelezőségének megadása
-
-
-          Olyan esetekben használandó, amikor minden foglaláshoz hozzáadódik a
-          tétel, és csak tájékoztatási szerepe van. A takarítási díj tipikusan
-          ilyen, ha külön fel szeretnéd tüntetni.
-
-
-          ### 5. Több darab is hozzáadható a foglaláshoz?
-
-
-          Ha árszámítási alaponként (pl.: vendégéjszakánként, vagy
-          foglalásonként) több is megadható egy foglaláshoz akkor jelöld be a
-          jelölőnégyzetet. Az alul megjelenő beviteli mezőben megadhatod, hogy
-          van-e maximuma a megadható számnak.
-
-
-          ### 6. Mentés
+          A naptárakat szinkronizálva csak azt az információt lehet továbbítani,
+          hogy az adott lakóegység az adott dátumon foglalt, vagy szabad. Ennek
+          megfelelően nem lesznek feltüntetve a foglaláshoz kapcsolódó
+          információk, mint a foglaló neve, létszám, stb.
 
         featuredImage: null
         styles:
