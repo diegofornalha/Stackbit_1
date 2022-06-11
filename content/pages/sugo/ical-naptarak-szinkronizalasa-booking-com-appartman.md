@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: 'Mi az az iCal naptár szinkron és hogy működik? '
+title: iCal naptárak szinkronizálása Booking.com és az Appartman között
 sections:
   - type: HeroSection
     colors: colors-h
