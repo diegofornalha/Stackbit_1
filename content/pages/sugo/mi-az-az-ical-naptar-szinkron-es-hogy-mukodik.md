@@ -98,7 +98,9 @@ sections:
 
           > Az ábrázolt példán látszik, hogy mivel a Booking és Szallas.hu nem
           rendelkeznek egymás naptárjainak linkjeivel, így nem tudnak min
-          keresztül kommunikálni egymással.
+          keresztül kommunikálni egymással. A példában a Booking és a Szallas.hu
+          csak az Appartmannal tud kommunikálni, mivel csak az Appartman linkje
+          van meg nekik.
 
 
           #### Naptár szinkron beállítása
