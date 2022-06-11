@@ -4,7 +4,7 @@ title: 'Mi az az iCal naptár szinkron és hogy működik? '
 sections:
   - type: HeroSection
     colors: colors-h
-    title: MiazaziCalnaptarszinkronéshogyműködik?
+    title: Mi az az iCal naptár szinkron és hogy működik?
     styles:
       self:
         height: auto
