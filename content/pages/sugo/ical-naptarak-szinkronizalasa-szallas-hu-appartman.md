@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: 'Mi az az iCal naptár szinkron és hogy működik? '
+title: 'Naptárak szinkronizálása Szallas.hu és '
 sections:
   - type: HeroSection
     colors: colors-h
