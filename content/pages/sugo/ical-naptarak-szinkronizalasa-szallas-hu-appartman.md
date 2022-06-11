@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: 'Naptárak szinkronizálása Szallas.hu és '
+title: Naptárak szinkronizálása Szallas.hu és az Appartman között
 sections:
   - type: HeroSection
     colors: colors-h
