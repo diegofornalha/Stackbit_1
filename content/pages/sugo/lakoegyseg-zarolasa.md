@@ -3,7 +3,7 @@ title: Lakóegység zárolása | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
-    title: Lakóegység zárolása
+    title: 'Foglalás bevitele, foglalt éjszakák zárolása'
     styles:
       self:
         height: auto
