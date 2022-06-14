@@ -86,7 +86,7 @@ sections:
           #### 1. Lakóegység(ek) megadása
 
 
-          A Válaszd ki, melyik lakóegységeket szeretnéd foglalttá tenni. Érdemes
+          Válaszd ki, melyik lakóegységeket szeretnéd foglalttá tenni. Érdemes
           foglalásokban gondolkodni, hiszen így egy lemondás esetén könnyen
           törölhető a zárolás, illetve a zárolások elláthatók leírással is a
           könnyebb átláthatóság érdekében.
