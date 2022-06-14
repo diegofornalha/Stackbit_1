@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: Lakóegység zárolása | Appartman
+title: Foglalt éjszakák zárolása | Appartman
 sections:
   - type: HeroSection
     colors: colors-h
