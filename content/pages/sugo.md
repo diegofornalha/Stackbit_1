@@ -80,7 +80,8 @@ sections:
       - type: FeaturedItem
         title: Foglalások kezelése
         text: >
-          [Foglalás bevitele](/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
+          [Foglalás bevitele, foglalt éjszakák
+          zárolása](/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
 
 
           [Foglalás visszaigazolás és foglalási email
