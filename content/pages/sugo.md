@@ -80,7 +80,7 @@ sections:
       - type: FeaturedItem
         title: Foglalások kezelése
         text: >
-          [Foglalás bevitele és törlése](/sugo/foglalas-bevitele-es-torlese)
+          [Foglalás bevitele](/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
 
 
           [Foglalás visszaigazolás és foglalási email
