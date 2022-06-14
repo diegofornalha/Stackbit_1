@@ -71,49 +71,15 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          `A lakóegység zárolás egy hamarosan érkező funkciónk. A funkció
-          megérkeztéig egy foglalás bevitelével lehetséges a lakóegységek gyors
-          zárolása.`
-
-
           ### Lakóegység zárolása foglalás bevitelével
 
 
-          *Szálláshelyed > Új foglalás*
+          *Ez egy már nem létező funkciónk, *[*a friss információkért az új
+          funkciónkkal kapcsolatban látogass el
+          ide.*](/sugo/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
 
 
-          #### 1. Vendégszám megadása
-
-
-          A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
-          hol van az adott vendégszámra elegendő hely.
-
-
-          #### 2. Dátumok megadása
-
-
-          #### 3. Egyedi szobakiosztás készítése
-
-
-          Ahhoz hogy a kívánt lakóegységet tudd lezárni (ha több van a
-          szálláshelyeden) a középen található rádiógombos mezőben az “Egyedi
-          szobakiosztás” opciót kell kiválasztanod.
-
-
-          A lakóegységek kiválasztása után alul a Tovább gombbal tudsz tovább
-          menni.
-
-
-          #### 4. Vendég nevének megadása
-
-
-          Javasoljuk egy minta név megadását (Zárolt Lakóegység)
-
-
-          #### 5. Megjegyzés írása (nem kötelező)
-
-
-          #### 6. Mentés
+          ####
 
         featuredImage: null
         styles:
