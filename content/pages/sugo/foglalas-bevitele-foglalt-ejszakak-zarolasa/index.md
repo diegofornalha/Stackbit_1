@@ -72,9 +72,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          `A Zárolás funkciónkkal adhatod meg, hogy mely éjszakákat foglalták
-          már le más csatornákon (pl.: telefon, szállásközvetítő, stb.).
-          Hamarosan érkezik az iCal naptár szinkron funkciónk. A funkció
+          `Hamarosan érkezik az iCal naptár szinkron funkciónk. A funkció
           segítségével könnyedén össze lehet majd kötni az Appartman naptárát a
           szállásközvetítő oldalakéival (Airbnb, Booking és Szallas.hu).`
 
@@ -83,6 +81,10 @@ sections:
 
 
           *Szálláshelyed > Zárolás*
+
+
+          `A Zárolás funkciónkkal adhatod meg, hogy mely éjszakákat foglalták
+          már le más csatornákon (pl.: telefon, szállásközvetítő, stb.).`
 
 
           #### 1. Lakóegység(ek) megadása
