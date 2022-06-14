@@ -72,9 +72,9 @@ sections:
     items:
       - type: FeaturedItem
         text: >+
-          `A lakóegység zárolás egy hamarosan érkező funkciónk. A funkció
-          megérkeztéig egy foglalás bevitelével lehetséges a lakóegységek gyors
-          zárolása.`
+          `Hamarosan érkezik az iCal naptár szinkron funkciónk. A funkció
+          segítségével könnyedén össze lehet majd kötni az Appartman naptárát a
+          szállásközvetítő oldalakéival (Airbnb, Booking és Szallas.hu).`
 
 
           ### Lakóegység zárolása foglalás bevitelével
@@ -111,7 +111,7 @@ sections:
           Javasoljuk egy minta név megadását (Zárolt Lakóegység)
 
 
-          #### 5. Megjegyzés írása (nem kötelező)
+          #### 5. Leírás (nem kötelező)
 
 
           #### 6. Mentés
