@@ -78,7 +78,7 @@ sections:
             textAlign: left
         actions: []
       - type: FeaturedItem
-        title: Foglalások kezelése
+        title: Foglalások és naptár kezelése
         text: >
           [Foglalás bevitele, foglalt éjszakák
           zárolása](/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
