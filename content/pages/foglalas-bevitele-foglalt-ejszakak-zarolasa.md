@@ -77,7 +77,7 @@ sections:
           szállásközvetítő oldalakéival (Airbnb, Booking és Szallas.hu).`
 
 
-          ### LaFoglalt éjszakák zárolása, vagy foglalás bevitele
+          ### Foglalt éjszakák zárolása, vagy foglalás bevitele
 
 
           *Szálláshelyed > Zárolás*
@@ -92,31 +92,20 @@ sections:
           könnyebb átláthatóság érdekében.
 
 
-          #### 2. Dátumok megadása
+          #### 2. Éjszakák megadása
 
 
-          #### 3. Egyedi szobakiosztás készítése
-
-
-          Ahhoz hogy a kívánt lakóegységet tudd lezárni (ha több van a
-          szálláshelyeden) a középen található rádiógombos mezőben az “Egyedi
-          szobakiosztás” opciót kell kiválasztanod.
-
-
-          A lakóegységek kiválasztása után alul a Tovább gombbal tudsz tovább
-          menni.
-
-
-          #### 4. Vendég nevének megadása
-
-
-          Javasoljuk egy minta név megadását (Zárolt Lakóegység)
+          Add meg, mely **éjszakákon** szeretnéd foglalttá tenni az előbb
+          kiválasztott lakóegységeket. Fontos, hogy nem érkezési-távozási
+          dátumokról van szó, hanem éjszakákról. Azaz, ha egy szobába 18-án
+          érkeznek, és 19-án távoznak, akkor csak a 18-át kell bejelölni, hiszen
+          az az éjszaka foglalt.
 
 
           #### 5. Leírás (nem kötelező)
 
 
-          #### 6. Mentés
+          #### 6. Zárolás
 
         featuredImage: null
         styles:
