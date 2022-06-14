@@ -70,17 +70,13 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### Lakóegység zárolása foglalás bevitelével
 
 
-          *Ez egy már nem létező funkciónk, *[*a friss információkért az új
+          \*Ez egy már nem létező funkciónk, \*[*a friss információkért az új
           funkciónkkal kapcsolatban látogass el
           ide.*](/sugo/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
-
-
-          ####
-
         featuredImage: null
         styles:
           title:
