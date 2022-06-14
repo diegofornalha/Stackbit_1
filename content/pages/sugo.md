@@ -83,7 +83,7 @@ sections:
         title: Foglalások és naptár kezelése
         text: >
           [Foglalás bevitele, foglalt éjszakák
-          zárolása](/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
+          zárolása](/sugo/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
 
 
           [Foglalás visszaigazolás és foglalási email
