@@ -56,11 +56,10 @@ sections:
           [Lakóegység hozzáadása](/sugo/lakoegyseg-hozzaadasa)
 
 
-          [Lakóegység zárolása](/sugo/lakoegyseg-zarolasa)
+          [Lakóegység zárolása](/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
 
 
-          [Lakóegység szerkesztése és
-          törlése](/sugo/lakoegyseg-szerkesztese-es-torlese)
+          Lakóegység szerkesztése és törlése
 
 
           [Képek hozzáadása, szerkesztése és
