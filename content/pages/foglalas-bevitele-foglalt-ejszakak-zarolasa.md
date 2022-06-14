@@ -77,17 +77,19 @@ sections:
           szállásközvetítő oldalakéival (Airbnb, Booking és Szallas.hu).`
 
 
-          ### Lakóegység zárolása foglalás bevitelével
+          ### LaFoglalt éjszakák zárolása, vagy foglalás bevitele
 
 
-          *Szálláshelyed > Új foglalás*
+          *Szálláshelyed > Zárolás*
 
 
-          #### 1. Vendégszám megadása
+          #### 1. Lakóegység(ek) megadása
 
 
-          A vendégszám megadása után láthatod, hogy a foglaltsági naptár szerint
-          hol van az adott vendégszámra elegendő hely.
+          A Válaszd ki, melyik lakóegységeket szeretnéd foglalttá tenni. Érdemes
+          foglalásokban gondolkodni, hiszen így egy lemondás esetén könnyen
+          törölhető a zárolás, illetve a zárolások elláthatók leírással is a
+          könnyebb átláthatóság érdekében.
 
 
           #### 2. Dátumok megadása
