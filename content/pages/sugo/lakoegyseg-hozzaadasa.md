@@ -79,7 +79,7 @@ sections:
           látogatnod:
 
 
-          *Főoldal > Szobák > Új lakóegység*
+          *Főoldal > Lakóegységek > Új lakóegység*
 
 
           ##### Videón is megtekintheted, hogy hogy lehet létrehozni egy
