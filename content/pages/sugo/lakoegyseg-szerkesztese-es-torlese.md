@@ -74,11 +74,7 @@ sections:
           ### Lakóegység szerkesztése
 
 
-          *Főoldal > Legördülő menü > Szálláshely > Opciók (3 ponttal jelölt
-          gomb) > Szobák szerkesztése*
-
-
-          *Főoldal > Szobák > Opciók (3 ponttal jelölt gomb) > Szobák
+          *Főoldal > Lakóegységek > Opciók (3 ponttal jelölt gomb) > Lakóegység
           szerkesztése*
 
 
