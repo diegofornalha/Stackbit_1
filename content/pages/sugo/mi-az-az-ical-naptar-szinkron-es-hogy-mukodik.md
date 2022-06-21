@@ -106,7 +106,8 @@ sections:
           #### Naptár szinkron beállítása
 
 
-          *   Szallas.hu-n
+          *  
+          [Szallas.hu-n](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
 
 
           *   Bookingon
