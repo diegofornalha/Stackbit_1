@@ -4,7 +4,7 @@ title: Naptárak szinkronizálása Szallas.hu és az Appartman között
 sections:
   - type: HeroSection
     colors: colors-h
-    title: NaptárakszinkronizálásaSzallas.huésAppartmanközött
+    title: Naptárak szinkronizálása Szallas.hu és Appartman között
     styles:
       self:
         height: auto
