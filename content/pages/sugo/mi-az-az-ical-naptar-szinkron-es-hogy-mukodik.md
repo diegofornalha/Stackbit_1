@@ -110,7 +110,8 @@ sections:
           [Szallas.hu-n](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
 
 
-          *   Bookingon
+          *  
+          [Booking.com-on](/sugo/ical-naptarak-szinkronizalasa-booking-com-appartman/)
 
 
           *   Airbnb-n
