@@ -71,7 +71,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
+        text: >+
           `Az iCal naptár szinkronnal könnyedén összehangolhatod az Appartman
           naptárát a szállásközvetítő oldalakéival (Szallas.hu, Booking és
           Airbnb). A naptár szinkron nagy segítséget nyújt a túlfoglalás
@@ -81,32 +81,11 @@ sections:
           ### Hogy kell összekapcsolni a naptárakat?
 
 
-          Az iCal esetében minden egyes lakóegységhez tartozik egy naptár minden
-          foglalási rendszeren, vagy közvetítő oldalon. Tehát ha van egy szobád,
-          és azt értékesíted az Appartman, a [Szallas.hu](http://Szallas.hu) és
-          a Booking felületén, akkor annak lesz egy naptára mindhárom
-          rendszeren.
 
 
-          A naptárak akkor tudják egymásnak küldeni a foglalt és szabad
-          dátumokat, ha ismerik egymás linkjét. Minden naptárhoz meg kell adni
-          az összes többi naptár linkjét, hogy tudjanak kommunikálni egymással.
 
 
-          ![](/images/ical-naptar-szinkron-appartman-szallas.hu-booking-airbnb.png)
-
-
-          > Az ábrázolt példán látszik, hogy mivel a Booking és Szallas.hu nem
-          rendelkeznek egymás naptárjainak linkjeivel, így nem tudnak min
-          keresztül kommunikálni egymással. A példában a Booking és a Szallas.hu
-          csak az Appartmannal tud kommunikálni, mivel csak az Appartman linkje
-          van meg nekik.
-
-
-          #### Naptár szinkron beállítása
-
-
-          *   Szallas.hu-n
+          #### Naptár szinkron beállítása a többi szállásközvetítő felületen
 
 
           *   Bookingon
@@ -114,22 +93,6 @@ sections:
 
           *   Airbnb-n
 
-
-          ### Milyen gyakran frissül az iCal naptár szinkron?
-
-
-          Az Appartman és az Airbnb 5 perces frissítést garantál, a
-          [Szallas.hu](http://Szallas.hu) és a Booking esetében ez fél- és egy
-          óra közötti gyakoriságra tehető.
-
-
-          ### Milyen adatokat küld az iCal naptár szinkron?
-
-
-          A naptárakat szinkronizálva csak azt az információt lehet továbbítani,
-          hogy az adott lakóegység az adott dátumon foglalt, vagy szabad. Ennek
-          megfelelően nem lesznek feltüntetve a foglaláshoz kapcsolódó
-          információk, mint a foglaló neve, létszám, stb.
         featuredImage: null
         styles:
           title:
