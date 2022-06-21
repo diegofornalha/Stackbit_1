@@ -78,12 +78,10 @@ sections:
           elkerülésében.`
 
 
-
-
           ### 1. Naptár link másolása az Appartmanból
 
 
-          Beállítások >  Naptár szinkron > Naptár hozzáadása >
+          Beállítások >  Naptár szinkron > Naptár hozzáadása 
 
 
           A naptár hozzáadása menüből válaszd ki a
