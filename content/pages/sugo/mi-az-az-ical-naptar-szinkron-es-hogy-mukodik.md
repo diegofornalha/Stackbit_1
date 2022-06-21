@@ -114,7 +114,7 @@ sections:
           [Booking.com-on](/sugo/ical-naptarak-szinkronizalasa-booking-com-appartman/)
 
 
-          *   Airbnb-n
+          *   [Airbnb-n](/sugo/ical-naptarak-szinkronizalasa-airbnb-appartman/)
 
 
           ### Milyen gyakran frissül az iCal naptár szinkron?
