@@ -78,11 +78,59 @@ sections:
           elkerülésében.`
 
 
+
+
+          ### 1. Naptár link másolása az Appartmanból
+
+
+          Beállítások >  Naptár szinkron > Naptár hozzáadása >
+
+
+          A naptár hozzáadása menüből válaszd ki a
+          [Szallas.hu](http://Szallas.hu) opciót és másold ki az Appartman
+          naptár linkjét a Link másolása gombbal. Ne zárd be a panelt, csak menj
+          át a [Szallas.hu](http://Szallas.hu) admin felületére
+
+
+          ### 2. Naptár link beillesztése a Szallas.hu felületére
+
+
+          Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és navigálj
+          a következő helyre:
+
+
+          Admin > Árak és kapacitás > Naptár szinkron (iCal)
+
+
+          Nyomd meg a Naptár importálása gombot
+
+
+          Illeszd be az előbb az Appartmanról kimásolt linket
+
+
+          Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+
+
+          ### 3. Naptár link másolása a Szallas.hu-ból az Appartmanba
+
+
+          Nyomd meg a Naptár exportálás gombot, és a felugró panelból másold ki
+          a linket.
+
+
+          Menj át az Appartman felületére, és illeszd be a Szallas-hu-ról
+          kimásolt linket a Naptár hozzáadása menüben
+
+
+          ### 4. Ismételd meg a lépéseket minden lakóegységre
+
+
+          Minden lakóegységhez hozzá kell adnod a naptárakat. Ha több ugyanolyan
+          lakóegységed van, akkor sajnos nem működik a naptár szinkron megoldás
+          azon lakóegységek esetében.
+
+
           ### Hogy kell összekapcsolni a naptárakat?
-
-
-
-
 
 
           #### Naptár szinkron beállítása a többi szállásközvetítő felületen
