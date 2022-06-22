@@ -136,34 +136,34 @@ sections:
           #### Booking.com
 
 
-          Menj át a Booking admin felületére és navigálj a következő helyre:
+          1.  Menj át a Booking admin felületére és navigálj a következő helyre:
+          ***Rates and availability > Sync calendar***
 
 
-          Rates and availability > Sync calendar
+          2.  Nyomd meg az Add calendar connection gombot
 
 
-          Nyomd meg az Add calendar connection gombot
-
-
-          Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Your iCal
+          3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Your iCal
           link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
           #### Airbnb
 
 
-          Menj át az Airbnb admin felületére és navigálj a következő helyre:
+          <!---->
 
 
-          Menü > Hirdetések > Szálláshelyed kiválasztása a listából > Árak és
-          elérhetőség > Naptár-szinkronizálás
+          1.  Menj át az Airbnb admin felületére és navigálj a következő helyre:
+          ***Menü > Hirdetések > Szálláshelyed kiválasztása a listából > Árak és
+          elérhetőség > Naptár-szinkronizálás***
 
 
-          Nyomd meg a Naptár importálása gombot
+          2.  Nyomd meg a Naptár importálása gombot
 
 
-          Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár címe
-          (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+          3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
+          címe (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba -
+          Appartman)
 
 
           ### 5. Ismételd meg a lépéseket minden lakóegységre
