@@ -81,11 +81,11 @@ sections:
           ### Hogy kell összekapcsolni a naptárakat?
 
 
-          Az iCal esetében minden egyes lakóegységhez tartozik egy naptár minden
-          foglalási rendszeren, vagy közvetítő oldalon. Tehát ha van egy szobád,
-          és azt értékesíted az Appartman, a [Szallas.hu](http://Szallas.hu) és
-          a Booking felületén, akkor annak lesz egy naptára mindhárom
-          rendszeren.
+          Az iCal esetében **minden egyes lakóegységhez tartozik egy naptár
+          minden foglalási rendszeren, vagy közvetítő oldalon**. Tehát ha van
+          egy szobád, és azt értékesíted az Appartman, a
+          [Szallas.hu](http://Szallas.hu) és a Booking felületén, akkor annak
+          lesz egy naptára mindhárom rendszeren.
 
 
           ![](/images/ical-naptar-szinkron-naptarak-appartman-szallas.hu-booking-airbnb-80c90f27.png)
