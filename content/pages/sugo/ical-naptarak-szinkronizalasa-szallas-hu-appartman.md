@@ -107,8 +107,9 @@ sections:
           4.  Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
-          `Így az Appartman tudja küldeni a foglalt dátumokat, de a Szallas.hu
-          még nem tudja küldeni a nála lévő foglalt dátumokat.`
+          `Így az Appartman tudja küldeni a foglalt dátumokat a megadott
+          lakóegységek esetében, de a Szallas.hu még nem tudja küldeni a nála
+          lévő foglalt dátumokat.`
 
 
           ### 3. Naptár link másolása a Szallas.hu-ról az Appartmanba
@@ -122,7 +123,8 @@ sections:
           kimásolt linket a Naptár hozzáadása menüben.
 
 
-          ` Így már mindkét irányba működik a kommunikáció a naptárak között.  `
+          ` Így már mindkét irányba működik a kommunikáció a naptárak között a
+          megadott lakóegységek esetében.  `
 
 
           ### 4. Naptár link másolása Szallas.hu-ról más naptárakba
