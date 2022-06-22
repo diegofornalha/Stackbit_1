@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: iCal naptárak szinkronizálása Booking.com és az Appartman között
+title: iCal naptárak szinkronizálása az Airbnb és az Appartman között
 sections:
   - type: HeroSection
     colors: colors-h
