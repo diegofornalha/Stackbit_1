@@ -799,7 +799,7 @@ sections:
       fontos tudnivalókat.
     actions:
       - type: Button
-        label: Try it now
+        label: Szakmai közösség
         url: /
         style: primary
     styles:
