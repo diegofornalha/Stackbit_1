@@ -81,13 +81,28 @@ sections:
         actions: []
       - type: FeaturedItem
         title: Foglalások és naptár kezelése
-        text: >
+        text: >+
           [Foglalás bevitele, foglalt éjszakák
           zárolása](/sugo/foglalas-bevitele-foglalt-ejszakak-zarolasa/)
 
 
           [Foglalás visszaigazolás és foglalási email
           beállítások](/sugo/foglalas-visszaigazolas-es-foglalasi-email-beallitasok/)
+
+
+          Mi az a naptár szinkron és hogy működik?
+
+
+          Naptárak szinkronizálása a Szallas.hu és az Appartman között
+
+
+          [Naptárak szinkronizálása a Booking.com és az Appartman
+          között](/sugo/ical-naptarak-szinkronizalasa-booking-com-appartman/)
+
+
+          [Naptárak szinkronizálása az Airbnb és az Appartman
+          között](/sugo/ical-naptarak-szinkronizalasa-airbnb-appartman/)
+
         featuredImage: null
         styles:
           title:
