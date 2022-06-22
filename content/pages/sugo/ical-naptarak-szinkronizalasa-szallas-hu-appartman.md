@@ -109,6 +109,10 @@ sections:
           Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
+          `Így az Appartman tudja küldeni a foglalt dátumokat, de a Szallas.hu
+          még nem tudja küldeni a nála lévő foglalt dátumokat.`
+
+
           ### 3. Naptár link másolása a Szallas.hu-ról az Appartmanba
 
 
