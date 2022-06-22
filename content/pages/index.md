@@ -802,6 +802,7 @@ sections:
         label: Szakmai közösség
         url: /
         style: primary
+        altText: Szakmai közösség
     styles:
       self:
         height: auto
