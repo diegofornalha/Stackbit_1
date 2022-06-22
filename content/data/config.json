@@ -9,15 +9,15 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "https://appartman.hu/blog"
-            },
-            {
-                "type": "Link",
                 "label": "Főoldal",
                 "url": "https://appartman.hu/",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "altText": "Blog",
+                "url": "https://appartman.hu/blog"
             },
             {
                 "label": "Jelentkezzen interjúra",
