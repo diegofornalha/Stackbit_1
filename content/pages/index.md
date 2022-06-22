@@ -574,10 +574,12 @@ sections:
     items:
       - elementId: ''
         subtitle: ''
-        text: |
+        text: >
           #### A regisztrációt követően a szálláshely kap egy foglalási linket
 
-          Példa: foglalas.appartman.hu/teszt-vendeghaz
+
+          Példa:
+          [foglalas.appartman.hu/minta-appartman](https://foglalas.appartman.hu/minta-appartman)
         author: ''
         rating: 1
         isRatingVisible: false
