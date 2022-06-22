@@ -128,7 +128,7 @@ sections:
           kimásolt linket a szállásközvetítő oldalakra is be kell másolni.
 
 
-          #### Booking.com 
+          #### Booking.com
 
 
           Menj át a Booking admin felületére és navigálj a következő helyre:
@@ -169,12 +169,14 @@ sections:
           azon lakóegységek esetében.
 
 
-
-
-          #### Naptár szinkron beállítása a többi szállásközvetítő felületen
+          ### 6. Ismételd meg a lépéseket minden olyan további szállásközvetítő
+          oldalon is, amin fent vagy
 
 
           *   Booking.com-on
+
+
+          <!---->
 
 
           *   Airbnb-n
