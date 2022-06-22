@@ -94,8 +94,8 @@ sections:
 
 
           1.  Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és
-          navigálj a következő helyre: Admin > Árak és kapacitás > Naptár
-          szinkron (iCal)
+          navigálj a következő helyre: ***Admin > Árak és kapacitás > Naptár
+          szinkron (iCal)***
 
 
           2.  Nyomd meg a Naptár importálása gombot
