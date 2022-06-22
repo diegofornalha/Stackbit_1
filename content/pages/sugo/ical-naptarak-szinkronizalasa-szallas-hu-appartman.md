@@ -87,7 +87,7 @@ sections:
           A naptár hozzáadása menüből válaszd ki a
           [Szallas.hu](http://Szallas.hu) opciót és másold ki az Appartman
           naptár linkjét a Link másolása gombbal. Ne zárd be a panelt, csak menj
-          át a [Szallas.hu](http://Szallas.hu) admin felületére
+          át a [Szallas.hu](http://Szallas.hu) admin felületére.
 
 
           ### 2. Naptár link beillesztése a Szallas.hu felületére
