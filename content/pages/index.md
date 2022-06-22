@@ -794,9 +794,9 @@ sections:
     colors: colors-f
     backgroundImage: null
     title: ' Csatlakozz szakmai csoportunkhoz a Facebookon'
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Már több, mint 2500 szállásadó cserél naponta ötleteket, tippeket és
+      fontos tudnivalókat.
     actions:
       - type: Button
         label: Try it now
