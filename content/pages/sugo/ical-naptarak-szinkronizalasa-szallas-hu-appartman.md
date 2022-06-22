@@ -123,8 +123,8 @@ sections:
           kimásolt linket a Naptár hozzáadása menüben.
 
 
-          ` Így már mindkét irányba működik a kommunikáció a naptárak között a
-          megadott lakóegységek esetében.  `
+          ` Így már mindkét irányba működik a kommunikáció az Appartman és a
+          Szallas.hu között a megadott lakóegységek esetében.  `
 
 
           ### 4. Naptár link másolása Szallas.hu-ról más naptárakba
