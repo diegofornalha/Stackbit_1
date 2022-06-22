@@ -792,7 +792,15 @@ sections:
   - type: CtaSection
     elementId: ''
     colors: colors-f
-    backgroundImage: null
+    backgroundImage:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
     title: Csatlakozzon szakmai csoportunkhoz a Facebookon!
     text: >
       Már több, mint 2500 szállásadó cserél naponta ötleteket, tippeket és
