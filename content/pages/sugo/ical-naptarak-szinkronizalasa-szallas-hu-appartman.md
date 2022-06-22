@@ -109,7 +109,7 @@ sections:
           Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
-          ### 3. Naptár link másolása a Szallas.hu-ból az Appartmanba
+          ### 3. Naptár link másolása a Szallas.hu-ról az Appartmanba
 
 
           Nyomd meg a Naptár exportálás gombot, és a felugró panelból másold ki
