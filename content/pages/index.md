@@ -806,7 +806,7 @@ sections:
       fontos tudnivalókat.
     actions:
       - type: Button
-        label: Szakmai közösség
+        label: Szállásadók szakmai közössége
         url: 'https://www.facebook.com/groups/szallasadok'
         style: primary
         altText: Szakmai közösség
