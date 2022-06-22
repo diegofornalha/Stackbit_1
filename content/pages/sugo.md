@@ -94,7 +94,8 @@ sections:
           működik?](/sugo/mi-az-az-ical-naptar-szinkron-es-hogy-mukodik/)
 
 
-          Naptárak szinkronizálása a Szallas.hu és az Appartman között
+          [Naptárak szinkronizálása a Szallas.hu és az Appartman
+          között](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
 
 
           [Naptárak szinkronizálása a Booking.com és az Appartman
