@@ -171,9 +171,10 @@ sections:
           ### 5. Ismételd meg a lépéseket minden lakóegységre
 
 
-          Minden lakóegységhez hozzá kell adnod a naptárakat. Ha több ugyanolyan
-          lakóegységed van, akkor sajnos nem működik a naptár szinkron megoldás
-          azon lakóegységek esetében.
+          Minden lakóegységhez hozzá kell adnod a naptárakat. Ha van olyan
+          lakóegységed, ami ugyanolyan és több darab van belőle (pl.: 4 db
+          Superior apartman), akkor sajnos nem működik a naptár szinkron
+          megoldás azon lakóegységek esetében.
 
 
           ### 6. Ismételd meg a lépéseket minden olyan további szállásközvetítő
