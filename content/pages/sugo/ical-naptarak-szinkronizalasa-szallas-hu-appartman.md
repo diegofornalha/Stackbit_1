@@ -116,12 +116,15 @@ sections:
           ### 3. Naptár link másolása a Szallas.hu-ról az Appartmanba
 
 
-          Nyomd meg a Naptár exportálás gombot, és a felugró panelból másold ki
-          a linket.
+          1.  Nyomd meg a Naptár exportálás gombot, és a felugró panelból másold
+          ki a linket.
 
 
-          Menj át az Appartman felületére, és illeszd be a Szallas-hu-ról
-          kimásolt linket a Naptár hozzáadása menüben
+          2.  Menj át az Appartman felületére, és illeszd be a Szallas-hu-ról
+          kimásolt linket a Naptár hozzáadása menüben.
+
+
+          ` Így már mindkét irányba működik a kommunikáció a naptárak között.  `
 
 
           ### 4. Naptár link másolása Szallas.hu-ról más naptárakba
