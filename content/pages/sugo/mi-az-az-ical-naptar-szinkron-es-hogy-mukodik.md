@@ -88,6 +88,15 @@ sections:
           rendszeren.
 
 
+          ![](/images/ical-naptar-szinkron-naptarak-appartman-szallas.hu-booking-airbnb-80c90f27.png)
+
+
+          A példában van egy tetőtéri szobánk, ami mindhárom rendszeren
+          rendelkezik egy foglaltsági naptárral. Ezek alapesetben nem
+          kommunikálnak egymással, és ebből következik a túlfoglalás, illetve a
+          manuális zárolgatás. Ezen segít az iCal naptár szinkron
+
+
           A naptárak akkor tudják egymásnak küldeni a foglalt és szabad
           dátumokat, ha ismerik egymás linkjét. Minden naptárhoz meg kell adni
           az összes többi naptár linkjét, hogy tudjanak kommunikálni egymással.
