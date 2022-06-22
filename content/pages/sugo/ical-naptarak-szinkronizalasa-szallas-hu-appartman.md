@@ -93,20 +93,18 @@ sections:
           ### 2. Naptár link beillesztése a Szallas.hu felületére
 
 
-          Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és navigálj
-          a következő helyre:
+          1.  Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és
+          navigálj a következő helyre: Admin > Árak és kapacitás > Naptár
+          szinkron (iCal)
 
 
-          Admin > Árak és kapacitás > Naptár szinkron (iCal)
+          2.  Nyomd meg a Naptár importálása gombot
 
 
-          Nyomd meg a Naptár importálása gombot
+          3.  Illeszd be az előbb az Appartmanról kimásolt linket
 
 
-          Illeszd be az előbb az Appartmanról kimásolt linket
-
-
-          Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+          4.  Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
           `Így az Appartman tudja küldeni a foglalt dátumokat, de a Szallas.hu
