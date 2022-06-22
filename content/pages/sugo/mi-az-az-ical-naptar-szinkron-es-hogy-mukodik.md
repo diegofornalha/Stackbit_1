@@ -91,7 +91,7 @@ sections:
           ![](/images/ical-naptar-szinkron-naptarak-appartman-szallas.hu-booking-airbnb-80c90f27.png)
 
 
-          A példában van egy tetőtéri szobánk, ami mindhárom rendszeren
+          > A példában van egy tetőtéri szobánk, ami mindhárom rendszeren
           rendelkezik egy foglaltsági naptárral. Ezek alapesetben nem
           kommunikálnak egymással, és ebből következik a túlfoglalás, illetve a
           manuális zárolgatás. Ezen segít az iCal naptár szinkron
