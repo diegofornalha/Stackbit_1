@@ -130,6 +130,9 @@ sections:
           ### 4. Naptár link másolása Szallas.hu-ról más naptárakba
 
 
+          **A lépés átugorható, ha más szállásközvetítőn nem vagy fent.**
+
+
           Ahhoz, hogy a [Szallas.hu](http://szallas.hu/) naptára a többi
           szállásközvetítő oldallal is kommunikáljon, a Szallas.hu-ból az előbb
           kimásolt linket a szállásközvetítő oldalakra is be kell másolni.
