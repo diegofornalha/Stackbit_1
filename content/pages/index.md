@@ -800,7 +800,7 @@ sections:
     actions:
       - type: Button
         label: Szakmai közösség
-        url: /
+        url: 'https://www.facebook.com/groups/szallasadok'
         style: primary
         altText: Szakmai közösség
     styles:
