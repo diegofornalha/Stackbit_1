@@ -793,7 +793,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundImage: null
-    title: Csatlakozz
+    title: ' Csatlakozz szakmai csoportunkhoz a Facebookon'
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
