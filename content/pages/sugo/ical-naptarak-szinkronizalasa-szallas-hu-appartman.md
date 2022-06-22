@@ -171,6 +171,12 @@ sections:
           Appartman)
 
 
+          `Ezen a ponton az Appartman és a Szallas.hu között kész az összekötés,
+          és mindkét irányban küldhetők a foglalt dátumok. A Szallas.hu és a
+          többi közvetítő oldal között viszont csak egy irányú, mert a
+          Szallas.hu tudja csak nekik küldeni a dátumokat.`
+
+
           ### 5. Ismételd meg a lépéseket minden lakóegységre
 
 
