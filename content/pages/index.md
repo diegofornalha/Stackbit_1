@@ -793,7 +793,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundImage: null
-    title: ' Csatlakozz szakmai csoportunkhoz a Facebookon'
+    title: Csatlakozz szakmai csoportunkhoz a Facebookon
     text: >
       Már több, mint 2500 szállásadó cserél naponta ötleteket, tippeket és
       fontos tudnivalókat.
