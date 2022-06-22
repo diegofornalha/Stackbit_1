@@ -173,13 +173,14 @@ sections:
           oldalon is, amin fent vagy
 
 
-          *   Booking.com-on
+          *  
+          [Booking.com-on](/sugo/ical-naptarak-szinkronizalasa-booking-com-appartman/)
 
 
           <!---->
 
 
-          *   Airbnb-n
+          *   [Airbnb-n](/sugo/ical-naptarak-szinkronizalasa-airbnb-appartman/)
 
         featuredImage: null
         styles:
