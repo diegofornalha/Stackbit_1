@@ -791,7 +791,7 @@ sections:
     type: CtaSection
   - type: CtaSection
     elementId: ''
-    colors: colors-f
+    colors: colors-h
     backgroundImage:
       type: ImageBlock
       altText: altText of the image
