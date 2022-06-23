@@ -808,7 +808,7 @@ sections:
       - type: Button
         label: Szállásadók szakmai közössége
         url: 'https://www.facebook.com/groups/szallasadok'
-        style: secondary
+        style: primary
         altText: Szakmai közösség
     styles:
       self:
