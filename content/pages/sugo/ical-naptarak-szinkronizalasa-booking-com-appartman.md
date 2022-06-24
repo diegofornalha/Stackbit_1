@@ -71,7 +71,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
+        text: >+
           `Az iCal naptár szinkronnal könnyedén összehangolhatod az Appartman
           naptárát a szállásközvetítő oldalakéival (Szallas.hu, Booking és
           Airbnb). A naptár szinkron nagy segítséget nyújt a túlfoglalás
@@ -107,10 +107,10 @@ sections:
           ### 3. Naptár link másolása a Bookingról az Appartmanba
 
 
-          Nyomd meg a Next step gombot, majd a megjelenő Copy link gombot.
+          1.  Nyomd meg a Next step gombot, majd a megjelenő Copy link gombot.
 
 
-          1.  Menj vissza az Appartman felületére, és illeszd be a Bookingról
+          2.  Menj vissza az Appartman felületére, és illeszd be a Bookingról
           kimásolt linket a Naptár hozzáadása menüben
 
 
@@ -125,32 +125,35 @@ sections:
           #### Szallas.hu
 
 
-          Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és navigálj
-          a következő helyre: ***Admin > Árak és kapacitás > Naptár szinkron
-          (iCal)***
+          1.  Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és
+          navigálj a következő helyre: ***Admin > Árak és kapacitás > Naptár
+          szinkron (iCal)***
 
 
-          1.  Nyomd meg a Naptár importálása gombot
+          2.  Nyomd meg a Naptár importálása gombot
 
 
-          2.  Illeszd be az előbb az Appartmanról kimásolt linket
+          3.  Illeszd be az előbb az Appartmanról kimásolt linket
 
 
-          3.  Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+          4.  Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
           #### Airbnb
 
 
-          Menj át az Airbnb admin felületére és navigálj a következő helyre:
+          <!---->
+
+
+          1.  Menj át az Airbnb admin felületére és navigálj a következő helyre:
           ***Menü > Hirdetések > Szálláshelyed kiválasztása a listából > Árak és
           elérhetőség > Naptár-szinkronizálás***
 
 
-          1.  Nyomd meg a Naptár importálása gombot
+          2.  Nyomd meg a Naptár importálása gombot
 
 
-          2.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
+          3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
           címe (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba -
           Appartman)
 
@@ -161,6 +164,24 @@ sections:
           Minden lakóegységhez hozzá kell adnod a naptárakat. Ha több ugyanolyan
           lakóegységed van, akkor sajnos nem működik a naptár szinkron megoldás
           azon lakóegységek esetében.
+
+
+          ### 6. Ismételd meg a lépéseket minden szállásközvetítőre, amin fent
+          vagy
+
+
+          #### Naptár szinkron más szállásközvetítők esetében
+
+
+          *  
+          [Szallas.hu](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
+
+
+          <!---->
+
+
+          *   [Airbnb](/sugo/ical-naptarak-szinkronizalasa-airbnb-appartman/)
+
         featuredImage: null
         styles:
           title:
