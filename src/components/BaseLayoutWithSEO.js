@@ -50,6 +50,7 @@ export default function BaseLayoutWithSEO(props) {
                     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
+                {}
                 {props.children}
                 {site.footer && <Footer {...site.footer} annotationPrefix={siteMeta.id} />}
             </div>
