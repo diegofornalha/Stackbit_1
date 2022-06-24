@@ -59,7 +59,7 @@ export default function BaseLayoutWithSEO(props) {
   t.src=v;s=b.getElementsByTagName(e)[0];
   s.parentNode.insertBefore(t,s)}(window, document,'script',
   'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '{your-pixel-id-goes-here}');
+  fbq('init', '1387018778427597');
   fbq('track', 'PageView');
                         `}
                 </Script> : null}
