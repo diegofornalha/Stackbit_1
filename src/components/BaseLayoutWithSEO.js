@@ -1,5 +1,6 @@
 import * as React from 'react';
 import Head from 'next/head';
+import Script from 'next'
 import classNames from 'classnames';
 import _ from 'lodash';
 
