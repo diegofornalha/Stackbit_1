@@ -51,7 +51,7 @@ export default function BaseLayoutWithSEO(props) {
                     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
                 </Head>
                 <Script id='fb-script' strategy='lazyOnload'>
-                        {`!function(f,b,e,v,n,t,s)
+                    {`!function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
   if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
@@ -62,7 +62,7 @@ export default function BaseLayoutWithSEO(props) {
   fbq('init', '{your-pixel-id-goes-here}');
   fbq('track', 'PageView');
                         `}
-                    </Script>
+                </Script>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {process.env.NODE_ENV}
                 {props.children}
