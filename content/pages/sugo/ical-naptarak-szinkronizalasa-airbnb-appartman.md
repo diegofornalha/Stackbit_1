@@ -137,7 +137,7 @@ sections:
           3.  Illeszd be az előbb az Airbnb-ről kimásolt linket
 
 
-          4.  Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+          4.  Nevezd el a naptárat (pl.: 1-es szoba - Airbnb)
 
 
           #### Booking
@@ -151,7 +151,7 @@ sections:
 
 
           3.  Illeszd be az előbb az Airbnb-ről kimásolt linket a “Your iCal
-          link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+          link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Airbnb)
 
 
           ### 5. Ismételd meg a lépéseket minden lakóegységre
