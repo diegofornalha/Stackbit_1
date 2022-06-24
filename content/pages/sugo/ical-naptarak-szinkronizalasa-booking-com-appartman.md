@@ -170,14 +170,15 @@ sections:
           fent vagy
 
 
-          *  
-          [Szallas.hu](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
+          *   [Naptár szinkron beállítása a
+          Szallas.hu-n](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
 
 
           <!---->
 
 
-          *   [Airbnb](/sugo/ical-naptarak-szinkronizalasa-airbnb-appartman/)
+          *   [Naptár szinkron beállítása az
+          Airbnb-n](/sugo/ical-naptarak-szinkronizalasa-airbnb-appartman/)
 
         featuredImage: null
         styles:
