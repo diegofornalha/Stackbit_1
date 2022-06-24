@@ -4,7 +4,7 @@ title: iCal naptárak szinkronizálása Booking.com és az Appartman között
 sections:
   - type: HeroSection
     colors: colors-h
-    title: iCal naptárak szinkronizálása Booking.com és az Appartman között
+    title: iCal naptárak szinkronizálása a Booking.com és az Appartman között
     styles:
       self:
         height: auto
