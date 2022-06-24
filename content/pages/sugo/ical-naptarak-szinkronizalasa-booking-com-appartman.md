@@ -136,7 +136,7 @@ sections:
           3.  Illeszd be az előbb az Appartmanról kimásolt linket
 
 
-          4.  Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+          4.  Nevezd el a naptárat (pl.: 1-es szoba - Booking)
 
 
           #### Airbnb
@@ -154,8 +154,7 @@ sections:
 
 
           3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
-          címe (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba -
-          Appartman)
+          címe (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Booking)
 
 
           ### 5. Ismételd meg a lépéseket minden lakóegységre
