@@ -71,65 +71,115 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
+        text: >+
           `Az iCal naptár szinkronnal könnyedén összehangolhatod az Appartman
           naptárát a szállásközvetítő oldalakéival (Szallas.hu, Booking és
           Airbnb). A naptár szinkron nagy segítséget nyújt a túlfoglalás
           elkerülésében.`
 
 
-          ### Hogy kell összekapcsolni a naptárakat?
+          ### 1. Naptár link másolása az Appartmanból
 
 
-          Az iCal esetében minden egyes lakóegységhez tartozik egy naptár minden
-          foglalási rendszeren, vagy közvetítő oldalon. Tehát ha van egy szobád,
-          és azt értékesíted az Appartman, a [Szallas.hu](http://Szallas.hu) és
-          a Booking felületén, akkor annak lesz egy naptára mindhárom
-          rendszeren.
+          Beállítások > Naptár szinkron > Naptár hozzáadása
 
 
-          A naptárak akkor tudják egymásnak küldeni a foglalt és szabad
-          dátumokat, ha ismerik egymás linkjét. Minden naptárhoz meg kell adni
-          az összes többi naptár linkjét, hogy tudjanak kommunikálni egymással.
+          A naptár hozzáadása menüből válaszd ki a Booking opciót és másold ki
+          az Appartman naptár linkjét a Link másolása gombbal. Ne zárd be a
+          panelt, csak menj át a [Szallas.hu](http://Szallas.hu) admin
+          felületére
 
 
-          ![](/images/ical-naptar-szinkron-appartman-szallas.hu-booking-airbnb.png)
+          ### 2. Naptár link beillesztése az Airbnb felületére
 
 
-          > Az ábrázolt példán látszik, hogy mivel a Booking és Szallas.hu nem
-          rendelkeznek egymás naptárjainak linkjeivel, így nem tudnak min
-          keresztül kommunikálni egymással. A példában a Booking és a Szallas.hu
-          csak az Appartmannal tud kommunikálni, mivel csak az Appartman linkje
-          van meg nekik.
+          Menj át az Airbnb admin felületére és navigálj a következő helyre:
 
 
-          #### Naptár szinkron beállítása
+          Menü > Hirdetések > Szálláshelyed kiválasztása a listából > Árak és
+          elérhetőség > Naptár-szinkronizálás
 
 
-          *   Szallas.hu-n
+          Nyomd meg a Naptár importálása gombot
 
 
-          *   Bookingon
+          Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár címe
+          (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
-          *   Airbnb-n
+          ### 3. Naptár link másolása az Airbnb-ről az Appartmanba
 
 
-          ### Milyen gyakran frissül az iCal naptár szinkron?
+          Nyomd meg a Naptár exportálása gombot, majd másold ki a megjelenő
+          linket.
 
 
-          Az Appartman és az Airbnb 5 perces frissítést garantál, a
-          [Szallas.hu](http://Szallas.hu) és a Booking esetében ez fél- és egy
-          óra közötti gyakoriságra tehető.
+          Menj vissza az Appartman felületére, és illeszd be az Airbnb-ről
+          kimásolt linket a Naptár hozzáadása menüben
 
 
-          ### Milyen adatokat küld az iCal naptár szinkron?
+          ### 4. Naptár link másolása az Airbnb-ről más naptárakba
 
 
-          A naptárakat szinkronizálva csak azt az információt lehet továbbítani,
-          hogy az adott lakóegység az adott dátumon foglalt, vagy szabad. Ennek
-          megfelelően nem lesznek feltüntetve a foglaláshoz kapcsolódó
-          információk, mint a foglaló neve, létszám, stb.
+          Ahhoz, hogy az Airbnb naptárai a többi szállásközvetítő oldallal is
+          kommunikáljanak, az Airbnb-ről az előbb kimásolt linket a
+          szállásközvetítő oldalakra is be kell másolni
+
+
+          #### Szallas.hu
+
+
+          Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és navigálj
+          a következő helyre:
+
+
+          Admin > Árak és kapacitás > Naptár szinkron (iCal)
+
+
+          Nyomd meg a Naptár importálása gombot
+
+
+          Illeszd be az előbb az Appartmanból kimásolt linket
+
+
+          Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+
+
+          #### Booking
+
+
+          Menj át a Booking admin felületére és navigálj a következő helyre:
+
+
+          Rates and availability > Sync calendar
+
+
+          Nyomd meg az Add calendar connection gombot
+
+
+          Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Your iCal
+          link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+
+
+          ## 5. Ismételd meg a lépéseket minden lakóegységre
+
+
+          Minden lakóegységhez hozzá kell adnod a naptárakat. Ha több ugyanolyan
+          lakóegységed van, akkor sajnos nem működik a naptár szinkron megoldás
+          azon lakóegységek esetében.
+
+
+          6 Ismételd meg a lépéseket minden olyan szállásközvetítő oldalon, ahol
+          fent vagy
+
+
+          *   [Naptár szinkron beállítása
+          Szallas.hu-n](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
+
+
+          *   [Naptár szinkron beállítása
+          Booking.com-on](https://appartman.hu/sugo/ical-naptarak-szinkronizalasa-booking-com-appartman/)
+
         featuredImage: null
         styles:
           title:
