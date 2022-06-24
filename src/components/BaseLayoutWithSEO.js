@@ -50,7 +50,7 @@ export default function BaseLayoutWithSEO(props) {
                     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
                     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
                 </Head>
-                <Script id='smartsupp-script' strategy='lazyOnload'>
+                <Script id='fb-script' strategy='lazyOnload'>
                         {`!function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
