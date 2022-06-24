@@ -166,11 +166,8 @@ sections:
           azon lakóegységek esetében.
 
 
-          ### 6. Ismételd meg a lépéseket minden szállásközvetítőre, amin fent
-          vagy
-
-
-          #### Naptár szinkron más szállásközvetítők esetében
+          ### 6. Ismételd meg a lépéseket minden szállásközvetítő oldalon, amin
+          fent vagy
 
 
           *  
