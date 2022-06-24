@@ -86,8 +86,7 @@ sections:
 
           A naptár hozzáadása menüből válaszd ki a Booking opciót és másold ki
           az Appartman naptár linkjét a Link másolása gombbal. Ne zárd be a
-          panelt, csak menj át a [Szallas.hu](http://Szallas.hu) admin
-          felületére
+          panelt, csak menj át az Airbnb admin felületére
 
 
           ### 2. Naptár link beillesztése az Airbnb felületére
@@ -101,9 +100,8 @@ sections:
           2.  Nyomd meg a Naptár importálása gombot
 
 
-          3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
-          címe (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba -
-          Appartman)
+          3.  Illeszd be az előbb az Appartmanból kimásolt linket a “Naptár címe
+          (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
           ### 3. Naptár link másolása az Airbnb-ről az Appartmanba
@@ -136,7 +134,7 @@ sections:
           2.  Nyomd meg a Naptár importálása gombot
 
 
-          3.  Illeszd be az előbb az Appartmanból kimásolt linket
+          3.  Illeszd be az előbb az Airbnb-ről kimásolt linket
 
 
           4.  Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
@@ -152,7 +150,7 @@ sections:
           2.  Nyomd meg az Add calendar connection gombot
 
 
-          3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Your iCal
+          3.  Illeszd be az előbb az Airbnb-ről kimásolt linket a “Your iCal
           link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
