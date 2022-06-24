@@ -71,14 +71,14 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           `Az iCal naptár szinkronnal könnyedén összehangolhatod az Appartman
           naptárát a szállásközvetítő oldalakéival (Szallas.hu, Booking és
           Airbnb). A naptár szinkron nagy segítséget nyújt a túlfoglalás
           elkerülésében.`
 
 
-          ## 1. Naptár link másolása az Appartmanból
+          ### 1. Naptár link másolása az Appartmanból
 
 
           ***Beállítások > Naptár szinkron > Naptár hozzáadása***
@@ -161,7 +161,6 @@ sections:
           Minden lakóegységhez hozzá kell adnod a naptárakat. Ha több ugyanolyan
           lakóegységed van, akkor sajnos nem működik a naptár szinkron megoldás
           azon lakóegységek esetében.
-
         featuredImage: null
         styles:
           title:
