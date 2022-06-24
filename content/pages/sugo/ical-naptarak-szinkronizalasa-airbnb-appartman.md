@@ -168,8 +168,11 @@ sections:
           ahol fent vagy
 
 
-          [Naptár szinkron beállítása
+          *   [Naptár szinkron beállítása
           Szallas.hu-n](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
+
+
+          <!---->
 
 
           *   [Naptár szinkron beállítása
