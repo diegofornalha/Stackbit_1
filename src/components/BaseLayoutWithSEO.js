@@ -49,7 +49,8 @@ export default function BaseLayoutWithSEO(props) {
                     {seoExtra}
                     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
                     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
-                    <Script id='smartsupp-script' strategy='lazyOnload'>
+                </Head>
+                <Script id='smartsupp-script' strategy='lazyOnload'>
                         {`!function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -62,7 +63,6 @@ export default function BaseLayoutWithSEO(props) {
   fbq('track', 'PageView');
                         `}
                     </Script>
-                </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {process.env.NODE_ENV}
                 {props.children}
