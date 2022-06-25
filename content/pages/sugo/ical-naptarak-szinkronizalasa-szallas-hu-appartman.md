@@ -77,6 +77,7 @@ sections:
           Airbnb). A naptár szinkron nagy segítséget nyújt a túlfoglalás
           elkerülésében.`
 
+
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/RR4--pjRf9g" title="YouTube video
           player" frameborder="0" allow="accelerometer; autoplay;
@@ -133,7 +134,7 @@ sections:
           Szallas.hu között a megadott lakóegységek esetében.  `
 
 
-          ### 4. Naptár link másolása Szallas.hu-ról más naptárakba
+          ### 4. Szallas.hu naptár szinronizálása más szállásközvetítőkkel
 
 
           **A lépés átugorható, ha más szállásközvetítőn nem vagy fent.**
@@ -144,7 +145,7 @@ sections:
           kimásolt linket a szállásközvetítő oldalakra is be kell másolni.
 
 
-          #### Booking.com
+          #### Szallas.hu szinkronizálása Booking.commal
 
 
           1.  Menj át a Booking admin felületére és navigálj a következő helyre:
@@ -158,7 +159,7 @@ sections:
           link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
-          #### Airbnb
+          #### Szallas.hu szinkronizálása Airbnb-vel
 
 
           <!---->
