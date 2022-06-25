@@ -112,6 +112,14 @@ sections:
           van meg nekik.
 
 
+          #### Kész állapot: amikor minden foglalási rendszernek megvan minden
+          **más** foglalási rendszer linkje. Lényegében mintha ismerősnek
+          jelölnék, és visszajelölnék egymást a naptárak egy közösségi oldalon.
+
+
+          ![](/images/elvart%20allapot.png)
+
+
           #### Naptár szinkron beállítása
 
 
