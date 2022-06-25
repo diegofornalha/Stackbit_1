@@ -114,22 +114,44 @@ sections:
           kimásolt linket a Naptár hozzáadása menüben
 
 
-          ### 4. Naptár link másolása Bookingról más naptárakba
+          ### 4. Booking.com naptár szinkronizálása más szállásközvetítőkkel
 
 
           Ahhoz, hogy a [Booking.com](http://Booking.com) naptárai a többi
           szállásközvetítő oldallal is kommunikáljanak, a Booking.comról az
-          előbb kimásolt linket a szállásközvetítő oldalakra is be kell másolni
+          előbb kimásolt linket a szállásközvetítő oldalakra is be kell másolni.
 
 
-          #### Szallas.hu
+          #### Szallas.hu 
 
 
-          `Ha a Szallas.hu útmutató cikkről érkezel, és ott már összekötötted a
-          Szallas.hu-t és a Booking.comot, akkor természetesen ezt a lépést
-          kihagyhatod.`
+          1.  Menj át a Szallas.hu felületére és navigálj a következő helyre:
+          ***Admin > Árak és kapacitás > Naptár szinkron (iCal) ***
 
 
+          2.  Nyomd meg a Naptár exportálása gombot és másold ki a naptár linket
+
+
+          3.  Menj át a Booking felületére és nyomd meg az Add calendar
+          connection gombot 
+
+
+          4.  Illeszd be az előbb a Szallas.huról kimásolt linket
+
+
+          5.  Nyomd meg a Next step gombot és a megjelenő Copy link gombot,
+          amivel kimásolódik a Booking naptár linkje
+
+
+          6.  Menj vissza a Szallas.hura és nyomd meg a Naptár importálása
+          gombot
+
+
+          7.  Illeszd be a Bookingról kimásolt linket 
+
+
+          8.  Nevezd el a naptárat (pl.: 1-es szoba - Booking) és nyomd meg az
+          Importálás gombot, majd zárd be a kis ablakot.
 
 
           #### Airbnb
@@ -143,11 +165,43 @@ sections:
           elérhetőség > Naptár-szinkronizálás***
 
 
-          2.  Nyomd meg a Naptár importálása gombot
+          2.  Nyomd meg a Naptár exportálása gombot
 
 
-          3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
-          címe (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Booking)
+          3.  Másold ki a megjelenő linket
+
+
+          4.  Menj át a Booking.com felületére és navigálj a következő helyre:
+          ***Rates and availability > Sync calendars***
+
+
+          5.  Nyomd meg az Add calendar connection gombot
+
+
+          6.  Illeszd be az Airbnb-ről kimásolt linket a Your iCal link mezőbe
+
+
+          7.  Nevezd el a naptárat (pl.: 1-es szoba - Airbnb)
+
+
+          8.  Nyomd meg a Next step gombot, majd a megjelenő Copy link gombot,
+          amivel kimásolódik a Booking naptár linkje
+
+
+          9.  Nyomd meg a Done gombot
+
+
+          10. Menj vissza az Airbnb felületére és nyomd meg a Naptár importálása
+          gombot
+
+
+          11. Másold be a Bookingról kimásolt linket a Naptár címe (URL) mezőbe
+
+
+          12. Nevezd el a naptárat (pl.: 1-es szoba - Booking)
+
+
+          13. Nyomd meg a Naptár importálása gombot.
 
 
           ### 5. Ismételd meg a lépéseket minden lakóegységre
