@@ -159,6 +159,24 @@ sections:
           link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
 
 
+          4.  Nyomd meg a megjelenő Copy link gombot, amivel kimásolódik a
+          naptár link
+
+
+          5.  Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és
+          navigálj a következő helyre: ***Admin > Árak és kapacitás > Naptár
+          szinkron (iCal)***
+
+
+          6.  Nyomd meg a Naptár importálása gombot
+
+
+          7.  Illeszd be az előbb a Booking.comról kimásolt linket
+
+
+          8.  Nevezd el a naptárat (pl.: 1-es szoba - Booking)
+
+
           #### Szallas.hu szinkronizálása Airbnb-vel
 
 
