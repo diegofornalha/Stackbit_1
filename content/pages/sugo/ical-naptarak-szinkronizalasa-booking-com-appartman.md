@@ -133,7 +133,7 @@ sections:
           2.  Nyomd meg a Naptár importálása gombot
 
 
-          3.  Illeszd be az előbb az Appartmanról kimásolt linket
+          3.  Illeszd be az előbb a Booking.comról kimásolt linket
 
 
           4.  Nevezd el a naptárat (pl.: 1-es szoba - Booking)
