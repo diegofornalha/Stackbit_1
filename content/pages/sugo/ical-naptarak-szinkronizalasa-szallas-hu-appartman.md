@@ -156,11 +156,11 @@ sections:
 
 
           3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Your iCal
-          link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+          link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Szallas.hu)
 
 
           4.  Nyomd meg a megjelenő Copy link gombot, amivel kimásolódik a
-          naptár link
+          naptár link, majd nyomd meg a Done gombot
 
 
           5.  Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és
