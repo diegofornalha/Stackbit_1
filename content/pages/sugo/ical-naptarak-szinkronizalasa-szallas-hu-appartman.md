@@ -180,26 +180,38 @@ sections:
           #### Szallas.hu szinkronizálása Airbnb-vel
 
 
-          <!---->
+          1.  A Szallas.hu felületén nyomd meg a Naptár exportálása gombot
 
 
-          1.  Menj át az Airbnb admin felületére és navigálj a következő helyre:
+          2.  Menj át az Airbnb admin felületére és navigálj a következő helyre:
           ***Menü > Hirdetések > Szálláshelyed kiválasztása a listából > Árak és
           elérhetőség > Naptár-szinkronizálás***
 
 
-          2.  Nyomd meg a Naptár importálása gombot
+          3.  Nyomd meg a Naptár importálása gombot
 
 
-          3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
+          4.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
           címe (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba -
-          Appartman)
+          Szallas.hu)
 
 
-          `Ezen a ponton az Appartman és a Szallas.hu között kész az összekötés,
-          és mindkét irányban küldhetők a foglalt dátumok. A Szallas.hu és a
-          többi közvetítő oldal között viszont csak egy irányú, mert a
-          Szallas.hu tudja csak nekik küldeni a dátumokat.`
+          5.  Nyomd meg a Naptár exportálása gombot, majd másold ki a megjelenő
+          linket.
+
+
+          6.  Menj vissza a Szallas.hu felületére, és illeszd be az Airbnb-ről
+          kimásolt linket a Naptár importálása menüben
+
+
+          7.  Nevezd el a naptárat (pl.: 1-es szoba - Airbnb)
+
+
+          `Ezen a ponton az Appartman és a Szallas.hu, a Szallas.hu és a
+          Booking.com, a Szallas.hu és az Airbnb között kész az összekötés. Ha
+          ezekkel a lépésekkel kezdted az összekötési folyamatot, akkor hátravan
+          még az Appartman és a Booking.com, illetve az Appartman és az Airbnb
+          összekötése.`
 
 
           ### 5. Ismételd meg a lépéseket minden lakóegységre
