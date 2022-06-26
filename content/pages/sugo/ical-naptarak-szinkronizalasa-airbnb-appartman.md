@@ -117,10 +117,13 @@ sections:
 
 
           2.  Nyomd meg a Naptár importálása gombot
-
+              ![](/images/naptar-szinkron-ical-airbnb-appartman.png)
 
           3.  Illeszd be az előbb az Appartmanból kimásolt linket a “Naptár címe
           (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+
+
+          ![](/images/naptar-szinkron-ical-importalas-airbnb-appartman.png)
 
 
           ### 3. Naptár link másolása az Airbnb-ről az Appartmanba
@@ -128,7 +131,7 @@ sections:
 
           1.  Nyomd meg a Naptár exportálása gombot, majd másold ki a megjelenő
           linket.
-
+              ![](/images/naptar-szinkron-ical-exportalas-airbnb-appartman.png)
 
           2.  Menj vissza az Appartman felületére, és illeszd be az Airbnb-ről
           kimásolt linket a Naptár hozzáadása menüben
