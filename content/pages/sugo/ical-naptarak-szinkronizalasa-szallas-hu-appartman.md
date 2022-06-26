@@ -78,6 +78,22 @@ sections:
           elkerülésében.`
 
 
+          ## Ebben a cikkben:
+
+
+          *   Összekötjük az Appartmant a Szallas.hu-val
+
+
+          *   Összekötjük a Szallas.hut- a Booking.commal
+
+
+          *   Összekötjük a Szallas.hu-t az Airbnb-vel
+
+
+          Az alábbi képen látható, hogy mely naptárakhoz fogjuk mely linkeket
+          megadni ehhez:
+
+
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/RR4--pjRf9g" title="YouTube video
           player" frameborder="0" allow="accelerometer; autoplay;
