@@ -171,33 +171,40 @@ sections:
           #### Szallas.hu szinkronizálása Booking.commal
 
 
-          1.  Menj át a Booking admin felületére és navigálj a következő helyre:
-          ***Rates and availability > Sync calendar
-              ***
-
-          2.  Nyomd meg az Add calendar connection gombot
+          1\. Menj át a Booking admin felületére és navigálj a következő helyre:
+          Rates and availability > Sync calendar
 
 
-          3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Your iCal
+          ![](/images/naptar-szinkron-ical-booking-com-appartman-7d23fadc.png)
+
+
+          2\. Nyomd meg az Add calendar connection gombot
+
+
+          3\. Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Your iCal
           link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Szallas.hu)
-              ![](/images/naptar-szinkron-ical-importalas-booking-com-appartman-c03829ab.png)
 
-          4.  Nyomd meg a megjelenő Copy link gombot, amivel kimásolódik a
+          ![](/images/naptar-szinkron-ical-importalas-booking-com-appartman-c03829ab.png)
+
+
+          4\. Nyomd meg a megjelenő Copy link gombot, amivel kimásolódik a
           naptár link, majd nyomd meg a Done gombot
-              ![](/images/naptar-szinkron-ical-exportalas-booking-com-appartman.png)
 
-          5.  Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és
+          ![](/images/naptar-szinkron-ical-exportalas-booking-com-appartman.png)
+
+
+          5\. Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és
           navigálj a következő helyre: ***Admin > Árak és kapacitás > Naptár
           szinkron (iCal)***
 
 
-          6.  Nyomd meg a Naptár importálása gombot
+          6\. Nyomd meg a Naptár importálása gombot
 
 
-          7.  Illeszd be az előbb a Booking.comról kimásolt linket
+          7\. Illeszd be az előbb a Booking.comról kimásolt linket
 
 
-          8.  Nevezd el a naptárat (pl.: 1-es szoba - Booking)
+          8\. Nevezd el a naptárat (pl.: 1-es szoba - Booking)
 
 
           #### Szallas.hu szinkronizálása Airbnb-vel
