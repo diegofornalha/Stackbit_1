@@ -90,6 +90,13 @@ sections:
           *   Összekötjük a Booking.com-ot az Airbnb-vel
 
 
+          Az alábbi képen látszik, hogy mely naptárakat fogjuk másolni ehhez
+          mely felületekre:
+
+
+          ![](/images/booking%20lepes%20naptar%20linkek.png)
+
+
           ### 1. Naptár link másolása az Appartmanból
 
 
