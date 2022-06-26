@@ -78,6 +78,16 @@ sections:
           elkerülésében.`
 
 
+          ### Ebben a cikkben
+
+
+          *   Összekötjük az Airbnb-t az Appartmannal
+
+
+          *   Összekötjük az Airbnb-t a Szallas.hu-val
+
+
+          *   Összekötjük az Airbnb-t a Booking.com-mal
 
 
           Az alábbi képen látszik, hogy ehhez mely linkeket kell mely
