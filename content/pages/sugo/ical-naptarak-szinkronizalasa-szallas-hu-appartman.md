@@ -172,16 +172,15 @@ sections:
 
 
           1.  Menj át a Booking admin felületére és navigálj a következő helyre:
-          ***Rates and availability > Sync calendar***
-
+          ***Rates and availability > Sync calendar
+              ***
 
           2.  Nyomd meg az Add calendar connection gombot
 
 
           3.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Your iCal
           link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Szallas.hu)
-
-
+              ![](/images/naptar-szinkron-ical-importalas-booking-com-appartman-c03829ab.png)
 
           4.  Nyomd meg a megjelenő Copy link gombot, amivel kimásolódik a
           naptár link, majd nyomd meg a Done gombot
