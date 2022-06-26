@@ -148,7 +148,7 @@ sections:
 
 
           1.  Menj át a Szallas.hu felületére és navigálj a következő helyre:
-          \*\*\*Admin > Árak és kapacitás > Naptár szinkron (iCal) \*\*\*
+          ***Admin > Árak és kapacitás > Naptár szinkron (iCal)*** 
 
 
           2.  Nyomd meg a Naptár exportálása gombot és másold ki a naptár linket
