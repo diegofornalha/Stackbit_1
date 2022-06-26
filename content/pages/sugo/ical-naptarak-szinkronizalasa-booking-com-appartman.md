@@ -81,7 +81,7 @@ sections:
           ### Ebben a cikkben
 
 
-          Összekötjük a Booking.com-ot az Appartmannal
+          *   Összekötjük a Booking.com-ot az Appartmannal
 
 
           *   Összekötjük a Booking.com-ot a Szallas.hu-val
