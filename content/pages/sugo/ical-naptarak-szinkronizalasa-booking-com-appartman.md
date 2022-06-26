@@ -94,8 +94,8 @@ sections:
 
 
           1.  Menj át a Booking admin felületére és navigálj a következő helyre:
-          ***Rates and availability > Sync calendar
-              ***![](/images/booking-navigaico-ical-naptarszinkron.png)
+          ***Rates and availability > Sync calendar***
+              ![](/images/booking-navigaico-ical-naptarszinkron.png)
 
           2.  Nyomd meg az Add calendar connection gombot
 
