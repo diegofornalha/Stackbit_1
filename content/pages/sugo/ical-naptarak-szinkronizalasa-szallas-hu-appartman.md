@@ -94,6 +94,13 @@ sections:
           megadni ehhez:
 
 
+          ![](/images/szallas.hu%20lepes%20naptar%20linkek-916a675a.png)
+
+
+          ##### Fontos: az alábbi videó csak az Appartman – Szallas.hu
+          összekötést mutatja be.
+
+
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/RR4--pjRf9g" title="YouTube video
           player" frameborder="0" allow="accelerometer; autoplay;
