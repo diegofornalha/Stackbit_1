@@ -78,6 +78,23 @@ sections:
           elkerülésében.`
 
 
+          ##### Ez a cikk egy általános ismertető az iCal naptár szinkron
+          működéséről, a szállásközvetítőnkénti összekötési útmutatókat itt
+          találod:
+
+
+          *   [Naptár szinkron beállítása
+          Szallas.hu-n](/sugo/ical-naptarak-szinkronizalasa-szallas-hu-appartman/)
+
+
+          *   [Naptár szinkron beállítása
+          Booking.com-on](/sugo/ical-naptarak-szinkronizalasa-booking-com-appartman/)
+
+
+          *   [Naptár szinkron beállítása
+          Airbnb-n](/sugo/ical-naptarak-szinkronizalasa-airbnb-appartman/)
+
+
           ### Hogy kell összekapcsolni a naptárakat?
 
 
