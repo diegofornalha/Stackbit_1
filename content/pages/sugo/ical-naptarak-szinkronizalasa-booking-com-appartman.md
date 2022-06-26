@@ -78,6 +78,18 @@ sections:
           elkerülésében.`
 
 
+          ### Ebben a cikkben
+
+
+          Összekötjük a Booking.com-ot az Appartmannal
+
+
+          *   Összekötjük a Booking.com-ot a Szallas.hu-val
+
+
+          *   Összekötjük a Booking.com-ot az Airbnb-vel
+
+
           ### 1. Naptár link másolása az Appartmanból
 
 
