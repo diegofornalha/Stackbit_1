@@ -172,7 +172,7 @@ sections:
 
 
           1\. Menj át a Booking admin felületére és navigálj a következő helyre:
-          Rates and availability > Sync calendar
+          ***Rates and availability > Sync calendar***
 
 
           ![](/images/naptar-szinkron-ical-booking-com-appartman-7d23fadc.png)
