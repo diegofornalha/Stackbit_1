@@ -131,7 +131,8 @@ sections:
 
           1.  Nyomd meg a Naptár exportálása gombot, majd másold ki a megjelenő
           linket.
-              ![](/images/naptar-szinkron-ical-exportalas-airbnb-appartman.png)
+
+
 
           2.  Menj vissza az Appartman felületére, és illeszd be az Airbnb-ről
           kimásolt linket a Naptár hozzáadása menüben
