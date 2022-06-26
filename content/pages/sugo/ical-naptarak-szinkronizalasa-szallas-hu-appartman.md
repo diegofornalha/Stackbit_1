@@ -78,7 +78,7 @@ sections:
           elkerülésében.`
 
 
-          ## Ebben a cikkben:
+          ### Ebben a cikkben:
 
 
           *   Összekötjük az Appartmant a Szallas.hu-val
