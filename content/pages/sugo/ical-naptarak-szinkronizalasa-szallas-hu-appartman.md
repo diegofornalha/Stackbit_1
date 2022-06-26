@@ -129,8 +129,7 @@ sections:
 
 
           2.  Nyomd meg a Naptár importálása gombot
-
-
+              ![](/images/naptar-szinkron-ical-importalas-szallas-hu-appartman-f7394fa2.png)
 
           3.  Illeszd be az előbb az Appartmanról kimásolt linket
 
