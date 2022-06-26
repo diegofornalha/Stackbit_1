@@ -147,7 +147,7 @@ sections:
 
           1.  Nyomd meg a Naptár exportálás gombot, és a felugró panelból másold
           ki a linket.
-
+              ![](/images/naptar-szinkron-ical-exportalas-szallas-hu-appartman.png)
 
           2.  Menj át az Appartman felületére, és illeszd be a Szallas-hu-ról
           kimásolt linket a Naptár hozzáadása menüben.
@@ -182,9 +182,10 @@ sections:
           link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Szallas.hu)
 
 
+
           4.  Nyomd meg a megjelenő Copy link gombot, amivel kimásolódik a
           naptár link, majd nyomd meg a Done gombot
-
+              ![](/images/naptar-szinkron-ical-exportalas-booking-com-appartman.png)
 
           5.  Menj át a [Szallas.hu](http://Szallas.hu) admin felületére és
           navigálj a következő helyre: ***Admin > Árak és kapacitás > Naptár
