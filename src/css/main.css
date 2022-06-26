@@ -138,6 +138,8 @@ code {
 
 img {
     border-radius: 10px;
+    margin-bottom: 12px;
+    margin-top: 12px;
 }
 
 .sm\:px-6 {
