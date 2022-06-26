@@ -219,16 +219,16 @@ sections:
 
 
           3.  Nyomd meg a Naptár importálása gombot
-
+              ![](/images/naptar-szinkron-ical-airbnb-appartman-ceb98091.png)
 
           4.  Illeszd be az előbb az Szallas.hu-ról kimásolt linket a “Naptár
           címe (URL)” mezőbe és nevezd el a naptárat (pl.: 1-es szoba -
-          Szallas.hu)
-
+          Szallas.hu), majd nyomd meg a Naptár importálása gombot
+              ![](/images/naptar-szinkron-ical-importalas-airbnb-appartman-81b933a6.png)
 
           5.  Nyomd meg a Naptár exportálása gombot, majd másold ki a megjelenő
           linket.
-
+              ![](/images/naptar-szinkron-ical-exportalas-airbnb-appartman-f3f6741f.png)
 
           6.  Menj vissza a Szallas.hu felületére, és illeszd be az Airbnb-ről
           kimásolt linket a Naptár importálása menüben
