@@ -400,3 +400,8 @@ iframe {
     margin-top: 24px;
 }
 
+.sb-markdown ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
