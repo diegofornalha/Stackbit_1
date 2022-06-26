@@ -78,6 +78,15 @@ sections:
           elkerülésében.`
 
 
+
+
+          Az alábbi képen látszik, hogy ehhez mely linkeket kell mely
+          felületekre másolni:
+
+
+          ![](/images/airbnb%20lepes%20naptar%20linkek-a2958ea0.png)
+
+
           ### 1. Naptár link másolása az Appartmanból
 
 
