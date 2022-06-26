@@ -131,11 +131,12 @@ sections:
           2.  Nyomd meg a Naptár importálása gombot
 
 
+
           3.  Illeszd be az előbb az Appartmanról kimásolt linket
 
 
           4.  Nevezd el a naptárat (pl.: 1-es szoba - Appartman)
-
+              ![](/images/naptar-szinkron-ical-szallas-hu-appartman.png)
 
           `Így az Appartman tudja küldeni a foglalt dátumokat a megadott
           lakóegységek esetében, de a Szallas.hu még nem tudja küldeni a nála
