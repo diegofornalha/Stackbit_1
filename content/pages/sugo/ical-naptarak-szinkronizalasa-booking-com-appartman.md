@@ -93,15 +93,18 @@ sections:
           ### 2. Naptár link beillesztése a Booking felületére
 
 
-          Menj át a Booking admin felületére és navigálj a következő helyre:
-          ***Rates and availability > Sync calendar***
+          1.  Menj át a Booking admin felületére és navigálj a következő helyre:
+          ***Rates and availability > Sync calendar
+              ***![](/images/booking-navigaico-ical-naptarszinkron.png)
+
+          2.  Nyomd meg az Add calendar connection gombot
 
 
-          1.  Nyomd meg az Add calendar connection gombot
-
-
-          2.  Illeszd be az előbb az Appartmanról kimásolt linket a “Your iCal
+          3.  Illeszd be az előbb az Appartmanról kimásolt linket a “Your iCal
           link” mezőbe és nevezd el a naptárat (pl.: 1-es szoba - Appartman)
+
+
+          ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-06-26%20-%2013.16.22.png)
 
 
           ### 3. Naptár link másolása a Booking.comról az Appartmanba
@@ -122,18 +125,18 @@ sections:
           előbb kimásolt linket a szállásközvetítő oldalakra is be kell másolni.
 
 
-          #### Szallas.hu 
+          #### Szallas.hu
 
 
           1.  Menj át a Szallas.hu felületére és navigálj a következő helyre:
-          ***Admin > Árak és kapacitás > Naptár szinkron (iCal) ***
+          \*\*\*Admin > Árak és kapacitás > Naptár szinkron (iCal) \*\*\*
 
 
           2.  Nyomd meg a Naptár exportálása gombot és másold ki a naptár linket
 
 
           3.  Menj át a Booking felületére és nyomd meg az Add calendar
-          connection gombot 
+          connection gombot
 
 
           4.  Illeszd be az előbb a Szallas.huról kimásolt linket
@@ -147,7 +150,7 @@ sections:
           gombot
 
 
-          7.  Illeszd be a Bookingról kimásolt linket 
+          7.  Illeszd be a Bookingról kimásolt linket
 
 
           8.  Nevezd el a naptárat (pl.: 1-es szoba - Booking) és nyomd meg az
