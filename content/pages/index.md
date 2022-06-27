@@ -425,49 +425,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: Extra szolgáltatások
-    text: >
-      #### Értékesítsen egyszerűen reggelit, üdvözlő kosarat, vagy fürdődézsa
-      használatot
-
-
-      A foglalók könnyedén hozzáadhatnak extra tételeket a foglalásukhoz, és
-      azonnal látják az pontos összeget.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/extra-szolgaltatasok-foglalasi-rendszer.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-        borderColor: border-complementary-alt
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: HeroSection
     elementId: ''
     colors: colors-a
@@ -511,6 +468,49 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    colors: colors-a
+    title: Extra szolgáltatások
+    text: >
+      #### Értékesítsen egyszerűen reggelit, üdvözlő kosarat, vagy fürdődézsa
+      használatot
+
+
+      A foglalók könnyedén hozzáadhatnak extra tételeket a foglalásukhoz, és
+      azonnal látják az pontos összeget.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/extra-szolgaltatasok-foglalasi-rendszer.png
+      altText: Hero image
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+        borderColor: border-complementary-alt
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: ''
     colors: colors-a
     title: Önálló weboldalként is működik
