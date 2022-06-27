@@ -263,6 +263,9 @@ sections:
     title: Automatikusan frissülő foglaltsági naptár iCal naptár szinkronnal
     subtitle: null
     text: >
+      ###### új funkció!
+
+
       #### Könnyedén összehangolhatja az Appartman naptárát a Szallas.hu,
       Booking és Airbnb közvetítő oldalakkal
 
