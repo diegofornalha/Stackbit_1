@@ -514,13 +514,13 @@ sections:
     title: Automatikusan frissülő foglaltsági naptár iCal naptár szinkronnal
     subtitle: null
     text: >
-      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
-      tudás nélkül
+      #### Könnyedén összehangolhatja az Appartman naptárát a Szallas.hu,
+      Booking és Airbnb közvetítő oldalakkal
 
 
-      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
-      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthet.
+      A regisztrációnál egyszerűen áthozhatja máshonnan a foglalásait. Az iCal
+      naptár szinkron funkcióval nagy mértékben csökkenthető az adminisztráció
+      és a túlfoglalás esélye.
     actions: []
     media:
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
