@@ -383,48 +383,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: Visszaigazolás véglegesítés előtt
-    text: >
-      #### Kerülje el a túlfoglalást, és tartsa kézben, hogy mely foglalásokból
-      lesznek tényleges vendégek
-
-
-      Egy gombnyomással visszaigazolhatja, vagy elutasíthatja a foglalást. Így
-      könnyedén elkerülhető a túlfoglalás, illetve szűrhetők a vendégek.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/foglalas-visszaigazolas-manualisan.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: HeroSection
     elementId: ''
     colors: colors-a
@@ -468,6 +426,48 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    colors: colors-a
+    title: Visszaigazolás véglegesítés előtt
+    text: >
+      #### Kerülje el a túlfoglalást, és tartsa kézben, hogy mely foglalásokból
+      lesznek tényleges vendégek
+
+
+      Egy gombnyomással visszaigazolhatja, vagy elutasíthatja a foglalást. Így
+      könnyedén elkerülhető a túlfoglalás, illetve szűrhetők a vendégek.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/foglalas-visszaigazolas-manualisan.png
+      altText: Hero image
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: ''
     colors: colors-a
     title: Extra szolgáltatások
