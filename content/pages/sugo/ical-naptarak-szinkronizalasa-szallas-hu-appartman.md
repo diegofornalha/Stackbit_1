@@ -71,7 +71,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           `Az iCal naptár szinkronnal könnyedén összehangolhatod az Appartman
           naptárát a szállásközvetítő oldalakéival (Szallas.hu, Booking és
           Airbnb). A naptár szinkron nagy segítséget nyújt a túlfoglalás
@@ -84,7 +84,7 @@ sections:
           *   Összekötjük az Appartmant a Szallas.hu-val
 
 
-          *   Összekötjük a Szallas.hut- a Booking.commal
+          *   Összekötjük a Szallas.hu-t a Booking.commal
 
 
           *   Összekötjük a Szallas.hu-t az Airbnb-vel
@@ -266,6 +266,16 @@ sections:
 
           *   [Airbnb-n](/sugo/ical-naptarak-szinkronizalasa-airbnb-appartman/)
 
+
+          ### Mi történik a jelenlegi foglalásaimmal?
+
+
+          A jelenleg manuálisan zárolt foglalások nem fognak "sérülni", a naptár
+          szinkron csupán kibővíti a zárolt dátumokat, de nem kapcsolja össze
+          őket a meglévő manuálisan bevitt zárolásokkal. Tehát ha van egy
+          foglalásod augusztus 1-7-ig az Appartmanon, de a Szallas.hu-n 1-9-ig
+          zárolt, akkor az Appartman lezárja a maradék két napot, de nem
+          szerkeszti, vagy írja felül a manuálisan bevitt zárolást.
         featuredImage: null
         styles:
           title:
