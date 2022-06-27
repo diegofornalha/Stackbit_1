@@ -341,48 +341,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: Automatikusan generált emailek
-    text: >
-      #### Spóroljon időt a felesleges adminisztráció elkerülésével
-
-
-      Vendégei a foglalás után egy testreszabható emailben azonnal megkapják a
-      szükséges információkat, legyen szó előlegről, fizetési információkról,
-      házirendről, vagy megközelíthetőségről.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/kozvetlen-online-foglalasi-rendszer-automatikus-email.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-20
-          - pb-28
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: HeroSection
     elementId: ''
     colors: colors-a
@@ -426,6 +384,48 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    colors: colors-a
+    title: Automatikusan generált emailek
+    text: >
+      #### Spóroljon időt a felesleges adminisztráció elkerülésével
+
+
+      Vendégei a foglalás után egy testreszabható emailben azonnal megkapják a
+      szükséges információkat, legyen szó előlegről, fizetési információkról,
+      házirendről, vagy megközelíthetőségről.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/kozvetlen-online-foglalasi-rendszer-automatikus-email.png
+      altText: Hero image
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-20
+          - pb-28
+          - pl-7
+          - pr-7
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: ''
     colors: colors-a
     title: Visszaigazolás véglegesítés előtt
