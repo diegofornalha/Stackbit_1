@@ -511,7 +511,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Önálló weboldalként is működik
+    title: Automatikusan frissülő foglaltsági naptár iCal naptár szinkronnal
     subtitle: null
     text: >
       #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
