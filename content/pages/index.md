@@ -468,46 +468,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: Önálló weboldalként is működik
-    text: >
-      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
-      tudás nélkül
-
-
-      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
-      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthet.
-    media:
-      type: ImageBlock
-      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
-      altText: Hero section image
-      caption: test
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: HeroSection
     elementId: ''
     colors: colors-a
@@ -551,6 +511,46 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    colors: colors-a
+    title: Önálló weboldalként is működik
+    text: >
+      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
+      tudás nélkül
+
+
+      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
+      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
+      és képet feltölthet.
+    media:
+      type: ImageBlock
+      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
+      altText: Hero section image
+      caption: test
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-20
+          - pl-7
+          - pr-7
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: ''
     colors: colors-f
     title: Próbálja ki ingyen és fogadjon vendégeket 3 perc múlva
