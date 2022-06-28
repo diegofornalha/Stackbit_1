@@ -766,9 +766,11 @@ sections:
           Össze van kapcsolva a közvetítő oldalakkal (Szállás.hu, Airbnb,
           Booking)?
         answer: >
-          Egyelőre nincs, viszont heteken belül elkészül az iCal naptárszinkron
-          funkciónk is, amellyel pár órán belül zárolásra kerülnek a máshol
-          lefoglalt időpontok.
+          Igen, az iCal naptár szinkron funkciónak köszönhetően össze lehet
+          kötni az Appartmant a Szallas.hu-val, Airbnb-vel és a Bookinggal. Így
+          a zárolt dátumok automatikusan frissítésre kerülnek. Fontos
+          megjegyezni, hogy a naptár szinkron átfutási ideje jellemzően 5-30
+          perc.
       - question: 'Nem vagyok webfejlesztő, én is be tudom üzemelni?'
         answer: >
           Természetesen. Az Appartmant úgy alakítottuk ki, hogy a regisztrációt
