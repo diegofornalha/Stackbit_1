@@ -103,7 +103,7 @@ sections:
           ***Beállítások > Naptár szinkron > Naptár hozzáadása***
 
 
-          A naptár hozzáadása menüből válaszd ki a Booking opciót és másold ki
+          A naptár hozzáadása menüből válaszd ki az Airbnb opciót és másold ki
           az Appartman naptár linkjét a Link másolása gombbal. Ne zárd be a
           panelt, csak menj át az Airbnb admin felületére
 
