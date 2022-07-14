@@ -46,7 +46,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Product
+        title: Fejlesztés
         text: >
           Director of product management
 
