@@ -39,16 +39,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: flex-start
-    actions:
-      - type: Button
-        label: Jelentkezés
-        altText: Jelentkezés
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        url: 'https://tally.so/r/mY5M2W'
+    actions: []
   - type: FeaturedItemsSection
     colors: colors-a
     title: Nyitott pozícióink
