@@ -205,7 +205,7 @@ sections:
           width: full
         - type: TextFormControl
           name: telefon
-          label: Home address
+          label: Telefonszám
           placeholder: Your home address
           isRequired: false
           width: full
