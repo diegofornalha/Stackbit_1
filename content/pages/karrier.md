@@ -189,7 +189,6 @@ sections:
         - type: EmailFormControl
           name: email
           label: Email
-          placeholder: Email cím
           isRequired: 'true'
           width: 1/2
         - type: TextFormControl
