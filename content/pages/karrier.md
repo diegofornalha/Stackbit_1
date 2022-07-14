@@ -66,7 +66,7 @@ sections:
           text:
             textAlign: left
       - type: FeaturedItem
-        title: Engineering
+        title: Design
         text: >
           UI/UX tervező
 
