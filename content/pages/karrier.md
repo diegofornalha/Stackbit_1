@@ -41,7 +41,7 @@ sections:
         justifyContent: flex-start
   - type: FeaturedItemsSection
     colors: colors-a
-    title: Convinced? check out these open roles
+    title: Nyitott pozícióink
     subtitle: ''
     items:
       - type: FeaturedItem
