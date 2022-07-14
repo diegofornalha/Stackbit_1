@@ -4,7 +4,7 @@ title: Nyitott pozíciók
 sections:
   - type: HeroSection
     colors: colors-f
-    title: Vár az Appartman
+    title: Csatlakozz az Appartman csapatához
     text: |
       Csatlakozz egy fiatal miskolci startuphoz!
     media:
