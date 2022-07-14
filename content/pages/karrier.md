@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     title: Csatlakozz az Appartman csapatához
     text: |
-      Csatlakozz egy fiatal miskolci startuphoz!
+      Vár egy fiatal miskolci start up.
     media:
       type: ImageBlock
       url: /images/twi'er (1).png
