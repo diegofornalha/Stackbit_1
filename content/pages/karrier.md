@@ -88,7 +88,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            altText: Learn more
+            altText: Jelentkezés
             url: 'https://tally.so/r/mY5M2W'
             showIcon: false
             icon: arrowRight
