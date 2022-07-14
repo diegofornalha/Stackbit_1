@@ -48,7 +48,7 @@ sections:
       - type: FeaturedItem
         title: Fejlesztés
         text: >
-          Director of product management
+          Junior/medior front-end fejelsztő
 
 
           **Hibrid (Miskolc)**
