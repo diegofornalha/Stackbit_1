@@ -204,7 +204,7 @@ sections:
         - type: CheckboxFormControl
           name: gdpr
           label: Elfogadom az Adatkezelési nyilatkozatot
-          isRequired: 'false'
+          isRequired: true
           width: full
       submitLabel: Küldés
     media: null
