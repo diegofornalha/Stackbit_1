@@ -186,7 +186,7 @@ sections:
         - type: TextFormControl
           name: name
           label: Név
-          placeholder: Név
+          placeholder: Vezetéknév és keresztnév
           isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
