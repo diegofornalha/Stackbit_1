@@ -74,6 +74,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+            url: 'https://tally.so/r/mY5M2W'
       - type: FeaturedItem
         title: Design
         text: >
