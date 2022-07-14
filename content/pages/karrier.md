@@ -51,7 +51,7 @@ sections:
           Junior/medior front-end fejelsztő
 
 
-          **Hibrid (Miskolc)**
+          **Miskolc**
 
 
           Lorem Ipsum is simply dummy text of the printing and typesetting
