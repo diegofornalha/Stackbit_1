@@ -5,7 +5,8 @@ sections:
   - type: HeroSection
     colors: colors-f
     title: We’re growing fast
-    text: You should join us.
+    text: |
+      Csatlakozz egy fiatal miskolci startuphoz!
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
