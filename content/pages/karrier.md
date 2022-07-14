@@ -9,7 +9,7 @@ sections:
       Csatlakozz egy fiatal miskolci startuphoz!
     media:
       type: ImageBlock
-      url: /images/hero-4.jpg
+      url: /images/twi'er (1).png
       caption: Team meeting
       altText: Hero section image
     styles:
