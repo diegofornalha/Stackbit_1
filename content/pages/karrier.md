@@ -198,15 +198,15 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
-        - type: CheckboxFormControl
-          name: gdpr
-          label: Elfogadom az Adatkezelési nyilatkozatot
-          isRequired: true
-          width: full
         - type: TextFormControl
           name: telefon
           label: Telefonszám
           isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: gdpr
+          label: Elfogadom az Adatkezelési nyilatkozatot
+          isRequired: true
           width: full
       submitLabel: Küldés
     media: null
