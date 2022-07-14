@@ -203,6 +203,12 @@ sections:
           label: Elfogadom az Adatkezelési nyilatkozatot
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: home-address
+          label: Home address
+          placeholder: Your home address
+          isRequired: false
+          width: full
       submitLabel: Küldés
     media: null
     styles:
