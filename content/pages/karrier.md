@@ -42,7 +42,7 @@ sections:
     actions:
       - type: Button
         label: Jelentkezés
-        altText: Learn more
+        altText: Jelentkezés
         url: /
         showIcon: false
         icon: arrowRight
