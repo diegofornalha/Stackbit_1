@@ -185,7 +185,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: Név
           placeholder: Név
           isRequired: 'true'
           width: 1/2
