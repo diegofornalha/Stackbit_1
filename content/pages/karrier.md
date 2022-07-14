@@ -173,7 +173,7 @@ sections:
         textAlign: center
   - type: ContactSection
     colors: colors-f
-    title: Not seeing the right role? Contact us
+    title: Jelentkezéshez vedd fel velünk a kapcsolatot!
     text: >-
       We might have more roles soon, and we’ll contact you if we think there
       might be a good match
