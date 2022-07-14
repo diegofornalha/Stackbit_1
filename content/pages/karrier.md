@@ -68,10 +68,10 @@ sections:
       - type: FeaturedItem
         title: Engineering
         text: >
-          Head of eng
+          UI/UX tervező
 
 
-          **San Francisco**
+          **Hibrid (Miskolc)**
 
 
           Lorem Ipsum is simply dummy text of the printing and typesetting
