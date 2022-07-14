@@ -51,7 +51,7 @@ sections:
           Director of product management
 
 
-          **San Francisco**
+          **Hibrid (Miskolc)**
 
 
           Lorem Ipsum is simply dummy text of the printing and typesetting
