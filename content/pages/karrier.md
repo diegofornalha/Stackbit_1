@@ -203,7 +203,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: gdpr
-          label: Sign me up to receive updates
+          label: Elfogadom az Adatkezelési nyilatkozatot
           isRequired: 'false'
           width: full
       submitLabel: Küldés
