@@ -186,7 +186,7 @@ sections:
         - type: TextFormControl
           name: name
           label: Name
-          placeholder: Your name
+          placeholder: Név
           isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
