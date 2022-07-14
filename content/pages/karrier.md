@@ -89,7 +89,7 @@ sections:
           - type: Button
             label: Learn more
             altText: Learn more
-            url: /
+            url: 'https://tally.so/r/mY5M2W'
             showIcon: false
             icon: arrowRight
             iconPosition: right
