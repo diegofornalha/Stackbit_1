@@ -65,6 +65,16 @@ sections:
             textAlign: left
           text:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: Learn more
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - type: FeaturedItem
         title: Design
         text: >
