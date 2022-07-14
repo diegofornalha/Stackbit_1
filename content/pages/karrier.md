@@ -182,7 +182,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Név
+          label: Vezetéknév és keresztnév
           isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
