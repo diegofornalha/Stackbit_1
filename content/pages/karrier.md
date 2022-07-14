@@ -202,7 +202,7 @@ sections:
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
-          name: updates
+          name: gdpr
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
