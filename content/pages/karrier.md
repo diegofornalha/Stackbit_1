@@ -47,16 +47,10 @@ sections:
     items:
       - type: FeaturedItem
         title: Fejlesztés
-        text: >
+        text: |
           Junior/medior front-end fejelsztő
 
-
           **Miskolc**
-
-
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
         featuredImage: null
         styles:
           title:
