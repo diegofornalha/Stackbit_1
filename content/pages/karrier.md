@@ -206,7 +206,6 @@ sections:
         - type: TextFormControl
           name: telefon
           label: Telefonszám
-          placeholder: Your home address
           isRequired: false
           width: full
       submitLabel: Küldés
