@@ -78,7 +78,7 @@
             "className": "custom-logo-css",
             "styles": {
                 "self": {
-                    "opacity": 100,
+                    "opacity": 100
                 }
             },
             "type": "ImageBlock",
