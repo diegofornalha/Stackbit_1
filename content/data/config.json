@@ -77,7 +77,7 @@
             "elementId": "",
             "styles": {
                 "self": {
-                    "opacity": 100
+                    "opacity": 80
                 }
             },
             "type": "ImageBlock",
