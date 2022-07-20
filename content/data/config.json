@@ -75,6 +75,7 @@
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": "",
+            "className": "custom-logo-css",
             "styles": {
                 "self": {
                     "opacity": 100,
