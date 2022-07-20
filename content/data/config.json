@@ -74,8 +74,7 @@
         "logo": {
             "altText": "altText of the image",
             "caption": "Caption of the image",
-            "elementId": "",
-            "className": "custom-logo-css",
+            "elementId": "appartman-main-logo",
             "styles": {
                 "self": {
                     "opacity": 100
