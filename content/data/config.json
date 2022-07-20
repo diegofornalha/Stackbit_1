@@ -78,7 +78,6 @@
             "styles": {
                 "self": {
                     "opacity": 100,
-                    "height": "10px"
                 }
             },
             "type": "ImageBlock",
