@@ -204,7 +204,7 @@ class Pricing extends React.Component {
                                         </span>
                                     </div>
                                     <div className='sb-markdown text-left mt-4'>
-                                        <p>Az ingyenes verzió pár héten belül lesz elérhető. A próbaidő lejártával automatikusan lép érvénybe.</p>
+                                        <p>Az ingyenes verzió a próbaidő lejártával automatikusan lép érvénybe.</p>
                                     </div>
                                 </div>
                                 <div className='pricing-item-features'>
