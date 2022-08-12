@@ -850,8 +850,8 @@ sections:
           opacity: 100
     title: Csatlakozzon szakmai csoportunkhoz a Facebookon!
     text: >
-      Már több, mint 2500 szállásadó cserél naponta ötleteket, tippeket és
-      fontos tudnivalókat.
+      Már közel 3000 szállásadó cserél naponta ötleteket, tippeket és fontos
+      tudnivalókat.
     actions:
       - type: Button
         label: Szállásadók szakmai közössége
