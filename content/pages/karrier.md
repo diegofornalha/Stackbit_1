@@ -352,7 +352,6 @@ sections:
           - type: Button
             label: Jelentkezés
             altText: Jelentkezés
-            url: /
             showIcon: false
             icon: arrowRight
             iconPosition: right
