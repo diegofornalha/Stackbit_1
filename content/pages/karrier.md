@@ -258,10 +258,93 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ###### online marketing asszisztens
+
+
+          #### Leírás
+
+
+          Legyél a következő tagja az Appartman marketing csapatának! Az
+          Appartman egy foglalási rendszert és egy szálláshely kezelő szoftvert
+          fejlesztő cég. Egy nemzetközi terjeszkedés előtt álló digitális termék
+          marketingjének lehetsz meghatározó része csapatunk új tagjaként.
+
+
+          #### A következő feladatokban vennél részt nálunk
+
+
+          *   marketing mérési pontok, KPI-ok kialakítása
+
+
+          *   Facebook kampány létrehozása (célközönség meghatározása, kreatívok
+          készítése, optimalizálás)
+
+
+          *   Google Ads kampány létrehozása (célközönség meghatározása,
+          kreatívok készítése, optimalizálás)
+
+
+          *   Facebook közösségünk (Szállásadók szakmai közössége) moderálása
+
+
+          *   cikkek írása (közösségi média tartalmak és blog)
+
+
+          *   weboldal konverziónövelése
+
+
+          *   közösségi média posztok készítése
+
+
+          #### Követelmények
+
+
+          *   tapasztalat Facebook és Google Ads kampányok létrehozásában és
+          kezelésében
+
+
+          *   kreatív szoftverek ismerete (Figma, Canva) grafikai tartalmak
+          készítéséhez hirdetésekhez és posztokhoz
+
+
+          *   tapasztalat szövegírásban
+
+
+          *   magabiztos angol nyelvtudás
+
+
+          #### Előnyök
+
+
+          *   más kreatív szoftverek ismerete (pl.: Affinity vagy Adobe
+          szoftverek)
+
+
+          *   Notion ismeret
+
+
+          *   whiteboard szoftver ismeret (pl.: FigJam, Miro)
+
+
+          #### Amit mi adunk
+
+
+          *   mentorálás
+
+
+          *   szakmai kihívást jelentő és fejlődési potenciállal rendelkező
+          feladatok
+
+
+          *   rugalmas időbeosztás
+
+
+          *   munkaállomás coworking irodában
+
+
+          *   tök jó fejek vagyunk
+
         author: ''
         rating: 1
         isRatingVisible: false
