@@ -72,7 +72,7 @@ sections:
       - type: FeaturedItem
         title: Design
         text: >+
-          ### Leírás
+          #### Leírás
 
 
           Legyél a következő tagja az Appartman termék tervező csapatának! Az
@@ -82,7 +82,7 @@ sections:
           csapatunk új designereként.
 
 
-          ### Munkavégzés helye és módja
+          #### Munkavégzés helye és módja
 
 
           Miskolc (hibrid) – rugalmasan kezeljük a munkavégzés helyét, de
@@ -90,7 +90,7 @@ sections:
           alkalom). Ettől függetlenül nem zárkózunk el a távoli munkavégzéstől.
 
 
-          ### A következő feladatokban vennél részt nálunk
+          #### A következő feladatokban vennél részt nálunk
 
 
           Felhasználói felület tervezése szoros együttműködésben a
@@ -116,7 +116,7 @@ sections:
           *   felhasználói kutatás (interjúk, tesztek lebonyolítása)
 
 
-          ### Követelmények
+          #### Követelmények
 
 
           *   szakmai tapasztalat, és/vagy magas szintű érdeklődés a terület és
@@ -129,11 +129,7 @@ sections:
           *   magabiztos angol nyelvtudás
 
 
-          ### Előnyök
-
-
-          *   más kreatív szoftverek ismerete (pl.: Affinity vagy Adobe
-          szoftverek)
+          #### Előnyök
 
 
           *   Notion ismeret
@@ -148,7 +144,7 @@ sections:
           *   releváns portfólió (UI tervek, prototípusok, drótvázak)
 
 
-          ### Amit mi adunk
+          #### Amit mi adunk
 
 
           *   mentorálás
