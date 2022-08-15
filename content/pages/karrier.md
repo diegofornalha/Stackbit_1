@@ -71,10 +71,101 @@ sections:
             url: 'https://tally.so/r/mY5M2W'
       - type: FeaturedItem
         title: Design
-        text: |+
-          UI/UX tervező
+        text: >+
+          ### Leírás
 
-          **Miskolc**
+
+          Legyél a következő tagja az Appartman termék tervező csapatának! Az
+          Appartman egy foglalási rendszert és egy szálláshely kezelő szoftvert
+          fejlesztő cég. Egy nemzetközi terjeszkedés előtt álló digitális termék
+          tervezésének és továbbfejlesztésének lehetsz meghatározó része
+          csapatunk új designereként.
+
+
+          ### Munkavégzés helye és módja
+
+
+          Miskolc (hibrid) – rugalmasan kezeljük a munkavégzés helyét, de
+          tapasztalataink szerint hatékony a rendszeres közös munka (heti 1-2
+          alkalom). Ettől függetlenül nem zárkózunk el a távoli munkavégzéstől.
+
+
+          ### A következő feladatokban vennél részt nálunk
+
+
+          Felhasználói felület tervezése szoros együttműködésben a
+          fejlesztőkkel.
+
+
+          *   meglévő funkciók fejlesztése kutatás eredmények alapján
+
+
+          *   új funkciók működésének tervezése felhasználói kutatás és
+          üzleti/technológiai követelmények alapján
+
+
+          *   felhasználói felület grafikai elemeinek tervezése
+
+
+          *   drótvázak tervezése
+
+
+          *   prototípusok tervezése
+
+
+          *   felhasználói kutatás (interjúk, tesztek lebonyolítása)
+
+
+          ### Követelmények
+
+
+          *   szakmai tapasztalat, és/vagy magas szintű érdeklődés a terület és
+          a fejlődés iránt
+
+
+          *   UI tervező szoftver ismerete (lehetőleg Figma)
+
+
+          *   magabiztos angol nyelvtudás
+
+
+          ### Előnyök
+
+
+          *   más kreatív szoftverek ismerete (pl.: Affinity vagy Adobe
+          szoftverek)
+
+
+          *   Notion ismeret
+
+
+          *   whiteboard szoftver ismeret (pl.: FigJam, Miro)
+
+
+          *   alapszintű HTML és CSS ismeret
+
+
+          *   releváns portfólió (UI tervek, prototípusok, drótvázak)
+
+
+          ### Amit mi adunk
+
+
+          *   mentorálás
+
+
+          *   alkalmazkodunk a mindenkori készségeidhez, és annak megfeleően
+          adunk kihívást és fejlődési potenciált jelentő feladatokat – hidd el,
+          rengeteg szintű és számú feladat felmerül egy szoftver tervezésében
+
+
+          *   rugalmas időbeosztás
+
+
+          *   munkaállomás coworking irodában
+
+
+          *   tök jó fejek vagyunk
 
         featuredImage: null
         styles:
