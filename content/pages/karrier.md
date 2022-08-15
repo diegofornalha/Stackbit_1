@@ -348,7 +348,16 @@ sections:
         author: ''
         rating: 1
         isRatingVisible: false
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: Learn more
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           title:
             textAlign: left
