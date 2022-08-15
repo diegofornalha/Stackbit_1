@@ -274,7 +274,9 @@ sections:
           #### Munkavégzés hely és módja
 
 
-          m
+          Miskolc (hibrid) – rugalmasan kezeljük a munkavégzés helyét, de
+          tapasztalataink szerint hatékony a rendszeres közös munka (heti 1-2
+          alkalom). Ettől függetlenül nem zárkózunk el a távoli munkavégzéstől.
 
 
           #### A következő feladatokban vennél részt nálunk
