@@ -271,6 +271,12 @@ sections:
           marketingjének lehetsz meghatározó része csapatunk új tagjaként.
 
 
+          #### Munkavégzés hely és módja
+
+
+          m
+
+
           #### A következő feladatokban vennél részt nálunk
 
 
