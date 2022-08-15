@@ -47,10 +47,78 @@ sections:
     items:
       - type: FeaturedItem
         title: Fejlesztés
-        text: |
-          Junior/medior front-end fejelsztő
+        text: >+
+          #### Leírás
 
-          **Miskolc**
+
+          Legyél a következő tagja az Appartman fejlesztő csapatának! Az
+          Appartman egy foglalási rendszert és egy szálláshely kezelő szoftvert
+          fejlesztő cég. Egy nemzetközi terjeszkedés előtt álló digitális termék
+          fejlesztésének lehetsz meghatározó része csapatunk új fejlesztőjeként.
+
+
+          #### Munkavégzés helye és módja
+
+
+          Csapatunk egy része Miskolcon, egy része pedig Budapesten van.
+          Nyitottak vagyunk a távoli munkavégzésre
+
+
+          #### A következő feladatokban vennél részt nálunk
+
+
+          Foglalási rendszer front-end fejlesztése szoros együttműködésben a
+          designerekkel.
+
+
+          *   Új funkciók fejlesztése
+
+
+          *   Meglévő funkciók továbbfejlesztése
+
+
+          *   Hibajavítások
+
+
+          #### Követelmények
+
+
+          *   React ismeret és használat (Next.js előny)
+
+
+          *   Typescript ismeret és használat
+
+
+          *   Git, GitHub ismeret és használat
+
+
+          *   magabiztos angol nyelvtudás
+
+
+          #### Előnyök
+
+
+          *   Node.js backend framework ismeret (lehetőleg Express alapú)
+
+
+          #### Amit mi adunk
+
+
+          *   mentorálás
+
+
+          *   szakmai kihívást jelentő és fejlődési potenciállal rendelkező
+          feladatok
+
+
+          *   rugalmas időbeosztás
+
+
+          *   munkaállomás coworking irodában
+
+
+          *   tök jó fejek vagyunk
+
         featuredImage: null
         styles:
           title:
