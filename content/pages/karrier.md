@@ -72,6 +72,9 @@ sections:
       - type: FeaturedItem
         title: Design
         text: >+
+          ###### ui/ux tervező
+
+
           #### Leírás
 
 
