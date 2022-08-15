@@ -357,6 +357,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+            url: 'https://tally.so/r/mY5M2W'
         styles:
           title:
             textAlign: left
