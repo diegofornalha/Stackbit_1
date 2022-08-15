@@ -350,7 +350,7 @@ sections:
         isRatingVisible: false
         actions:
           - type: Button
-            label: Learn more
+            label: Jelentkezés
             altText: Learn more
             url: /
             showIcon: false
