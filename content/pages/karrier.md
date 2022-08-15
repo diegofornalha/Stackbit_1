@@ -154,8 +154,8 @@ sections:
 
 
           *   alkalmazkodunk a mindenkori készségeidhez, és annak megfeleően
-          adunk kihívást és fejlődési potenciált jelentő feladatokat – hidd el,
-          rengeteg szintű és számú feladat felmerül egy szoftver tervezésében
+          adunk kihívást és fejlődési potenciált jelentő feladatokat – rengeteg
+          szintű és számú feladat felmerül egy szoftver tervezésében
 
 
           *   rugalmas időbeosztás
