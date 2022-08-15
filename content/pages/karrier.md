@@ -48,6 +48,9 @@ sections:
       - type: FeaturedItem
         title: Fejlesztés
         text: >+
+          ###### front-end fejlesztő
+
+
           #### Leírás
 
 
