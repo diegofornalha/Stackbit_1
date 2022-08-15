@@ -560,7 +560,7 @@ sections:
     text: |
       ###### ingyenes próbidőszak
 
-      1 hónap ingyenes próbaidő.
+      14 nap ingyenes próbaidő.
     actions:
       - type: Button
         label: Ingyenes regisztráció
