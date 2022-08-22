@@ -98,6 +98,20 @@ sections:
           ### Hogy kell összekapcsolni a naptárakat?
 
 
+
+
+          ###### összekötési segédlet app
+
+
+          Próbáld ki az összekötési segédletünket, amiben lépésről lépésre
+          haladva végezheted el az összekötést! [Az összekötési segédletet itt
+          találod](https://ical.appartman.hu).
+
+
+
+
+
+
           Az iCal esetében **minden egyes lakóegységhez tartozik egy naptár
           minden foglalási rendszeren, vagy közvetítő oldalon**. Tehát ha van
           egy szobád, és azt értékesíted az Appartman, a
