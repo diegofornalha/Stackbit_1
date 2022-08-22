@@ -12,8 +12,8 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     text: >
-      Növelje direkt foglalásait saját Facebook vagy weboldalán és hagyja az
-      oda-vissza emailezést.
+      Fogadjon könnyedén foglalásokat a saját weboldaláról vagy Facebook
+      oldaláról és hagyja az oda-vissza emailezést.
     actions:
       - type: Button
         label: Ingyenes regisztráció
