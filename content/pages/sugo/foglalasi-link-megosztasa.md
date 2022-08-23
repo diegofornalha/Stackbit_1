@@ -72,7 +72,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
+        text: >+
           ### Hogyan lehet beilleszteni bárhova az Appartman foglalási
           rendszert?
 
@@ -126,7 +126,17 @@ sections:
 
 
           Ha valaki Google-ben, vagy Google Térképeken talál a szálláshelyére,
-          rögtön le tudja foglalni.
+          rögtön le tudja foglalni. A Google Cégem szekció az a kiemelt rész,
+          ami összegyűjti az adott keresésre legjobban illő vállalkozás adatait
+          a jobb oldalon, ahogy az ábrán látszik. Google Cégem profilt a
+          vállalkozás tulajdonosa tud készíteni. Ha szálláshelyének nincsen
+          ilyen, akkor ajánljuk, hogy hozzon létre egy profilt. Itt a Webhely
+          gombba be lehet illeszteni az Appartmant, a saját weboldalt, vagy akár
+          a Facebook oldal linkjét is.
+
+
+          ![](/images/google-cegem-maganszallashely-seo-direkt-foglalas.png)
+
         featuredImage: null
         styles:
           title:
