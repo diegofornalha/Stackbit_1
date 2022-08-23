@@ -415,4 +415,6 @@ iframe {
     height: 30px;
     margin: 0;
 }
-.pl4
+.pl-4 {
+    padding-left: 50px;
+}
