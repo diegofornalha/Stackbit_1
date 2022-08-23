@@ -34,7 +34,8 @@ sections:
       helyen
     media:
       type: ImageBlock
-      url: /images/hero-64c54ab6.png
+      url: >-
+        /images/online-foglalasi-rendszer-weboldal-maganszallasoknak-naptar-szinkronnal.png
       altText: Image alt text
       caption: Image caption
     styles:
