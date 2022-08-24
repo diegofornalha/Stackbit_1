@@ -669,10 +669,13 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         elementId: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          #### A vendégek a foglalási felületen leadják a foglalási kérésüket
+
+
+          Át tudják tekinteni a szabad dátumokat, a képeket, a szobákat, a
+          foglalási feltételeket, illetve a rendszer automatikusan kiszámolja
+          nekik az árakat a szezonális beállítások alapján.
         author: ''
         rating: 1
         isRatingVisible: false
