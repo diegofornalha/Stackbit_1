@@ -94,7 +94,7 @@ sections:
 
           Minél több online csatornájára illeszti be, annál több felületről
           elérhető lesz a saját, közvetlen foglalási felülete, növelve így a
-          közvetlen foglalásaid arányát. Mi a következő csatornákat ajánljuk
+          közvetlen foglalásai arányát. Mi a következő csatornákat ajánljuk
           elsősorban:
 
 
@@ -168,8 +168,6 @@ sections:
 
 
           ![](/images/online-foglalas-instagramrol-appartman-foglalomotor.png)
-
-
 
 
           #### Google Cégem
