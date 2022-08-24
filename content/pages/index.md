@@ -622,6 +622,9 @@ sections:
       - elementId: ''
         subtitle: ''
         text: >
+          ###### 1.
+
+
           #### A regisztrációt követően a szálláshely kap egy foglalási linket
 
 
