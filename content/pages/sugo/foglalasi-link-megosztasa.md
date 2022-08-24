@@ -151,6 +151,15 @@ sections:
           csoportokon keresztül is tudsz majd online vendéget fogadni.
 
 
+          #### Instagram
+
+
+          Sok szállásadó nem használja ki az Instagram lehetőségeit, pedig innen
+          is lehet foglalásokat szerezni. Különösen akkor ajánljuk, ha szép
+          képeid vannak a szállásodról, mert azokkal sokkal könnyebb meghozni az
+          utazási kedvet.
+
+
           #### Google Cégem
 
 
