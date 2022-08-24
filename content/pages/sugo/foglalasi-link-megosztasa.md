@@ -126,7 +126,12 @@ sections:
 
           A foglalási linket beillesztheted a Facebook oldalak tetején található
           gombba. A gombhoz sok előre megadott opció tartozik, a legjobban a
-          További információ lehetőséget ajánljuk.
+          További információ lehetőséget ajánljuk. A gombot a Facebook oldaladon
+          a gombra rákattintva és a Gomb megváltoztatása opcióval tudja
+          szerkeszteni.
+
+
+          ![](/images/appartman-online-foglalasi-rendszer-facebook.png)
 
 
           ##### Facebook oldal leírás
@@ -153,7 +158,7 @@ sections:
           rögtön le tudja foglalni. A Google Cégem szekció az a kiemelt rész,
           ami összegyűjti az adott keresésre legjobban illő vállalkozás adatait
           a jobb oldalon, ahogy az ábrán látszik. Google Cégem profilt a
-          vállalkozás tulajdonosa tud készíteni. 
+          vállalkozás tulajdonosa tud készíteni.
 
 
           Ha szálláshelyének nincsen Google Cégem profilja, akkor ajánljuk, hogy
