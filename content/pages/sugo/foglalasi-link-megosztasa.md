@@ -72,7 +72,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >+
+        text: >
           ### Hogyan lehet beilleszteni bárhova az Appartman foglalási
           rendszert?
 
@@ -118,8 +118,32 @@ sections:
           #### Facebook oldal, poszt, vagy hirdetés
 
 
-          Akár az oldalára, posztjára rátalálva is tudnak foglalást indítani a
-          vendégek.
+          Akár a közösségi médiáról is könnyedén fogadhat online foglalásokat.
+
+
+          ##### Facebook oldal További információ gomb
+
+
+          A foglalási linket beillesztheted a Facebook oldalak tetején található
+          gombba. A gombhoz sok előre megadott opció tartozik, a legjobban a
+          További információ lehetőséget ajánljuk.
+
+
+          ##### Facebook oldal leírás
+
+
+          A Facebook oldalad névjegyébe is lehet linket beilleszteni, tehát ide
+          is ajánljuk a foglalási link beillesztését.
+
+
+          ##### Facebook posztok, hirdetések
+
+
+          Számos magánszállásadó használja a különböző szállásakereső oldalakba
+          posztolást, és azt a tapasztalatot osztják meg velünk általában, hogy
+          jó forgalmat lehet így elérni. Mivel egy posztba végtelenül egyszerű
+          beillesztni az Appartman foglalási linkjét, így a szálláskereső
+          csoportokon keresztül is tudsz majd online vendéget fogadni.
 
 
           #### Google Cégem
@@ -129,14 +153,18 @@ sections:
           rögtön le tudja foglalni. A Google Cégem szekció az a kiemelt rész,
           ami összegyűjti az adott keresésre legjobban illő vállalkozás adatait
           a jobb oldalon, ahogy az ábrán látszik. Google Cégem profilt a
-          vállalkozás tulajdonosa tud készíteni. Ha szálláshelyének nincsen
-          ilyen, akkor ajánljuk, hogy hozzon létre egy profilt. Itt a Webhely
-          gombba be lehet illeszteni az Appartmant, a saját weboldalt, vagy akár
-          a Facebook oldal linkjét is.
+          vállalkozás tulajdonosa tud készíteni. 
+
+
+          Ha szálláshelyének nincsen Google Cégem profilja, akkor ajánljuk, hogy
+          hozzon létre egyet. Itt a Webhely gombba be lehet illeszteni az
+          Appartmant, a saját weboldalt, vagy akár a Facebook oldal linkjét is.
+          [A Google Cégemhez itt
+          találja](https://www.google.com/intl/hu_hu/business/) a Google saját
+          útmutatóját.
 
 
           ![](/images/google-cegem-maganszallashely-seo-direkt-foglalas.png)
-
         featuredImage: null
         styles:
           title:
