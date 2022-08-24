@@ -137,7 +137,7 @@ sections:
           ##### Facebook oldal leírás
 
 
-          A Facebook oldalad névjegyébe is lehet linket beilleszteni, tehát ide
+          A Facebook oldala névjegyébe is lehet linket beilleszteni, tehát ide
           is ajánljuk a foglalási link beillesztését.
 
 
@@ -148,7 +148,7 @@ sections:
           posztolást, és azt a tapasztalatot osztják meg velünk általában, hogy
           jó forgalmat lehet így elérni. Mivel egy posztba végtelenül egyszerű
           beillesztni az Appartman foglalási linkjét, így a szálláskereső
-          csoportokon keresztül is tudsz majd online vendéget fogadni.
+          csoportokon keresztül is tud majd online vendéget fogadni.
 
 
           #### Instagram
@@ -156,16 +156,18 @@ sections:
 
           Sok szállásadó nem használja ki az Instagram lehetőségeit, pedig innen
           is lehet foglalásokat szerezni. Különösen akkor ajánljuk, ha szép
-          képeid vannak a szállásodról, mert azokkal sokkal könnyebb meghozni az
+          képei vannak a szállásáról, mert azokkal sokkal könnyebb meghozni az
           utazási kedvet.
 
 
           Instagramon a posztokba nem lehet linket beilleszteni, de minden
           profilhoz meg lehet adni egy webhely linket. Ide érdemes bemásolni a
-          foglalási linket, vagy a weboldalad linkjét. 
+          foglalási linket, vagy a weboldala linkjét. A lenti illusztráció
+          mutatja, hogy így milyen egyszerű lesz a felhasználóknak megtekinteni
+          a szabad dátumait.
 
 
-          ![](/images/online-foglalas-instagramrol-appartman.png)
+          ![](/images/online-foglalas-instagramrol-appartman-foglalomotor.png)
 
 
 
