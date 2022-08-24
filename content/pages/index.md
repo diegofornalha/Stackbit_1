@@ -648,6 +648,9 @@ sections:
       - elementId: ''
         subtitle: ''
         text: >
+          ###### 2.
+
+
           #### A foglalási linken keresztül sok helyről elérhetővé tehető a
           saját foglalási felület: weboldal, Facebook poszt, stb.
 
