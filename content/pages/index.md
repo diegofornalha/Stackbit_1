@@ -676,6 +676,9 @@ sections:
       - type: FeaturedItem
         elementId: ''
         text: >
+          ###### 3.
+
+
           #### A vendégek a foglalási felületen leadják a foglalási kérésüket
 
 
