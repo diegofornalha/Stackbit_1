@@ -731,12 +731,18 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: ''
-        text: |
+        text: >
           ###### 5.
 
-          #### Naptár szinkron
 
-          Izé
+          #### A naptár szinkron frissíti a foglalt dátumokkal a közvetítő
+          oldalain a naptárakat
+
+
+          Ha beállítja a naptár szinkront, pár perc elteltével automatikusan
+          frissülnek a dátumok a Szallas.hu-n, Bookingon, vagy az Airbnb-n.
+          Természetesen ha a közvetítő oldalakon érkezik foglalás, akkor az
+          Appartmanon is megjelennek a zárolt éjszakák. 
         author: ''
         rating: 1
         isRatingVisible: false
