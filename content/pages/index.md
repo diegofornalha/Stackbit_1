@@ -670,7 +670,6 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Item Title
-        subtitle: trh
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
