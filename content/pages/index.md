@@ -703,6 +703,9 @@ sections:
       - elementId: ''
         subtitle: ''
         text: >
+          ###### 4.
+
+
           #### A foglalók automatikus emailben értesülnek a függőben lévő, majd
           a visszaigazolt foglalásról
 
