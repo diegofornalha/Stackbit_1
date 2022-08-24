@@ -160,6 +160,16 @@ sections:
           utazási kedvet.
 
 
+          Instagramon a posztokba nem lehet linket beilleszteni, de minden
+          profilhoz meg lehet adni egy webhely linket. Ide érdemes bemásolni a
+          foglalási linket, vagy a weboldalad linkjét. 
+
+
+          ![](/images/online-foglalas-instagramrol-appartman.png)
+
+
+
+
           #### Google Cégem
 
 
