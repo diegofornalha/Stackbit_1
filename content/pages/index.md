@@ -628,10 +628,10 @@ sections:
           #### A regisztrációt követően a szálláshely kap egy foglalási linket
 
 
-          Példa: [foglalas.appartman.hu/minta-appartman.
-          ](https://foglalas.appartman.hu/minta-appartman)Ez lényegében a
-          szálláshelyed foglalási weboldala lesz, ahol tudnak majd foglalni a
-          vendégek.
+          Példa:
+          [foglalas.appartman.hu/minta-appartman.](https://foglalas.appartman.hu/minta-appartman)
+          Ez lényegében a szálláshelyed foglalási weboldala lesz, ahol tudnak
+          majd foglalni a vendégek.
         author: ''
         rating: 1
         isRatingVisible: false
