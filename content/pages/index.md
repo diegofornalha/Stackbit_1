@@ -774,7 +774,7 @@ sections:
 
           Csak akkor kell fizetned, ha van az Appartmanon keresztül érkezett
           foglalásod, ami meg is valósul. 2% jutalékot számolunk a szállásdíjra
-          (és az extra szolgáltatások összegére, értékesítesz ilyet az
+          (és az extra szolgáltatások összegére, ha értékesítesz ilyet az
           Appartmanon).
         author: ''
         rating: 1
