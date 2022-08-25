@@ -771,13 +771,13 @@ sections:
           ###### 6.
 
 
-          #### 14 napig teljesen ingyen használod, és utána is csak a
-          megvalósult foglalásokért fizetsz
+          #### 14 napig teljesen ingyen használható, és utána is csak a
+          megvalósult foglalásokért kell fizetni
 
 
-          Csak akkor kell fizetned, ha van az Appartmanon keresztül érkezett
-          foglalásod, ami meg is valósul. 2% jutalékot számolunk a szállásdíjra
-          (és az extra szolgáltatások összegére, ha értékesítesz ilyet az
+          Csak akkor kell fizetnie, ha van az Appartmanon keresztül érkezett
+          foglalása, ami meg is valósul. 2% jutalékot számolunk a szállásdíjra
+          (és az extra szolgáltatások összegére, ha értékesít ilyet az
           Appartmanon).
         author: ''
         rating: 1
