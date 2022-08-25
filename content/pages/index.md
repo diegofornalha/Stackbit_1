@@ -625,12 +625,13 @@ sections:
           ###### 1.
 
 
-          #### A regisztrációt követően a szálláshely kap egy foglalási linket
+          #### A regisztrációt követően a szálláshely kap egy foglalási linket,
+          amit a megadott adatokból és képekből generálunk
 
 
           Példa:
           [foglalas.appartman.hu/minta-appartman.](https://foglalas.appartman.hu/minta-appartman)
-          Ez lényegében a szálláshelyed foglalási weboldala lesz, ahol tudnak
+          Ez lényegében a szálláshelye foglalási weboldala lesz, ahol tudnak
           majd foglalni a vendégek.
         author: ''
         rating: 1
