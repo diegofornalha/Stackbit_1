@@ -765,10 +765,18 @@ sections:
         elementId: ''
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          ###### 6.
+
+
+          ##### 14 napig teljesen ingyen használod, és utána is csak a
+          megvalósult foglalásokért fizetsz
+
+
+          Csak akkor kell fizetned, ha van az Appartmanon keresztül érkezett
+          foglalásod, ami meg is valósul. 2% jutalékot számolunk a szállásdíjra
+          (és az extra szolgáltatások összegére, értékesítesz ilyet az
+          Appartmanon).
         author: ''
         rating: 1
         isRatingVisible: false
