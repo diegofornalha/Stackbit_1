@@ -763,7 +763,6 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         elementId: ''
-        title: Item Title
         subtitle: ''
         text: >
           ###### 6.
