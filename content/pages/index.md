@@ -768,7 +768,7 @@ sections:
           ###### 6.
 
 
-          ##### 14 napig teljesen ingyen használod, és utána is csak a
+          #### 14 napig teljesen ingyen használod, és utána is csak a
           megvalósult foglalásokért fizetsz
 
 
