@@ -687,7 +687,10 @@ sections:
 
           Át tudják tekinteni a szabad dátumokat, a képeket, a szobákat, a
           foglalási feltételeket, illetve a rendszer automatikusan kiszámolja
-          nekik az árakat a szezonális beállítások alapján.
+          nekik az árakat a szezonális beállítások alapján. Fontos, hogy csak az
+          elérhetőségnek és az áraknak megfelelő foglalást tudnak leadni, ha egy
+          szobában már van foglalás, akkor oda már nem tudnak foglalni azonos
+          dátumok esetén.
         author: ''
         rating: 1
         isRatingVisible: false
