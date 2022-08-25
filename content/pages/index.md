@@ -633,6 +633,9 @@ sections:
           [foglalas.appartman.hu/minta-appartman.](https://foglalas.appartman.hu/minta-appartman)
           Ez lényegében a szálláshelye foglalási weboldala lesz, ahol tudnak
           majd foglalni a vendégek.
+
+
+          ![](/images/online-szobafoglalasi-rendszer-naptar-szinkron-automatikus-naptar-frissites.png)
         author: ''
         rating: 1
         isRatingVisible: false
