@@ -143,6 +143,13 @@ sections:
           ### Emailek szerkesztése
 
 
+          ```
+
+          Menü > Beállítások > Foglalások visszaigazolása és emailek
+
+          ```
+
+
           A szövegmezőkben adható meg az egyedi bekezdés. A szakaszcím megadása
           utána Enterrel lehet további szöveget megadni. Az "Email előnézet"
           gombbal megtekintheti, hogy hogy néz majd ki a küldött email.
