@@ -70,7 +70,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
+        text: >+
           ### Visszaigazoláshoz kötött foglalások beállítása
 
 
@@ -168,14 +168,6 @@ sections:
 
           ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-06%20-%2017.46.54.png)
 
-
-          \---
-
-
-          \__\_
-
-
-          \*\*\*
         featuredImage: null
         styles:
           title:
