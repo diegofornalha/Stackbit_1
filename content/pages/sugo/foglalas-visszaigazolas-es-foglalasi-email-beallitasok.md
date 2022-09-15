@@ -100,6 +100,22 @@ sections:
           utalni az előleget
 
 
+          ###### 2. email
+
+
+          ##### "Sikeres foglalás" email
+
+
+          *   akkor kapja meg a vendég, ha a szállásadó visszaigazolja a
+          foglalást
+
+
+          <!---->
+
+
+          *   szintén testre szabható, ellátható egyedi részekkel
+
+
           ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-06%20-%2017.46.54.png)
 
 
