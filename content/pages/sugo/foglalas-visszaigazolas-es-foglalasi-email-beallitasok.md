@@ -79,7 +79,7 @@ sections:
           kérésről kapott emailben, vagy az Appartman felületén.
 
 
-          #### Visszaigazoláshoz kötött foglalások esetén küldött emailek
+          #### Visszaigazoláshoz kötött foglalások esetén érvényesülő folyamat
 
 
           ##### 1. "Foglalása feldolgozás alatt van" email
