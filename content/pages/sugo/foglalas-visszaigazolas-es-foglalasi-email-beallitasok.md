@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          ## Visszaigazoláshoz kötött foglalások beállítása
+          ### Visszaigazoláshoz kötött foglalások beállítása
 
 
           > A visszaigazolás bekapcsolása esetén csak akkor lesz sikeres a
@@ -79,10 +79,10 @@ sections:
           kérésről kapott emailben, vagy az Appartman felületén.
 
 
-          ### Visszaigazoláshoz kötött foglalások esetén küldött emailek
+          #### Visszaigazoláshoz kötött foglalások esetén küldött emailek
 
 
-          ###### 1. email 
+          ###### 1. email
 
 
           ##### "Foglalása feldolgozás alatt van" email
