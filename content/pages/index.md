@@ -625,8 +625,8 @@ sections:
           ###### 1.
 
 
-          #### A regisztrációt követően a szálláshely kap egy foglalási linket,
-          amit a megadott adatokból és képekből generálunk
+          #### A regisztrációt követően a szálláshely kap egy foglalási
+          weboldalt, amit a megadott adatokból és képekből generálunk
 
 
           Példa:
