@@ -109,10 +109,6 @@ sections:
           *   akkor kapja meg a vendég, ha a szállásadó visszaigazolja a
           foglalást
 
-
-          <!---->
-
-
           *   szintén testre szabható, ellátható egyedi részekkel
 
 
