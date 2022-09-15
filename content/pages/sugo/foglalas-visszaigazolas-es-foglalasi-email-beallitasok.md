@@ -143,11 +143,7 @@ sections:
           ### Emailek szerkesztése
 
 
-          ```
-
-          Menü > Beállítások > Foglalások visszaigazolása és emailek
-
-          ```
+          ***Menü > Beállítások > Foglalások visszaigazolása és emailek***
 
 
           A szövegmezőkben adható meg az egyedi bekezdés. A szakaszcím megadása
