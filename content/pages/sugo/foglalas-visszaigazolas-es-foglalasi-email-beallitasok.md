@@ -127,9 +127,6 @@ sections:
           *   automatikusan kapja a vendég a foglalás leadása után
 
 
-          *   testre szabható és ellátható egyedi bekezdésekkel
-
-
           ##### 2. "Új foglalás" email
 
 
