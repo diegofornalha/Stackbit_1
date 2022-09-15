@@ -97,13 +97,13 @@ sections:
           utalni az előleget
 
 
-          ##### 3. "Új foglalás" email
+          ##### 2. "Új foglalás" email
 
 
           *   ön kapja a vendég adataival, és a foglalás részleteivel
 
 
-          ##### 2. "Sikeres foglalás" email
+          ##### 3. "Sikeres foglalás" email
 
 
           *   akkor kapja meg a vendég, ha a szállásadó visszaigazolja a
