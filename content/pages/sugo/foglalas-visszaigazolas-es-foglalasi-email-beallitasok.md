@@ -79,11 +79,22 @@ sections:
           kérésről kapott emailben, vagy az Appartman felületén.
 
 
-
-
           ### Visszaigazoláshoz kötött foglalások esetén küldött emailek
 
 
+          ###### 1. email 
+
+
+          ##### "Foglalása feldolgozás alatt van" email
+
+
+          *   automatikusan kapja a foglaló, miután leadta a foglalási kérését
+
+
+          <!---->
+
+
+          *   a naptár zárolja foglalási kérésben szereplő dátumokat
 
 
           ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-06%20-%2017.46.54.png)
