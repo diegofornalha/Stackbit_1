@@ -86,10 +86,13 @@ sections:
           vagy el lehet utasítani a foglalást egy gombnyomással.*
 
 
-          **
+          \*\*
 
 
           #### Visszaigazoláshoz kötött foglalások esetén érvényesülő folyamat
+
+
+          ![](/images/visszaigazolashoz-kotott-foglalas.png)
 
 
           ##### 1. "Foglalása feldolgozás alatt van" email
@@ -129,6 +132,9 @@ sections:
 
 
           #### Visszaigazolás nélküli foglalások esetén érvényesülő folyamat
+
+
+          ![](/images/visszaigazolas-nelkuli-beallitak.png)
 
 
           ##### 1. "Sikeres foglalás" email
