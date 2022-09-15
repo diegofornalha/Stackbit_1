@@ -86,7 +86,7 @@ sections:
           vagy el lehet utasítani a foglalást egy gombnyomással.*
 
 
-          \*\*
+          \*\*\*
 
 
           #### Visszaigazoláshoz kötött foglalások esetén érvényesülő folyamat
@@ -167,6 +167,15 @@ sections:
 
 
           ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-06%20-%2017.46.54.png)
+
+
+          \---
+
+
+          \__\_
+
+
+          \*\*\*
         featuredImage: null
         styles:
           title:
