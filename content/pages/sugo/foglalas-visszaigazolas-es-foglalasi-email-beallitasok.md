@@ -82,10 +82,7 @@ sections:
           #### Visszaigazoláshoz kötött foglalások esetén küldött emailek
 
 
-          ###### 1. email
-
-
-          ##### "Foglalása feldolgozás alatt van" email
+          ##### 1. "Foglalása feldolgozás alatt van" email
 
 
           *   automatikusan kapja a foglaló, miután leadta a foglalási kérését
@@ -100,10 +97,7 @@ sections:
           utalni az előleget
 
 
-          ###### 2. email
-
-
-          ##### "Sikeres foglalás" email
+          ##### 2. "Sikeres foglalás" email
 
 
           *   akkor kapja meg a vendég, ha a szállásadó visszaigazolja a
