@@ -79,6 +79,16 @@ sections:
           kérésről kapott emailben, vagy az Appartman felületén.
 
 
+          ![](/images/online-foglalasi-rendszer-foglalas-visszaigazolas.png)
+
+
+          *A beérkező foglalások részletes nézetében is vissza lehet igazolni,
+          vagy el lehet utasítani a foglalást egy gombnyomással.*
+
+
+          **
+
+
           #### Visszaigazoláshoz kötött foglalások esetén érvényesülő folyamat
 
 
