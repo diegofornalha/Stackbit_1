@@ -145,7 +145,7 @@ sections:
 
 
           > Fontos: ha testre szabja az emailt, akkor minden foglalónak az fog
-          kimenni, amíg nem szerkeszt az emailen. Egyedileg nem lehet
+          kimenni, amíg nem szerkeszt újra az emailen. Egyedileg nem lehet
           változtatni az emailen, viszont természetesen a foglalási- és egyéb
           adatok automatikusan kerülnek bele az emailekbe.
 
