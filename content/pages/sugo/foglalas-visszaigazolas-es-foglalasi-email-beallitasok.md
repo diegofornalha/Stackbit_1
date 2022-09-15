@@ -70,7 +70,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        text: >
+        text: >+
           ### Visszaigazoláshoz kötött foglalások beállítása
 
 
@@ -116,19 +116,50 @@ sections:
           *   szintén testre szabható, ellátható egyedi részekkel
 
 
-          ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-06%20-%2017.46.54.png)
+          ##### 4. "Foglalását elutasítottuk" email
 
 
-          Kikapcsolt állapotban egy "Sikeres foglalás" fog menni a foglalóknak,
-          ami szintén ellátható egy egyedi bekezdéssel.
+          *   akkor kapja a foglaló, ha a szállásadó elutasítja a foglalást
 
 
-          ##### Emailek szerkesztése
+          #### Visszaigazolás nélküli foglalások esetén érvényesülő folyamat
 
 
-          A szövegmezőben adható meg az egyedi bekezdés. A szakaszcím megadása
+          ##### 1. "Sikeres foglalás" email
+
+
+          *   automatikusan kapja a vendég a foglalás leadása után
+
+
+          *   testre szabható és ellátható egyedi bekezdésekkel
+
+
+          ##### 2. "Új foglalás" email
+
+
+          *   ön kapja a vendég adataival, és a foglalás részleteivel
+
+
+
+
+          ### Emailek szerkesztése
+
+
+          A szövegmezőkben adható meg az egyedi bekezdés. A szakaszcím megadása
           utána Enterrel lehet további szöveget megadni. Az "Email előnézet"
           gombbal megtekintheti, hogy hogy néz majd ki a küldött email.
+
+
+          > Fontos: ha testre szabja az emailt, akkor minden foglalónak az fog
+          kimenni, amíg nem szerkeszt az emailen. Egyedileg nem lehet
+          változtatni az emailen, viszont természetesen a foglalási- és egyéb
+          adatok automatikusan kerülnek bele az emailekbe.
+
+
+
+
+          ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-06%20-%2017.46.54.png)
+
         featuredImage: null
         styles:
           title:
