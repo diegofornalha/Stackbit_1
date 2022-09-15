@@ -96,6 +96,9 @@ sections:
 
           *   a naptár zárolja foglalási kérésben szereplő dátumokat
 
+          *   testre szabható, hozzáadható például, hogy hova és meddig kell
+          utalni az előleget
+
 
           ![](/images/Ke%CC%81pernyo%CC%8Bfoto%CC%81%202022-03-06%20-%2017.46.54.png)
 
