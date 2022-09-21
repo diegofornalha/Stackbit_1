@@ -3,7 +3,7 @@ title: Online foglalási rendszer magánszálláshelyeknek | Appartman
 seo:
   title: Online foglalási rendszer magánszálláshelyeknek | Appartman
   description: >-
- iCal Naptárszinkron | Foglaltsági naptár | PMS | NTAK szoftver | Okmányolvasás | 
+    iCal Naptárszinkron | Foglaltsági naptár | PMS | NTAK szoftver | Okmányolvasás | 
 layout: PageLayout
 sections:
   - type: HeroSection
