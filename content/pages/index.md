@@ -3,9 +3,7 @@ title: Online foglalási rendszer magánszálláshelyeknek | Appartman
 seo:
   title: Online foglalási rendszer magánszálláshelyeknek | Appartman
   description: >-
-    Kis szálláshelyekre szabott online szobafoglalási rendszerünkkel több
-    közvetlen foglalást érhetsz el a saját felületeidről és növelheted a
-    bevételed.
+    Online szobafoglalási rendszer vendégházaknak, apartmanoknak | iCal Naptárszinkron | Foglaltsági naptár | PMS | NTAK szoftver | Okmányolvasás | 
 layout: PageLayout
 sections:
   - type: HeroSection
