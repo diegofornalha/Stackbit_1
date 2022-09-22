@@ -202,7 +202,7 @@ sections:
         rating: 2
         isRatingVisible: false
       - type: FeaturedItem
-        title: Megbízható megjelenés
+        title: Megbízható fejlesztés
         text: >
           A minden eszközön tökéletesen működő honlapon túl a meglévő Google
           helyezésed sem lesz bajban.
