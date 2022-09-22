@@ -596,9 +596,7 @@ sections:
     title: Van egy projekted?
     text: >
       Küldj üzenetet vagy add meg a telefonszámod, és Krisztián 24 órán belül
-      visszahív.[
-
-      ](https://www.mokapot.hu/contact/)
+      visszahív.
     actions:
       - type: Button
         label: Szállásadók szakmai közössége
