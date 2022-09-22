@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Ajánlatkérés
-        url: 'https://tally.so#tally-open=w2EGlg&tally-hide-title=1tally-overlay=1'
+        url: 'https://tally.so#tally-open=w2EGlg&tally-hide-title=1&tally-overlay=1'
         style: primary
         elementId: hero-main-button
     bottomPart: |
