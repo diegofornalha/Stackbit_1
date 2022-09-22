@@ -159,7 +159,7 @@ sections:
           Nem tűnünk el, folyamatosan hallasz felőlünk.
         featuredImage:
           type: ImageBlock
-          url: /images/Frame.png
+          url: /images/Frame-b5f2e2ab.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
