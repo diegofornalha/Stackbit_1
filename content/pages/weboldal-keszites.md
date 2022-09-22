@@ -243,7 +243,7 @@ sections:
           érték és a lelkesedés mellett végig úgy érezhettem, hogy fontos
           partner voltam.
         name: Rezsnyák Péter – építész
-        title: Product Marketing Manager at Acme
+        title: AZ EGYSZERŰEN PASSZÍVHÁZ KÖNYV ÍRÓJA
         image:
           type: ImageBlock
           url: /images/carla.jpg
