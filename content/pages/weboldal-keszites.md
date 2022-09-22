@@ -198,7 +198,16 @@ sections:
         title: Szakértelem
         text: |
           A “jól van az úgy” nincs jól úgy.
-        featuredImage: null
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          styles:
+            self:
+              opacity: 100
         styles:
           title:
             textAlign: center
