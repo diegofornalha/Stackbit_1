@@ -560,26 +560,6 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
-      - elementId: ''
-        subtitle: ''
-        author: ''
-        rating: 1
-        isRatingVisible: false
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-        actions: []
-        styles:
-          title:
-            textAlign: left
-          subtitle:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: left
-          text:
-            textAlign: left
-          actions:
-            justifyContent: flex-start
     actions: []
     columns: 1
     styles:
