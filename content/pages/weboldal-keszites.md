@@ -20,7 +20,7 @@ sections:
       helyen
     media:
       type: ImageBlock
-      url: /images/hero-weboldal.png
+      url: /images/hero-weboldal (1).png
       altText: Image alt text
       caption: Image caption
     styles:
