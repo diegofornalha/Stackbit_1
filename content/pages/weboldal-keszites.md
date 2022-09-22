@@ -474,7 +474,12 @@ sections:
     actions:
       - type: Button
         label: Ajánlatkérés
-        url: 'https://foglalas.appartman.hu/register'
+        url: >-
+          title: Online foglalási rendszer magánszálláshelyeknek |
+          Appartmanseo:  title: Online foglalási rendszer magánszálláshelyeknek
+          | Appartman  description: >-    Szobafoglalási rendszer vendégházaknak
+          és apartmanoknak iCal naptár szinkronnal | Foglaltsági naptár | PMS |
+          NTAK szoftver | Okmányolvasás | 
         style: secondary
       - label: Áraink
         altText: Áraink
