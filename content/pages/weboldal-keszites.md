@@ -239,8 +239,9 @@ sections:
     subtitle: What our customers say about us
     testimonials:
       - quote: >
-          "Very professional team. I loved working with the people at
-          startup.io."
+          Jól döntöttem, amikor a Mokapotot választottam. A szakmai hozzáadott
+          érték és a lelkesedés mellett végig úgy érezhettem, hogy fontos
+          partner voltam.
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
