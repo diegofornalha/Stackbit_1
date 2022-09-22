@@ -161,7 +161,7 @@ sections:
         title: AZ EGYSZERŰEN PASSZÍVHÁZ KÖNYV ÍRÓJA
         image:
           type: ImageBlock
-          url: /images/carla.jpg
+          url: /images/rezsnyak_peter.webp
           altText: Photo of Johnna Doe
         styles:
           self:
