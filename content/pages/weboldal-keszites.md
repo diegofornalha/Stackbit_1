@@ -164,9 +164,8 @@ sections:
       - type: FeaturedItem
         title: Kevesebb jutalék
         text: >
-          Vendégei kíváncsiak mikor szabad vendégháza, de naptár nélkül a
-          közvetítő oldalakon keresnek erre, sokszor pedig ott foglalnak még
-          akkor is, ha a weboldalán jártak először.
+          Vonzó és lényegre törő szövegezésünk a látogatóid problémáira
+          válaszolva lesz az értékesítés motorja.
         featuredImage:
           url: /images/naprakesz-foglaltsagi-naptar-440c0a4a.png
           altText: altText of the image
