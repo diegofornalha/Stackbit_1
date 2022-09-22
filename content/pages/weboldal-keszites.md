@@ -61,7 +61,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: 'Foglaltsági naptár vendégházaknak, apartmanoknak'
+    title: Érj el több vendéget egy megnyerő weboldallal
   - colors: colors-a
     elementId: ''
     items:
