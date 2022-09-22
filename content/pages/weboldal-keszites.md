@@ -433,13 +433,12 @@ sections:
           ###### 2.
 
 
-          #### A foglalási linken keresztül sok helyről elérhetővé tehető a
-          saját foglalási felület: weboldal, Facebook poszt, stb.
+          #### Tervezés
 
 
-          A linket egyszerűen be kell másolni, ami egy önálló weboldalként
-          nyílik majd meg. Így bárhol is találják meg a vendégek, könnyedén
-          fognak tudni közvetlenül foglalni, kedvező áron.
+          Készítünk egy oldaltérképet, majd egy drótvázat, ahol az oldalad
+          logikai felépítését alakítjuk ki. Ezt követően pedig elkészítjük
+          oldalad vizuális dizájnját (UI).
         author: ''
         rating: 1
         isRatingVisible: false
