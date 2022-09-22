@@ -960,7 +960,7 @@ sections:
       styles:
         self:
           opacity: 100
-    title: Csatlakozzon szakmai csoportunkhoz a Facebookon!
+    title: Egyedi weboldalkészítés szállásadóknak
     text: >
       Már közel 3000 szállásadó cserél naponta ötleteket, tippeket és fontos
       tudnivalókat.
