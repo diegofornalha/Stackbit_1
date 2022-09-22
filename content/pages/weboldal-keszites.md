@@ -326,65 +326,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-f
-    title: Próbálja ki ingyen és fogadjon vendégeket 3 perc múlva
-    text: |
-      ###### ingyenes próbidőszak
-
-      14 nap ingyenes próbaidő.
-    actions:
-      - type: Button
-        label: Ingyenes regisztráció
-        url: 'https://foglalas.appartman.hu/register'
-        style: secondary
-      - label: Áraink
-        altText: Áraink
-        url: /araink
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        type: Link
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-10
-          - pr-10
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: none
-        borderColor: border-secondary
-        borderWidth: 0
-        borderStyle: none
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    media:
-      url: /images/ingyenes-online-szobafoglalasi-rendszer (1).png
-      altText: Where did everyone go?
-      caption: Team meeting
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
   - colors: colors-a
     elementId: ''
     title: Így dolgozunk együtt ügyfeleinkkel
@@ -523,6 +464,65 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
+  - elementId: ''
+    colors: colors-f
+    title: Próbálja ki ingyen és fogadjon vendégeket 3 perc múlva
+    text: |
+      ###### ingyenes próbidőszak
+
+      14 nap ingyenes próbaidő.
+    actions:
+      - type: Button
+        label: Ingyenes regisztráció
+        url: 'https://foglalas.appartman.hu/register'
+        style: secondary
+      - label: Áraink
+        altText: Áraink
+        url: /araink
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-28
+          - pl-10
+          - pr-10
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderRadius: none
+        borderColor: border-secondary
+        borderWidth: 0
+        borderStyle: none
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    media:
+      url: /images/ingyenes-online-szobafoglalasi-rendszer (1).png
+      altText: Where did everyone go?
+      caption: Team meeting
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - colors: colors-i
     elementId: ''
     title: Gyakori kérdések és válaszok
