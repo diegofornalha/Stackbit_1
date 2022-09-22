@@ -595,8 +595,10 @@ sections:
           opacity: 100
     title: Van egy projekted?
     text: >
-      Már közel 3000 szállásadó cserél naponta ötleteket, tippeket és fontos
-      tudnivalókat.
+      Küldj üzenetet vagy add meg a telefonszámod, és Krisztián 24 órán belül
+      visszahív.[
+
+      ](https://www.mokapot.hu/contact/)
     actions:
       - type: Button
         label: Szállásadók szakmai közössége
