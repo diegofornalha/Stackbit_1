@@ -599,7 +599,7 @@ sections:
       visszahív.
     actions:
       - type: Button
-        label: Szállásadók szakmai közössége
+        label: Kapcsolat
         url: 'https://www.facebook.com/groups/szallasadok'
         style: primary
         altText: Szakmai közösség
