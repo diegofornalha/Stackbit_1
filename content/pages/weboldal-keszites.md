@@ -20,8 +20,7 @@ sections:
       helyen
     media:
       type: ImageBlock
-      url: >-
-        /images/online-foglalasi-rendszer-weboldal-maganszallasoknak-naptar-szinkronnal.png
+      url: /images/hero-weboldal.png
       altText: Image alt text
       caption: Image caption
     styles:
