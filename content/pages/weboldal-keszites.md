@@ -610,7 +610,7 @@ sections:
           label: Home address
           placeholder: Your home address
           isRequired: 'false'
-          width: full
+          width: 1/2
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
