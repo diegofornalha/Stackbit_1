@@ -4,7 +4,7 @@ title: Weboldal készítés magánszálláshelyeknek | Appartman
 seo:
   title: Weboldal készítés magánszálláshelyeknek | Appartman
   description: >-
-    Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
+    Megnyerő 
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
