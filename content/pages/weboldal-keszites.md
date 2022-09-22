@@ -242,7 +242,7 @@ sections:
           Jól döntöttem, amikor a Mokapotot választottam. A szakmai hozzáadott
           érték és a lelkesedés mellett végig úgy érezhettem, hogy fontos
           partner voltam.
-        name: Johnna Doe
+        name: Rezsnyák Péter
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
