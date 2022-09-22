@@ -155,7 +155,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Elérhetőség
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
