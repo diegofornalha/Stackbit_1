@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "firstName": "Bio-Textima",
-    "bio": "weboldal fejlesztés | weboldal vizuális dizájn\n",
+    "bio": "weboldal fejlesztés | weboldal vizuális dizájn\n\n[Weboldal megtekintése](https://contractbeds.eu/)\n",
     "image": {
         "url": "/images/contractbeds.png",
         "altText": "Person photo"
