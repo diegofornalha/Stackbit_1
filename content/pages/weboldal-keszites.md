@@ -534,7 +534,7 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-i
     elementId: ''
-    title: Gyakori válaszok
+    title: Gyakori kérdések és válaszok
     items:
       - question: Mitől egyedi egy weboldal?
         answer: >
