@@ -5,11 +5,10 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    text: >
+    text: >+
       Te már tudod, hogy jó, amit csinálsz. Tudasd ezt látogatóiddal is egyedi
-      és felhasználóbarát weboldalainkkal.[
+      és felhasználóbarát weboldalainkkal.
 
-      ](https://www.mokapot.hu/#services)
     actions:
       - type: Button
         label: Ingyenes regisztráció
