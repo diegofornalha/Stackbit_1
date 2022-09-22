@@ -506,39 +506,6 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
-      - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        text: >
-          ###### 6.
-
-
-          #### 14 napig teljesen ingyen használható, és utána is csak a
-          megvalósult foglalásokért kell fizetni
-
-
-          Csak akkor kell fizetnie, ha van az Appartmanon keresztül érkezett
-          foglalása, ami meg is valósul. 2% jutalékot számolunk a szállásdíjra
-          (és az extra szolgáltatások összegére, ha értékesít ilyet az
-          Appartmanon).
-        author: ''
-        rating: 1
-        isRatingVisible: false
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-        actions: []
-        styles:
-          title:
-            textAlign: left
-          subtitle:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: left
-          text:
-            textAlign: left
-          actions:
-            justifyContent: flex-start
     actions: []
     columns: 1
     styles:
