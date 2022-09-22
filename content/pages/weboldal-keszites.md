@@ -281,48 +281,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - elementId: ''
-    colors: colors-a
-    title: Átlátható foglaltsági naptár
-    text: >
-      #### Érkezési, távozási nap, vagy éppen éjszaka? Nincs több kérdés a
-      vendégben.
-
-
-      A foglalás gombra kattintva a vendég kiválaszthatja a vendégek számát és
-      láthatja a szabad időpontokat. A dátumot kiválasztva pedig megjelennek a
-      lakóegységek és árak.
-    media:
-      type: ImageBlock
-      url: /images/online-foglaltagi-naptar-maganszallashelyeknek.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-20
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-        borderColor: border-primary
-        borderWidth: 0
-        borderStyle: solid
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - colors: colors-a
     elementId: ''
     title: Így dolgozunk együtt ügyfeleinkkel
