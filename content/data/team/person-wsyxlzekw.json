@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "firstName": "Simfox",
-    "bio": "weboldal fejlesztés | vizuális dizájn \n",
+    "bio": "weboldal fejlesztés | vizuális dizájn\n\n[Weboldal megtekintése](https://simfox.co.uk/)\n",
     "image": {
         "url": "/images/simfox.png",
         "altText": "Person photo"
