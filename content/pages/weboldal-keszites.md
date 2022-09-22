@@ -15,7 +15,7 @@ sections:
         url: 'https://tally.so#tally-open=w2EGlg&tally-overlay=1'
         style: primary
         elementId: hero-main-button
-    bottomPart: >
+    bottomPart: |
       Szálláshelyekre szabott megoldás 
     media:
       type: ImageBlock
@@ -241,10 +241,11 @@ sections:
     colors: colors-a
     title: Ügyfeleink visszajelzései
     testimonials:
-      - quote: >
-          Jól döntöttem, amikor a Mokapotot választottam. A szakmai hozzáadott
-          érték és a lelkesedés mellett végig úgy érezhettem, hogy fontos
-          partner voltam.
+      - quote: >+
+          #### Jól döntöttem, amikor a Mokapotot választottam. A szakmai
+          hozzáadott érték és a lelkesedés mellett végig úgy érezhettem, hogy
+          fontos partner voltam.
+
         name: Rezsnyák Péter – építész
         title: AZ EGYSZERŰEN PASSZÍVHÁZ KÖNYV ÍRÓJA
         image:
