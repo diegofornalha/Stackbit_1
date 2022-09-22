@@ -204,8 +204,8 @@ sections:
       - type: FeaturedItem
         title: Megbízható megjelenés
         text: >
-          Egyszerűen kezelhető foglaltsági naptárunkkal egyértelműek az
-          érkezési-távozási napok és foglalás is csak néhány gombnyomás.
+          A minden eszközön tökéletesen működő honlapon túl a meglévő Google
+          helyezésed sem lesz bajban.
         featuredImage:
           url: /images/azonnali-visszajelzesek.png
           altText: altText of the image
