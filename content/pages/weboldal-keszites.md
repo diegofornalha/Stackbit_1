@@ -471,7 +471,6 @@ sections:
     variant: variant-c
     colors: colors-a
     title: Munkáink
-    subtitle: Featured people section example
     actions: []
     people:
       - content/data/team/hilary-ouse.json
