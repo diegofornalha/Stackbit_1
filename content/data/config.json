@@ -132,7 +132,7 @@
                 "type": "Link",
                 "label": "Weboldal készítés",
                 "altText": "Weboldal készítés",
-                "url": "/",
+                "url": "/weboldal-keszites",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
