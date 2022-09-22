@@ -509,27 +509,6 @@ sections:
       - type: FeaturedItem
         elementId: ''
         subtitle: ''
-        author: ''
-        rating: 1
-        isRatingVisible: false
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-        actions: []
-        styles:
-          title:
-            textAlign: left
-          subtitle:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: left
-          text:
-            textAlign: left
-          actions:
-            justifyContent: flex-start
-      - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
         text: >
           ###### 6.
 
