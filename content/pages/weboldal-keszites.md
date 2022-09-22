@@ -12,9 +12,7 @@ sections:
     actions:
       - type: Button
         label: Ajánlatkérés
-        url: >-
-          <a href="https://tally.so#tally-open=w2EGlg&tally-overlay=1">Click
-          me</a>
+        url: 'https://tally.so#tally-open=w2EGlg&tally-overlay=1">Click me</a>'
         style: primary
         elementId: hero-main-button
       - label: Minta foglalási felület
