@@ -543,10 +543,11 @@ sections:
           ki a szövegezést és fejlesztjük a mobilra optimalizált front-endjét.
       - question: Hogyan zajlik a közös munka?
         answer: >
-          Igen. Sok szállásadó szereti kizárni a bulizni vágyó társaságokat,
-          ezért rendszerünkben beállítható, hogy Önnek vissza kelljen igazolnia
-          egy gombnyomással a foglalást. Addig a foglaló csak a “foglalási
-          igényét” adta le Ön felé.
+          Szerződéskötést követően egy minden érintett által látható
+          projektfeladat rendszerben követheted a weboldal haladását, a weboldal
+          elkészülte előtt pedig minden jelentős döntésnél telefonon/emailben
+          egyeztetünk. A munka befejeztével pedig betanítunk weboldalad
+          kezelésére.
       - question: >-
           Össze van kapcsolva a közvetítő oldalakkal (Szállás.hu, Airbnb,
           Booking)?
