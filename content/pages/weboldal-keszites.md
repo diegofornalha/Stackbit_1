@@ -401,21 +401,17 @@ sections:
     items:
       - elementId: ''
         subtitle: ''
-        text: >
+        text: >+
           ###### 1.
 
 
-          #### A regisztrációt követően a szálláshely kap egy foglalási
-          weboldalt, amit a megadott adatokból és képekből generálunk
+          #### Kutatás
 
 
-          Példa:
-          [foglalas.appartman.hu/minta-appartman.](https://foglalas.appartman.hu/minta-appartman)
-          Ez lényegében a szálláshelye foglalási weboldala lesz, ahol tudnak
-          majd foglalni a vendégek.
+          Megismerjük céged termékeit, megértjük vásárlóid viselkedését és olyan
+          stratégiát alakítunk ki, amivel oldalad nem csak vevőközpontú, hanem
+          eredményes is lesz.
 
-
-          ![](/images/online-szobafoglalasi-rendszer-naptar-szinkron-automatikus-naptar-frissites.png)
         author: ''
         rating: 1
         isRatingVisible: false
