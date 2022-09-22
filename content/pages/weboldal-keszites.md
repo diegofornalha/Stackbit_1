@@ -16,7 +16,7 @@ sections:
         style: primary
         elementId: hero-main-button
     bottomPart: >
-      Villámgyors regisztráció | Egyszerű beüzemelés | Több szálláshely egy
+      Szálláshelyekre szabott megoldás | Egyszerű beüzemelés | Több szálláshely egy
       helyen
     media:
       type: ImageBlock
