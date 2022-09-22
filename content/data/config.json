@@ -131,7 +131,7 @@
             {
                 "type": "Link",
                 "label": "Weboldal készítés",
-                "altText": "Learn more",
+                "altText": "Weboldal készítés",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
