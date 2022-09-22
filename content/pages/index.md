@@ -3,7 +3,8 @@ title: Online foglalási rendszer magánszálláshelyeknek | Appartman
 seo:
   title: Online foglalási rendszer magánszálláshelyeknek | Appartman
   description: >-
-    Szobafoglalási rendszer vendégházaknak és apartmanoknak iCal naptár szinkronnal | Foglaltsági naptár | PMS | NTAK szoftver | Okmányolvasás | 
+    Szobafoglalási rendszer vendégházaknak és apartmanoknak iCal naptár
+    szinkronnal | Foglaltsági naptár | PMS | NTAK szoftver | Okmányolvasás | 
 layout: PageLayout
 sections:
   - type: HeroSection
@@ -257,7 +258,7 @@ sections:
       foglalnak saját felületén és nem pedig a Bookingon vagy más közvetítő
       oldalon.
   - type: HeroSection
-    elementId: 'ical'
+    elementId: ical
     colors: colors-a
     title: Automatikusan frissülő foglaltsági naptár iCal naptár szinkronnal
     subtitle: null
@@ -965,7 +966,7 @@ sections:
       tudnivalókat.
     actions:
       - type: Button
-        label: Szállásadók szakmai közössége
+        label: Weboldal készítés
         url: 'https://www.facebook.com/groups/szallasadok'
         style: primary
         altText: Szakmai közösség
