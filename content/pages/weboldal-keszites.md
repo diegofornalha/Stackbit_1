@@ -475,14 +475,6 @@ sections:
       - type: Button
         label: Ajánlatkérés
         style: secondary
-      - label: Áraink
-        altText: Áraink
-        url: /araink
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        type: Link
     styles:
       self:
         height: auto
