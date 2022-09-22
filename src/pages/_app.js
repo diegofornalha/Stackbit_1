@@ -16,7 +16,7 @@ export default function MyApp({ Component, pageProps }) {
                                     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
                     })(window,document,'script','dataLayer','GTM-5SMVSWG');`}
                 </Script>
-                <Script async src="https://tally.so/widgets/embed.js"></cript>
+                <Script async src="https://tally.so/widgets/embed.js"></Script>
             <Component {...pageProps} />
         </>
     );
