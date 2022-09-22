@@ -179,7 +179,7 @@ sections:
           Weblapod a megbeszélt határidőre a kezedben lesz.
         featuredImage:
           type: ImageBlock
-          url: /images/óra-pontosság.png
+          url: /images/óra-pontosság-7ad0be60.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
