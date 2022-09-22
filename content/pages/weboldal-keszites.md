@@ -548,9 +548,7 @@ sections:
           elkészülte előtt pedig minden jelentős döntésnél telefonon/emailben
           egyeztetünk. A munka befejeztével pedig betanítunk weboldalad
           kezelésére.
-      - question: >-
-          Össze van kapcsolva a közvetítő oldalakkal (Szállás.hu, Airbnb,
-          Booking)?
+      - question: Mennyi idő alatt van kész egy weboldal?
         answer: >
           Ez az igényektől és projekt típusától függ, de általánosságban egy
           landing page 2 hét, webáruház 3 - 4 hét után élesíthető.
