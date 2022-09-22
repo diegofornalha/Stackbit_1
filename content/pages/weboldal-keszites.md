@@ -695,41 +695,6 @@ sections:
         fontStyle: normal
         textAlign: center
     type: FaqSection
-  - elementId: ''
-    colors: colors-f
-    backgroundImage: null
-    title: >-
-      Regisztráljon, üzemelje be percek alatt és növelje közvetlen foglalásai
-      számát
-    actions:
-      - type: Button
-        label: Ingyenes regisztráció
-        url: 'https://foglalas.appartman.hu/register'
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: CtaSection
   - type: CtaSection
     elementId: ''
     colors: colors-b
