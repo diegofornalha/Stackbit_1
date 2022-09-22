@@ -236,7 +236,6 @@ sections:
     elementId: ''
     colors: colors-h
     title: Ügyfeleink visszajelzései
-    subtitle: What our customers say about us
     testimonials:
       - quote: >
           Jól döntöttem, amikor a Mokapotot választottam. A szakmai hozzáadott
