@@ -471,6 +471,7 @@ sections:
       - type: Button
         label: Ajánlatkérés
         style: secondary
+        url: 'https://tally.so#tally-open=w2EGlg&tally-overlay=1'
     styles:
       self:
         height: auto
