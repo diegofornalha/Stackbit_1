@@ -16,7 +16,7 @@ sections:
         style: primary
         elementId: hero-main-button
     bottomPart: >
-      Szálláshelyekre szabott megoldás | 
+      Szálláshelyekre szabott megoldás 
     media:
       type: ImageBlock
       url: /images/hero-weboldal (1).png
