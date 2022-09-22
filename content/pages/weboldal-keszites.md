@@ -168,9 +168,8 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Pontosság
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Weblapod a megbeszélt határidőre a kezedben lesz.
         featuredImage: null
         styles:
           title:
