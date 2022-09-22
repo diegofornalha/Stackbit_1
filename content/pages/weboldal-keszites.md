@@ -16,8 +16,7 @@ sections:
         style: primary
         elementId: hero-main-button
     bottomPart: >
-      Szálláshelyekre szabott megoldás | Egyszerű beüzemelés | Több szálláshely egy
-      helyen
+      Szálláshelyekre szabott megoldás | 
     media:
       type: ImageBlock
       url: /images/hero-weboldal (1).png
