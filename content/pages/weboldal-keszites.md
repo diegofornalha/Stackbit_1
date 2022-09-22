@@ -475,6 +475,7 @@ sections:
     actions: []
     people:
       - content/data/team/hilary-ouse.json
+      - content/data/team/person-r5xelunsc.json
     styles:
       self:
         height: auto
