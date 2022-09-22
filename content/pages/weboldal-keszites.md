@@ -156,9 +156,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Elérhetőség
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Nem tűnünk el, folyamatosan hallasz felőlünk.
         featuredImage: null
         styles:
           title:
