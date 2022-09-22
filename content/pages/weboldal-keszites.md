@@ -11,7 +11,7 @@ sections:
 
     actions:
       - type: Button
-        label: Ingyenes regisztráció
+        label: Ajánlatkérés
         url: 'https://foglalas.appartman.hu/register'
         style: primary
         elementId: hero-main-button
