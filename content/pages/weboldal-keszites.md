@@ -1,5 +1,9 @@
 ---
-
+title: Online foglalási rendszer magánszálláshelyeknek | Appartman
+seo:
+  title: Online foglalási rendszer magánszálláshelyeknek | Appartman
+  description: >-
+    Szobafoglalási rendszer vendégházaknak és apartmanoknak iCal naptár szinkronnal | Foglaltsági naptár | PMS | NTAK szoftver | Okmányolvasás | 
 layout: PageLayout
 title: Weboldal készítés magánszálláshelyeknek | Appartman
 sections:
