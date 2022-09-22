@@ -1,4 +1,5 @@
 ---
+
 layout: PageLayout
 title: Weboldal készítés magánszálláshelyeknek | Appartman
 sections:
