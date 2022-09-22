@@ -238,7 +238,7 @@ sections:
         justifyContent: center
   - type: TestimonialsSection
     elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Ügyfeleink visszajelzései
     testimonials:
       - quote: >+
