@@ -473,7 +473,7 @@ sections:
       14 nap ingyenes próbaidő.
     actions:
       - type: Button
-        label: Ingyenes regisztráció
+        label: Ajánlatkérés
         url: 'https://foglalas.appartman.hu/register'
         style: secondary
       - label: Áraink
