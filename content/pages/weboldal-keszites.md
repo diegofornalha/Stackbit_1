@@ -190,48 +190,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-a
-    title: Foglalási- és árazási szabályok
-    text: >
-      #### Üzemeltesse szálláshelyét saját feltételei szerint
-
-
-      Könnyedén állíthat be szezonokat, hétvégi árakat, minimum foglalható
-      éjszakákat, érkezési napokat, felkészülési időt, így biztosíthatja, hogy
-      csak az önnek megfelelő foglalásai legyenek.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/foglalasi-arazasi-szabalyok-3da3c2b7.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-20
-          - pb-20
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: TestimonialsSection
     elementId: ''
     colors: colors-h
@@ -276,6 +234,48 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - elementId: ''
+    colors: colors-a
+    title: Foglalási- és árazási szabályok
+    text: >
+      #### Üzemeltesse szálláshelyét saját feltételei szerint
+
+
+      Könnyedén állíthat be szezonokat, hétvégi árakat, minimum foglalható
+      éjszakákat, érkezési napokat, felkészülési időt, így biztosíthatja, hogy
+      csak az önnek megfelelő foglalásai legyenek.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/foglalasi-arazasi-szabalyok-3da3c2b7.png
+      altText: Hero image
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-20
+          - pb-20
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - colors: colors-a
     elementId: ''
     title: Így dolgozunk együtt ügyfeleinkkel
