@@ -257,7 +257,7 @@ sections:
       foglalnak saját felületén és nem pedig a Bookingon vagy más közvetítő
       oldalon.
   - type: HeroSection
-    elementId: ''
+    elementId: 'ical'
     colors: colors-a
     title: Automatikusan frissülő foglaltsági naptár iCal naptár szinkronnal
     subtitle: null
