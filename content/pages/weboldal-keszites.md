@@ -466,7 +466,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-f
-    title: Próbálja ki ingyen és fogadjon vendégeket 3 perc múlva
+    title: Kérj árajánlatot és tervezzünk egy szép weboldalt szálláshelyednek!
     text: |
       ###### ingyenes próbidőszak
 
