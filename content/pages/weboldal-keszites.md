@@ -63,7 +63,7 @@ sections:
           Vonzó és lényegre törő szövegezésünk a látogatóid problémáira
           válaszolva lesz az értékesítés motorja.
         featuredImage:
-          url: /images/naprakesz-foglaltsagi-naptar-440c0a4a.png
+          url: /images/marketing-szovegezes-weboldal-szallashely.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
