@@ -396,7 +396,7 @@ sections:
       type: ImageBlock
   - colors: colors-a
     elementId: ''
-    title: Hogyan működik és hogyan üzemeltethető?
+    title: Így dolgozunk együtt ügyfeleinkkel
     subtitle: Így hozhatja létre a saját foglalási rendszerét
     items:
       - elementId: ''
