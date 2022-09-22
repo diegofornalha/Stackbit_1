@@ -179,7 +179,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Garancia
+        title: Szakértelem
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
