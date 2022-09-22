@@ -181,7 +181,7 @@ sections:
           text:
             textAlign: left
       - type: FeaturedItem
-        title: Több szabadidő
+        title: Felhasználóbarát és modern dizájn
         text: >
           Átlátható és könnyen kezelhető oldalad bizalmat kelt és megkönnyíti a
           vásárlást.
