@@ -593,7 +593,7 @@ sections:
       styles:
         self:
           opacity: 100
-    title: Csatlakozzon szakmai csoportunkhoz a Facebookon!
+    title: Van egy projekted?
     text: >
       Már közel 3000 szállásadó cserél naponta ötleteket, tippeket és fontos
       tudnivalókat.
