@@ -486,13 +486,11 @@ sections:
           ###### 4.
 
 
-          #### A foglalók automatikus emailben értesülnek a függőben lévő, majd
-          a visszaigazolt foglalásról
+          #### Kész weboldal
 
 
-          Azonnali visszaigazolást kapnak, hogy hogy áll a foglalásuk. Ön dönti
-          el, hogy visszaigazolja-e a foglalást, és hogy mik kerülnek az
-          automatikus emailbe.
+          Magabiztosan veheted kezedbe új weboldalad. A betanítás után sem
+          hagyunk magadra.
         author: ''
         rating: 1
         isRatingVisible: false
