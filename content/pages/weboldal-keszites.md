@@ -552,7 +552,7 @@ sections:
         answer: >
           Ez az igényektől és projekt típusától függ, de általánosságban egy
           landing page 2 hét, webáruház 3 - 4 hét után élesíthető.
-      - question: 'Nem vagyok webfejlesztő, én is be tudom üzemelni?'
+      - question: Mennyibe kerül egy weboldal?
         answer: >
           Természetesen. Az Appartmant úgy alakítottuk ki, hogy a regisztrációt
           követően egy linket kap, amit akár saját weboldalára, akár Facebook
