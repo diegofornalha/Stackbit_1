@@ -180,8 +180,7 @@ sections:
           Weblapod a megbeszélt határidőre a kezedben lesz.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/óra-pontosság.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
