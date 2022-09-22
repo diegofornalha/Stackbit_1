@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: Online foglalási rendszer magánszálláshelyeknek | Appartman
+title: Weboldal készítés magánszálláshelyeknek | Appartman
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
