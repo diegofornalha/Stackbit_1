@@ -183,9 +183,8 @@ sections:
       - type: FeaturedItem
         title: Több szabadidő
         text: >
-          Szállás üzemeltetés a saját szabályai szerint. Nem kell folyamatosan
-          az emaileket és a telefonját figyelnie, az Appartman automatikus
-          emailjei és beállításai segítik Önt.
+          Átlátható és könnyen kezelhető oldalad bizalmat kelt és megkönnyíti a
+          vásárlást.
         featuredImage:
           url: /images/mobilbarat-online-szobafoglalasi-rendszer.png
           altText: altText of the image
