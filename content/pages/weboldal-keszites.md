@@ -6,8 +6,10 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     text: >
-      Fogadjon könnyedén foglalásokat a saját weboldaláról vagy Facebook
-      oldaláról és hagyja az oda-vissza emailezést.
+      Te már tudod, hogy jó, amit csinálsz. Tudasd ezt látogatóiddal is egyedi
+      és felhasználóbarát weboldalainkkal.[
+
+      ](https://www.mokapot.hu/#services)
     actions:
       - type: Button
         label: Ingyenes regisztráció
