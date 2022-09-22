@@ -130,7 +130,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Weboldal készítés",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
