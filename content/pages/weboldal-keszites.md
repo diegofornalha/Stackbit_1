@@ -557,6 +557,12 @@ sections:
           Természetesen. Az Appartmant úgy alakítottuk ki, hogy a regisztrációt
           követően egy linket kap, amit akár saját weboldalára, akár Facebook
           vagy Instagram oldalára is belinkelhet. Ha mégis elakadna, segítünk!
+      - question: How it this different from what we have today?
+        answer: >-
+          At the office, working together is often a distruction, on remote, it
+          could be motivation. At the office, working together is often a
+          distruction, on remote, it could be motivation. At the office, working
+          together is often a distruction, on remote, it could be motivation.
     styles:
       self:
         height: auto
