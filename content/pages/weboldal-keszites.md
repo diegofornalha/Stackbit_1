@@ -235,7 +235,7 @@ sections:
   - type: TestimonialsSection
     elementId: ''
     colors: colors-h
-    title: Testimonials
+    title: Ügyfeleink visszajelzései
     subtitle: What our customers say about us
     testimonials:
       - quote: >
