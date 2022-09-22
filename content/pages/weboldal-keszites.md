@@ -151,7 +151,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-f
     elementId: ''
-    title: Key value propositions
+    title: Erre számíts amikor velünk dolgozol
     subtitle: ''
     items:
       - type: FeaturedItem
