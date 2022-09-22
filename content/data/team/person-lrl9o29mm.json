@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "firstName": "Libertine Optika",
-    "bio": "weboldal fejlesztés | vizuális dizájn\n",
+    "bio": "weboldal fejlesztés | vizuális dizájn\n\n[Weboldal megtekintése](https://libertineoptika.hu/)\n",
     "image": {
         "url": "/images/libertine-optika-2c10cb50.png",
         "altText": "Person photo"
