@@ -162,7 +162,7 @@ sections:
     title: Velünk a jó weboldal egy befektetés
     items:
       - type: FeaturedItem
-        title: Kevesebb jutalék
+        title: Marketing szövegezés
         text: >
           Vonzó és lényegre törő szövegezésünk a látogatóid problémáira
           válaszolva lesz az értékesítés motorja.
