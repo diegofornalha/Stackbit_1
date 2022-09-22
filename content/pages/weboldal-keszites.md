@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: Weboldal készítés magánszálláshelyeknek | Appartman
+title: Weboldal
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
