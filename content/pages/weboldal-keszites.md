@@ -232,6 +232,71 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+  - type: TestimonialsSection
+    elementId: ''
+    colors: colors-h
+    title: Testimonials
+    subtitle: What our customers say about us
+    testimonials:
+      - quote: >
+          "Very professional team. I loved working with the people at
+          startup.io."
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/carla.jpg
+          altText: Photo of Johnna Doe
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: left
+          name:
+            textAlign: left
+          title:
+            textAlign: left
+      - quote: >
+          "It's great to see someone taking acion while still maintaining a
+          sustainable fish supply to home cooks."
+        name: Hugh Saturation
+        title: Creative at Acme
+        image:
+          type: ImageBlock
+          url: /images/hugh-saturation.jpg
+          altText: Photo of Johnna Doe
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: left
+          name:
+            textAlign: left
+          title:
+            textAlign: left
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-a
     elementId: ''
     title: Így dolgozunk együtt ügyfeleinkkel
