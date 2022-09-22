@@ -148,6 +148,74 @@ sections:
       Weboldalad marketingszemlélettel készítjük, így a látogatóidból több
       vendéged lesz. Tőlünk nem csak egy weboldalt, hanem egy vendégszerző
       eszközt is kapsz.
+  - type: FeaturedItemsSection
+    colors: colors-f
+    elementId: ''
+    title: Key value propositions
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Faster
+        text: >-
+          Learn how top tech companies have learned working remote using our
+          product.
+        featuredImage: null
+        styles:
+          title:
+            textAlign: center
+          subtitle:
+            textAlign: center
+          text:
+            textAlign: center
+      - type: FeaturedItem
+        title: Smarter
+        text: >-
+          Learn how top tech companies have learned working remote using our
+          product.
+        featuredImage: null
+        styles:
+          title:
+            textAlign: center
+          subtitle:
+            textAlign: center
+          text:
+            textAlign: center
+      - type: FeaturedItem
+        title: Focused
+        text: >-
+          Learn how top tech companies have learned working remote using our
+          product.
+        featuredImage: null
+        styles:
+          title:
+            textAlign: center
+          subtitle:
+            textAlign: center
+          text:
+            textAlign: center
+    actions: []
+    columns: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: TestimonialsSection
     elementId: ''
     colors: colors-h
