@@ -159,7 +159,7 @@ sections:
     title: Bárhova linkelhető saját foglalási felület
   - colors: colors-f
     elementId: ''
-    title: 'Egyszerű foglalási felület, több vendég, kevesebb jutalék'
+    title: Velünk a jó weboldal egy befektetés
     items:
       - type: FeaturedItem
         title: Kevesebb jutalék
