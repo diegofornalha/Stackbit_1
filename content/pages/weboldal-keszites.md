@@ -15,15 +15,6 @@ sections:
         url: 'https://tally.so#tally-open=w2EGlg&tally-overlay=1'
         style: primary
         elementId: hero-main-button
-      - label: Minta foglalási felület
-        altText: Minta Vendégház
-        url: 'https://foglalas.appartman.hu/minta-appartman'
-        showIcon: true
-        openInNew: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        type: Link
     bottomPart: >
       Villámgyors regisztráció | Egyszerű beüzemelés | Több szálláshely egy
       helyen
