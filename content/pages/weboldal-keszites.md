@@ -242,9 +242,9 @@ sections:
     title: Ügyfeleink visszajelzései
     testimonials:
       - quote: >+
-          > Jól döntöttem, amikor a Mokapotot választottam. A szakmai hozzáadott
-          érték és a lelkesedés mellett végig úgy érezhettem, hogy fontos
-          partner voltam.
+          #### Jól döntöttem, amikor a Mokapotot választottam. A szakmai
+          hozzáadott érték és a lelkesedés mellett végig úgy érezhettem, hogy
+          fontos partner voltam.
 
         name: Rezsnyák Péter – építész
         title: AZ EGYSZERŰEN PASSZÍVHÁZ KÖNYV ÍRÓJA
