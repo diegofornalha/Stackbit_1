@@ -104,7 +104,7 @@ sections:
           A minden eszközön tökéletesen működő honlapon túl a meglévő Google
           helyezésed sem lesz bajban.
         featuredImage:
-          url: /images/azonnali-visszajelzesek.png
+          url: /images/gyors-weboldal-apartman.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
