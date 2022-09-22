@@ -536,7 +536,7 @@ sections:
     elementId: ''
     title: Gyakori válaszok
     items:
-      - question: Hogyan lesz több direkt foglalásom?
+      - question: Mitől egyedi egy weboldal?
         answer: >
           A vendégek szeretik látni és lefoglalni a szállást. Ahogyan egy
           webshopnak sem levelezünk, úgy rengeteg ember nem szeret emailezni és
