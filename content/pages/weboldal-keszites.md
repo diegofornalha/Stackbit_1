@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Ajánlatkérés
-        url: 'https://foglalas.appartman.hu/register'
+        url: 'https://appartman.hu/register'
         style: primary
         elementId: hero-main-button
       - label: Minta foglalási felület
