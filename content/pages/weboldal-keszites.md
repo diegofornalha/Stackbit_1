@@ -160,8 +160,7 @@ sections:
           Nem tűnünk el, folyamatosan hallasz felőlünk.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Frame.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
