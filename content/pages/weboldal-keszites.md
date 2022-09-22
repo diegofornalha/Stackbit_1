@@ -82,7 +82,8 @@ sections:
           Átlátható és könnyen kezelhető oldalad bizalmat kelt és megkönnyíti a
           vásárlást.
         featuredImage:
-          url: /images/mobilbarat-online-szobafoglalasi-rendszer.png
+          url: >-
+            /images/mobilra-optimalizalt-felhasznalobarat-weboldal-vendeghazaknak.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
