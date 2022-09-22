@@ -250,9 +250,9 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: >-
-      Érdeklődő vendégei látják mikor szabad vendégháza, így szívesebben
-      foglalnak saját felületén és nem pedig a Bookingon vagy más közvetítő
-      oldalon.
+      Weboldalad marketingszemlélettel készítjük, így a látogatóidból több
+      vendéged lesz. Tőlünk nem csak egy weboldalt, hanem egy vendégszerző
+      eszközt is kapsz.
   - type: HeroSection
     elementId: ''
     colors: colors-a
