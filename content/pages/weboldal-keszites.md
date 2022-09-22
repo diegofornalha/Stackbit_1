@@ -397,7 +397,9 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Így dolgozunk együtt ügyfeleinkkel
-    subtitle: Így hozhatja létre a saját foglalási rendszerét
+    subtitle: >-
+      Ügyfeleinket partnerként kezeljük és rendszeresen állunk kapcsolatban
+      velük.
     items:
       - elementId: ''
         subtitle: ''
