@@ -541,9 +541,7 @@ sections:
           Weboldalad attól lesz egyedi, hogy üzleti céljaidtól és ügyfeleidtől
           függően tervezzük meg a felület elrendezését és dizájnját, alakítjuk
           ki a szövegezést és fejlesztjük a mobilra optimalizált front-endjét.
-      - question: >-
-          Manuálisan szeretném visszaigazolni a foglalásokat. Erre van
-          lehetőség?
+      - question: Hogyan zajlik a közös munka?
         answer: >
           Igen. Sok szállásadó szereti kizárni a bulizni vágyó társaságokat,
           ezért rendszerünkben beállítható, hogy Önnek vissza kelljen igazolnia
