@@ -1,10 +1,6 @@
 ---
 layout: PageLayout
 title: Weboldal készítés magánszálláshelyeknek | Appartman
-seo:
-  title: Weboldal készítés magánszálláshelyeknek | Appartman
-  description: >-
-    Megnyerő weboldalakat készítünk kifejezetten szálláshelyeknek. Most ajándék foglalási rendszerrel.
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
