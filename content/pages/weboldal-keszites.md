@@ -467,10 +467,6 @@ sections:
   - elementId: ''
     colors: colors-f
     title: Kérj árajánlatot és tervezzünk egy szép weboldalt szálláshelyednek!
-    text: |
-      ###### ingyenes próbidőszak
-
-      14 nap ingyenes próbaidő.
     actions:
       - type: Button
         label: Ajánlatkérés
