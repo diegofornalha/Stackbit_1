@@ -149,7 +149,7 @@ sections:
       vendéged lesz. Tőlünk nem csak egy weboldalt, hanem egy vendégszerző
       eszközt is kapsz.
   - type: FeaturedItemsSection
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     title: Erre számíts amikor velünk dolgozol
     subtitle: ''
