@@ -554,9 +554,8 @@ sections:
           landing page 2 hét, webáruház 3 - 4 hét után élesíthető.
       - question: Mennyibe kerül egy weboldal?
         answer: >
-          Természetesen. Az Appartmant úgy alakítottuk ki, hogy a regisztrációt
-          követően egy linket kap, amit akár saját weboldalára, akár Facebook
-          vagy Instagram oldalára is belinkelhet. Ha mégis elakadna, segítünk!
+          Igényektől függ, ugyanakkor elmondható, hogy áraink bruttó 300 000
+          forinttól indulnak.
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
