@@ -962,8 +962,9 @@ sections:
           opacity: 100
     title: Egyedi weboldalkészítés szállásadóknak
     text: >
-      Már közel 3000 szállásadó cserél naponta ötleteket, tippeket és fontos
-      tudnivalókat.
+      A szállásadói piacon szerzett tapasztalatunkat összekötve a korábbi
+      weboldal fejlesztés területén szerzett szakértelmünkkel már weboldal
+      fejlesztést is vállalunk kifejezetten szállásadók számára.
     actions:
       - type: Button
         label: Weboldal készítés
