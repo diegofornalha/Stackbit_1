@@ -538,12 +538,9 @@ sections:
     items:
       - question: Mitől egyedi egy weboldal?
         answer: >
-          A vendégek szeretik látni és lefoglalni a szállást. Ahogyan egy
-          webshopnak sem levelezünk, úgy rengeteg ember nem szeret emailezni és
-          telefonálni (persze lesznek, akik igen). Nagyon sok vendég mielőtt
-          foglalna felkeresi a Booking és Szállás.hu oldalát, hogy megnézze az
-          Ön szabad időpontjait. Néhányuk visszamegy a szállást Önnél, de arra
-          is van esély, hogy ott foglal vagy éppen keres más lehetőséget is.
+          Weboldalad attól lesz egyedi, hogy üzleti céljaidtól és ügyfeleidtől
+          függően tervezzük meg a felület elrendezését és dizájnját, alakítjuk
+          ki a szövegezést és fejlesztjük a mobilra optimalizált front-endjét.
       - question: >-
           Manuálisan szeretném visszaigazolni a foglalásokat. Erre van
           lehetőség?
