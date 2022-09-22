@@ -251,52 +251,6 @@ sections:
       Weboldalad marketingszemlélettel készítjük, így a látogatóidból több
       vendéged lesz. Tőlünk nem csak egy weboldalt, hanem egy vendégszerző
       eszközt is kapsz.
-  - type: HeroSection
-    elementId: ''
-    colors: colors-a
-    title: Automatikusan frissülő foglaltsági naptár iCal naptár szinkronnal
-    subtitle: null
-    text: >
-      ###### új funkció!
-
-
-      #### Könnyedén összehangolhatja az Appartman naptárát a Szallas.hu,
-      Booking és Airbnb közvetítő oldalakkal
-
-
-      A regisztrációnál egyszerűen áthozhatja máshonnan a foglalásait. Az iCal
-      naptár szinkron funkcióval nagy mértékben csökkenthető az adminisztráció
-      és a túlfoglalás esélye.
-    actions: []
-    media:
-      url: /images/ical-naptar-szinkron-appartman-szallas-hu-booking-airbnb.png
-      altText: Hero section image
-      caption: test
-      type: ImageBlock
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - elementId: ''
     colors: colors-a
     title: Átlátható foglaltsági naptár
