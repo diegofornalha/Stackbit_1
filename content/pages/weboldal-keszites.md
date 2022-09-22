@@ -582,50 +582,6 @@ sections:
         fontStyle: normal
         textAlign: center
     type: FaqSection
-  - type: CtaSection
-    elementId: ''
-    colors: colors-b
-    backgroundImage:
-      type: ImageBlock
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-    title: Van egy projekted?
-    text: >
-      Küldj üzenetet vagy add meg a telefonszámod, és Krisztián 24 órán belül
-      visszahív.
-    actions:
-      - type: Button
-        label: Kapcsolat
-        url: 'https://www.facebook.com/groups/szallasadok'
-        style: primary
-        altText: Szakmai közösség
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: ContactSection
     elementId: ''
     colors: colors-h
