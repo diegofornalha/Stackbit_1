@@ -180,9 +180,8 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Szakértelem
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          A “jól van az úgy” nincs jól úgy.
         featuredImage: null
         styles:
           title:
