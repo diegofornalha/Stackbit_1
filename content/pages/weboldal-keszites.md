@@ -2,7 +2,7 @@
 layout: PageLayout
 title: Weboldal készítés magánszálláshelyeknek | Appartman
 seo:
-  title: Hogyan növeljük direkt foglalásaink számát? | Appartman Blog
+  title: Weboldal készítés magánszálláshelyeknek | Appartman
   description: >-
     Mi az online direkt foglalások nagy előnye, és milyen módszereket érdemes
 sections:
