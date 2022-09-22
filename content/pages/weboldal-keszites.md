@@ -199,7 +199,7 @@ sections:
           A “jól van az úgy” nincs jól úgy.
         featuredImage:
           type: ImageBlock
-          url: /images/könyvek.png
+          url: /images/könyvek (1).png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
