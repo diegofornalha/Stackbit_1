@@ -551,5 +551,5 @@ sections:
 seo:
   title: Weboldal készítés magánszálláshelyeknek | Appartman
   description: >-
-    Gyönyörű és igényes weboldalakat fejlesztünk, amik segítenek a vendégszerzésben 
+    Gyönyörű és igényes weboldalakat fejlesztünk, amik segítenek a vendégszerzésben.  
 ---
