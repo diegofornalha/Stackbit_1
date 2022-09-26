@@ -551,6 +551,5 @@ sections:
 seo:
   title: Weboldal készítés magánszálláshelyeknek | Appartman
   description: >-
-    Szobafoglalási rendszer vendégházaknak és apartmanoknak iCal naptár
-    szinkronnal | Foglaltsági naptár | PMS | NTAK szoftver | Okmányolvasás | 
+     
 ---
