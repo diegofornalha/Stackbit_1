@@ -96,11 +96,11 @@ Bizottságnak, az nem fog pénzbe kerülnek a szállásadónak.
 
 Ha a helyszíni ellenőrzés szerint nem felelünk meg az önértékelésünk által meghatározott kategóriának, több lehetőségünk is van:
 
-Amennyiben az auditorok alacsonyabb kategóriájú besorolást ajánlanak, azt elfogadhatjuk, így további teendő nem lesz.
+*   Amennyiben az auditorok alacsonyabb kategóriájú besorolást ajánlanak, azt elfogadhatjuk, így további teendő nem lesz.
 
-Ha nem ajánlják fel ezt az opciót, vagy nem fogadjuk el, 45 munkanapunk lesz a hiányosságok pótlására. Ezek egy részét lehet igazolni fotókkal, számlákkal, de vannak olyanok is, amiknél pótellenőrzés szükséges a hiányok pótlásának igazolására.
+*   Ha nem ajánlják fel ezt az opciót, vagy nem fogadjuk el, 45 munkanapunk lesz a hiányosságok pótlására. Ezek egy részét lehet igazolni fotókkal, számlákkal, de vannak olyanok is, amiknél pótellenőrzés szükséges a hiányok pótlásának igazolására.
 
-Hiánypótlásra, pótellenőrzése 1 alkalommal van lehetőség a folyamaton belül! Ha ez nem történik meg, vagy alacsonyabb kategóriába sorolják a szálláshelyet, vagy elutasítják a minősítést – utóbbi esetben a szálláshely a továbbiakban nem üzemelhet.
+*   Hiánypótlásra, pótellenőrzése 1 alkalommal van lehetőség a folyamaton belül! Ha ez nem történik meg, vagy alacsonyabb kategóriába sorolják a szálláshelyet, vagy elutasítják a minősítést – utóbbi esetben a szálláshely a továbbiakban nem üzemelhet.
 
 ### Meddig érvényes a minősítés?
 
