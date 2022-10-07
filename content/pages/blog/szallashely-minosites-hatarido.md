@@ -17,13 +17,12 @@ seo:
     történetét!
 author: content/data/team/desmond-eagle.json
 ---
-A kötelező
-szálláshely-minősítés bejelentése kihívás elé állít sok szállásadót. A korábbi
+A kötelező szálláshely-minősítés bejelentése kihívás elé állít sok szállásadót. A korábbi
 gyakorlattal ellentétben most már a magánszálláshelyek esetében is követelmény
 lesz, hogy rendelkezzenek hivatalos, 1-től 5 csillagig terjedő minősítéssel. Az
 intézkedés sokakat érint, Magyarországon ugyanis mintegy 42 ezer
 magánszálláshely van, 2024 végére pedig a tervek szerint az összesnél el kell
-végezni a minősítést. 
+végezni a minősítést.
 
 ## A minősítés nem probléma, hanem lehetőség
 
@@ -33,7 +32,7 @@ egyértelmű kritériumrendszer egy mankót is jelent arra vonatkozóan, hogy mi
 fejlesztéseket végezhetünk el a szálláson, ha a minősítés által több vendéget
 szeretnénk becsábítani. Célzottan tudjuk javítani a szolgáltatást, hogy
 magasabb kategóriát érjünk el, egyúttal a vendégeik igényeit is jobban ki
-tudjuk szolgálni. 
+tudjuk szolgálni.
 
 Akik eddig is a valóságnak
 megfelelően sorolták be magukat, azoknak valószínűleg semmi teendőjük nem lesz,
@@ -79,14 +78,14 @@ változtatni.
 Fontos tudni, hogy az első
 minősítés költségét az állam átvállalja, tehát amikor az auditorok első
 alkalommal szemlézik a szálláshelyet, majd adják be döntésre az anyagot a Bíráló
-Bizottságnak, az nem fog pénzbe kerülnek a szállásadónak. 
+Bizottságnak, az nem fog pénzbe kerülnek a szállásadónak.
 
 ## Hogyan zajlik a minősítés folyamata?
 
 ·      
 A minősítéshez első körben regisztrálni kell
 a [www.szallashelyminosites.hu](http://www.szallashelyminosites.hu)
-oldalon, az ott kapott formanyomtatvány kitöltésével. 
+oldalon, az ott kapott formanyomtatvány kitöltésével.
 
 ·      
 Ha erről megvan a visszaigazolás, be kell
@@ -119,7 +118,7 @@ követő újabb 15 munkanapon belül az erről szóló dokumentumokat is megkapj
 
 Ha a helyszíni ellenőrzés szerint
 nem felelünk meg az önértékelésünk által meghatározott kategóriának, több
-lehetőségünk is van: 
+lehetőségünk is van:
 
 ·      
 Amennyiben az auditorok alacsonyabb
@@ -158,4 +157,3 @@ Mindeközben ki fognak esni a
 rendszerből olyan szálláshelyek, melyek nagyon alacsony minőségűek, ám
 eddig konkurenciát tudtak jelenteni a színvonalasabb szállásadók számára. A
 piac egységesebb, tisztább lesz, ami összességében mindkét oldalnak kedvez.
-
