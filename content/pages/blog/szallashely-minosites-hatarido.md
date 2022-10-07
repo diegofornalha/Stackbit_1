@@ -2,10 +2,7 @@
 layout: PostLayout
 title: 'Kötelező szálláshely-minősítés – már nincs sok idő elintézni! '
 date: '2022-10-07'
-excerpt: >-
-  Az Appartman egy magánszállásadóknak fejlesztett szoftver
-  magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid
-  történetét!
+excerpt: 'Határidők, költségek, folyamat: minden egy helyen!'
 featuredImage:
   type: ImageBlock
   url: /images/appartman-sztori-og-ba837406.png
