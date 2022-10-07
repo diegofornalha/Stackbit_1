@@ -20,58 +20,145 @@ seo:
     történetét!
 author: content/data/team/desmond-eagle.json
 ---
-> Az Appartman egy [online szobafoglalási rendszer](https://appartman.hu/) és szálláshelykezelő szoftver, amely segíti a magánszállásadókat direkt foglalásaik növelésében és a napi adminisztrációban.
+A kötelező
+szálláshely-minősítés bejelentése kihívás elé állít sok szállásadót. A korábbi
+gyakorlattal ellentétben most már a magánszálláshelyek esetében is követelmény
+lesz, hogy rendelkezzenek hivatalos, 1-től 5 csillagig terjedő minősítéssel. Az
+intézkedés sokakat érint, Magyarországon ugyanis mintegy 42 ezer
+magánszálláshely van, 2024 végére pedig a tervek szerint az összesnél el kell
+végezni a minősítést. 
 
-Mátyás Krisztián vagyok, a Szállásadók szakmai közösségének és az Appartman szoftvercégnek a társalapítója.
+## A minősítés nem probléma, hanem lehetőség
 
-Kijelenthetjük, hogy az Appartmant a közösség ihlette és folyamatosan segítette. A visszajelzések és interjúk által egy ténylegesen magánszállásadókra szabott megoldással tudjuk könnyebbé tenni a vendégház tulajdonosok mindennapjait.
+Bár sok szállásadó problémát,
+nehézséget lát az intézkedésben, fel lehet fogni lehetőségként is: az
+egyértelmű kritériumrendszer egy mankót is jelent arra vonatkozóan, hogy milyen
+fejlesztéseket végezhetünk el a szálláson, ha a minősítés által több vendéget
+szeretnénk becsábítani. Célzottan tudjuk javítani a szolgáltatást, hogy
+magasabb kategóriát érjünk el, egyúttal a vendégeik igényeit is jobban ki
+tudjuk szolgálni. 
 
-### Na, de lássuk is, hogyan kezdődött.
+Akik eddig is a valóságnak
+megfelelően sorolták be magukat, azoknak valószínűleg semmi teendőjük nem lesz,
+ha továbbra is ugyanazt a kategóriát céloznák meg, csak abban az esetben, ha magasabb
+minősítést szeretnének kapni. Azokon a szálláshelyeken azonban, amik eddig
+nem teljesen feleltek meg a kategóriájuknak, az üzemeltető kénytelen lesz
+javítani a körülményeken, orvosolni a hibákat, pótolni a hiányosságokat.
 
-A szálláshelyem üzemeltetését egy épp kihasználatlan családi ingatlanból 2020 végén kezdtük el újra, ami nem ment éppen zökkenőmentesen, hiszen ekkor szigorítottak a korlátozásokon, ami annyit jelentett hogy az éppen megnyitott apartmanunkban nem lehetett vendéget fogadni.
+## Milyen határidőkre kell figyelni szállásadóként?
 
-Vagyis lehetett, csak üzleti úttal, aztán védettségivel, aztán anélkül is. Mondanom sem kell, a követhetetlen szabályozásokkal és félinformációkkal nem voltunk egyedül.
+A szabályozás értelmében a
+jövőben hivatalosan csak olyan szálláshelyen lehet vendégeket fogadni, amely
+rendelkezik minősítéssel, vagyis megfelel azoknak a követelményeknek, amik az
+adott típusra vonatkoznak.
 
-A szállásadó ismerőseimmel, akikkel beszéltem, mindannyian a hátuk közepére nem kívánták a bezárást, nem csak azért, mert 0 vendégük volt, de még a hoteleket megillető támogatások sem jártak a kis vendégházak tulajdonosainak. (Utólag volt azért egy minimális korrekció.)
+A „nagyok” esetében már lezárult
+a folyamat: a már korábban nyilvántartásba vett szállodáknak, panzióknak 2021.
+december 31-ig kellett regisztrálniuk a Magyar Turisztikai Minőségtanúsító
+Testület rendszerébe, 2022. június 30-ig pedig a kempingek, üdülőháztelepek,
+illetve közösségi szálláshelyek regisztrációja is lezajlott.  
 
-Ezek hatására úgy gondoltam, hogy létrehozok Facebookon egy közösséget, Szállásadók szakmai közössége néven, hogy segítsük egymást az aktuális jogszabályokban, üzemeltetéssel kapcsolatos kérdésekben, támogatásokban stb.
+A magánszálláshelyek esetében 1
+évvel kitolták a határidőt, 2023. január 1-ig kell regisztrálni a minősítés
+megszerzése érdekében azoknak, akik már 2022 előtt is szerepeltek a
+nyilvántartásban. Akik viszont 2022. január 1. után kezdték meg a működést, már
+eleve csak a minősítés birtokában indulhattak/indulhatnak el. Egyértelmű cél,
+hogy 2024-re ne legyen olyan szálláshely, ami nincs besorolva.
 
-A csoport neve szándékosan lett **közösség**, hiszen rengeteg témában ekkor még tájékozatlan voltam és a célom az volt, hogy együtt, közösen összedugva a fejünket válaszoljuk meg a kérdéseket.
+Sokan hagyják egyébként az utolsó
+pillanatra a folyamatot: augusztusig mindössze a magánszálláshelyek 15%-a
+végezte el a regisztrációt, így az év utolsó hónapjai várhatóan zsúfoltak
+lesznek ebben a tekintetben.
 
-> És igazam lett, hihetetlenül jó érzés volt látni, hogy mennyi ember áll segítőkészen a sorstársaihoz, a tapasztaltakhoz, újakhoz és bárkihez, aki elveszett a szálláshely üzemeltetés és a követhetetlen jogszabályok útvesztőjében.
+## Nem jár költségekkel az első szálláshely-minősítés
 
-A csendespihenő alatt volt azért lehetőségem próbálgatni az adminisztratív folyamatokat, de mégis az első vendégek érkezését követően jött a hidegzuhany. Ekkor szembesültem az NTAK, Vendégem és később pedig az okmányolvasás kálváriájával.
+A minősítési folyamatnak lehetnek
+költségei, de ez nem szükségszerű. A ráfordítás mértéke sok mindentől függ: ha
+csak magára az eljárásra van szükség, az teljesen díjtalan, de ha
+fejlesztésekre, felújításokra is szükség van, akkor nagyon eltérő összegek
+jöhetnek ki annak függvényében, hogy milyen hiányokat kell pótolni, min kell
+változtatni.
 
-Egyszerre kb. 4–5 rendszert használtam (Vendégem, Google naptár, weboldal, email stb.) azért, hogy eleget tegyek a jogszabályoknak és átlássam a vendégek kezelését.
+Fontos tudni, hogy az első
+minősítés költségét az állam átvállalja, tehát amikor az auditorok első
+alkalommal szemlézik a szálláshelyet, majd adják be döntésre az anyagot a Bíráló
+Bizottságnak, az nem fog pénzbe kerülnek a szállásadónak. 
 
-### Mondanom sem kell, mennyire bosszantó volt
+## Hogyan zajlik a minősítés folyamata?
 
-> Elkérni, felvinni a vendég adatait azért, hogy a kötelező dolgok meglegyenek, mellette pedig naptárban vezetni az érkező-távozó vendégeket, Excelben a bevételeket, kiadásokat stb.
+·      
+A minősítéshez első körben regisztrálni kell
+a [www.szallashelyminosites.hu](http://www.szallashelyminosites.hu)
+oldalon, az ott kapott formanyomtatvány kitöltésével. 
 
-A történet egy másik tényezője, hogy ekkor már kb. 1,5 éve üzemeltettük informatikai vállalkozásunkat az alapítótársaimmal, Attilával és
-Bencével, akiknek az Appartman jelenlegi kialakítása és fejlesztői háttérrendszere is köszönhető.
+·      
+Ha erről megvan a visszaigazolás, be kell
+nyújtani a kérelmet, amit a weboldalon automatikusan megkapunk.
 
-Éppen ekkor egy mátrai szálláshely weboldalán dolgoztunk, ahol egy szobafoglalási rendszert kellett integrálnunk, akik hotelekre szabott
-megoldásokkal és árazásokkal és a kb. 150.000 Ft indulási költséggel oldották meg azt a problémát, hogy jutalékmentesen és automatizáltan tudjon az ügyfelünk vendéget fogadni.
+·      
+Ezt követően az önértékelő felületen kell értékelni
+a saját szálláshelyünket, az oldalon megtalálható kritériumrendszer
+alapján. Ha ezt elvégeztük, láthatjuk, hogy a szállásunk jelenleg milyen
+besorolást kaphatna. Fontos: már 2022 előtt is üzemelő szálláshely esetén, ha
+megkaptuk az önértékelési felülethez a hozzáférést, 45 munkanapunk van azt
+elvégezni!
 
-Elég bosszús hangvételű volt a szállásadó, amikor arról beszélt, hogy mennyire drága. Nagyon sok olyan funkció volt benne, amit — kis
-szálláshely lévén — nem is tudott kihasználni és a megoldás a rejtett modulokkal együtt így is kb. havi 40.000 Ft-ba került neki. Végül mégis telepítettük neki, hiszen még így is jobban jön ki, mintha a Booking venné le a jutalékot.
+·      
+A következő lépés a helyszíni ellenőrzés:
+ennek időpontjáról legalább 5 munkanappal korábban értesítést kapunk. Nyitni
+készülő új szálláshely esetén az önértékelés beérkezése után 15 munkanapon
+belül le kell zajlania az ellenőrzésnek, működő szállások esetén azonban ez 180
+munkanap! A minősítéskor az ellenőrök kérni fogják a szálláshely alaprajzát, a
+szobák listáját, valamint a házirendet.
 
-Ekkor vált egyértelművé, hogy nekünk **egy kifejezetten kis szállásadókra szabott megoldással kell segítenünk** a vendégházak, apartmanok tulajdonosait.
+·      
+Ha minden követelménynek megfelelt a szálláshely
+a kategóriájában, következik maga a döntés. A Bíráló Bizottság ezt a
+helyszíni ellenőrzést követő 15 munkanapon belül teszi meg új szálláshely esetén
+és 60 munkanapon belül meglévő esetén. Ha minden rendben, az eredmény közlését
+követő újabb 15 munkanapon belül az erről szóló dokumentumokat is megkapjuk.
 
-Egy olyan megoldással, ami a kötelezőkön túl, **egyszerűbbé** és **átláthatóbbá** teszi szálláshelyük működtetését.
+### Mi történik, ha nem megyünk át az ellenőrzésen?
 
-### És hát a közösség…
+Ha a helyszíni ellenőrzés szerint
+nem felelünk meg az önértékelésünk által meghatározott kategóriának, több
+lehetőségünk is van: 
 
-Rendkívül sokat köszönhet az Appartman a közösségnek, hiszen már a tervezés elejétől bevontuk a szállásadókat és igyekeztünk úgy kialakítani a rendszert, hogy a *megfelelő funkciókat* tudja és **pofonegyszerű** legyen használni.
+·      
+Amennyiben az auditorok alacsonyabb
+kategóriájú besorolást ajánlanak, azt elfogadhatjuk, így további teendő nem
+lesz.
 
-Azóta természetesen rengeteget kutatunk a témában — külföldi példákat tekintve is — és igyekszünk jegyzetelni a tapasztalatainkat és a
-folyamatokat a közösség Tudástárában is.
+·      
+Ha nem ajánlják fel ezt az opciót, vagy nem
+fogadjuk el, 45 munkanapunk lesz a hiányosságok pótlására. Ezek egy
+részét lehet igazolni fotókkal, számlákkal, de vannak olyanok is, amiknél
+pótellenőrzés szükséges a hiányok pótlásának igazolására.
 
-Valahogy így kezdődött az Appartman sztori, az pedig, hogyan folytatódik, legyen egy izgalmas meglepetés ;)
+·      
+Hiánypótlásra, pótellenőrzése 1 alkalommal
+van lehetőség a folyamaton belül! Ha ez nem történik meg, vagy alacsonyabb
+kategóriába sorolják a szálláshelyet, vagy elutasítják a minősítést – utóbbi
+esetben a szálláshely a továbbiakban nem üzemelhet.
 
-**Mátyás Krisztián**
+### Meddig érvényes a minősítés?
 
-*alapító*
+A szálláshelyek minősítése 3
+évig érvényes marad. 3 éven belül csak akkor kell újra kérelmezni, ha
+magasabb kategóriát szeretnénk megcélozni. A minősítésről táblát vagy matricát
+kapunk a bírálatot követően, ezt jól látható helyen, a bejárat közelében kell
+elhelyezni a szálláshelyen, ahol a vendégek is jól láthatják.
 
-Appartman
+## Tisztul a piac
+
+Bár a szálláshely-minősítés
+folyamata jár némi macerával, adott esetben feladatokkal is, összességében jót
+fog tenni a piacnak. A vendégek számára lényegesen átláthatóbbá válik a
+szálláshelyek minősége, valamint a szállásadók is tisztább képet kapnak
+arról, hogy milyen elvárásoknak kell megfelelniük.
+
+Mindeközben ki fognak esni a
+rendszerből olyan szálláshelyek, melyek nagyon alacsony minőségűek, ám
+eddig konkurenciát tudtak jelenteni a színvonalasabb szállásadók számára. A
+piac egységesebb, tisztább lesz, ami összességében mindkét oldalnak kedvez.
+
