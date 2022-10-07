@@ -82,60 +82,25 @@ Bizottságnak, az nem fog pénzbe kerülnek a szállásadónak.
 
 ## Hogyan zajlik a minősítés folyamata?
 
-·      
-A minősítéshez első körben regisztrálni kell
-a [www.szallashelyminosites.hu](http://www.szallashelyminosites.hu)
-oldalon, az ott kapott formanyomtatvány kitöltésével.
+*   A minősítéshez első körben regisztrálni kell a [www.szallashelyminosites.hu](http://www.szallashelyminosites.hu) oldalon, az ott kapott formanyomtatvány kitöltésével.
 
-·      
-Ha erről megvan a visszaigazolás, be kell
-nyújtani a kérelmet, amit a weboldalon automatikusan megkapunk.
+*   Ha erről megvan a visszaigazolás, be kell nyújtani a kérelmet, amit a weboldalon automatikusan megkapunk.
 
-·      
-Ezt követően az önértékelő felületen kell értékelni
-a saját szálláshelyünket, az oldalon megtalálható kritériumrendszer
-alapján. Ha ezt elvégeztük, láthatjuk, hogy a szállásunk jelenleg milyen
-besorolást kaphatna. Fontos: már 2022 előtt is üzemelő szálláshely esetén, ha
-megkaptuk az önértékelési felülethez a hozzáférést, 45 munkanapunk van azt
-elvégezni!
+*   Ezt követően az önértékelő felületen kell értékelni a saját szálláshelyünket, az oldalon megtalálható kritériumrendszer alapján. Ha ezt elvégeztük, láthatjuk, hogy a szállásunk jelenleg milyen besorolást kaphatna. Fontos: már 2022 előtt is üzemelő szálláshely esetén, ha megkaptuk az önértékelési felülethez a hozzáférést, 45 munkanapunk van azt elvégezni!
 
-·      
-A következő lépés a helyszíni ellenőrzés:
-ennek időpontjáról legalább 5 munkanappal korábban értesítést kapunk. Nyitni
-készülő új szálláshely esetén az önértékelés beérkezése után 15 munkanapon
-belül le kell zajlania az ellenőrzésnek, működő szállások esetén azonban ez 180
-munkanap! A minősítéskor az ellenőrök kérni fogják a szálláshely alaprajzát, a
-szobák listáját, valamint a házirendet.
+*   A következő lépés a helyszíni ellenőrzés: ennek időpontjáról legalább 5 munkanappal korábban értesítést kapunk. Nyitni készülő új szálláshely esetén az önértékelés beérkezése után 15 munkanapon belül le kell zajlania az ellenőrzésnek, működő szállások esetén azonban ez 180 munkanap! A minősítéskor az ellenőrök kérni fogják a szálláshely alaprajzát, a szobák listáját, valamint a házirendet.
 
-·      
-Ha minden követelménynek megfelelt a szálláshely
-a kategóriájában, következik maga a döntés. A Bíráló Bizottság ezt a
-helyszíni ellenőrzést követő 15 munkanapon belül teszi meg új szálláshely esetén
-és 60 munkanapon belül meglévő esetén. Ha minden rendben, az eredmény közlését
-követő újabb 15 munkanapon belül az erről szóló dokumentumokat is megkapjuk.
+*   Ha minden követelménynek megfelelt a szálláshely a kategóriájában, következik maga a döntés. A Bíráló Bizottság ezt a helyszíni ellenőrzést követő 15 munkanapon belül teszi meg új szálláshely esetén és 60 munkanapon belül meglévő esetén. Ha minden rendben, az eredmény közlését követő újabb 15 munkanapon belül az erről szóló dokumentumokat is megkapjuk.
 
 ### Mi történik, ha nem megyünk át az ellenőrzésen?
 
-Ha a helyszíni ellenőrzés szerint
-nem felelünk meg az önértékelésünk által meghatározott kategóriának, több
-lehetőségünk is van:
+Ha a helyszíni ellenőrzés szerint nem felelünk meg az önértékelésünk által meghatározott kategóriának, több lehetőségünk is van:
 
-·      
-Amennyiben az auditorok alacsonyabb
-kategóriájú besorolást ajánlanak, azt elfogadhatjuk, így további teendő nem
-lesz.
+Amennyiben az auditorok alacsonyabb kategóriájú besorolást ajánlanak, azt elfogadhatjuk, így további teendő nem lesz.
 
-·      
-Ha nem ajánlják fel ezt az opciót, vagy nem
-fogadjuk el, 45 munkanapunk lesz a hiányosságok pótlására. Ezek egy
-részét lehet igazolni fotókkal, számlákkal, de vannak olyanok is, amiknél
-pótellenőrzés szükséges a hiányok pótlásának igazolására.
+Ha nem ajánlják fel ezt az opciót, vagy nem fogadjuk el, 45 munkanapunk lesz a hiányosságok pótlására. Ezek egy részét lehet igazolni fotókkal, számlákkal, de vannak olyanok is, amiknél pótellenőrzés szükséges a hiányok pótlásának igazolására.
 
-·      
-Hiánypótlásra, pótellenőrzése 1 alkalommal
-van lehetőség a folyamaton belül! Ha ez nem történik meg, vagy alacsonyabb
-kategóriába sorolják a szálláshelyet, vagy elutasítják a minősítést – utóbbi
-esetben a szálláshely a továbbiakban nem üzemelhet.
+Hiánypótlásra, pótellenőrzése 1 alkalommal van lehetőség a folyamaton belül! Ha ez nem történik meg, vagy alacsonyabb kategóriába sorolják a szálláshelyet, vagy elutasítják a minősítést – utóbbi esetben a szálláshely a továbbiakban nem üzemelhet.
 
 ### Meddig érvényes a minősítés?
 
