@@ -15,7 +15,6 @@ featuredImage:
   type: ImageBlock
   url: /images/szallashely-minosites-hatarido-koltsegek-folyamat.png
   altText: 'Szálláshely minősítés: határidők, költségek, folyamat'
-  caption: Caption of the image
   elementId: ''
   styles:
     self:
