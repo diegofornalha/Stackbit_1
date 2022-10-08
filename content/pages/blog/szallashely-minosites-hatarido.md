@@ -15,7 +15,6 @@ seo:
     Az Appartman egy magánszállásadóknak fejlesztett szoftver
     magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid
     történetét!
-author: content/data/team/desmond-eagle.json
 ---
 A kötelező szálláshely-minősítés bejelentése kihívás elé állít sok szállásadót. A korábbi
 gyakorlattal ellentétben most már a magánszálláshelyek esetében is követelmény
