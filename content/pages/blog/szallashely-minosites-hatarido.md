@@ -17,12 +17,12 @@ seo:
     történetét!
 author: content/data/team/person-xqkrwa90t.json
 ---
-A kötelező szálláshely-minősítés bejelentése kihívás elé állít sok szállásadót. A korábbi
+`A kötelező szálláshely-minősítés bejelentése kihívás elé állít sok szállásadót. A korábbi
 gyakorlattal ellentétben most már a magánszálláshelyek esetében is követelmény
 lesz, hogy rendelkezzenek hivatalos, 1-től 5 csillagig terjedő minősítéssel. Az
 intézkedés sokakat érint, Magyarországon ugyanis mintegy 42 ezer
 magánszálláshely van, 2024 végére pedig a tervek szerint az összesnél el kell
-végezni a minősítést.
+végezni a minősítést.`
 
 ## A minősítés nem probléma, hanem lehetőség
 
