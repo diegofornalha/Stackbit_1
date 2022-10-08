@@ -7,9 +7,7 @@ bottomSections: []
 seo:
   title: Kötelező szálláshely-minősítés – már nincs sok idő elintézni! | Appartman Blog
   description: >-
-    Az Appartman egy magánszállásadóknak fejlesztett szoftver
-    magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid
-    történetét!
+    Az Határidők, költségek, folyamat: minden egy helyen!
 author: content/data/team/person-xqkrwa90t.json
 featuredImage:
   type: ImageBlock
