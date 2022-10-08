@@ -3,11 +3,6 @@ layout: PostLayout
 title: 'Kötelező szálláshely-minősítés – már nincs sok idő elintézni! '
 date: '2022-10-07'
 excerpt: 'Határidők, költségek, folyamat: minden egy helyen!'
-featuredImage:
-  type: ImageBlock
-  url: /images/appartman-sztori-og-ba837406.png
-  altText: Az Appartman sztori
-  caption: ''
 bottomSections: []
 seo:
   title: Az Appartman sztori | Appartman Blog
