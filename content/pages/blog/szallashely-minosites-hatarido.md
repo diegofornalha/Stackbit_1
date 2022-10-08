@@ -11,6 +11,15 @@ seo:
     magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid
     történetét!
 author: content/data/team/person-xqkrwa90t.json
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  styles:
+    self:
+      opacity: 100
 ---
 `A kötelező szálláshely-minősítés bejelentése kihívás elé állít sok szállásadót. A korábbi
 gyakorlattal ellentétben most már a magánszálláshelyek esetében is követelmény
