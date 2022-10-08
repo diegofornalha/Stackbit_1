@@ -14,7 +14,7 @@ author: content/data/team/person-xqkrwa90t.json
 featuredImage:
   type: ImageBlock
   url: /images/szallashely-minosites-hatarido-koltsegek-folyamat.png
-  altText: altText of the image
+  altText: 'Szálláshely minősítés: határidők, költségek, folyamat'
   caption: Caption of the image
   elementId: ''
   styles:
