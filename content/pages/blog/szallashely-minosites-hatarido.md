@@ -5,7 +5,7 @@ date: '2022-10-07'
 excerpt: 'Határidők, költségek, folyamat: minden egy helyen!'
 bottomSections: []
 seo:
-  title: Az Appartman sztori | Appartman Blog
+  title: Kötelező szálláshely-minősítés – már nincs sok idő elintézni! | Appartman Blog
   description: >-
     Az Appartman egy magánszállásadóknak fejlesztett szoftver
     magnánszállásadóktól. Olvassa el e személyes kötődésű projekt rövid
