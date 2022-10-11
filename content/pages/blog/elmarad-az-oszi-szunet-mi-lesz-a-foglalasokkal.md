@@ -2,7 +2,10 @@
 layout: PostLayout
 title: 'Kötelező szálláshely-minősítés – már nincs sok idő elintézni! '
 date: '2022-10-11'
-excerpt: 'Határidők, költségek, folyamat: minden egy helyen!'
+excerpt: >-
+  Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi
+  szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk,
+  találhatunk megoldást a problémára.'
 featuredImage:
   type: ImageBlock
   url: /images/szallashely-minosites-hatarido-koltsegek-folyamat.png
