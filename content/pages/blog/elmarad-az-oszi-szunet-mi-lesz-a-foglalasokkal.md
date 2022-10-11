@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: 'Kötelező szálláshely-minősítés – már nincs sok idő elintézni! '
-date: '2022-10-07'
+date: '2022-10-11'
 excerpt: 'Határidők, költségek, folyamat: minden egy helyen!'
 featuredImage:
   type: ImageBlock
