@@ -17,7 +17,7 @@ featuredImage:
 bottomSections: []
 seo:
   title: >-
-    Kötelező szálláshely-minősítés – már nincs sok idő elintézni! | Appartman
+    Elmarad az őszi szünet – mi lesz a foglalásokkal? | Appartman
     Blog
   description: >-
     Egy helyen gyűjtöttük össze a szálláshely-minősítéssel kapcsolatos
