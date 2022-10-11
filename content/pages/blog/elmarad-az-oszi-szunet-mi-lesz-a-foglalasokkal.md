@@ -8,7 +8,7 @@ excerpt: >-
   találhatunk megoldást a problémára.'
 featuredImage:
   type: ImageBlock
-  url: /images/elmarad-oszi-szunet-tippek-szallasadoknak.png
+  url: /images/elmarad-oszi-szunet-tippek-szallasadoknak (1).png
   altText: 'Szálláshely minősítés: határidők, költségek, folyamat'
   elementId: ''
   styles:
