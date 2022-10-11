@@ -20,8 +20,8 @@ seo:
     Elmarad az őszi szünet – mi lesz a foglalásokkal? | Appartman
     Blog
   description: >-
-    Egy helyen gyűjtöttük össze a szálláshely-minősítéssel kapcsolatos
-    határidőket, költségeket, és a minősítés folyamatát.
+    Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk,
+  találhatunk megoldást a problémára.
 author: content/data/team/person-xqkrwa90t.json
 ---
 `Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. A népszerű kirándulóhelyek környéki szállásadóknál jó eséllyel voltak már foglalások, hiszen sok család szereti kihasználni az őszi szünet napjait egy kis pihenésre, városnézésre, túrázásra. Idén ez a lehetőség elveszett, legalábbis november első hetében. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.`
