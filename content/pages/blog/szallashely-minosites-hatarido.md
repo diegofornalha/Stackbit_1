@@ -2,7 +2,7 @@
 layout: PostLayout
 title: 'Kötelező szálláshely-minősítés – már nincs sok idő elintézni'
 date: '2022-10-07'
-excerpt: 'Ö'
+excerpt: 'Összegyűjtöttük a szálláshely-minősítéssel kapcsolatban a '
 bottomSections: []
 seo:
   title: Elmarad az őszi szűnet – mi lesz a foglalásokkal | Appartman Blog
