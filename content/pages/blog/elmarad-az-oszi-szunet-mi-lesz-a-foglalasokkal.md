@@ -21,108 +21,89 @@ seo:
     határidőket, költségeket, és a minősítés folyamatát.
 author: content/data/team/person-xqkrwa90t.json
 ---
-`A kötelező szálláshely-minősítés bejelentése kihívás elé állít sok szállásadót. A korábbi
-gyakorlattal ellentétben most már a magánszálláshelyek esetében is követelmény
-lesz, hogy rendelkezzenek hivatalos, 1-től 5 csillagig terjedő minősítéssel. Az
-intézkedés sokakat érint, Magyarországon ugyanis mintegy 42 ezer
-magánszálláshely van, 2024 végére pedig a tervek szerint az összesnél el kell
-végezni a minősítést.`
+`Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. A népszerű kirándulóhelyek környéki szállásadóknál jó eséllyel voltak már foglalások, hiszen sok család szereti kihasználni az őszi szünet napjait egy kis pihenésre, városnézésre, túrázásra. Idén ez a lehetőség elveszett, legalábbis november első hetében. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.`
 
-## A minősítés nem probléma, hanem lehetőség
+## Az utolsó nagyobb kirándulások
 
-Bár sok szállásadó problémát,
-nehézséget lát az intézkedésben, fel lehet fogni lehetőségként is: az
-egyértelmű kritériumrendszer egy mankót is jelent arra vonatkozóan, hogy milyen
-fejlesztéseket végezhetünk el a szálláson, ha a minősítés által több vendéget
-szeretnénk becsábítani. Célzottan tudjuk javítani a szolgáltatást, hogy
-magasabb kategóriát érjünk el, egyúttal a vendégeik igényeit is jobban ki
-tudjuk szolgálni.
+Az őszi szünetet sok család
+használja ki egy utolsó kirándulós kikapcsolódásra. A nyárral ellentétben
+ilyenkor már nincs túl meleg várost nézni, túrázni, de nem is számít az
+ember strandidőre, így nem érheti csalódás, ha valamilyen fedett programot
+kell választania. Jó néhányan már nyár végén lefoglalják a szállást az őszi
+szünetre, hogy biztosan legyen hely.
 
-Akik eddig is a valóságnak
-megfelelően sorolták be magukat, azoknak valószínűleg semmi teendőjük nem lesz,
-ha továbbra is ugyanazt a kategóriát céloznák meg, csak abban az esetben, ha magasabb
-minősítést szeretnének kapni. Azokon a szálláshelyeken azonban, amik eddig
-nem teljesen feleltek meg a kategóriájuknak, az üzemeltető kénytelen lesz
-javítani a körülményeken, orvosolni a hibákat, pótolni a hiányosságokat.
+Most azonban szeptember végén a
+kormány bejelentette: idén nem lesz őszi szünet, helyette a téli
+szünetet hosszabbítják meg. A döntést az energiaválsággal indokolták, így
+ugyanis kevesebbet kell fűteni az iskolákban. Amellett, hogy a szülőknek
+nehézséget okozhat ezt összeegyeztetni a munkával, a turizmust is érzékenyen
+érinti az intézkedés. A lefoglalt szállásokat a családok kénytelenek
+lemondani – hacsak nem kínálnak nekik a szállásadók jobb alternatívát.
 
-## Milyen határidőkre kell figyelni szállásadóként?
+## Azért van ott egy hosszú hétvége!
 
-A szabályozás értelmében a
-jövőben hivatalosan csak olyan szálláshelyen lehet vendégeket fogadni, amely
-rendelkezik minősítéssel, vagyis megfelel azoknak a követelményeknek, amik az
-adott típusra vonatkoznak.
+Ha van szabad kapacitás, érdemes
+lehet az eredetileg őszi szünet elejére eső négynapos hosszú hétvégére
+csoportosítani a foglalásokat, az 1-2 éjszakásakat pedig a következő
+hétvégére. Keressük fel a vendégeket, kérdezzük meg, nem szeretnének-e pár
+nappal előbb vagy később jönni, mert „még van hely”, nem kell lemondaniuk a
+kikapcsolódásról – persze ugyanazon az áron.
 
-A „nagyok” esetében már lezárult
-a folyamat: a már korábban nyilvántartásba vett szállodáknak, panzióknak 2021.
-december 31-ig kellett regisztrálniuk a Magyar Turisztikai Minőségtanúsító
-Testület rendszerébe, 2022. június 30-ig pedig a kempingek, üdülőháztelepek,
-illetve közösségi szálláshelyek regisztrációja is lezajlott.  
+Sokszor csak ennyin múlik, hogy
+végül eljönnek-e, vagy töröltetik a foglalást. Ha megkeressük őket, ajánlunk hétvégi
+alternatívát a foglalt időpont környékén, jóval nagyobb eséllyel tartják meg a
+helyüket – sokaknak eszükbe se jut, hogy csúsztatni is lehetne lemondás
+helyett.
 
-A magánszálláshelyek esetében 1
-évvel kitolták a határidőt, 2023. január 1-ig kell regisztrálni a minősítés
-megszerzése érdekében azoknak, akik már 2022 előtt is szerepeltek a
-nyilvántartásban. Akik viszont 2022. január 1. után kezdték meg a működést, már
-eleve csak a minősítés birtokában indulhattak/indulhatnak el. Egyértelmű cél,
-hogy 2024-re ne legyen olyan szálláshely, ami nincs besorolva.
+## Jöhetnek a téli szünetben is
 
-Sokan hagyják egyébként az utolsó
-pillanatra a folyamatot: augusztusig mindössze a magánszálláshelyek 15%-a
-végezte el a regisztrációt, így az év utolsó hónapjai várhatóan zsúfoltak
-lesznek ebben a tekintetben.
+Ha az őszi szünetet megelőző és
+követő hétvégék nem szabadok, felajánlhatjuk azt is, hogy esetleg áttehetjük
+a foglalásukat (díjmentesen) a január eleji időszakra, amikor még tartani
+fog a téli szünet. Kiemelhetjük, hogy milyen látnivalók vannak a környéken,
+amik akkor is látogathatók, milyen programokat lehet csinálni a környéken.
 
-## Nem jár költségekkel az első szálláshely-minősítés
+Érdemes utánajárni, lesz-e
+valamilyen rendezvény akkortájt a környéken, ami különösen vonzó lehet a
+családok számára, ezzel máris jelentősen növelhetjük az érdeklődést és a
+hajlandóságot a halasztásra. Az utazással egy kicsit meg lehet tartani az
+ünnepi hangulatot, nem kell rögtön visszazuhanni a hétköznapokba, ami
+szintén vonzó lehet.
 
-A minősítési folyamatnak lehetnek
-költségei, de ez nem szükségszerű. A ráfordítás mértéke sok mindentől függ: ha
-csak magára az eljárásra van szükség, az teljesen díjtalan, de ha
-fejlesztésekre, felújításokra is szükség van, akkor nagyon eltérő összegek
-jöhetnek ki annak függvényében, hogy milyen hiányokat kell pótolni, min kell
-változtatni.
+## Töltsük fel előre a tavaszi szünetet!
 
-Fontos tudni, hogy az első
-minősítés költségét az állam átvállalja, tehát amikor az auditorok első
-alkalommal szemlézik a szálláshelyet, majd adják be döntésre az anyagot a Bíráló
-Bizottságnak, az nem fog pénzbe kerülnek a szállásadónak.
+Bár a tavasz még messze van, de
+azoknak, akik nem akarnak télen utazni, a tavaszi szünetre is felajánlhatjuk
+a foglalás átrakását. Akkor már többnyire tényleg jó az idő, pont
+kirándulásra alkalmas, szívesen utaznak az emberek. Egy kis marketingfogással
+még népszerűbbé tehetjük az ajánlatot: bár az árak emelkednek, ha átteszi a
+foglalást, még a mostani áron kaphatja meg a szállást. 
 
-## Hogyan zajlik a minősítés folyamata?
+Ehhez nyilván kell egy kis
+rugalmasság a bevételt tekintve, ha tényleg tervezünk emelni, de talán jobb
+a biztos foglalás az alacsonyabb áron. Kivéve, ha rendszerint megtelik a
+szállás a tavaszi szünet idején – ebben az esetben nem biztos, hogy érdemes
+megtartani az őszi lemondókat.
 
-*   A minősítéshez első körben regisztrálni kell a [www.szallashelyminosites.hu](http://www.szallashelyminosites.hu) oldalon, az ott kapott formanyomtatvány kitöltésével.
+## Hirdessük meg az üresedést!
 
-*   Ha erről megvan a visszaigazolás, be kell nyújtani a kérelmet, amit a weboldalon automatikusan megkapunk.
+Legjobb, ha van egy közösségi
+média felület (például Facebook, Instagram), amit szállásadóként
+használunk, és rendelkezik némi követőtáborral. Itt megoszthatjuk, hogy
+felszabadultak helyek, hátha valaki lecsap rá. 
 
-*   Ezt követően az önértékelő felületen kell értékelni a saját szálláshelyünket, az oldalon megtalálható kritériumrendszer alapján. Ha ezt elvégeztük, láthatjuk, hogy a szállásunk jelenleg milyen besorolást kaphatna. Fontos: már 2022 előtt is üzemelő szálláshely esetén, ha megkaptuk az önértékelési felülethez a hozzáférést, 45 munkanapunk van azt elvégezni!
+Akkor sincs semmi gond azonban,
+ha nem készült eddig ilyen oldal: szállásadó/szálláskereső közösségekben
+saját magunk is posztolhatjuk az üresedést, így közvetlenül a
+célközönséghez jut el, és jó eséllyel találunk vendégeket. A saját
+profilunkon való megosztás is segít: hátha valamelyik ismerős, vagy ismerős
+ismerőse keresne szállást azokra a napokra. 
 
-*   A következő lépés a helyszíni ellenőrzés: ennek időpontjáról legalább 5 munkanappal korábban értesítést kapunk. Nyitni készülő új szálláshely esetén az önértékelés beérkezése után 15 munkanapon belül le kell zajlania az ellenőrzésnek, működő szállások esetén azonban ez 180 munkanap! A minősítéskor az ellenőrök kérni fogják a szálláshely alaprajzát, a szobák listáját, valamint a házirendet.
+A posztokba is érdemes beleírni,
+hogy milyen programlehetőségek vannak, hol lehet kirándulni, miért érdemes az
+adott környékre látogatni – hátha valaki kedvet kap, aki amúgy nem is tervezett
+akkor utazni.
 
-*   Ha minden követelménynek megfelelt a szálláshely a kategóriájában, következik maga a döntés. A Bíráló Bizottság ezt a helyszíni ellenőrzést követő 15 munkanapon belül teszi meg új szálláshely esetén és 60 munkanapon belül meglévő esetén. Ha minden rendben, az eredmény közlését követő újabb 15 munkanapon belül az erről szóló dokumentumokat is megkapjuk.
-
-### Mi történik, ha nem megyünk át az ellenőrzésen?
-
-Ha a helyszíni ellenőrzés szerint nem felelünk meg az önértékelésünk által meghatározott kategóriának, több lehetőségünk is van:
-
-*   Amennyiben az auditorok alacsonyabb kategóriájú besorolást ajánlanak, azt elfogadhatjuk, így további teendő nem lesz.
-
-*   Ha nem ajánlják fel ezt az opciót, vagy nem fogadjuk el, 45 munkanapunk lesz a hiányosságok pótlására. Ezek egy részét lehet igazolni fotókkal, számlákkal, de vannak olyanok is, amiknél pótellenőrzés szükséges a hiányok pótlásának igazolására.
-
-*   Hiánypótlásra, pótellenőrzése 1 alkalommal van lehetőség a folyamaton belül! Ha ez nem történik meg, vagy alacsonyabb kategóriába sorolják a szálláshelyet, vagy elutasítják a minősítést – utóbbi esetben a szálláshely a továbbiakban nem üzemelhet.
-
-### Meddig érvényes a minősítés?
-
-A szálláshelyek minősítése 3
-évig érvényes marad. 3 éven belül csak akkor kell újra kérelmezni, ha
-magasabb kategóriát szeretnénk megcélozni. A minősítésről táblát vagy matricát
-kapunk a bírálatot követően, ezt jól látható helyen, a bejárat közelében kell
-elhelyezni a szálláshelyen, ahol a vendégek is jól láthatják.
-
-## Tisztul a piac
-
-Bár a szálláshely-minősítés
-folyamata jár némi macerával, adott esetben feladatokkal is, összességében jót
-fog tenni a piacnak. A vendégek számára lényegesen átláthatóbbá válik a
-szálláshelyek minősége, valamint a szállásadók is tisztább képet kapnak
-arról, hogy milyen elvárásoknak kell megfelelniük.
-
-Mindeközben ki fognak esni a
-rendszerből olyan szálláshelyek, melyek nagyon alacsony minőségűek, ám
-eddig konkurenciát tudtak jelenteni a színvonalasabb szállásadók számára. A
-piac egységesebb, tisztább lesz, ami összességében mindkét oldalnak kedvez.
+Nem muszáj elengedni november
+első hetét, csak mert elmarad az őszi szünet! Minimális időbefektetéssel
+megtarthatjuk a foglalásokat, vagy szerezhetünk újakat!
