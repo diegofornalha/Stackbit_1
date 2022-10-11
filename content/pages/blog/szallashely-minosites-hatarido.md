@@ -5,7 +5,7 @@ date: '2022-10-07'
 excerpt: 'Határidők, költségek, folyamat: minden egy helyen!'
 bottomSections: []
 seo:
-  title: Kötelező szálláshely-minősítés – már nincs sok idő elintézni! | Appartman Blog
+  title: Elmarad az őszi szűnet| Appartman Blog
   description: >-
     Egy helyen gyűjtöttük össze a szálláshely-minősítéssel kapcsolatos határidőket, költségeket, és a minősítés folyamatát.
 author: content/data/team/person-xqkrwa90t.json
