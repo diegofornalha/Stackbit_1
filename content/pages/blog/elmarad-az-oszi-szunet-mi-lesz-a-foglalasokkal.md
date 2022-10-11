@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Elmarad az őszi szünet – mi lesz a foglalásokkal
+title: Elmarad az őszi szünet – mi lesz a foglalásokkal?
 date: '2022-10-11'
 excerpt: >-
   Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi
