@@ -7,7 +7,7 @@ bottomSections: []
 seo:
   title: Kötelező szálláshely-minősítés – már nincs sok idő elintézni | Appartman Blog
   description: >-
-    Összegyűjtöttük a szálláshely-minősítéssel kapcsolatban a határidőket, költségeket és a folyamattal kapcsolatos tudnivalókat..
+    Összegyűjtöttük a szálláshely-minősítéssel kapcsolatban a határidőket, költségeket és a folyamattal kapcsolatos tudnivalókat.
 author: content/data/team/person-xqkrwa90t.json
 featuredImage:
   type: ImageBlock
