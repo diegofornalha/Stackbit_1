@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: 'Elmarad az őszi szűnet – mi lesz a foglalásokkal | Appartman Blog'
+title: 'Kötelező szálláshely-minősítés – már nincs sok idő elintézni | Appartman Blog'
 date: '2022-10-07'
 excerpt: 'Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.'
 bottomSections: []
