@@ -8,7 +8,7 @@ excerpt: >-
   találhatunk megoldást a problémára.'
 featuredImage:
   type: ImageBlock
-  url: /images/szallashely-minosites-hatarido-koltsegek-folyamat.png
+  url: /images/elmarad-oszi-szunet-tippek-szallasadoknak.png
   altText: 'Szálláshely minősítés: határidők, költségek, folyamat'
   elementId: ''
   styles:
