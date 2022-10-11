@@ -7,7 +7,7 @@ bottomSections: []
 seo:
   title: Elmarad az őszi szűnet – mi lesz a foglalásokkal | Appartman Blog
   description: >-
-    Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. 
+    Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.
 author: content/data/team/person-xqkrwa90t.json
 featuredImage:
   type: ImageBlock
