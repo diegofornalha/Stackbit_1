@@ -7,7 +7,7 @@ bottomSections: []
 seo:
   title: Kötelező szálláshely-minősítés – már nincs sok idő elintézni | Appartman Blog
   description: >-
-    Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.
+    Összegyűjtöttük a szálláshely-minősítéssel kapcsolatban a határidőket, költségeket és a folyamattal kapcsolatos tudnivalókat..
 author: content/data/team/person-xqkrwa90t.json
 featuredImage:
   type: ImageBlock
