@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: 'Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások'
-date: '2022-10-11'
+date: '2022-10-18'
 excerpt: >-
   Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi
   szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk,
