@@ -3,7 +3,9 @@ layout: PostLayout
 title: 'Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások'
 date: '2022-10-11'
 excerpt: >-
-Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít magánszálláshelynek. Természetesen ez nem azt jelenti, hogy ekkora a konkurencia, hiszen közvetlen versenytársnak csak azt tekinthetjük, ami földrajzilag közel helyezkedik el hozzánk. Ettől függetlenül a verseny nagy lehet, különösen a frekventáltabb helyeken, a népszerű turistacélpontok környékén. 
+    Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az
+    őszi szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek
+    vagyunk, találhatunk megoldást a problémára.
 featuredImage:
   type: ImageBlock
   url: /images/elmarad-oszi-szunet-tippek-szallasadoknak (1).png
