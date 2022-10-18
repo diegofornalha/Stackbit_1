@@ -33,87 +33,90 @@ népszerű turistacélpontok környékén. Ezeken a területeken szezonban könn
 teltházat produkálni a nagy forgalom miatt, szezonon kívül viszont már komolyan
 meg kell dolgozni a foglalásokért.`
 
-Az utolsó nagyobb kirándulások
 
-Az őszi szünetet sok család
-használja ki egy utolsó kirándulós kikapcsolódásra. A nyárral ellentétben
-ilyenkor már nincs túl meleg várost nézni, túrázni, de nem is számít az
-ember strandidőre, így nem érheti csalódás, ha valamilyen fedett programot
-kell választania. Jó néhányan már nyár végén lefoglalják a szállást az őszi
-szünetre, hogy biztosan legyen hely.
 
-Most azonban szeptember végén a
-kormány bejelentette: idén nem lesz őszi szünet, helyette a téli
-szünetet hosszabbítják meg. A döntést az energiaválsággal indokolták, így
-ugyanis kevesebbet kell fűteni az iskolákban. Amellett, hogy a szülőknek
-nehézséget okozhat ezt összeegyeztetni a munkával, a turizmust is érzékenyen
-érinti az intézkedés. A lefoglalt szállásokat a családok kénytelenek
-lemondani – hacsak nem kínálnak nekik a szállásadók jobb alternatívát.
 
-## Azért van ott egy hosszú hétvége!
+## Folyamatos figyelmet igényel
 
-Ha van szabad kapacitás, érdemes
-lehet az eredetileg őszi szünet elejére eső négynapos hosszú hétvégére
-csoportosítani a foglalásokat, az 1-2 éjszakásakat pedig a következő
-hétvégére. Keressük fel a vendégeket, kérdezzük meg, nem szeretnének-e pár
-nappal előbb vagy később jönni, mert „még van hely”, nem kell lemondaniuk a
-kikapcsolódásról – persze ugyanazon az áron.
+A tapasztalatlan szállásadók
+gyakran gondolják azt, hogy ha egyszer felszerelték és bebútorozták a szállást,
+a továbbiak csak a turnusok közti takarítás lesz a dolguk. Ez azonban súlyos
+tévedés, legalábbis, ha szeretnének magas színvonalú szolgáltatást nyújtani, és
+elkerülnék azt a problémát, hogy nehezen töltik fel a helyeket.
 
-Sokszor csak ennyin múlik, hogy
-végül eljönnek-e, vagy töröltetik a foglalást. Ha megkeressük őket, ajánlunk hétvégi
-alternatívát a foglalt időpont környékén, jóval nagyobb eséllyel tartják meg a
-helyüket – sokaknak eszükbe se jut, hogy csúsztatni is lehetne lemondás
-helyett.
+Ahol sok a vetélytárs, ott
+különösen igaz, hogy tenni kell azért, hogy versenyben maradj, azaz ki
+kell tűnnie a szolgáltatásodnak. Nem könnyű már az első foglalás előtt meggyőzni
+a vendéget, hogy éppen nálad érdemes megszállni, de szerencsére nem is
+lehetetlen.
 
-## Jöhetnek a téli szünetben is
+## Hogyan lehet a szálláshelyed vonzóbb, mint másoké?
 
-Ha az őszi szünetet megelőző és
-követő hétvégék nem szabadok, felajánlhatjuk azt is, hogy esetleg áttehetjük
-a foglalásukat (díjmentesen) a január eleji időszakra, amikor még tartani
-fog a téli szünet. Kiemelhetjük, hogy milyen látnivalók vannak a környéken,
-amik akkor is látogathatók, milyen programokat lehet csinálni a környéken.
+Első alkalommal van a
+legnehezebb dolgod, pláne, ha sok a hasonló kategóriájú szálláshely a
+környéken. Azt kell mutatnod, hogy Te jobb szállást kínálsz, vonzóbbá
+kell tenned a saját ajánlatodat.
 
-Érdemes utánajárni, lesz-e
-valamilyen rendezvény akkortájt a környéken, ami különösen vonzó lehet a
-családok számára, ezzel máris jelentősen növelhetjük az érdeklődést és a
-hajlandóságot a halasztásra. Az utazással egy kicsit meg lehet tartani az
-ünnepi hangulatot, nem kell rögtön visszazuhanni a hétköznapokba, ami
-szintén vonzó lehet.
+### Ezt a következő trükkökkel teheted meg:
 
-## Töltsük fel előre a tavaszi szünetet!
+·      
+A megfelelő ár megtalálása. Mondanánk,
+hogy az ár nem minden, és ez igaz is, de legyünk őszinték: mindig az árat nézi
+meg először a vendég egy kategórián belül. Sajnos sokan elszállnak az
+árazással, pláne a népszerű helyeken. Nem azt szeretnénk mondani, hogy
+árazd alul a szálláshelyedet, de mindenképpen reálisan lődd be az értékét, mert
+ha a legdrágábbak közé fogsz tartozni, nehezebben töltöd fel a szállást.
 
-Bár a tavasz még messze van, de
-azoknak, akik nem akarnak télen utazni, a tavaszi szünetre is felajánlhatjuk
-a foglalás átrakását. Akkor már többnyire tényleg jó az idő, pont
-kirándulásra alkalmas, szívesen utaznak az emberek. Egy kis marketingfogással
-még népszerűbbé tehetjük az ajánlatot: bár az árak emelkednek, ha átteszi a
-foglalást, még a mostani áron kaphatja meg a szállást.
+·      
+Jó fotók. Nagyon sokan alábecsülik a
+fotók jelentőségét, pedig ezek a legfontosabbak. Mindenki képek alapján
+próbálja megállapítani, hogy milyen lehet a kiszemelt szálláshely, mennyire
+felel meg az igényeinek, mennyire modern, komfortos, mekkorák a terek stb. A
+rossz minőségű, homályos képek, a sötét képek, vagy ha alig van kép, jelentősen
+csökkenti az esélyeidet a foglalásra. Érdemes beruházni profi fotós által
+készített fotókra, hogy a lehető legelőnyösebb felvételek készüljenek.
 
-Ehhez nyilván kell egy kis
-rugalmasság a bevételt tekintve, ha tényleg tervezünk emelni, de talán jobb
-a biztos foglalás az alacsonyabb áron. Kivéve, ha rendszerint megtelik a
-szállás a tavaszi szünet idején – ebben az esetben nem biztos, hogy érdemes
-megtartani az őszi lemondókat.
+·      
+Részletes leírás. Szintén komoly szerepe
+van a foglalásokban a szálláshely részletes leírásának. Ahol a potenciális
+vendég alig talál érdemi információt, ott inkább nem foglal. Semmi kedve
+felvenni a kapcsolatot azért, hogy megtudja, van-e klíma, grillezési lehetőség,
+van-e lehetőség pótágy berakására stb. Inkább majd foglal ott, ahol ezek az
+infók eleve adottak. Minden fontos dolgot írj le a leírásban, ha előre
+választ kapnak a kérdéseikre, szívesebben foglalnak!
 
-## Hirdessük meg az üresedést!
+·      
+Legyen foglaltsági naptárad és közvetlen
+foglalási rendszered! A saját oldaladon mindenképp legyen egy naptár, amin
+a vendég egyből láthatja, mikor vannak szabad helyeid. Ez pont ugyanúgy
+működik, mint a leírás: ha nincs elég infó, inkább továbbmegy olyan szálláshelyre,
+ahol van. Ha nem tudja egyből megnézni, mikor foglalhat nálad, a legritkább
+esetben fog e-mailt írni vagy telefonálni, helyette inkább másik szállást
+keres. Még jobb, ha lehet az oldaladon [közvetlenül foglalni](https://foglalas.appartman.hu/register) is, így
+már biztosan nem megy sehova, ha talál megfelelő időpontot.
 
-Legjobb, ha van egy közösségi
-média felület (például Facebook, Instagram), amit szállásadóként
-használunk, és rendelkezik némi követőtáborral. Itt megoszthatjuk, hogy
-felszabadultak helyek, hátha valaki lecsap rá.
+·      
+Adj egy kicsit többet, mint kell! Nem
+arra gondolunk, hogy halmozd el mindenféle luxussal a vendégeket, de az apró
+kedvességek sokat számítanak, amikor választaniuk kell. Egy üveg (lehetőleg
+helyi) bor bekészítve érkezéskor, programajánló a környékre, a gyerekeknek egy
+kis meglepetés csoki nem nagy dolog, de sokat dob a szálláshely megítélésén. Ha
+ez látszik a képeken, vagy szerepel a leírásban, vonzóbbá teheti a szállást.
 
-Akkor sincs semmi gond azonban,
-ha nem készült eddig ilyen oldal: szállásadó/szálláskereső közösségekben
-saját magunk is posztolhatjuk az üresedést, így közvetlenül a
-célközönséghez jut el, és jó eséllyel találunk vendégeket. A saját
-profilunkon való megosztás is segít: hátha valamelyik ismerős, vagy ismerős
-ismerőse keresne szállást azokra a napokra.
+·      
+Legyenek pozitív értékeléseid! Ha a
+szállás tényleg rendben van, valamint az említett apróságokkal is a vendégek
+kedvében jársz, elméletben nem nehéz pozitív véleményeket begyűjteni – a
+gyakorlatban viszont, ha valamivel elégedettek az emberek, azt nem feltétlenül nyilvánítják
+ki, inkább a negatív véleménynek szeretnek hangot adni. Biztasd őket
+értékelésre akár szóban, akár a hazatérésük után egy utólagos e-mailben. Ha
+jól érezték magukat, bizonyára szívesen megteszik, a szálláshelyed pedig
+hitelesebb és megbízhatóbb lesz a következő potenciális vendégek szemében.
 
-A posztokba is érdemes beleírni,
-hogy milyen programlehetőségek vannak, hol lehet kirándulni, miért érdemes az
-adott környékre látogatni – hátha valaki kedvet kap, aki amúgy nem is tervezett
-akkor utazni.
-
-Nem muszáj elengedni november
-első hetét, csak mert elmarad az őszi szünet! Minimális időbefektetéssel
-megtarthatjuk a foglalásokat, vagy szerezhetünk újakat!
+A vendégszerzésnél tehát főként
+azon van a hangsúly, hogy az online felülete(ke)n hogyan jelensz meg,
+mennyire tudod itt is kielégíteni a vendégek igényeit. Ők gyorsan szeretnének
+releváns információkhoz jutni a szálláshellyel kapcsolatban, és azt szeretik,
+ha leinformálható a hely: jó alaposan meg tudják nézni fotókon és véleményeket
+is olvashatnak róla. Fontos továbbá, hogy minél egyszerűbben lehessen
+foglalni. Ha ez mind megvan egy helyen, nem fognak tovább keresgélni!
