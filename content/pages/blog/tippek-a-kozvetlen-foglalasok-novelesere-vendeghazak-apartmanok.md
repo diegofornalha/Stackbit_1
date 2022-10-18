@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/tunj-ki-a-tomegbol.png
-  altText: 'Szálláshely minősítés: határidők, költségek, folyamat'
+  altText: Így tűnhet ki a szálláshelyed
   elementId: ''
   styles:
     self:
