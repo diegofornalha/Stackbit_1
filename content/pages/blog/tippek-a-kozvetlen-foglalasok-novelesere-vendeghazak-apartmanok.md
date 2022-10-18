@@ -56,12 +56,12 @@ kell tenned a saját ajánlatodat.
 
 ### Ezt a következő trükkökkel teheted meg:
 
-##### A megfelelő ár megtalálása
+#### A megfelelő ár megtalálása
 
 Mondanánk, hogy az ár nem minden, és ez igaz is, de legyünk őszinték: mindig az árat nézi
 meg először a vendég egy kategórián belül. Sajnos sokan elszállnak az árazással, pláne a népszerű helyeken. Nem azt szeretnénk mondani, hogy árazd alul a szálláshelyedet, de mindenképpen reálisan lődd be az értékét, mert ha a legdrágábbak közé fogsz tartozni, nehezebben töltöd fel a szállást.
 
-##### Jó fotók
+#### Jó fotók
 
 Nagyon sokan alábecsülik a fotók jelentőségét, pedig ezek a legfontosabbak. Mindenki képek alapján próbálja megállapítani, hogy milyen lehet a kiszemelt szálláshely, mennyire felel meg az igényeinek, mennyire modern, komfortos, mekkorák a terek stb. A rossz minőségű, homályos képek, a sötét képek, vagy ha alig van kép, jelentősen csökkenti az esélyeidet a foglalásra. Érdemes beruházni profi fotós által
 készített fotókra, hogy a lehető legelőnyösebb felvételek készüljenek.
