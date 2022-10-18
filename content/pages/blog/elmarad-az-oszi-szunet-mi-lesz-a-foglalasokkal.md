@@ -17,7 +17,7 @@ featuredImage:
 bottomSections: []
 seo:
   title: >-
-    Elmarad az őszi szünet – mi lesz a foglalásokkal? | Appartman
+    Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások | Appartman
     Blog
   description: >-
     Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.
