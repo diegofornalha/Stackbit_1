@@ -35,31 +35,20 @@ meg kell dolgozni a foglalásokért.`
 
 ## Folyamatos figyelmet igényel
 
-A tapasztalatlan szállásadók
-gyakran gondolják azt, hogy ha egyszer felszerelték és bebútorozták a szállást,
-a továbbiak csak a turnusok közti takarítás lesz a dolguk. Ez azonban súlyos
-tévedés, legalábbis, ha szeretnének magas színvonalú szolgáltatást nyújtani, és
-elkerülnék azt a problémát, hogy nehezen töltik fel a helyeket.
+A tapasztalatlan szállásadók gyakran gondolják azt, hogy ha egyszer felszerelték és bebútorozták a szállást,
+a továbbiak csak a turnusok közti takarítás lesz a dolguk. Ez azonban súlyos tévedés, legalábbis, ha szeretnének magas színvonalú szolgáltatást nyújtani, és elkerülnék azt a problémát, hogy nehezen töltik fel a helyeket.
 
-Ahol sok a vetélytárs, ott
-különösen igaz, hogy tenni kell azért, hogy versenyben maradj, azaz ki
-kell tűnnie a szolgáltatásodnak. Nem könnyű már az első foglalás előtt meggyőzni
-a vendéget, hogy éppen nálad érdemes megszállni, de szerencsére nem is
-lehetetlen.
+Ahol sok a vetélytárs, ott különösen igaz, hogy tenni kell azért, hogy versenyben maradj, azaz ki kell tűnnie a szolgáltatásodnak. Nem könnyű már az első foglalás előtt meggyőzni a vendéget, hogy éppen nálad érdemes megszállni, de szerencsére nem is lehetetlen.
 
 ## Hogyan lehet a szálláshelyed vonzóbb, mint másoké?
 
-Első alkalommal van a
-legnehezebb dolgod, pláne, ha sok a hasonló kategóriájú szálláshely a
-környéken. Azt kell mutatnod, hogy Te jobb szállást kínálsz, vonzóbbá
-kell tenned a saját ajánlatodat.
+Első alkalommal van a legnehezebb dolgod, pláne, ha sok a hasonló kategóriájú szálláshely a környéken. Azt kell mutatnod, hogy Te jobb szállást kínálsz, vonzóbbá kell tenned a saját ajánlatodat.
 
 ### Ezt a következő trükkökkel teheted meg:
 
 #### A megfelelő ár megtalálása
 
-Mondanánk, hogy az ár nem minden, és ez igaz is, de legyünk őszinték: mindig az árat nézi
-meg először a vendég egy kategórián belül. Sajnos sokan elszállnak az árazással, pláne a népszerű helyeken. Nem azt szeretnénk mondani, hogy árazd alul a szálláshelyedet, de mindenképpen reálisan lődd be az értékét, mert ha a legdrágábbak közé fogsz tartozni, nehezebben töltöd fel a szállást.
+Mondanánk, hogy az ár nem minden, és ez igaz is, de legyünk őszinték: mindig az árat nézi meg először a vendég egy kategórián belül. Sajnos sokan elszállnak az árazással, pláne a népszerű helyeken. Nem azt szeretnénk mondani, hogy árazd alul a szálláshelyedet, de mindenképpen reálisan lődd be az értékét, mert ha a legdrágábbak közé fogsz tartozni, nehezebben töltöd fel a szállást.
 
 #### Jó fotók
 
@@ -78,20 +67,11 @@ A saját oldaladon mindenképp legyen egy naptár, amin a vendég egyből látha
 
 Nemarra gondolunk, hogy halmozd el mindenféle luxussal a vendégeket, de az aprókedvességek sokat számítanak, amikor választaniuk kell. Egy üveg (lehetőleg helyi) bor bekészítve érkezéskor, programajánló a környékre, a gyerekeknek egy kis meglepetés csoki nem nagy dolog, de sokat dob a szálláshely megítélésén. Ha ez látszik a képeken, vagy szerepel a leírásban, vonzóbbá teheti a szállást.
 
-·      
-Legyenek pozitív értékeléseid! Ha a
-szállás tényleg rendben van, valamint az említett apróságokkal is a vendégek
-kedvében jársz, elméletben nem nehéz pozitív véleményeket begyűjteni – a
-gyakorlatban viszont, ha valamivel elégedettek az emberek, azt nem feltétlenül nyilvánítják
-ki, inkább a negatív véleménynek szeretnek hangot adni. Biztasd őket
-értékelésre akár szóban, akár a hazatérésük után egy utólagos e-mailben. Ha
-jól érezték magukat, bizonyára szívesen megteszik, a szálláshelyed pedig
-hitelesebb és megbízhatóbb lesz a következő potenciális vendégek szemében.
+#### Legyenek pozitív értékeléseid! 
 
-A vendégszerzésnél tehát főként
-azon van a hangsúly, hogy az online felülete(ke)n hogyan jelensz meg,
-mennyire tudod itt is kielégíteni a vendégek igényeit. Ők gyorsan szeretnének
-releváns információkhoz jutni a szálláshellyel kapcsolatban, és azt szeretik,
-ha leinformálható a hely: jó alaposan meg tudják nézni fotókon és véleményeket
-is olvashatnak róla. Fontos továbbá, hogy minél egyszerűbben lehessen
-foglalni. Ha ez mind megvan egy helyen, nem fognak tovább keresgélni!
+Ha a szállás tényleg rendben van, valamint az említett apróságokkal is a vendégek kedvében jársz, elméletben nem nehéz pozitív véleményeket begyűjteni – a gyakorlatban viszont, ha valamivel elégedettek az emberek, azt nem feltétlenül nyilvánítják ki, inkább a negatív véleménynek szeretnek hangot adni. Biztasd őket értékelésre akár szóban, akár a hazatérésük után egy utólagos e-mailben. Ha jól érezték magukat, bizonyára szívesen megteszik, a szálláshelyed pedig hitelesebb és megbízhatóbb lesz a következő potenciális vendégek szemében.
+
+> A vendégszerzésnél tehát főként azon van a hangsúly, hogy az online felülete(ke)n hogyan jelensz meg, mennyire tudod itt is kielégíteni a vendégek igényeit. 
+
+Ők gyorsan szeretnének releváns információkhoz jutni a szálláshellyel kapcsolatban, és azt szeretik,
+ha leinformálható a hely: jó alaposan meg tudják nézni fotókon és véleményeket is olvashatnak róla. Fontos továbbá, hogy minél egyszerűbben lehessen foglalni. Ha ez mind megvan egy helyen, nem fognak tovább keresgélni!
