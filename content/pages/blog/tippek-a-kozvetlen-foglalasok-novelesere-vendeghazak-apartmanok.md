@@ -9,7 +9,7 @@ excerpt: >-
   viszont már komolyan meg kell dolgozni a foglalásokért.
 featuredImage:
   type: ImageBlock
-  url: /images/elmarad-oszi-szunet-tippek-szallasadoknak (1).png
+  url: /images/tunj-ki-a-tomegbol.png
   altText: 'Szálláshely minősítés: határidők, költségek, folyamat'
   elementId: ''
   styles:
