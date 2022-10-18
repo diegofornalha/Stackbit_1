@@ -17,7 +17,7 @@ seo:
   title: >-
     Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások | Appartman Blog
   description: >-
-    Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít magánszálláshelynek. Természetesen ez nem azt jelenti, hogy ekkora a konkurencia, hiszen közvetlen versenytársnak csak azt tekinthetjük, ami földrajzilag közel helyezkedik el hozzánk. Ettől függetlenül a verseny nagy lehet, különösen a frekventáltabb helyeken, a népszerű turistacélpontok környékén. 
+    Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít magánszálláshelynek. Természetesen ez nem azt jelenti, hogy ekkora a konkurencia, hiszen közvetlen versenytársnak csak azt tekinthetjük, ami földrajzilag közel helyezkedik el hozzánk.
 author: content/data/team/person-xqkrwa90t.json
 ---
 `Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. A népszerű kirándulóhelyek környéki szállásadóknál jó eséllyel voltak már foglalások, hiszen sok család szereti kihasználni az őszi szünet napjait egy kis pihenésre, városnézésre, túrázásra. Idén ez a lehetőség elveszett, legalábbis november első hetében. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.`
