@@ -17,8 +17,7 @@ featuredImage:
 bottomSections: []
 seo:
   title: >-
-    Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások | Appartman
-    Blog
+    Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások | Appartman Blog
   description: >-
     Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.
 author: content/data/team/person-xqkrwa90t.json
