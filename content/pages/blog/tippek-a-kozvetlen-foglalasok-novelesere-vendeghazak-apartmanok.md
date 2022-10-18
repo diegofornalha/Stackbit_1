@@ -24,6 +24,8 @@ seo:
     vagyunk, találhatunk megoldást a problémára.
 author: content/data/team/person-xqkrwa90t.json
 ---
+``![](/images/tunj-ki-a-tomegbol-5fbfc8c2.png)
+
 `Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít magánszálláshelynek. Természetesen ez nem azt jelenti, hogy ekkora a konkurencia, hiszen közvetlen versenytársnak csak azt tekinthetjük, ami földrajzilag közel helyezkedik el hozzánk. Ettől függetlenül a verseny nagy lehet, különösen a frekventáltabb helyeken, a népszerű turistacélpontok környékén. Ezeken a területeken szezonban könnyű teltházat produkálni a nagy forgalom miatt, szezonon kívül viszont már komolyan meg kell dolgozni a foglalásokért.`
 
 ## Folyamatos figyelmet igényel
