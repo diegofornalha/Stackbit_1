@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások
+title: 'Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások
 date: '2022-10-11'
 excerpt: >-
   Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi
