@@ -33,9 +33,6 @@ népszerű turistacélpontok környékén. Ezeken a területeken szezonban könn
 teltházat produkálni a nagy forgalom miatt, szezonon kívül viszont már komolyan
 meg kell dolgozni a foglalásokért.`
 
-
-
-
 ## Folyamatos figyelmet igényel
 
 A tapasztalatlan szállásadók
@@ -59,13 +56,10 @@ kell tenned a saját ajánlatodat.
 
 ### Ezt a következő trükkökkel teheted meg:
 
-·      
-A megfelelő ár megtalálása. Mondanánk,
-hogy az ár nem minden, és ez igaz is, de legyünk őszinték: mindig az árat nézi
-meg először a vendég egy kategórián belül. Sajnos sokan elszállnak az
-árazással, pláne a népszerű helyeken. Nem azt szeretnénk mondani, hogy
-árazd alul a szálláshelyedet, de mindenképpen reálisan lődd be az értékét, mert
-ha a legdrágábbak közé fogsz tartozni, nehezebben töltöd fel a szállást.
+##### A megfelelő ár megtalálása. 
+
+Mondanánk, hogy az ár nem minden, és ez igaz is, de legyünk őszinték: mindig az árat nézi
+meg először a vendég egy kategórián belül. Sajnos sokan elszállnak az árazással, pláne a népszerű helyeken. Nem azt szeretnénk mondani, hogy árazd alul a szálláshelyedet, de mindenképpen reálisan lődd be az értékét, mert ha a legdrágábbak közé fogsz tartozni, nehezebben töltöd fel a szállást.
 
 ·      
 Jó fotók. Nagyon sokan alábecsülik a
