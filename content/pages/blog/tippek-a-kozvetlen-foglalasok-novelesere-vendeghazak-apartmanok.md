@@ -17,7 +17,7 @@ featuredImage:
       opacity: 100
 bottomSections: []
 seo:
-  title: 'Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások | Appartman Blog
+  title: 'Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások | Appartman Blog'
   description: >-
     Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít magánszálláshelynek. A frekventáltabb helyeken, a népszerű turistacélpontok környékén könnyű teltházat produkálni a nagy forgalom miatt, szezonon kívül viszont már komolyan meg kell dolgozni a foglalásokért.
 author: content/data/team/person-xqkrwa90t.json
