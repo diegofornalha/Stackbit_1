@@ -4,10 +4,7 @@ title: 'Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a fog
 date: '2022-10-18'
 excerpt: >-
   Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít
-  magánszálláshelynek. Természetesen ez nem azt jelenti, hogy ekkora a
-  konkurencia, hiszen közvetlen versenytársnak csak azt tekinthetjük, ami
-  földrajzilag közel helyezkedik el hozzánk. Ettől függetlenül a verseny nagy
-  lehet, különösen a frekventáltabb helyeken, a népszerű turistacélpontok
+  magánszálláshelynek. A frekventáltabb helyeken, a népszerű turistacélpontok
   környékén. Ezeken a területeken szezonban könnyű teltházat produkálni a nagy
   forgalom miatt, szezonon kívül viszont már komolyan meg kell dolgozni a
   foglalásokért.
