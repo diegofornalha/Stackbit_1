@@ -56,46 +56,28 @@ kell tenned a saját ajánlatodat.
 
 ### Ezt a következő trükkökkel teheted meg:
 
-##### A megfelelő ár megtalálása. 
+##### A megfelelő ár megtalálása
 
 Mondanánk, hogy az ár nem minden, és ez igaz is, de legyünk őszinték: mindig az árat nézi
 meg először a vendég egy kategórián belül. Sajnos sokan elszállnak az árazással, pláne a népszerű helyeken. Nem azt szeretnénk mondani, hogy árazd alul a szálláshelyedet, de mindenképpen reálisan lődd be az értékét, mert ha a legdrágábbak közé fogsz tartozni, nehezebben töltöd fel a szállást.
 
-·      
-Jó fotók. Nagyon sokan alábecsülik a
-fotók jelentőségét, pedig ezek a legfontosabbak. Mindenki képek alapján
-próbálja megállapítani, hogy milyen lehet a kiszemelt szálláshely, mennyire
-felel meg az igényeinek, mennyire modern, komfortos, mekkorák a terek stb. A
-rossz minőségű, homályos képek, a sötét képek, vagy ha alig van kép, jelentősen
-csökkenti az esélyeidet a foglalásra. Érdemes beruházni profi fotós által
+##### Jó fotók 
+
+Nagyon sokan alábecsülik a fotók jelentőségét, pedig ezek a legfontosabbak. Mindenki képek alapján próbálja megállapítani, hogy milyen lehet a kiszemelt szálláshely, mennyire felel meg az igényeinek, mennyire modern, komfortos, mekkorák a terek stb. A rossz minőségű, homályos képek, a sötét képek, vagy ha alig van kép, jelentősen csökkenti az esélyeidet a foglalásra. Érdemes beruházni profi fotós által
 készített fotókra, hogy a lehető legelőnyösebb felvételek készüljenek.
 
-·      
-Részletes leírás. Szintén komoly szerepe
-van a foglalásokban a szálláshely részletes leírásának. Ahol a potenciális
-vendég alig talál érdemi információt, ott inkább nem foglal. Semmi kedve
-felvenni a kapcsolatot azért, hogy megtudja, van-e klíma, grillezési lehetőség,
-van-e lehetőség pótágy berakására stb. Inkább majd foglal ott, ahol ezek az
-infók eleve adottak. Minden fontos dolgot írj le a leírásban, ha előre
-választ kapnak a kérdéseikre, szívesebben foglalnak!
+#####     &#xA;Részletes leírás
 
-·      
-Legyen foglaltsági naptárad és közvetlen
-foglalási rendszered! A saját oldaladon mindenképp legyen egy naptár, amin
-a vendég egyből láthatja, mikor vannak szabad helyeid. Ez pont ugyanúgy
-működik, mint a leírás: ha nincs elég infó, inkább továbbmegy olyan szálláshelyre,
-ahol van. Ha nem tudja egyből megnézni, mikor foglalhat nálad, a legritkább
-esetben fog e-mailt írni vagy telefonálni, helyette inkább másik szállást
-keres. Még jobb, ha lehet az oldaladon [közvetlenül foglalni](https://foglalas.appartman.hu/register) is, így
-már biztosan nem megy sehova, ha talál megfelelő időpontot.
+Szintén komoly szerepe van a foglalásokban a szálláshely részletes leírásának. Ahol a potenciális vendég alig talál érdemi információt, ott inkább nem foglal. Semmi kedve felvenni a kapcsolatot azért, hogy megtudja, van-e klíma, grillezési lehetőség, van-e lehetőség pótágy berakására stb. Inkább majd foglal ott, ahol ezek az infók eleve adottak. Minden fontos dolgot írj le a leírásban, ha előre választ kapnak a kérdéseikre, szívesebben foglalnak!
 
-·      
-Adj egy kicsit többet, mint kell! Nem
-arra gondolunk, hogy halmozd el mindenféle luxussal a vendégeket, de az apró
-kedvességek sokat számítanak, amikor választaniuk kell. Egy üveg (lehetőleg
-helyi) bor bekészítve érkezéskor, programajánló a környékre, a gyerekeknek egy
-kis meglepetés csoki nem nagy dolog, de sokat dob a szálláshely megítélésén. Ha
-ez látszik a képeken, vagy szerepel a leírásban, vonzóbbá teheti a szállást.
+##### Legyen foglaltsági naptárad és közvetlen&#xA;foglalási rendszered! 
+
+A saját oldaladon mindenképp legyen egy naptár, amin a vendég egyből láthatja, mikor vannak szabad helyeid. Ez pont ugyanúgy működik, mint a leírás: ha nincs elég infó, inkább továbbmegy olyan szálláshelyre, ahol van. Ha nem tudja egyből megnézni, mikor foglalhat nálad, a legritkább esetben fog e-mailt írni vagy telefonálni, helyette inkább másik szállást keres. Még jobb, ha lehet az oldaladon [közvetlenül foglalni](https://foglalas.appartman.hu/register) is, így már biztosan nem megy sehova, ha talál megfelelő időpontot.   
+
+
+##### Adj egy kicsit többet, mint kell! 
+
+Nemarra gondolunk, hogy halmozd el mindenféle luxussal a vendégeket, de az aprókedvességek sokat számítanak, amikor választaniuk kell. Egy üveg (lehetőleg helyi) bor bekészítve érkezéskor, programajánló a környékre, a gyerekeknek egy kis meglepetés csoki nem nagy dolog, de sokat dob a szálláshely megítélésén. Ha ez látszik a képeken, vagy szerepel a leírásban, vonzóbbá teheti a szállást.
 
 ·      
 Legyenek pozitív értékeléseid! Ha a
