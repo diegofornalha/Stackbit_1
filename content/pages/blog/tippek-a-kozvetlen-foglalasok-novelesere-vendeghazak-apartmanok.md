@@ -28,9 +28,16 @@ seo:
     vagyunk, találhatunk megoldást a problémára.
 author: content/data/team/person-xqkrwa90t.json
 ---
-`Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az őszi szünet. A népszerű kirándulóhelyek környéki szállásadóknál jó eséllyel voltak már foglalások, hiszen sok család szereti kihasználni az őszi szünet napjait egy kis pihenésre, városnézésre, túrázásra. Idén ez a lehetőség elveszett, legalábbis november első hetében. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek vagyunk, találhatunk megoldást a problémára.`
+`Magyarországon körülbelül 46
+ezer szálláshely van, ebből 42 ezer számít magánszálláshelynek. Természetesen
+ez nem azt jelenti, hogy ekkora a konkurencia, hiszen közvetlen versenytársnak
+csak azt tekinthetjük, ami földrajzilag közel helyezkedik el hozzánk. Ettől
+függetlenül a verseny nagy lehet, különösen a frekventáltabb helyeken, a
+népszerű turistacélpontok környékén. Ezeken a területeken szezonban könnyű
+teltházat produkálni a nagy forgalom miatt, szezonon kívül viszont már komolyan
+meg kell dolgozni a foglalásokért.`
 
-## Az utolsó nagyobb kirándulások
+Az utolsó nagyobb kirándulások
 
 Az őszi szünetet sok család
 használja ki egy utolsó kirándulós kikapcsolódásra. A nyárral ellentétben
@@ -84,7 +91,7 @@ azoknak, akik nem akarnak télen utazni, a tavaszi szünetre is felajánlhatjuk
 a foglalás átrakását. Akkor már többnyire tényleg jó az idő, pont
 kirándulásra alkalmas, szívesen utaznak az emberek. Egy kis marketingfogással
 még népszerűbbé tehetjük az ajánlatot: bár az árak emelkednek, ha átteszi a
-foglalást, még a mostani áron kaphatja meg a szállást. 
+foglalást, még a mostani áron kaphatja meg a szállást.
 
 Ehhez nyilván kell egy kis
 rugalmasság a bevételt tekintve, ha tényleg tervezünk emelni, de talán jobb
@@ -97,14 +104,14 @@ megtartani az őszi lemondókat.
 Legjobb, ha van egy közösségi
 média felület (például Facebook, Instagram), amit szállásadóként
 használunk, és rendelkezik némi követőtáborral. Itt megoszthatjuk, hogy
-felszabadultak helyek, hátha valaki lecsap rá. 
+felszabadultak helyek, hátha valaki lecsap rá.
 
 Akkor sincs semmi gond azonban,
 ha nem készült eddig ilyen oldal: szállásadó/szálláskereső közösségekben
 saját magunk is posztolhatjuk az üresedést, így közvetlenül a
 célközönséghez jut el, és jó eséllyel találunk vendégeket. A saját
 profilunkon való megosztás is segít: hátha valamelyik ismerős, vagy ismerős
-ismerőse keresne szállást azokra a napokra. 
+ismerőse keresne szállást azokra a napokra.
 
 A posztokba is érdemes beleírni,
 hogy milyen programlehetőségek vannak, hol lehet kirándulni, miért érdemes az
