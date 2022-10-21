@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: 'Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások'
+title: 'Lemondás az utolsó pillanatban – mit tehetsz, hogy elkerüld?'
 date: '2022-10-18'
 excerpt: >-
   Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít
