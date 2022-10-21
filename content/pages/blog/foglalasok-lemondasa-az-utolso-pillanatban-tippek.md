@@ -9,7 +9,7 @@ excerpt: >-
   viszont már komolyan meg kell dolgozni a foglalásokért.
 featuredImage:
   type: ImageBlock
-  url: /images/tunj-ki-a-tomegbol.png
+  url: /images/lemondas-az-utolso-pillanatban (1)-f42011e8.png
   altText: Lemondás az utolsó pillanatban – hogyan lehet elkerülni?
   elementId: ''
   styles:
