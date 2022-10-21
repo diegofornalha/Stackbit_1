@@ -18,7 +18,7 @@ seo:
     Lemondás az utolsó pillanatban – mit tehetsz, hogy elkerüld? | Appartman
     Blog
   description: >-
-    Az ilyen lemondások elkerülésére, vagy legalább a kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
+    Az utolsó pillanatban  lemondások elkerülésére, vagy legalább a kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
 author: content/data/team/person-xqkrwa90t.json
 ---
 `Szinte biztos, hogy szállásadóként már Te is találkoztál azzal a jelenséggel, hogy egy régóta fixált foglalást az utolsó pillanatban lemondanak a vendégek, vagy épp le sem mondják, egyszerűen csak nem jönnek el. Ez nagyon kellemetlen helyzet, mert az ekkor már valószínűleg nincs sok esélyed pótolni a kiesést, így kénytelen vagy lenyelni a veszteséget. Hogy ez minél ritkábban forduljon elő, érdemes
