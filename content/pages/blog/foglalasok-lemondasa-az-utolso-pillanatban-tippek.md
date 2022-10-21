@@ -27,49 +27,49 @@ seo:
     viszont már komolyan meg kell dolgozni a foglalásokért.
 author: content/data/team/person-xqkrwa90t.json
 ---
-``![](/images/tunj-ki-a-tomegbol-5fbfc8c2.png)
+```
+Szinte biztos, hogy szállásadóként már Te is találkoztál azzal a jelenséggel, hogy egy régóta fixált foglalást az utolsó pillanatban lemondanak a vendégek, vagy épp le sem mondják, egyszerűen csak nem jönnek el. Ez nagyon kellemetlen helyzet, mert az ekkor már valószínűleg nincs sok esélyed pótolni a kiesést, így kénytelen vagy lenyelni a veszteséget. Hogy ez minél ritkábban forduljon elő, érdemes
+bevezetni néhány megelőző intézkedést, és rendelkezni B-tervvel a hasonló szituációkra.
+```
 
-`Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít magánszálláshelynek. Természetesen ez nem azt jelenti, hogy ekkora a konkurencia, hiszen közvetlen versenytársnak csak azt tekinthetjük, ami földrajzilag közel helyezkedik el hozzánk. Ettől függetlenül a verseny nagy lehet, különösen a frekventáltabb helyeken, a népszerű turistacélpontok környékén. Ezeken a területeken szezonban könnyű teltházat produkálni a nagy forgalom miatt, szezonon kívül viszont már komolyan meg kell dolgozni a foglalásokért.`
+### Miért mondják le az utolsó pillanatban a szállást?
 
-## Folyamatos figyelmet igényel
+Bár bosszantó jelenség, sokszor valóban nyomós okuk van a vendégeknek a szállás lemondására. Közbejöhet például betegség, baleset, családi problémák, váratlan kiadások. Senki sem akar lázasan nyaralni, gipszelt lábbal ülni a vízparton és a szálláson, esetleg egy válás közepén közös családi nyaralásra menni, vagy pénz nélkül tölteni az időt egy idegen helyen. Mivel a foglalás többnyire jó előre történik, sosem lehetünk benne biztosak, hogy végül tényleg jó lesz az időpont, sajnos számos dolog közbejöhet.
 
-A tapasztalatlan szállásadók gyakran gondolják azt, hogy ha egyszer felszerelték és bebútorozták a szállást,
-a továbbiak csak a turnusok közti takarítás lesz a dolguk. Ez azonban súlyos tévedés, legalábbis, ha szeretnének magas színvonalú szolgáltatást nyújtani, és elkerülnék azt a problémát, hogy nehezen töltik fel a helyeket.
+Mindenki tudja azonban, hogy vannak úgynevezett impulzusfoglalók is, akik teljesen átgondolatlanul foglalnak, pontosan azért, mert tudják, hogy később úgyis lemondhatják, ha meggondolják magukat vagy mégsem lesz jó valamiért az időpont. Nem gondolják végig alaposan, hogy tényleg megengedhetik-e maguknak az utazást, valóban el szeretnének-e menni az adott helyre, szabaddá tudják-e tenni magukat az időpontra. Az pedig sajnos eszükbe sem jut, hogy a szállásadónak ezzel komoly kárt okozhatnak.
 
-Ahol sok a vetélytárs, ott különösen igaz, hogy tenni kell azért, hogy versenyben maradj, azaz ki kell tűnnie a szolgáltatásodnak. Nem könnyű már az első foglalás előtt meggyőzni a vendéget, hogy éppen nálad érdemes megszállni, de szerencsére nem is lehetetlen.
+### Nem szívesen fizetnek előre a vendégek
 
-## Hogyan lehet a szálláshelyed vonzóbb, mint másoké?
+Az igazság az, hogy az impulzusfoglalók azért is kezelik ennyire lazán a helyzetet, mert tudják, hogy semmibe sem kerül nekik a foglalás lemondása. Ha előre be kell fizetniük akár csak az összeg egy részét, sokkal jobban átgondolják, tényleg akarják-e az utazást. Csakhogy a vendégek zöme nem szívesen fizet előre, különösen azóta, hogy a covid, és most a rezsiárak miatt is bizonytalanná válik a szálláshelyek
+elérhetősége. Így nincs semmi, ami arra ösztönzné őket, hogy felelősen foglaljanak.
 
-Első alkalommal van a legnehezebb dolgod, pláne, ha sok a hasonló kategóriájú szálláshely a környéken. Azt kell mutatnod, hogy Te jobb szállást kínálsz, vonzóbbá kell tenned a saját ajánlatodat.
+A teljes előre fizetés, különösen távolabbi foglalások esetén, inkább elriasztó, mint biztosító tényező. Gondolj bele vendégként: 6 hónap múlva utaznál, ha minden jól megy; lefoglalod most a szállást, de kifizetnéd a teljes összeget előre? Ennyi idő alatt rengeteg minden történhet, nincs garancia, hogy visszakapod a pénzedet, ha meghiúsul az utazás – sőt, ha a te hibádból hiúsul meg, valószínűleg nem kapod vissza. Ezt érthető módon kevesen vállalják be.
 
-### Ezt a következő trükkökkel teheted meg:
+## Korlátozott ingyenes lemondás
 
-#### A megfelelő ár megtalálása
+Egy sokkal működőképesebb modell, hogy előleget kérsz, vagy a foglalt időpont előtt 2-4 héttel kéred az összeg kifizetését. Így adtál időt a vendégnek, de magadat sem teszed ki annak, hogy az utolsó pillanatban maradj hoppon anélkül, hogy egy forintot is keresnél. Az előleg mértékét úgy határozd meg, hogy a vendég számára ne legyen túlságosan magas összeg, de téged kárpótoljon a kiesett foglalásért.
 
-Mondanánk, hogy az ár nem minden, és ez igaz is, de legyünk őszinték: mindig az árat nézi meg először a vendég egy kategórián belül. Sajnos sokan elszállnak az árazással, pláne a népszerű helyeken. Nem azt szeretnénk mondani, hogy árazd alul a szálláshelyedet, de mindenképpen reálisan lődd be az értékét, mert ha a legdrágábbak közé fogsz tartozni, nehezebben töltöd fel a szállást.
+Az időpont előtt néhány héttel már nagyobb a fizetési hajlandóság, ekkor ugyanis már sok tényező látható előre, így maga a vendég is biztosabb abban, hogy el fog jönni. Meghatározhatod, hogy a teljes összeget, vagy csak egy részét kéred előre, illetve azt is, hogy meddig van lehetőség az ingyenes lemondásra. Ezt az időszakot úgy lődd be, hogy még biztosan legyen időd feltölteni a megüresedő helyet. Ahogy közeledik a foglalt időpont, úgy kérheted a foglalás összegének egyre nagyobb részét kárpótlásként.
 
-#### Jó fotók
+Ezeket a feltételeket sok szállásadó alkalmazza, így a vendégek zöme számára gond nélkül elfogadhatók, téged pedig védenek az utolsó pillanatos lemondásokkal szemben.
 
-Nagyon sokan alábecsülik a fotók jelentőségét, pedig ezek a legfontosabbak. Mindenki képek alapján próbálja megállapítani, hogy milyen lehet a kiszemelt szálláshely, mennyire felel meg az igényeinek, mennyire modern, komfortos, mekkorák a terek stb. A rossz minőségű, homályos képek, a sötét képek, vagy ha alig van kép, jelentősen csökkenti az esélyeidet a foglalásra. Érdemes beruházni profi fotós által
-készített fotókra, hogy a lehető legelőnyösebb felvételek készüljenek.
+### Feketelista a lemondókról
 
-#### Részletes leírás
+Sok bosszúságtól kímélheted meg magad, ha listázod magadnak a lemondókat (vagy meg nem jelenőket). Így gyorsan kibukik, ha valaki rendszeresen csinálja ezt, és kiküszöbölheted a problémát úgy, hogy egyszerűen nem fogadod. Egy lemondás persze még nem jelenti
+azt, hogy az illető sportot űz ebből, pláne, ha időben jelez. De ha valakinél többször is előfordul lemondás, vagy egyszerűen csak nem jön el, anélkül, hogy erről előre szólna, az bátran mehet a listára. 
 
-Szintén komoly szerepe van a foglalásokban a szálláshely részletes leírásának. Ahol a potenciális vendég alig talál érdemi információt, ott inkább nem foglal. Semmi kedve felvenni a kapcsolatot azért, hogy megtudja, van-e klíma, grillezési lehetőség, van-e lehetőség pótágy berakására stb. Inkább majd foglal ott, ahol ezek az infók eleve adottak. Minden fontos dolgot írj le a leírásban, ha előre választ kapnak a kérdéseikre, szívesebben foglalnak!
+### Érdeklődj az időpont előtt!
 
-#### Legyen foglaltsági naptárad és közvetlen foglalási rendszered!
+Nagyon sok utolsó pillanatos lemondást előzhetsz meg, ha 1 héttel a foglalt időszak előtt felkeresed a vendéget, emlékezteted a foglalásra, megkérdezed, hogy minden rendben van-e, számíthatsz-e rá/rájuk. Ha ekkor kiderül, hogy nem fognak eljönni, még mindig van 1 heted feltölteni a helyüket, nem akkor szembesülsz a ténnyel, amikor már nem nagyon tudsz mit tenni.
 
-A saját oldaladon mindenképp legyen egy naptár, amin a vendég egyből láthatja, mikor vannak szabad helyeid. Ez pont ugyanúgy működik, mint a leírás: ha nincs elég infó, inkább továbbmegy olyan szálláshelyre, ahol van. Ha nem tudja egyből megnézni, mikor foglalhat nálad, a legritkább esetben fog e-mailt írni vagy telefonálni, helyette inkább másik szállást keres. Még jobb, ha lehet az oldaladon [közvetlenül foglalni](https://foglalas.appartman.hu/register) is, így már biztosan nem megy sehova, ha talál megfelelő időpontot.   
+### Hirdesd a megüresedett helyet!
 
-#### Adj egy kicsit többet, mint kell!
+Ha hirtelen felszabadul kapacitás, és már nincs sok idő feltölteni, a leghatékonyabb módszer, hogy Facebook-csoportokban
+hirdeted meg a szabad helyeket. Főleg országon belül sokan tudnak egyik napról a másikra, vagy akár aznap útra kelni. Ha esetleg megtoldod egy kis last minute kedvezménnyel az ajánlatot, jó eséllyel gyorsan találsz vendéget a lemondók helyére.
 
-Nemarra gondolunk, hogy halmozd el mindenféle luxussal a vendégeket, de az aprókedvességek sokat számítanak, amikor választaniuk kell. Egy üveg (lehetőleg helyi) bor bekészítve érkezéskor, programajánló a környékre, a gyerekeknek egy kis meglepetés csoki nem nagy dolog, de sokat dob a szálláshely megítélésén. Ha ez látszik a képeken, vagy szerepel a leírásban, vonzóbbá teheti a szállást.
+### Legjobb gyógyszer a megelőzés
 
-#### Legyenek pozitív értékeléseid!
+Az utolsó pillanatos lemondásokat legjobban megelőzéssel lehet kezelni: a vendéggel való kommunikáció, az ingyenes lemondás korlátozása komoly ösztönző, hogy tényleg jöjjenek el. Persze még így is adódhatnak váratlan helyzetek, de ezek kevésbé okoznak problémát, ha legalább a foglalás egy részét kifizették. Ha pedig a megfelelő felületeken meghirdeted az üresedést, akár órákon belül feltöltheted a helyeket!
 
-Ha a szállás tényleg rendben van, valamint az említett apróságokkal is a vendégek kedvében jársz, elméletben nem nehéz pozitív véleményeket begyűjteni – a gyakorlatban viszont, ha valamivel elégedettek az emberek, azt nem feltétlenül nyilvánítják ki, inkább a negatív véleménynek szeretnek hangot adni. Biztasd őket értékelésre akár szóban, akár a hazatérésük után egy utólagos e-mailben. Ha jól érezték magukat, bizonyára szívesen megteszik, a szálláshelyed pedig hitelesebb és megbízhatóbb lesz a következő potenciális vendégek szemében.
 
-> A vendégszerzésnél tehát főként azon van a hangsúly, hogy az online felülete(ke)n hogyan jelensz meg, mennyire tudod itt is kielégíteni a vendégek igényeit.
 
-Ők gyorsan szeretnének releváns információkhoz jutni a szálláshellyel kapcsolatban, és azt szeretik,
-ha leinformálható a hely: jó alaposan meg tudják nézni fotókon és véleményeket is olvashatnak róla. Fontos továbbá, hogy minél egyszerűbben lehessen foglalni. Ha ez mind megvan egy helyen, nem fognak tovább keresgélni!
