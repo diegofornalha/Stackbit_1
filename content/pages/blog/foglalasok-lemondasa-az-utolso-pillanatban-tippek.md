@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: 'Lemondás az utolsó pillanatban – mit tehetsz, hogy elkerüld?'
-date: '2022-10-18'
+date: '2022-10-22'
 excerpt: >-
   Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít
   magánszálláshelynek. A frekventáltabb helyeken, a népszerű turistacélpontok
