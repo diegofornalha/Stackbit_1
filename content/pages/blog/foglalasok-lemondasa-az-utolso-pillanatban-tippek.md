@@ -25,8 +25,7 @@ seo:
     kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár
     tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
 author: content/data/team/person-xqkrwa90t.json
-og:image: 
-  url: /images/lemondas-az-utolso-pillanatban (1)-f42011e8.png
+
 ---
 `Szinte biztos, hogy szállásadóként már Te is találkoztál azzal a jelenséggel, hogy egy régóta fixált foglalást az utolsó pillanatban lemondanak a vendégek, vagy épp le sem mondják, egyszerűen csak nem jönnek el. Ez nagyon kellemetlen helyzet, mert az ekkor már valószínűleg nincs sok esélyed pótolni a kiesést, így kénytelen vagy lenyelni a veszteséget. Hogy ez minél ritkábban forduljon elő, érdemes
 bevezetni néhány megelőző intézkedést, és rendelkezni B-tervvel a hasonló szituációkra.`
