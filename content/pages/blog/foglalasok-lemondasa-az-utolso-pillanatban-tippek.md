@@ -3,10 +3,7 @@ layout: PostLayout
 title: 'Lemondás az utolsó pillanatban – mit tehetsz, hogy elkerüld?'
 date: '2022-10-22'
 excerpt: >-
-  Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít
-  magánszálláshelynek. A frekventáltabb helyeken, a népszerű turistacélpontok
-  környékén könnyű teltházat produkálni a nagy forgalom miatt, szezonon kívül
-  viszont már komolyan meg kell dolgozni a foglalásokért.
+Az ilyen lemondások elkerülésére, vagy legalább a kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
 featuredImage:
   type: ImageBlock
   url: /images/lemondas-az-utolso-pillanatban (1)-f42011e8.png
