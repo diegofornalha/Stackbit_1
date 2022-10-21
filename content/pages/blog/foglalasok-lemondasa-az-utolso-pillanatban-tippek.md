@@ -3,7 +3,10 @@ layout: PostLayout
 title: 'Lemondás az utolsó pillanatban – mit tehetsz, hogy elkerüld?'
 date: '2022-10-22'
 excerpt: >-
-    Mondtak már le nálad foglalást az utolsó pillanatban? Az ilyen lemondások elkerülésére, vagy legalább a kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
+  Mondtak már le nálad foglalást az utolsó pillanatban? Az ilyen lemondások
+  elkerülésére, vagy legalább a kiesett bevétel minimalizálására a legjobb
+  fegyver a megelőzés. Van pár tippünk, amik segítségével csökkenhetnek a rövid
+  határidős visszamondásaid!
 featuredImage:
   type: ImageBlock
   url: /images/lemondas-az-utolso-pillanatban (1)-f42011e8.png
@@ -18,7 +21,9 @@ seo:
     Lemondás az utolsó pillanatban – mit tehetsz, hogy elkerüld? | Appartman
     Blog
   description: >-
-    Az utolsó pillanatban történt lemondások elkerülésére, vagy legalább a kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
+    Az utolsó pillanatban történt lemondások elkerülésére, vagy legalább a
+    kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár
+    tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
 author: content/data/team/person-xqkrwa90t.json
 ---
 `Szinte biztos, hogy szállásadóként már Te is találkoztál azzal a jelenséggel, hogy egy régóta fixált foglalást az utolsó pillanatban lemondanak a vendégek, vagy épp le sem mondják, egyszerűen csak nem jönnek el. Ez nagyon kellemetlen helyzet, mert az ekkor már valószínűleg nincs sok esélyed pótolni a kiesést, így kénytelen vagy lenyelni a veszteséget. Hogy ez minél ritkábban forduljon elő, érdemes
@@ -39,7 +44,7 @@ elérhetősége. Így nincs semmi, ami arra ösztönzné őket, hogy felelősen 
 
 A teljes előre fizetés, különösen távolabbi foglalások esetén, inkább elriasztó, mint biztosító tényező. Gondolj bele vendégként: 6 hónap múlva utaznál, ha minden jól megy; lefoglalod most a szállást, de kifizetnéd a teljes összeget előre? Ennyi idő alatt rengeteg minden történhet, nincs garancia, hogy visszakapod a pénzedet, ha meghiúsul az utazás – sőt, ha a te hibádból hiúsul meg, valószínűleg nem kapod vissza. Ezt érthető módon kevesen vállalják be.
 
-## Korlátozott ingyenes lemondás
+### Korlátozott ingyenes lemondás
 
 Egy sokkal működőképesebb modell, hogy előleget kérsz, vagy a foglalt időpont előtt 2-4 héttel kéred az összeg kifizetését. Így adtál időt a vendégnek, de magadat sem teszed ki annak, hogy az utolsó pillanatban maradj hoppon anélkül, hogy egy forintot is keresnél. Az előleg mértékét úgy határozd meg, hogy a vendég számára ne legyen túlságosan magas összeg, de téged kárpótoljon a kiesett foglalásért.
 
