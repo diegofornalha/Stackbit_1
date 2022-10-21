@@ -3,7 +3,7 @@ layout: PostLayout
 title: 'Lemondás az utolsó pillanatban – mit tehetsz, hogy elkerüld?'
 date: '2022-10-22'
 excerpt: >-
-Az ilyen lemondások elkerülésére, vagy legalább a kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
+    Az ilyen lemondások elkerülésére, vagy legalább a kiesett bevétel minimalizálására a legjobb fegyver a megelőzés. Van pár tippünk, amik segítségével csökkenhetnek a rövid határidős visszamondásaid!
 featuredImage:
   type: ImageBlock
   url: /images/lemondas-az-utolso-pillanatban (1)-f42011e8.png
