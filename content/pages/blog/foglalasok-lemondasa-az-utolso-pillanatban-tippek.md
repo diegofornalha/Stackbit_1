@@ -27,12 +27,10 @@ seo:
     viszont már komolyan meg kell dolgozni a foglalásokért.
 author: content/data/team/person-xqkrwa90t.json
 ---
-```
-Szinte biztos, hogy szállásadóként már Te is találkoztál azzal a jelenséggel, hogy egy régóta fixált foglalást az utolsó pillanatban lemondanak a vendégek, vagy épp le sem mondják, egyszerűen csak nem jönnek el. Ez nagyon kellemetlen helyzet, mert az ekkor már valószínűleg nincs sok esélyed pótolni a kiesést, így kénytelen vagy lenyelni a veszteséget. Hogy ez minél ritkábban forduljon elő, érdemes
-bevezetni néhány megelőző intézkedést, és rendelkezni B-tervvel a hasonló szituációkra.
-```
+`Szinte biztos, hogy szállásadóként már Te is találkoztál azzal a jelenséggel, hogy egy régóta fixált foglalást az utolsó pillanatban lemondanak a vendégek, vagy épp le sem mondják, egyszerűen csak nem jönnek el. Ez nagyon kellemetlen helyzet, mert az ekkor már valószínűleg nincs sok esélyed pótolni a kiesést, így kénytelen vagy lenyelni a veszteséget. Hogy ez minél ritkábban forduljon elő, érdemes
+bevezetni néhány megelőző intézkedést, és rendelkezni B-tervvel a hasonló szituációkra.`
 
-### Miért mondják le az utolsó pillanatban a szállást?
+### Miért mondják le az utolsó pillanatban a szállást? 
 
 Bár bosszantó jelenség, sokszor valóban nyomós okuk van a vendégeknek a szállás lemondására. Közbejöhet például betegség, baleset, családi problémák, váratlan kiadások. Senki sem akar lázasan nyaralni, gipszelt lábbal ülni a vízparton és a szálláson, esetleg egy válás közepén közös családi nyaralásra menni, vagy pénz nélkül tölteni az időt egy idegen helyen. Mivel a foglalás többnyire jó előre történik, sosem lehetünk benne biztosak, hogy végül tényleg jó lesz az időpont, sajnos számos dolog közbejöhet.
 
