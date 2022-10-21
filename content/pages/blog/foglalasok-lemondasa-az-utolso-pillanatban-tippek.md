@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/tunj-ki-a-tomegbol.png
-  altText: Így tűnhet ki a szálláshelyed
+  altText: Lemondás az utolsó pillanatban – hogyan lehet elkerülni?
   elementId: ''
   styles:
     self:
