@@ -18,7 +18,7 @@ featuredImage:
 bottomSections: []
 seo:
   title: >-
-    Így tűnhet ki a szálláshelyed: tippek, hogy könnyen jöjjenek a foglalások |
+    Lemondás az utolsó pillanatban – mit tehetsz, hogy elkerüld? |
     Appartman Blog
   description: >-
     Magyarországon körülbelül 46 ezer szálláshely van, ebből 42 ezer számít
