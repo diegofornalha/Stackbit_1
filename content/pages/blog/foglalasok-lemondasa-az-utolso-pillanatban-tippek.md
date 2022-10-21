@@ -56,7 +56,7 @@ Ezeket a feltételeket sok szállásadó alkalmazza, így a vendégek zöme szá
 ### Feketelista a lemondókról
 
 Sok bosszúságtól kímélheted meg magad, ha listázod magadnak a lemondókat (vagy meg nem jelenőket). Így gyorsan kibukik, ha valaki rendszeresen csinálja ezt, és kiküszöbölheted a problémát úgy, hogy egyszerűen nem fogadod. Egy lemondás persze még nem jelenti
-azt, hogy az illető sportot űz ebből, pláne, ha időben jelez. De ha valakinél többször is előfordul lemondás, vagy egyszerűen csak nem jön el, anélkül, hogy erről előre szólna, az bátran mehet a listára. 
+azt, hogy az illető sportot űz ebből, pláne, ha időben jelez. De ha valakinél többször is előfordul lemondás, vagy egyszerűen csak nem jön el, anélkül, hogy erről előre szólna, az bátran mehet a listára.
 
 ### Érdeklődj az időpont előtt!
 
@@ -70,6 +70,3 @@ hirdeted meg a szabad helyeket. Főleg országon belül sokan tudnak egyik napr�
 ### Legjobb gyógyszer a megelőzés
 
 Az utolsó pillanatos lemondásokat legjobban megelőzéssel lehet kezelni: a vendéggel való kommunikáció, az ingyenes lemondás korlátozása komoly ösztönző, hogy tényleg jöjjenek el. Persze még így is adódhatnak váratlan helyzetek, de ezek kevésbé okoznak problémát, ha legalább a foglalás egy részét kifizették. Ha pedig a megfelelő felületeken meghirdeted az üresedést, akár órákon belül feltöltheted a helyeket!
-
-
-
