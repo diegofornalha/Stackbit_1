@@ -17,6 +17,7 @@ export default function MyApp({ Component, pageProps }) {
                     })(window,document,'script','dataLayer','GTM-5SMVSWG');`}
                 </Script>
                 <Script async src="https://tally.so/widgets/embed.js"></Script>
+                <script async src="https://tally.so/widgets/embed.js"></script>
             <Component {...pageProps} />
         </>
     );
