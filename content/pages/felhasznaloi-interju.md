@@ -43,7 +43,8 @@ sections:
       - type: Button
         label: Jelentkezés
         altText: Learn more
-        url: /
+        url: >-
+          https://tally.so#tally-open=mYjPJN&tally-layout=modal&tally-width=720&tally-overlay=1
         showIcon: false
         icon: arrowRight
         iconPosition: right
