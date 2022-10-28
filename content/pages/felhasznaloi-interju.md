@@ -44,7 +44,7 @@ sections:
         label: Jelentkezés
         altText: Learn more
         url: >-
-          https://tally.so#tally-open=mYjPJN&tally-layout=modal&tally-width=720&tally-overlay=1
+          https://tally.so#tally-open=mYjPJN&tally-layout=modal&tally-width=1280&tally-overlay=1
         showIcon: false
         icon: arrowRight
         iconPosition: right
