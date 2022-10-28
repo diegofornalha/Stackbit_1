@@ -39,5 +39,15 @@ sections:
         textAlign: center
       actions:
         justifyContent: flex-start
+    actions:
+      - type: Button
+        label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
 layout: PageLayout
 ---
