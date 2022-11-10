@@ -11,7 +11,7 @@ excerpt: >-
   esetükben fűteni kell a szálláshelyeket is, aminek komoly költségei lehetnek.
 featuredImage:
   type: ImageBlock
-  url: /images/elmarad-oszi-szunet-tippek-szallasadoknak (1).png
+  url: /images/content (3).png
   altText: 'Szálláshely minősítés: határidők, költségek, folyamat'
   elementId: ''
   styles:
