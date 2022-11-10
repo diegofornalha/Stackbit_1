@@ -11,7 +11,7 @@ excerpt: >-
   esetükben fűteni kell a szálláshelyeket is, aminek komoly költségei lehetnek.
 featuredImage:
   type: ImageBlock
-  url: /images/content (3).png
+  url: /images/content (4).png
   altText: 'Energiaválság – mit lehet költségekkel kezdeni szállásadóként? '
   elementId: ''
   styles:
