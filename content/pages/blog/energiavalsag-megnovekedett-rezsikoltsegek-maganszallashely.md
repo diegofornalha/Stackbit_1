@@ -3,7 +3,7 @@ layout: PostLayout
 title: >-
   Energiaválság – mit kezdhetsz a megnövekedett rezsiköltségekkel
   szállásadóként?
-date: '2022-11-11'
+date: '2022-11-10'
 excerpt: >-
   A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a
   szállásadók pedig különösen megérezhetik ennek a súlyát. Igaz ez különösen
