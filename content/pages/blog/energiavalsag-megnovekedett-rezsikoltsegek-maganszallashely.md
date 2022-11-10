@@ -16,7 +16,7 @@ featuredImage:
       opacity: 100
 bottomSections: []
 seo:
-  title: Elmarad az őszi szünet – mi lesz a foglalásokkal? | Appartman Blog
+  title: Energiaválság – mit kezdhetsz a megnövekedett rezsiköltségekkel szállásadóként? | Appartman Blog
   description: >-
     Sokan élték meg érvágásként, hogy a kormány bejelentette: idén elmarad az
     őszi szünet. Szállásadóként ez jelenthet akár kiesést is, de ha ügyesek
