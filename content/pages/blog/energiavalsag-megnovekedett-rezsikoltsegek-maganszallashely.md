@@ -5,7 +5,7 @@ title: >-
   szállásadóként?
 date: '2022-10-11'
 excerpt: >-
-A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a szállásadók pedig különösen megérezhetik ennek a súlyát. Igaz ez különösen azokra, akik az őszi-téli időszakban is nyitva szoktak tartani, hiszen esetükben fűteni kell a szálláshelyeket is, aminek komoly költségei lehetnek.
+    A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a szállásadók pedig különösen megérezhetik ennek a súlyát. Igaz ez különösen azokra, akik az őszi-téli időszakban is nyitva szoktak tartani, hiszen esetükben fűteni kell a szálláshelyeket is, aminek komoly költségei lehetnek.
 featuredImage:
   type: ImageBlock
   url: /images/elmarad-oszi-szunet-tippek-szallasadoknak (1).png
