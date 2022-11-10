@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/content (3).png
-  altText: 'Szálláshely minősítés: határidők, költségek, folyamat'
+  altText: 'Energiaválság – mit lehet költségekkel kezdeni szállásadóként? '
   elementId: ''
   styles:
     self:
