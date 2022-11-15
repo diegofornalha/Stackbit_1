@@ -9,7 +9,6 @@ sections:
     actions:
       - type: Button
         label: Kérem az ebookot
-        url: 'https://tally.so#tally-open=w2EGlg&tally-hide-title=1&tally-overlay=1'
         style: primary
         elementId: hero-main-button
     bottomPart: |
