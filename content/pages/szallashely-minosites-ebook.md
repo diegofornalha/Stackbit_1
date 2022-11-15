@@ -313,7 +313,7 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-f
-    title: Ebookunk pont ebben lesz a segítségedre
+    title: E-bookunk pont ebben lesz a segítségedre
     subtitle: ''
     text: >+
       ##### Bemutatja, hogy néz ki az ellenőrzés a gyakorlatban
