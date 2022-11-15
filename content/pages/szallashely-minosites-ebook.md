@@ -121,7 +121,7 @@ sections:
 
           ##### Mik a leggyakoribb hibák?
 
-          ##### Miért utasíthatnak el a minősítése?
+          ##### Miért utasíthatnak el a minősítésen?
 
           ##### Mit tehetsz, ha elsőre nem feleltél meg?
 
@@ -130,8 +130,6 @@ sections:
           ##### Milyen részletek miatt bukhatsz kategóriát?
 
           ##### Hogyan fordíthatod a minősítést a javadra?
-
-
 
         author: ''
         rating: 1
