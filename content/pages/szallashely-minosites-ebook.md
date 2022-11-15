@@ -433,7 +433,15 @@ sections:
   - type: CtaSection
     elementId: ''
     colors: colors-a
-    backgroundImage: null
+    backgroundImage:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
     text: >+
       #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
       abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
