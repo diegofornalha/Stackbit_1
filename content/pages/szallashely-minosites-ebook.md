@@ -87,7 +87,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    subtitle: null
+    subtitle: 'Már csak néhány heted van, hogy regisztrálj!'
     text: >
       2022-ben új szálláshely már nem is kezdhette meg a működést minősítés
       nélkül, most azonban sor kerül a régebben üzemelő szállásokra is. 2023.
