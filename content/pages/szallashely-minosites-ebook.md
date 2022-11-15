@@ -11,7 +11,7 @@ sections:
         label: Kérem az ebookot
         style: primary
         elementId: hero-main-button
-    bottomPart: |
+    bottomPart: 
     media:
       type: ImageBlock
       url: /images/hero-image.png
