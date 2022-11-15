@@ -519,7 +519,7 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     elementId: ''
-    colors: colors-h
+    colors: colors-e
     backgroundImage: null
     text: >+
       #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
