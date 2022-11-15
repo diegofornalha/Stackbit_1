@@ -482,14 +482,17 @@ sections:
       Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban
       megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés
       alapján megállapított.
-    text: >
-      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
-      tudás nélkül
+    text: |+
+      ###### Ennek több kimenetele lehet:
 
+      *   mindent rendben találnak
 
-      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
-      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthet.
+      *   hiánypótlásra szólitanak fel
+
+      *   alacsonyabb kategóriát javasolnak
+
+      *   egyáltalán nem adnak besorolást – vagyis lehetetlenné válik a működés
+
     actions: []
     media:
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
