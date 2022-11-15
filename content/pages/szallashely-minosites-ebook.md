@@ -344,26 +344,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    text: >+
-      #### Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban
-      megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés
-      alapján megállapított.
-
-
-      Ennek több kimenetele lehet:
-
-
-      ##### Mindent rendben találnak
-
-
-      ##### Hiánypótlásra szólítanak fel
-
-
-      ##### Alacsonyabb kategóriát javasolnak
-
-
-      ##### Egyáltalán nem adnak besorolást
-
+    text: "#### Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés alapján megállapított.\n\nEnnek több kimenetele lehet:\n\n##### \U0001F7E2 Mindent rendben találnak\n\n##### \U0001F7E1 Hiánypótlásra szólítanak fel\n\n##### \U0001F7E0 Alacsonyabb kategóriát javasolnak\n\n##### \U0001F534 Egyáltalán nem adnak besorolást\n\n"
     actions: []
     media:
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
