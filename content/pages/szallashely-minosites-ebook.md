@@ -142,7 +142,11 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    subtitle: null
+    subtitle: >-
+      Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
+      vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
+      buktatókat, esetleg pár pluszpontot is be tudsz gyűjteni, problémamentesen
+      eshetsz át a minősítésen! 
     text: >
       #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
       tudás nélkül
