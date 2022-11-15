@@ -283,6 +283,36 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: TextSection
+    elementId: ''
+    colors: colors-a
+    subtitle: ''
+    text: >
+      Mindenki az első verziót szeretné elérni, ennek azonban számos akadály
+      állhat az útjába, ha nem tudod, mi az, amire figyelned kell. Vannak
+      elnézhető hiányosságok, de olyanok is, amik kizáró okot jelentenek egy-egy
+      kategória megszerzésekor.
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - colors: colors-f
     elementId: ''
     title: A kötelező szálláshely minősítés ijesztő is lehet
@@ -375,36 +405,6 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    subtitle: ''
-    text: >
-      Mindenki az első verziót szeretné elérni, ennek azonban számos akadály
-      állhat az útjába, ha nem tudod, mi az, amire figyelned kell. Vannak
-      elnézhető hiányosságok, de olyanok is, amik kizáró okot jelentenek egy-egy
-      kategória megszerzésekor.
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - type: TextSection
     elementId: ''
     colors: colors-a
