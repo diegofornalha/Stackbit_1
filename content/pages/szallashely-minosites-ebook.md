@@ -414,15 +414,11 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         elementId: ''
-        text: >
+        text: |+
           ###### 3.
 
+          #### FMik a leggyakoribb hibák?
 
-          #### Fejlesztés
-
-
-          Lefejlesztjük mobilbarát weboldalad az általad kért funkciókkal,
-          megoldásokkal.
         author: ''
         rating: 1
         isRatingVisible: false
