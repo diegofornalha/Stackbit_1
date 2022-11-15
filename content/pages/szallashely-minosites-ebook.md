@@ -364,7 +364,7 @@ sections:
           Tiszta és világos kritériumok alapján üzemeltetheted a
           szálláshelyedet.
         featuredImage:
-          url: /images/marketing-szovegezes-weboldal-szallashely.png
+          url: /images/Frame 1535.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
