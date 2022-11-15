@@ -49,9 +49,7 @@ sections:
     title: Készülj magabiztosan a szálláshely-minősítésre!
   - colors: colors-f
     elementId: ''
-    title: >-
-      A kötelező szálláshely minősítés ijesztő is lehet – de ha alaposan
-      felkészülsz rá, inkább lehetőséget jelent
+    title: A kötelező szálláshely minősítés ijesztő is lehet
     items:
       - type: FeaturedItem
         title: Marketing szövegezés
