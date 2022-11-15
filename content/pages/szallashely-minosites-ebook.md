@@ -433,15 +433,6 @@ sections:
   - type: CtaSection
     elementId: ''
     colors: colors-a
-    backgroundImage:
-      type: ImageBlock
-      url: /images/AdobeStock_489761449.jpeg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
     text: >+
       #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
       abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
