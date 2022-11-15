@@ -82,20 +82,6 @@ sections:
             textAlign: center
           text:
             textAlign: center
-      - type: FeaturedItem
-        title: Focused
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage: null
-        styles:
-          title:
-            textAlign: center
-          subtitle:
-            textAlign: center
-          text:
-            textAlign: center
     actions: []
     columns: 1
     styles:
