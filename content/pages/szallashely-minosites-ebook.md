@@ -448,19 +448,13 @@ sections:
     subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
   - type: HeroSection
     elementId: ''
-    colors: colors-a
-    title: Ne bízd a véletlenre szálláshelyed minősítését!
-    subtitle: null
+    colors: colors-f
     text: >
-      A most megszerzett kategória 3 évig határozza meg szálláshelyed szintjét a
-      vendégek szemében is – a csillagok száma a jövőben még fontosabb szempont
-      lehet a szállás kiválasztása során.
+      Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
+      vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
+      buktatókat, esetleg pár pluszpontot is be tudsz gyűjteni, problémamentesen
+      eshetsz át a minősítésen!
     actions: []
-    media:
-      url: /images/website-graphics (1).png
-      altText: Hero section image
-      caption: test
-      type: ImageBlock
     backgroundImage: null
     styles:
       self:
@@ -487,13 +481,19 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     elementId: ''
-    colors: colors-f
+    colors: colors-a
+    title: Ne bízd a véletlenre szálláshelyed minősítését!
+    subtitle: null
     text: >
-      Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
-      vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
-      buktatókat, esetleg pár pluszpontot is be tudsz gyűjteni, problémamentesen
-      eshetsz át a minősítésen!
+      A most megszerzett kategória 3 évig határozza meg szálláshelyed szintjét a
+      vendégek szemében is – a csillagok száma a jövőben még fontosabb szempont
+      lehet a szállás kiválasztása során.
     actions: []
+    media:
+      url: /images/website-graphics (1).png
+      altText: Hero section image
+      caption: test
+      type: ImageBlock
     backgroundImage: null
     styles:
       self:
