@@ -366,7 +366,7 @@ sections:
         textAlign: center
   - colors: colors-a
     elementId: ''
-    title: Így dolgozunk együtt ügyfeleinkkel
+    title: Az ebookból megtudhatod
     subtitle: >-
       Ügyfeleinket partnerként kezeljük és rendszeresen állunk kapcsolatban
       velük.
