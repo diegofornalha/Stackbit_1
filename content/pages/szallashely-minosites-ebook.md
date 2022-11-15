@@ -204,6 +204,51 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
+  - type: CtaSection
+    elementId: ''
+    colors: colors-a
+    text: >+
+      #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
+      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
+      megcéloztad!
+
+    actions:
+      - type: Button
+        label: Kérem az ebookot!
+        url: /
+        style: primary
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    backgroundImage:
+      type: ImageBlock
+      url: /images/Frame 1532.png
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
   - colors: colors-f
     elementId: ''
     title: A kötelező szálláshely minősítés ijesztő is lehet
@@ -296,51 +341,6 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
-  - type: CtaSection
-    elementId: ''
-    colors: colors-a
-    text: >+
-      #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
-      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
-      megcéloztad!
-
-    actions:
-      - type: Button
-        label: Kérem az ebookot!
-        url: /
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    backgroundImage:
-      type: ImageBlock
-      url: /images/Frame 1532.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
   - type: HeroSection
     elementId: ''
     colors: colors-a
