@@ -531,7 +531,7 @@ sections:
       - type: Button
         label: Try it now
         url: /
-        style: primary
+        style: secondary
     styles:
       self:
         height: auto
