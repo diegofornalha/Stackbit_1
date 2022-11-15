@@ -48,7 +48,7 @@ sections:
         justifyContent: flex-start
     title: Készülj magabiztosan a szálláshely-minősítésre!
   - type: FeaturedItemsSection
-    colors: colors-h
+    colors: colors-a
     elementId: ''
     title: Key value propositions
     subtitle: ''
