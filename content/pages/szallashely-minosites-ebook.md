@@ -531,7 +531,7 @@ sections:
       lehet a szállás kiválasztása során.
     actions: []
     media:
-      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
+      url: /images/website-graphics.png
       altText: Hero section image
       caption: test
       type: ImageBlock
