@@ -522,7 +522,10 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-f
-    title: Kérj árajánlatot és tervezzünk egy szép weboldalt szálláshelyednek!
+    title: >-
+      A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
+      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
+      megcéloztad!
     actions:
       - type: Button
         label: Ajánlatkérés
