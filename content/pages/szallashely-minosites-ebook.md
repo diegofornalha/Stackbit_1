@@ -54,8 +54,8 @@ sections:
       - type: FeaturedItem
         title: Marketing szövegezés
         text: >
-          Vonzó és lényegre törő szövegezésünk a látogatóid problémáira
-          válaszolva lesz az értékesítés motorja.
+          Tiszta és világos kritériumok alapján üzemeltetheted a
+          szálláshelyedet.
         featuredImage:
           url: /images/marketing-szovegezes-weboldal-szallashely.png
           altText: altText of the image
