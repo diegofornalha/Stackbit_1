@@ -55,10 +55,10 @@ sections:
     items:
       - type: FeaturedItem
         title: Faster
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Minden eddiginél szigorúbb kontroll alá kerülnek a magánszálláshelyek
+          – a jövőben csak minősítéssel működhetnek. Éppen ezért
+          kulcsfontosságú, hogy a lehető legjobb eredménnyel zárd a folyamatot.
         featuredImage: null
         styles:
           title:
