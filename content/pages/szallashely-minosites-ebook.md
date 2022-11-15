@@ -519,7 +519,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-f
+    colors: colors-h
     actions:
       - type: Button
         label: Kérem az ebookot!
