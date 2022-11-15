@@ -568,56 +568,6 @@ sections:
       A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
       abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
       megcéloztad!
-  - colors: colors-i
-    elementId: ''
-    title: Gyakori kérdések és válaszok
-    items:
-      - question: Mitől egyedi egy weboldal?
-        answer: >
-          Weboldalad attól lesz egyedi, hogy üzleti céljaidtól és ügyfeleidtől
-          függően tervezzük meg a felület elrendezését és dizájnját, alakítjuk
-          ki a szövegezést és fejlesztjük a mobilra optimalizált front-endjét.
-      - question: Hogyan zajlik a közös munka?
-        answer: >
-          Szerződéskötést követően egy minden érintett által látható
-          projektfeladat rendszerben követheted a weboldal haladását, a weboldal
-          elkészülte előtt pedig minden jelentős döntésnél telefonon/emailben
-          egyeztetünk. A munka befejeztével pedig betanítunk weboldalad
-          kezelésére.
-      - question: Mennyi idő alatt van kész egy weboldal?
-        answer: >
-          Ez az igényektől és projekt típusától függ, de általánosságban egy
-          landing page 2 hét, webáruház 3 - 4 hét után élesíthető.
-      - question: Mennyibe kerül egy weboldal?
-        answer: >
-          Igényektől függ, ugyanakkor elmondható, hogy áraink bruttó 300 000
-          forinttól indulnak.
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-32
-          - pb-32
-          - pl-7
-          - pr-7
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: '400'
-        fontStyle: normal
-        textAlign: center
-    type: FaqSection
 seo:
   title: Szálláshely-minősítés ebook | Appartman
   description: 'Készülj fel a szálláshelyed minősítésre az ebookunk segítségével! '
