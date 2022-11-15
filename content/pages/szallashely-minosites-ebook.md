@@ -95,8 +95,8 @@ sections:
       - type: FeaturedItem
         title: Megbízható fejlesztés
         text: >
-          A minden eszközön tökéletesen működő honlapon túl a meglévő Google
-          helyezésed sem lesz bajban.
+          Kiesnek azok a versenytársak, akik nem felelnek meg a
+          követelményeknek.
         featuredImage:
           url: /images/gyors-weboldal-apartman.png
           altText: altText of the image
