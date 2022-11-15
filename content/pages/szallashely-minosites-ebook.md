@@ -96,7 +96,6 @@ sections:
       besorolásukat az 1-től 5 csillagig terjedő skálán.
     actions: []
     media:
-      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
       altText: Hero section image
       caption: test
       type: ImageBlock
