@@ -526,13 +526,9 @@ sections:
     title: Ne bízd a véletlenre szálláshelyed minősítését!
     subtitle: null
     text: >
-      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
-      tudás nélkül
-
-
-      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
-      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthet.
+      A most megszerzett kategória 3 évig határozza meg szálláshelyed szintjét a
+      vendégek szemében is – a csillagok száma a jövőben még fontosabb szempont
+      lehet a szállás kiválasztása során.
     actions: []
     media:
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
