@@ -370,16 +370,10 @@ sections:
     items:
       - elementId: ''
         subtitle: ''
-        text: >+
+        text: |+
           ###### 1.
 
-
-          #### Kutatás
-
-
-          Megismerjük céged termékeit, megértjük vásárlóid viselkedését és olyan
-          stratégiát alakítunk ki, amivel oldalad nem csak vevőközpontú, hanem
-          eredményes is lesz.
+          #### Milyen feltételeknek kell megfelelni
 
         author: ''
         rating: 1
