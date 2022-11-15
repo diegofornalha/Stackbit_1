@@ -474,6 +474,7 @@ sections:
         justifyContent: center
       title:
         textAlign: left
+        fontStyle: italic
       subtitle:
         textAlign: center
       text:
