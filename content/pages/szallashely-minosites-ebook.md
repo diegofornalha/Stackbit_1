@@ -448,7 +448,7 @@ sections:
     subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
   - type: HeroSection
     elementId: ''
-    colors: colors-f
+    colors: colors-a
     text: >
       Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
       vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
