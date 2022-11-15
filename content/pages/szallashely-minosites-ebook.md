@@ -479,7 +479,10 @@ sections:
     elementId: ''
     colors: colors-a
     title: Önálló weboldalként is működik
-    subtitle: null
+    subtitle: >-
+      Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban
+      megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés
+      alapján megállapított.
     text: >
       #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
       tudás nélkül
