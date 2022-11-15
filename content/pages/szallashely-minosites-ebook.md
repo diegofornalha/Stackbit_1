@@ -560,6 +560,10 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+    subtitle: >-
+      A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
+      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
+      megcéloztad!
   - colors: colors-i
     elementId: ''
     title: Gyakori kérdések és válaszok
