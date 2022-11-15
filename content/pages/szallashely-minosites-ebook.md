@@ -87,7 +87,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Önálló weboldalként is működik
+    title: 'Már csak néhány heted van, hogy regisztrálj!'
     subtitle: null
     text: >
       2022-ben új szálláshely már nem is kezdhette meg a működést minősítés
