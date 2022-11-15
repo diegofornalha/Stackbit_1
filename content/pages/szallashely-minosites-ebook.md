@@ -249,6 +249,40 @@ sections:
       styles:
         self:
           opacity: 100
+  - type: HeroSection
+    elementId: ''
+    colors: colors-a
+    text: "#### Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés alapján megállapított.\n\nEnnek több kimenetele lehet:\n\n##### \U0001F7E2 Mindent rendben találnak\n\n##### \U0001F7E1 Hiánypótlásra szólítanak fel\n\n##### \U0001F7E0 Alacsonyabb kategóriát javasolnak\n\n##### \U0001F534 Egyáltalán nem adnak besorolást\n\n"
+    actions: []
+    media:
+      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
+      altText: Hero section image
+      caption: test
+      type: ImageBlock
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-20
+          - pl-7
+          - pr-7
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     elementId: ''
     title: A kötelező szálláshely minősítés ijesztő is lehet
@@ -341,40 +375,6 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
-  - type: HeroSection
-    elementId: ''
-    colors: colors-a
-    text: "#### Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés alapján megállapított.\n\nEnnek több kimenetele lehet:\n\n##### \U0001F7E2 Mindent rendben találnak\n\n##### \U0001F7E1 Hiánypótlásra szólítanak fel\n\n##### \U0001F7E0 Alacsonyabb kategóriát javasolnak\n\n##### \U0001F534 Egyáltalán nem adnak besorolást\n\n"
-    actions: []
-    media:
-      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
-      altText: Hero section image
-      caption: test
-      type: ImageBlock
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: TextSection
     elementId: ''
     colors: colors-a
