@@ -406,28 +406,6 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
-      - elementId: ''
-        subtitle: ''
-        text: |+
-          ###### 4.
-
-          #### Miért utasíthatnak el a minősítésen?
-
-        author: ''
-        rating: 1
-        isRatingVisible: false
-        actions: []
-        styles:
-          title:
-            textAlign: left
-          subtitle:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: left
-          text:
-            textAlign: left
-          actions:
-            justifyContent: flex-start
       - type: FeaturedItem
         elementId: ''
         title: null
