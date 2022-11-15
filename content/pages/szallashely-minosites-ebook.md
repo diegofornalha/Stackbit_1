@@ -8,7 +8,7 @@ sections:
     text: "Használd fel a leghasznosabb tanácsokat tartalmazó \Le-bookunkat, hogy minden részlet a helyén legyen a helyszíni\r\nellenőrzéskor.\n"
     actions:
       - type: Button
-        label: Ajánlatkérés
+        label: Kérem az ebookot
         url: 'https://tally.so#tally-open=w2EGlg&tally-hide-title=1&tally-overlay=1'
         style: primary
         elementId: hero-main-button
