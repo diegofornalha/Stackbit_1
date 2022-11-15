@@ -371,9 +371,25 @@ sections:
       - elementId: ''
         subtitle: ''
         text: |+
-          ###### 1.
+          ###### ?
 
-          #### Milyen feltételeknek kell megfelelni?
+          ##### Milyen feltételeknek kell megfelelni?
+
+          ##### Mi történik a helyszíni ellenőrzésen?
+
+          ##### Mik a leggyakoribb hibák?
+
+          ##### Miért utasíthatnak el a minősítése?
+
+          ##### Mit tehetsz, ha elsőre nem feleltél meg?
+
+          ##### Mivel zsebelhetsz be plusz pontokat?
+
+          ##### Milyen részletek miatt bukhatsz kategóriát?
+
+          ##### Hogyan fordíthatod a minősítést a javadra?
+
+
 
         author: ''
         rating: 1
