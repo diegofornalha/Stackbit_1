@@ -404,7 +404,7 @@ sections:
           Kiesnek azok a versenytársak, akik nem felelnek meg a
           követelményeknek.
         featuredImage:
-          url: /images/gyors-weboldal-apartman.png
+          url: /images/Frame 1537.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
