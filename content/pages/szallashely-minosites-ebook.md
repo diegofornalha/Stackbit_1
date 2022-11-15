@@ -470,7 +470,6 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Önálló weboldalként is működik
     subtitle: null
     text: >+
       #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
