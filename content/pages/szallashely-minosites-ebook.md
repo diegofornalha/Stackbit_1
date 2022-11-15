@@ -546,5 +546,5 @@ sections:
 seo:
   title: Szálláshely-minősítés ebook | Appartman
   description: >-
-    Készülj fel a minősítésre az ebook 
+    Készülj fel a minősítésre az ebookunk segítségével! 
 ---
