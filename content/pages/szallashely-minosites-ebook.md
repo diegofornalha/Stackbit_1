@@ -108,43 +108,6 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    subtitle: Mindenkinek át kell esnie a minősítésen
-    text: >
-      Minden eddiginél szigorúbb kontroll alá kerülnek a magánszálláshelyek – a
-      jövőben csak minősítéssel működhetnek. Éppen ezért kulcsfontosságú, hogy a
-      lehető legjobb eredménnyel zárd a folyamatot.
-    actions: []
-    media:
-      altText: Hero section image
-      caption: test
-      type: ImageBlock
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
-    elementId: ''
-    colors: colors-a
     subtitle: 'Már csak néhány heted van, hogy regisztrálj!'
     text: >
       2022-ben új szálláshely már nem is kezdhette meg a működést minősítés
