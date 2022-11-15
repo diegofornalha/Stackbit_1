@@ -11,7 +11,7 @@ sections:
         label: Kérem az ebookot
         style: primary
         elementId: hero-main-button
-        url: "https://tally.so#tally-open=mKplND&tally-layout=modal&tally-width=680&tally-emoji-text=\U0001F4D6&tally-emoji-animation=none// Example<a href=\"https://tally.so#tally-open=mKplND&tally-layout=modal&tally-width=680&tally-emoji-text=\U0001F4D6&tally-emoji-animation=none\">Click me</a>"
+        url: "https://tally.so#tally-open=mKplND&tally-layout=modal&tally-width=680&tally-emoji-text=\U0001F4D6&tally-emoji-animation=none/"
     bottomPart: null
     media:
       type: ImageBlock
