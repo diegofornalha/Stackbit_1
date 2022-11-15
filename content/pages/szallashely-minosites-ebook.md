@@ -478,7 +478,7 @@ sections:
 
     actions:
       - type: Button
-        label: Learn more
+        label: Kérem az ebookot!
         altText: Learn more
         url: /
         showIcon: false
