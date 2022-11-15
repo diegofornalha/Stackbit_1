@@ -435,7 +435,7 @@ sections:
     colors: colors-a
     backgroundImage:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/AdobeStock_489761449.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
