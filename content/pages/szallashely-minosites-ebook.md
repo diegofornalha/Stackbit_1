@@ -395,7 +395,7 @@ sections:
         text: |+
           ###### 2.
 
-          #### Mi történik a helyszíni ellenőrzésen
+          #### Mi történik a helyszíni ellenőrzésen?
 
         author: ''
         rating: 1
