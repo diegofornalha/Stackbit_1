@@ -439,13 +439,24 @@ sections:
     colors: colors-a
     title: Ebookunk pont ebben lesz a segítségedre
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      ##### Bemutatja, hogy néz ki az ellenőrzés a gyakorlatban
+
+
+      ##### Elárulja, milyen problémával találkoznak legtöbbször az auditorok
+
+
+      ##### Megtudhatod belőle, hogy min lehet a legkönnyebben bukni a
+      minősítést
+
+
+      ##### Megválaszolja a szálláshely-minősítéssel kapcsolatban leggyakrabban
+      felmerülő kérdéseket
+
+
+      ##### Eszközöket ad a kezedbe, hogy könnyedén megszerezd a megfelelő számú
+      csillagot
+
     styles:
       self:
         height: auto
