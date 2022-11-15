@@ -218,39 +218,6 @@ sections:
           opacity: 100
   - type: HeroSection
     elementId: ''
-    colors: colors-f
-    text: >
-      Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
-      vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
-      buktatókat, esetleg pár pluszpontot is be tudsz gyűjteni, problémamentesen
-      eshetsz át a minősítésen!
-    actions: []
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-4
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
-    elementId: ''
     colors: colors-a
     text: "#### Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés alapján megállapított.\n\nEnnek több kimenetele lehet:\n\n##### \U0001F7E2 Mindent rendben találnak\n\n##### \U0001F7E1 Hiánypótlásra szólítanak fel\n\n##### \U0001F7E0 Alacsonyabb kategóriát javasolnak\n\n##### \U0001F534 Egyáltalán nem adnak besorolást\n\n"
     actions: []
@@ -269,6 +236,39 @@ sections:
           - mb-0
         padding:
           - pt-28
+          - pb-20
+          - pl-7
+          - pr-7
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: HeroSection
+    elementId: ''
+    colors: colors-f
+    text: >
+      Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
+      vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
+      buktatókat, esetleg pár pluszpontot is be tudsz gyűjteni, problémamentesen
+      eshetsz át a minősítésen!
+    actions: []
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-4
           - pb-20
           - pl-7
           - pr-7
