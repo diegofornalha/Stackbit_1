@@ -406,31 +406,6 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
-      - type: FeaturedItem
-        elementId: ''
-        title: null
-        subtitle: ''
-        text: |+
-          ###### 5.
-
-          #### Mit tehetsz, ha elsőre nem feleltél meg?
-
-        author: ''
-        rating: 1
-        isRatingVisible: false
-        featuredImage: null
-        actions: []
-        styles:
-          title:
-            textAlign: left
-          subtitle:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: left
-          text:
-            textAlign: left
-          actions:
-            justifyContent: flex-start
     actions: []
     columns: 1
     styles:
