@@ -5,10 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    text: >+
-      Te már tudod, hogy jó, amit csinálsz. Tudasd ezt látogatóiddal is egyedi
-      és felhasználóbarát weboldalainkkal.
-
+    text: "Használd fel a leghasznosabb tanácsokat tartalmazó \Le-bookunkat, hogy minden részlet a helyén legyen a helyszíni\r\nellenőrzéskor.\n"
     actions:
       - type: Button
         label: Ajánlatkérés
