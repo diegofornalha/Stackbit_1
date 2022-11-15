@@ -479,7 +479,7 @@ sections:
     actions:
       - type: Button
         label: Kérem az ebookot!
-        altText: Learn more
+        altText: Kérem az ebookot
         url: /
         showIcon: false
         icon: arrowRight
