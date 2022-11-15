@@ -436,8 +436,8 @@ sections:
     backgroundImage: null
     title: Let's do this
     text: >+
-      ##### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal
-      segítünk abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
+      #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
+      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
       megcéloztad!
 
     actions:
