@@ -52,7 +52,7 @@ sections:
     title: A kötelező szálláshely minősítés ijesztő is lehet
     items:
       - type: FeaturedItem
-        title: Marketing szövegezés
+        title: Tiszta és világos kritériumok
         text: >
           Tiszta és világos kritériumok alapján üzemeltetheted a
           szálláshelyedet.
