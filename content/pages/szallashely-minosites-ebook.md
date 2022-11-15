@@ -478,7 +478,6 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Önálló weboldalként is működik
     subtitle: >-
       Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban
       megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés
