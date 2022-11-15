@@ -474,7 +474,7 @@ sections:
         justifyContent: center
       title:
         textAlign: left
-        fontWeight: 400
+        fontWeight: 700
       subtitle:
         textAlign: center
       text:
