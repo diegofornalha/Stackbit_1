@@ -472,14 +472,11 @@ sections:
     colors: colors-a
     title: Önálló weboldalként is működik
     subtitle: null
-    text: >
-      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
-      tudás nélkül
+    text: >+
+      #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
+      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
+      megcéloztad!
 
-
-      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
-      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthet.
     actions: []
     media:
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
