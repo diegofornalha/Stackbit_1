@@ -143,13 +143,10 @@ sections:
     elementId: ''
     colors: colors-a
     text: >
-      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
-      tudás nélkül
-
-
-      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
-      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthet.
+      Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
+      vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
+      buktatókat, esetleg pár pluszpontot is be tudsz gyűjteni, problémamentesen
+      eshetsz át a minősítésen!
     actions: []
     backgroundImage: null
     styles:
