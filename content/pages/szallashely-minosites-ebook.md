@@ -373,7 +373,7 @@ sections:
         text: |+
           ###### 1.
 
-          #### Milyen feltételeknek kell megfelelni
+          #### Milyen feltételeknek kell megfelelni?
 
         author: ''
         rating: 1
