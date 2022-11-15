@@ -50,7 +50,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    subtitle: null
+    subtitle: Mindenkinek át kell esnie a minősítésen
     text: >
       #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
       tudás nélkül
