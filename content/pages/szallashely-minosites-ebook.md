@@ -379,13 +379,11 @@ sections:
     elementId: ''
     colors: colors-a
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Mindenki az első verziót szeretné elérni, ennek azonban számos akadály
+      állhat az útjába, ha nem tudod, mi az, amire figyelned kell. Vannak
+      elnézhető hiányosságok, de olyanok is, amik kizáró okot jelentenek egy-egy
+      kategória megszerzésekor.
     styles:
       self:
         height: auto
