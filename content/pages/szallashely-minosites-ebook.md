@@ -555,55 +555,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-a
-    actions:
-      - type: Button
-        label: Kérem az ebookot!
-        style: secondary
-        url: 'https://tally.so#tally-open=w2EGlg&tally-hide-title=1&tally-overlay=1'
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-16
-          - pl-10
-          - pr-10
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: none
-        borderColor: border-secondary
-        borderWidth: 0
-        borderStyle: none
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    media:
-      altText: Where did everyone go?
-      caption: Team meeting
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    subtitle: >-
-      A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
-      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
-      megcéloztad!
 seo:
   title: Szálláshely-minősítés ebook | Appartman
   description: 'Készülj fel a szálláshelyed minősítésre az ebookunk segítségével! '
