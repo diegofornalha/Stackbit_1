@@ -319,51 +319,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: TestimonialsSection
-    elementId: ''
-    colors: colors-a
-    title: Ügyfeleink visszajelzései
-    testimonials:
-      - quote: >+
-          #### Jól döntöttem, amikor a Mokapotot választottam. A szakmai
-          hozzáadott érték és a lelkesedés mellett végig úgy érezhettem, hogy
-          fontos partner voltam.
-
-        name: Rezsnyák Péter – építész
-        title: AZ EGYSZERŰEN PASSZÍVHÁZ KÖNYV ÍRÓJA
-        image:
-          type: ImageBlock
-          url: /images/rezsnyak_peter.webp
-          altText: Photo of Johnna Doe
-        styles:
-          self:
-            margin:
-              - mt-0
-              - mb-0
-            flexDirection: row
-          quote:
-            textAlign: left
-          name:
-            textAlign: left
-          title:
-            textAlign: left
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - colors: colors-a
     elementId: ''
     title: 'Az ebookból megtudhatod:'
