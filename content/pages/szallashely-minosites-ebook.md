@@ -49,7 +49,9 @@ sections:
     title: Készülj magabiztosan a szálláshely-minősítésre!
   - colors: colors-f
     elementId: ''
-    title: Velünk a jó weboldal egy befektetés
+    title: >-
+      A kötelező szálláshely minősítés ijesztő is lehet – de ha alaposan
+      felkészülsz rá, inkább lehetőséget jelent
     items:
       - type: FeaturedItem
         title: Marketing szövegezés
