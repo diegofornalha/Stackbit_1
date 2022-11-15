@@ -383,8 +383,7 @@ sections:
           Célzottan tudod a szálláshelyedet fejleszteni, ha azt szeretnéd, hogy
           jobb kategóriába kerüljön.
         featuredImage:
-          url: >-
-            /images/mobilra-optimalizalt-felhasznalobarat-weboldal-vendeghazaknak.png
+          url: /images/Frame 1536.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
