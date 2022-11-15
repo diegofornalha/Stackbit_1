@@ -485,13 +485,10 @@ sections:
     text: |+
       ##### Ennek több kimenetele lehet:
 
-      *   mindent rendben találnak
-
-      *   hiánypótlásra szólitanak fel
-
-      *   alacsonyabb kategóriát javasolnak
-
-      *   egyáltalán nem adnak besorolást – vagyis lehetetlenné válik a működés
+      Mindent rendben találnak
+      Hiánypótlásra szólítanak fel
+      Alacsonyabb besorolást javasolnak
+      Egyáltalán nem adnak minősítést – lehetetlenné válik a működés
 
     actions: []
     media:
