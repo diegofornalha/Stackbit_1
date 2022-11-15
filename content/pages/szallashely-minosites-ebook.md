@@ -436,15 +436,11 @@ sections:
             justifyContent: flex-start
       - elementId: ''
         subtitle: ''
-        text: >
+        text: |+
           ###### 4.
 
+          #### Miért utasíthatnak el a minősítésen?
 
-          #### Kész weboldal
-
-
-          Magabiztosan veheted kezedbe új weboldalad. A betanítás után sem
-          hagyunk magadra.
         author: ''
         rating: 1
         isRatingVisible: false
