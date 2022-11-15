@@ -483,7 +483,7 @@ sections:
       megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés
       alapján megállapított.
     text: |+
-      ###### Ennek több kimenetele lehet:
+      ##### Ennek több kimenetele lehet:
 
       *   mindent rendben találnak
 
