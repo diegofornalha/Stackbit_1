@@ -280,6 +280,35 @@ sections:
         textAlign: center
       text:
         textAlign: center
+  - type: TextSection
+    elementId: ''
+    colors: colors-a
+    subtitle: ''
+    text: >
+      Akkor indulsz a lejobb esélyekkel, ha pontosan tudod, mire kell
+      odafigyelni ahhoz, hogy a kulcsfontosságú feltételek teljesüljenek és
+      esetleg néhány pluszpontot is bezsebelhess.
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - type: HeroSection
     elementId: ''
     colors: colors-f
@@ -313,35 +342,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    subtitle: ''
-    text: >
-      Akkor indulsz a lejobb esélyekkel, ha pontosan tudod, mire kell
-      odafigyelni ahhoz, hogy a kulcsfontosságú feltételek teljesüljenek és
-      esetleg néhány pluszpontot is bezsebelhess.
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - type: TextSection
     elementId: ''
     colors: colors-f
