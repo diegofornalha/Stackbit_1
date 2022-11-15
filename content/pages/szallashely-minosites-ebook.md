@@ -93,7 +93,7 @@ sections:
         rating: 2
         isRatingVisible: false
       - type: FeaturedItem
-        title: Megbízható fejlesztés
+        title: Kisebb lehet a konkurencia
         text: >
           Kiesnek azok a versenytársak, akik nem felelnek meg a
           követelményeknek.
