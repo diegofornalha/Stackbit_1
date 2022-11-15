@@ -90,13 +90,11 @@ sections:
     title: Önálló weboldalként is működik
     subtitle: null
     text: >
-      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
-      tudás nélkül
-
-
-      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
-      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthet.
+      2022-ben új szálláshely már nem is kezdhette meg a működést minősítés
+      nélkül, most azonban sor kerül a régebben üzemelő szállásokra is. 2023.
+      január 1-jéig minden magánszálláshelynek regisztrálnia kell a
+      szallashelyminosites.hu oldalon, hogy a jövőben megkaphassák a
+      besorolásukat az 1-től 5 csillagig terjedő skálán.
     actions: []
     media:
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
