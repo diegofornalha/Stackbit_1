@@ -476,7 +476,16 @@ sections:
       abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
       megcéloztad!
 
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
       altText: Hero section image
