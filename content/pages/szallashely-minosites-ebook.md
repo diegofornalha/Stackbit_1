@@ -353,16 +353,16 @@ sections:
       Ennek több kimenetele lehet:
 
 
-      ###### Mindent rendben találnak
+      ##### Mindent rendben találnak
 
 
-      ###### Hiánypótlásra szólítanak fel
+      ##### Hiánypótlásra szólítanak fel
 
 
-      ###### Alacsonyabb kategóriát javasolnak
+      ##### Alacsonyabb kategóriát javasolnak
 
 
-      ###### Egyáltalán nem adnak besorolást
+      ##### Egyáltalán nem adnak besorolást
 
     actions: []
     media:
