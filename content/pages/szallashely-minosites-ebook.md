@@ -183,7 +183,7 @@ sections:
     actions:
       - type: Button
         label: Kérem az ebookot!
-        url: /
+        url: "// URLhttps://tally.so#tally-open=mKplND&tally-layout=modal&tally-width=680&tally-emoji-text=\U0001F4D6&tally-emoji-animation=none// Example<a href=\"https://tally.so#tally-open=mKplND&tally-layout=modal&tally-width=680&tally-emoji-text=\U0001F4D6&tally-emoji-animation=none\">Click me</a>"
         style: primary
     styles:
       self:
