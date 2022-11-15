@@ -11,7 +11,7 @@ sections:
         label: Kérem az ebookot
         style: primary
         elementId: hero-main-button
-    bottomPart: 
+    bottomPart: null
     media:
       type: ImageBlock
       url: /images/hero-image.png
@@ -461,38 +461,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - type: FeaturedPeopleSection
-    elementId: ''
-    variant: variant-c
-    colors: colors-a
-    title: Munkáink
-    actions: []
-    people:
-      - content/data/team/hilary-ouse.json
-      - content/data/team/person-r5xelunsc.json
-      - content/data/team/person-wsyxlzekw.json
-      - content/data/team/person-lrl9o29mm.json
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-20
-          - pb-20
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
   - colors: colors-i
     elementId: ''
     title: Gyakori kérdések és válaszok
@@ -545,6 +513,5 @@ sections:
     type: FaqSection
 seo:
   title: Szálláshely-minősítés ebook | Appartman
-  description: >-
-    Készülj fel a szálláshelyed minősítésre az ebookunk segítségével! 
+  description: 'Készülj fel a szálláshelyed minősítésre az ebookunk segítségével! '
 ---
