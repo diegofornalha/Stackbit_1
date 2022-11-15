@@ -19,7 +19,7 @@ sections:
       Szálláshelyekre szabott megoldás 
     media:
       type: ImageBlock
-      url: /images/hero-weboldal (1).png
+      url: /images/hero-image.png
       altText: Image alt text
       caption: Image caption
     styles:
