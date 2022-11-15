@@ -108,7 +108,7 @@ sections:
         justifyContent: center
   - colors: colors-a
     elementId: ''
-    title: 'Az ebookból megtudhatod:'
+    title: 'Az e-bookból megtudhatod:'
     items:
       - elementId: ''
         subtitle: ''
