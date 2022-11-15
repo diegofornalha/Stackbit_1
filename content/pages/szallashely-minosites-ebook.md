@@ -546,6 +546,5 @@ sections:
 seo:
   title: Szálláshely-minősítés ebook | Appartman
   description: >-
-    Gyönyörű és igényes weboldalakat fejlesztünk, amik segítenek a
-    vendégszerzésben. Rövid határidővel, folyamatos kommunikációval. 
+    Készülj fel a minősítésre az ebook 
 ---
