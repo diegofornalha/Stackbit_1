@@ -544,7 +544,7 @@ sections:
         textAlign: center
     type: FaqSection
 seo:
-  title: Weboldal készítés magánszálláshelyeknek | Appartman
+  title: Szálláshely-minősítés ebook | Appartman
   description: >-
     Gyönyörű és igényes weboldalakat fejlesztünk, amik segítenek a
     vendégszerzésben. Rövid határidővel, folyamatos kommunikációval. 
