@@ -71,7 +71,7 @@ sections:
           text:
             textAlign: left
       - type: FeaturedItem
-        title: Felhasználóbarát és modern dizájn
+        title: Fejlődési lehetőség
         text: >
           Célzottan tudod a szálláshelyedet fejleszteni, ha azt szeretnéd, hogy
           jobb kategóriába kerüljön.
