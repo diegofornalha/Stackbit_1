@@ -532,6 +532,7 @@ sections:
         label: Kérem az ebookot
         url: /
         style: primary
+        altText: Kérem az ebookot
     styles:
       self:
         height: auto
