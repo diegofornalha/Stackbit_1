@@ -342,6 +342,51 @@ sections:
         textAlign: center
       text:
         textAlign: center
+  - type: TextSection
+    elementId: ''
+    colors: colors-f
+    title: Ebookunk pont ebben lesz a segítségedre
+    subtitle: ''
+    text: >+
+      ##### Bemutatja, hogy néz ki az ellenőrzés a gyakorlatban
+
+
+      ##### Elárulja, milyen problémával találkoznak legtöbbször az auditorok
+
+
+      ##### Megtudhatod belőle, hogy min lehet a legkönnyebben bukni a
+      minősítést
+
+
+      ##### Megválaszolja a szálláshely-minősítéssel kapcsolatban leggyakrabban
+      felmerülő kérdéseket
+
+
+      ##### Eszközöket ad a kezedbe, hogy könnyedén megszerezd a megfelelő számú
+      csillagot
+
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+        fontWeight: 700
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: left
   - colors: colors-f
     elementId: ''
     title: A kötelező szálláshely minősítés ijesztő is lehet
@@ -434,51 +479,6 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
-  - type: TextSection
-    elementId: ''
-    colors: colors-f
-    title: Ebookunk pont ebben lesz a segítségedre
-    subtitle: ''
-    text: >+
-      ##### Bemutatja, hogy néz ki az ellenőrzés a gyakorlatban
-
-
-      ##### Elárulja, milyen problémával találkoznak legtöbbször az auditorok
-
-
-      ##### Megtudhatod belőle, hogy min lehet a legkönnyebben bukni a
-      minősítést
-
-
-      ##### Megválaszolja a szálláshely-minősítéssel kapcsolatban leggyakrabban
-      felmerülő kérdéseket
-
-
-      ##### Eszközöket ad a kezedbe, hogy könnyedén megszerezd a megfelelő számú
-      csillagot
-
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-        fontWeight: 700
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
   - type: HeroSection
     elementId: ''
     colors: colors-a
