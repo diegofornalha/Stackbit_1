@@ -403,7 +403,7 @@ sections:
             fontStyle: normal
             textAlign: left
           text:
-            textAlign: left
+            textAlign: center
           actions:
             justifyContent: flex-start
     actions: []
