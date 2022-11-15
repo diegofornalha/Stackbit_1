@@ -529,7 +529,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Kérem az ebookot
         url: /
         style: primary
     styles:
