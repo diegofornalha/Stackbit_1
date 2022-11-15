@@ -516,10 +516,6 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: >-
-      A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
-      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
-      megcéloztad!
     actions:
       - type: Button
         label: Kérem az ebookot!
