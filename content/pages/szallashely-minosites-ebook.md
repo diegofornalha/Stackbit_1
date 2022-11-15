@@ -105,45 +105,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: HeroSection
-    elementId: ''
-    colors: colors-a
-    subtitle: 'Már csak néhány heted van, hogy regisztrálj!'
-    text: >
-      2022-ben új szálláshely már nem is kezdhette meg a működést minősítés
-      nélkül, most azonban sor kerül a régebben üzemelő szállásokra is. 2023.
-      január 1-jéig minden magánszálláshelynek regisztrálnia kell a
-      szallashelyminosites.hu oldalon, hogy a jövőben megkaphassák a
-      besorolásukat az 1-től 5 csillagig terjedő skálán.
-    actions: []
-    media:
-      altText: Hero section image
-      caption: test
-      type: ImageBlock
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - colors: colors-f
     elementId: ''
     title: A kötelező szálláshely minősítés ijesztő is lehet
