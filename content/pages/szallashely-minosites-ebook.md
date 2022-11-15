@@ -105,6 +105,39 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - type: HeroSection
+    elementId: ''
+    colors: colors-f
+    text: >
+      Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
+      vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
+      buktatókat, esetleg pár pluszpontot is be tudsz gyűjteni, problémamentesen
+      eshetsz át a minősítésen!
+    actions: []
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-4
+          - pb-20
+          - pl-7
+          - pr-7
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     elementId: ''
     title: A kötelező szálláshely minősítés ijesztő is lehet
@@ -197,39 +230,6 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
-  - type: HeroSection
-    elementId: ''
-    colors: colors-f
-    text: >
-      Ha tudod, mit kell szem előtt tartanod a felkészülésnél, tisztában vagy
-      vele, mit néznek az auditorok, ismered és elkerülöd a leggyakoribb
-      buktatókat, esetleg pár pluszpontot is be tudsz gyűjteni, problémamentesen
-      eshetsz át a minősítésen!
-    actions: []
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-4
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - colors: colors-a
     elementId: ''
     title: 'Az ebookból megtudhatod:'
