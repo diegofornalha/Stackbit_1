@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Mindenkinek át kell esnie a minősítésen
         text: >
           Minden eddiginél szigorúbb kontroll alá kerülnek a magánszálláshelyek
           – a jövőben csak minősítéssel működhetnek. Éppen ezért
