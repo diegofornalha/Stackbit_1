@@ -67,7 +67,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Smarter
+        title: 'Már csak néhány heted van, hogy regisztrálj'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
