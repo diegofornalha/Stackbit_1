@@ -68,10 +68,12 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: 'Már csak néhány heted van, hogy regisztrálj'
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          2022-ben új szálláshely már nem is kezdhette meg a működést minősítés
+          nélkül, most azonban sor kerül a régebben üzemelő szállásokra is.
+          2023. január 1-jéig minden magánszálláshelynek regisztrálnia kell a
+          szallashelyminosites.hu oldalon, hogy a jövőben megkaphassák a
+          besorolásukat az 1-től 5 csillagig terjedő skálán.
         featuredImage: null
         styles:
           title:
