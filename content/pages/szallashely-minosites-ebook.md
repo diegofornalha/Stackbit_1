@@ -461,9 +461,9 @@ sections:
         title: null
         subtitle: ''
         text: |+
-          ###### 4.
+          ###### 5.
 
-          #### Miért utasíthatnak el a minősítésen?
+          #### Mit tehetsz, ha elsőre nem feleltél meg?
 
         author: ''
         rating: 1
