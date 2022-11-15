@@ -392,16 +392,11 @@ sections:
             justifyContent: flex-start
       - elementId: ''
         subtitle: ''
-        text: >
+        text: |+
           ###### 2.
 
+          #### Mi történik a helyszíni ellenőrzésen
 
-          #### Tervezés
-
-
-          Készítünk egy oldaltérképet, majd egy drótvázat, ahol az oldalad
-          logikai felépítését alakítjuk ki. Ezt követően pedig elkészítjük
-          oldalad vizuális dizájnját (UI).
         author: ''
         rating: 1
         isRatingVisible: false
