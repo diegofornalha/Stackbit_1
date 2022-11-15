@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-title: Weboldalkészítés magánszálláshelyeknek | Appartman
+title: Szálláshely minősítés ebook | Appartman
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
