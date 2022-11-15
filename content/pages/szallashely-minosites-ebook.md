@@ -348,16 +348,25 @@ sections:
       Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban
       megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés
       alapján megállapított.
-    text: |+
-      ##### Ennek több kimenetele lehet:
+    text: >+
+      #### Az ellenőrzés során két auditor méri fel, hogy a szálláshely valóban
+      megfelel-e annak a kategóriának, melyet a tulajdonos az önértékelés
+      alapján megállapított.
+
+
+      Ennek több kimenetele lehet:
+
 
       ###### Mindent rendben találnak
 
+
       ###### Hiánypótlásra szólítanak fel
 
-      ###### Alacsonyabb besorolást javasolnak
 
-      ###### Egyáltalán nem adnak minősítést – lehetetlenné válik a működés
+      ###### Alacsonyabb kategóriát javasolnak
+
+
+      ###### Egyáltalán nem adnak besorolást
 
     actions: []
     media:
