@@ -417,7 +417,7 @@ sections:
         text: |+
           ###### 3.
 
-          #### FMik a leggyakoribb hibák?
+          #### Mik a leggyakoribb hibák?
 
         author: ''
         rating: 1
