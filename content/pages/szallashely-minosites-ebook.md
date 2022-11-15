@@ -50,7 +50,6 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: Önálló weboldalként is működik
     subtitle: null
     text: >
       #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
