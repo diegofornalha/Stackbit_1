@@ -531,7 +531,7 @@ sections:
       lehet a szállás kiválasztása során.
     actions: []
     media:
-      url: /images/website-graphics.png
+      url: /images/website-graphics (1).png
       altText: Hero section image
       caption: test
       type: ImageBlock
