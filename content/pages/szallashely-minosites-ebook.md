@@ -52,13 +52,9 @@ sections:
     colors: colors-a
     subtitle: Mindenkinek át kell esnie a minősítésen
     text: >
-      #### Indítsa el saját teljeskörű közvetlen foglalási felületét programozói
-      tudás nélkül
-
-
-      Nem gond, ha nincs weboldala, vagy ha szeretné, hogy közvetlen az Insta
-      profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
-      és képet feltölthet.
+      Minden eddiginél szigorúbb kontroll alá kerülnek a magánszálláshelyek – a
+      jövőben csak minősítéssel működhetnek. Éppen ezért kulcsfontosságú, hogy a
+      lehető legjobb eredménnyel zárd a folyamatot.
     actions: []
     media:
       url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
