@@ -469,54 +469,6 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    subtitle: null
-    text: >+
-      #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
-      abban, hogy gond nélkül megszerezd azt a kategóriát, amelyiket
-      megcéloztad!
-
-    actions:
-      - type: Button
-        label: Kérem az ebookot!
-        altText: Kérem az ebookot
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    media:
-      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
-      altText: Hero section image
-      caption: test
-      type: ImageBlock
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-20
-          - pl-7
-          - pr-7
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
-    elementId: ''
-    colors: colors-a
     title: Ne bízd a véletlenre szálláshelyed minősítését!
     subtitle: null
     text: >
