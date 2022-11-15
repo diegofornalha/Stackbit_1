@@ -182,7 +182,7 @@ sections:
 
     actions:
       - type: Button
-        label: Kérem az ebookot!
+        label: Kérem az e-bookot!
         url: "https://tally.so#tally-open=mKplND&tally-layout=modal&tally-width=680&tally-emoji-text=\U0001F4D6&tally-emoji-animation=none"
         style: primary
     styles:
