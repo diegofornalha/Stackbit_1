@@ -138,7 +138,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-    subtitle: 'de ha alaposan felkészülsz rá, inkább lehetőséget jelent'
+    subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
