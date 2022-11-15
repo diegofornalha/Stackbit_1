@@ -153,11 +153,6 @@ sections:
       profiljáról foglaljanak, hiszen a foglalómotorra minden fontos információt
       és képet feltölthet.
     actions: []
-    media:
-      url: /images/onallo-weboldalkent-is-funkcional-f49e17d6.png
-      altText: Hero section image
-      caption: test
-      type: ImageBlock
     backgroundImage: null
     styles:
       self:
