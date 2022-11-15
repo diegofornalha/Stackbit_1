@@ -367,9 +367,6 @@ sections:
   - colors: colors-a
     elementId: ''
     title: 'Az ebookból megtudhatod:'
-    subtitle: >-
-      Ügyfeleinket partnerként kezeljük és rendszeresen állunk kapcsolatban
-      velük.
     items:
       - elementId: ''
         subtitle: ''
