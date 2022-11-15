@@ -387,7 +387,7 @@ sections:
         textAlign: center
       text:
         textAlign: left
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     title: A kötelező szálláshely minősítés ijesztő is lehet
     items:
