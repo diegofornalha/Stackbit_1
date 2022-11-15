@@ -51,7 +51,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Érj el több vendéget egy megnyerő weboldallal
+    title: Készülj magabiztosan a szálláshely-minősítésre!
   - colors: colors-f
     elementId: ''
     title: Velünk a jó weboldal egy befektetés
