@@ -73,8 +73,8 @@ sections:
       - type: FeaturedItem
         title: Felhasználóbarát és modern dizájn
         text: >
-          Átlátható és könnyen kezelhető oldalad bizalmat kelt és megkönnyíti a
-          vásárlást.
+          Célzottan tudod a szálláshelyedet fejleszteni, ha azt szeretnéd, hogy
+          jobb kategóriába kerüljön.
         featuredImage:
           url: >-
             /images/mobilra-optimalizalt-felhasznalobarat-weboldal-vendeghazaknak.png
