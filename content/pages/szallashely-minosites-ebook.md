@@ -140,10 +140,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-    subtitle: >-
-      Weboldalad marketingszemlélettel készítjük, így a látogatóidból több
-      vendéged lesz. Tőlünk nem csak egy weboldalt, hanem egy vendégszerző
-      eszközt is kapsz.
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
