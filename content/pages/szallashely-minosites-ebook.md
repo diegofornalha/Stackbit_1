@@ -528,7 +528,7 @@ sections:
       megcéloztad!
     actions:
       - type: Button
-        label: Ajánlatkérés
+        label: Kérem az ebookot!
         style: secondary
         url: 'https://tally.so#tally-open=w2EGlg&tally-hide-title=1&tally-overlay=1'
     styles:
