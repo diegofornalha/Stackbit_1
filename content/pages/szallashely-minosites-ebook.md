@@ -436,7 +436,7 @@ sections:
         textAlign: center
   - type: TextSection
     elementId: ''
-    colors: colors-a
+    colors: colors-f
     title: Ebookunk pont ebben lesz a segítségedre
     subtitle: ''
     text: >+
