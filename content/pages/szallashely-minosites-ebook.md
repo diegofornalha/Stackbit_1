@@ -138,6 +138,72 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - colors: colors-a
+    elementId: ''
+    title: 'Az ebookból megtudhatod:'
+    items:
+      - elementId: ''
+        subtitle: ''
+        text: |+
+          ###### ?
+
+          ##### Milyen feltételeknek kell megfelelni?
+
+          ##### Mi történik a helyszíni ellenőrzésen?
+
+          ##### Mik a leggyakoribb hibák?
+
+          ##### Miért utasíthatnak el a minősítése?
+
+          ##### Mit tehetsz, ha elsőre nem feleltél meg?
+
+          ##### Mivel zsebelhetsz be plusz pontokat?
+
+          ##### Milyen részletek miatt bukhatsz kategóriát?
+
+          ##### Hogyan fordíthatod a minősítést a javadra?
+
+
+
+        author: ''
+        rating: 1
+        isRatingVisible: false
+        actions: []
+        styles:
+          title:
+            textAlign: left
+          subtitle:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
+          text:
+            textAlign: center
+          actions:
+            justifyContent: flex-start
+    actions: []
+    columns: 1
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-32
+          - pb-32
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: FeaturedItemsSection
   - colors: colors-f
     elementId: ''
     title: A kötelező szálláshely minősítés ijesztő is lehet
@@ -230,72 +296,6 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     subtitle: 'De ha alaposan felkészülsz rá, inkább lehetőséget jelent'
-  - colors: colors-a
-    elementId: ''
-    title: 'Az ebookból megtudhatod:'
-    items:
-      - elementId: ''
-        subtitle: ''
-        text: |+
-          ###### ?
-
-          ##### Milyen feltételeknek kell megfelelni?
-
-          ##### Mi történik a helyszíni ellenőrzésen?
-
-          ##### Mik a leggyakoribb hibák?
-
-          ##### Miért utasíthatnak el a minősítése?
-
-          ##### Mit tehetsz, ha elsőre nem feleltél meg?
-
-          ##### Mivel zsebelhetsz be plusz pontokat?
-
-          ##### Milyen részletek miatt bukhatsz kategóriát?
-
-          ##### Hogyan fordíthatod a minősítést a javadra?
-
-
-
-        author: ''
-        rating: 1
-        isRatingVisible: false
-        actions: []
-        styles:
-          title:
-            textAlign: left
-          subtitle:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: left
-          text:
-            textAlign: center
-          actions:
-            justifyContent: flex-start
-    actions: []
-    columns: 1
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-32
-          - pb-32
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedItemsSection
   - type: CtaSection
     elementId: ''
     colors: colors-a
