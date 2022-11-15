@@ -432,7 +432,7 @@ sections:
     type: FeaturedItemsSection
   - type: CtaSection
     elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundImage: null
     text: >+
       #### A legfontosabb tények mellett konkrét tippekkel, tanácsokkal segítünk
