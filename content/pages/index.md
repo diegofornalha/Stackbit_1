@@ -267,7 +267,7 @@ sections:
           "Mióta használom a foglalásaim nagy része az ő rendszerükön keresztül
           érkezik. Ezzel megspórolom a napi 1-2 órás munkát, amit az
           ajánlatkérések megválaszolásával töltöttem."
-        name: Johnna Doe
+        name: Halháza Vendégház
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
