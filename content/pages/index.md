@@ -277,7 +277,7 @@ sections:
         styles:
           self:
             margin:
-              - mt-14
+              - mt-24
               - mb-20
             flexDirection: row
           quote:
