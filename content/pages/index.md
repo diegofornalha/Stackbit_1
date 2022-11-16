@@ -287,9 +287,8 @@ sections:
             textAlign: left
       - type: Testimonial
         quote: >
-          “Az Appartman foglalási rendszer nagy segítségünkre van a
-          szálláshely-szolgáltatásban.  Az új foglalások beérkezése mellett
-          folyamatos technikai segítséget is kapunk az Appartman csapatától.”
+          “Az új foglalások beérkezése mellett folyamatos technikai segítséget
+          is kapunk az Appartman csapatától.”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
