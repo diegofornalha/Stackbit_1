@@ -286,9 +286,10 @@ sections:
           title:
             textAlign: left
       - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+        quote: >
+          “Az Appartman foglalási rendszer nagy segítségünkre van a
+          szálláshely-szolgáltatásban.  Az új foglalások beérkezése mellett
+          folyamatos technikai segítséget is kapunk az Appartman csapatától.”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
