@@ -270,7 +270,7 @@ sections:
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: /images/carla.jpg
+          url: /images/cropped-Halhaza_logo_jo-másolat-2.jpeg
           altText: Photo of Johnna Doe
         styles:
           self:
