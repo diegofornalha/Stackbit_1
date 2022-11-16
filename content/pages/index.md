@@ -339,9 +339,10 @@ sections:
             fontStyle: normal
             textAlign: left
       - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+        quote: >
+          “Van egy szolgáltatás amit egy fiatal, lendületes csapat épít,
+          odafigyelve a potenciális felhasználói körre. Így mi magunk
+          szálláskiadók vagyunk VÉGRE az első helyen”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
