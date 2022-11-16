@@ -318,7 +318,7 @@ sections:
         name: Fauna Erdei Vendégház
         title: Nagymaros
         image:
-          url: /images/fauna-erdei-vendeghaz-nagymaros-foglalas-apppartman (2).png
+          url: /images/fauna-erdei-vendeghaz-nagymaros-foglalas-apppartman.png
           altText: Person photo
         elementId: ''
         styles:
