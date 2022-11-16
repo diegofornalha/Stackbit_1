@@ -342,10 +342,11 @@ sections:
             fontStyle: normal
             textAlign: left
       - type: Testimonial
-        quote: >
-          “Van egy szolgáltatás amit egy fiatal, lendületes csapat épít,
+        quote: >+
+          #### “Van egy szolgáltatás amit egy fiatal, lendületes csapat épít,
           odafigyelve a potenciális felhasználói körre. Így mi magunk
           szálláskiadók vagyunk VÉGRE az első helyen”
+
         name: Kis Fakuckó
         title: Sóly
         image:
