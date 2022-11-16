@@ -293,6 +293,7 @@ sections:
         title: Szeged
         image:
           altText: Person photo
+          url: /images/tisza-gyongye-apartmanok-szeged-foglalas-apppartman.png
         elementId: ''
         styles:
           self:
