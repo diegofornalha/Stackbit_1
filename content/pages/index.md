@@ -259,7 +259,7 @@ sections:
       oldalon.
   - type: TestimonialsSection
     elementId: ''
-    colors: colors-h
+    colors: colors-a
     title: Szállásadói vélemények
     subtitle: Mit mondanak az Appartmant használó szállásadók?
     testimonials:
