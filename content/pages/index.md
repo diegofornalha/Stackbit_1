@@ -314,10 +314,11 @@ sections:
             fontStyle: normal
             textAlign: left
       - type: Testimonial
-        quote: >
-          “Nagyszerű, hogy van beépített naptár-szinkronizálási lehetőség is,
-          ami nagyban megkönnyíti a többféle felületről érkező foglalások
+        quote: >+
+          #### “Nagyszerű, hogy van beépített naptár-szinkronizálási lehetőség
+          is, ami nagyban megkönnyíti a többféle felületről érkező foglalások
           összehangolását.”
+
         name: Fauna Erdei Vendégház
         title: Nagymaros
         image:
