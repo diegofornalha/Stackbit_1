@@ -268,7 +268,7 @@ sections:
           érkezik. Ezzel megspórolom a napi 1-2 órás munkát, amit az
           ajánlatkérések megválaszolásával töltöttem."
         name: Halháza Vendégház
-        title: Product Marketing Manager at Acme
+        title: Sirok
         image:
           type: ImageBlock
           url: /images/cropped-Halhaza_logo_jo-másolat-2.jpeg
