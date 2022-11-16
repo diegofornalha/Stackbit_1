@@ -278,7 +278,7 @@ sections:
           self:
             margin:
               - mt-0
-              - mb-8
+              - mb-10
             flexDirection: row
           quote:
             textAlign: left
