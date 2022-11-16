@@ -271,7 +271,7 @@ sections:
         title: Sirok
         image:
           type: ImageBlock
-          url: /images/cropped-Halhaza_logo_jo-másolat-2.jpeg
+          url: /images/halhaza-vendeghaz-sirok-foglalas-apppartman 1.png
           altText: Photo of Johnna Doe
         styles:
           self:
