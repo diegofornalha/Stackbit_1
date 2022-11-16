@@ -264,8 +264,9 @@ sections:
     subtitle: Mit mondanak az Appartmant használó szállásadók?
     testimonials:
       - quote: >
-          "Very professional team. I loved working with the people at
-          startup.io."
+          "Mióta használom a foglalásaim nagy része az ő rendszerükön keresztül
+          érkezik. Ezzel megspórolom a napi 1-2 órás munkát, amit az
+          ajánlatkérések megválaszolásával töltöttem."
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
