@@ -260,7 +260,7 @@ sections:
   - type: TestimonialsSection
     elementId: ''
     colors: colors-h
-    title: Testimonials
+    title: Szállásadói vélemények
     subtitle: What our customers say about us
     testimonials:
       - quote: >
