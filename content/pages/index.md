@@ -261,7 +261,7 @@ sections:
     elementId: ''
     colors: colors-h
     title: Szállásadói vélemények
-    subtitle: What our customers say about us
+    subtitle: Mit mondanak az Appartmant használó szállásadók?
     testimonials:
       - quote: >
           "Very professional team. I loved working with the people at
