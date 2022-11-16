@@ -287,9 +287,10 @@ sections:
           title:
             textAlign: left
       - type: Testimonial
-        quote: >
-          “Az új foglalások beérkezése mellett folyamatos technikai segítséget
-          is kapunk az Appartman csapatától.”
+        quote: >+
+          #### “Az új foglalások beérkezése mellett folyamatos technikai
+          segítséget is kapunk az Appartman csapatától.”
+
         name: Tisza Gyöngye Apartmanok
         title: Szeged
         image:
