@@ -343,7 +343,7 @@ sections:
           “Van egy szolgáltatás amit egy fiatal, lendületes csapat épít,
           odafigyelve a potenciális felhasználói körre. Így mi magunk
           szálláskiadók vagyunk VÉGRE az első helyen”
-        name: Johnna Doe
+        name: Kis Fakuckó
         title: Product Marketing Manager at Acme
         image:
           url: >-
