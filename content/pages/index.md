@@ -346,8 +346,7 @@ sections:
         name: Kis Fakuckó
         title: Sóly
         image:
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: /images/kis-fakucko-soly-foglalas-apppartman.png
           altText: Person photo
         elementId: ''
         styles:
