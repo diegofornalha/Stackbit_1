@@ -289,7 +289,7 @@ sections:
         quote: >
           “Az új foglalások beérkezése mellett folyamatos technikai segítséget
           is kapunk az Appartman csapatától.”
-        name: Johnna Doe
+        name: Tisza Gyöngye Apartmanok
         title: Product Marketing Manager at Acme
         image:
           altText: Person photo
