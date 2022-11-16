@@ -342,11 +342,13 @@ sections:
             fontStyle: normal
             textAlign: left
       - type: Testimonial
-        quote: >+
+        quote: >
           #### “Van egy szolgáltatás amit egy fiatal, lendületes csapat épít,
           odafigyelve a potenciális felhasználói körre. Így mi magunk
           szálláskiadók vagyunk VÉGRE az első helyen”
 
+
+          [Kis Fakuckó – Sóly](https://kis-fakucko.hu/)
         name: Kis Fakuckó
         title: Sóly
         image:
