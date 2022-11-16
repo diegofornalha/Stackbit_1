@@ -347,9 +347,6 @@ sections:
           odafigyelve a potenciális felhasználói körre. Így mi magunk
           szálláskiadók vagyunk VÉGRE az első helyen."
 
-
-          #####
-
         name: Kis Fakuckó
         title: Sóly
         image:
