@@ -290,7 +290,7 @@ sections:
           “Az új foglalások beérkezése mellett folyamatos technikai segítséget
           is kapunk az Appartman csapatától.”
         name: Tisza Gyöngye Apartmanok
-        title: Product Marketing Manager at Acme
+        title: Szeged
         image:
           altText: Person photo
         elementId: ''
