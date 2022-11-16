@@ -344,7 +344,7 @@ sections:
           odafigyelve a potenciális felhasználói körre. Így mi magunk
           szálláskiadók vagyunk VÉGRE az első helyen”
         name: Kis Fakuckó
-        title: Product Marketing Manager at Acme
+        title: Sóly
         image:
           url: >-
             https://assets.stackbit.com/components/images/default/default-person.png
