@@ -1,7 +1,8 @@
 ---
 layout: PostLayout
 title: >-
-  Hogyan emelj árat szálláshelyeden?
+  Energiaválság – mit kezdhetsz a megnövekedett rezsiköltségekkel
+    szállásadóként?
 date: '2022-11-10'
 excerpt: >-
     A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a
