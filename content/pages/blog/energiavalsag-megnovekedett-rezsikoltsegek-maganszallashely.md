@@ -18,7 +18,11 @@ seo:
   title: >-
     Hogyan emelj árat szálláshelyeden? | Appartman Blog
   description: >-
-    Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét. 
+    A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a
+    szállásadók pedig különösen megérezhetik ennek a súlyát. Igaz ez különösen
+    azokra, akik az őszi-téli időszakban is nyitva szoktak tartani, hiszen
+    esetükben fűteni kell a szálláshelyeket is, aminek komoly költségei
+    lehetnek. 
 author: content/data/team/person-xqkrwa90t.json
 ---
 `A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a szállásadók pedig különösen megérezhetik ennek a súlyát. Igaz ez különösen azokra, akik az őszi-téli időszakban is nyitva szoktak tartani, hiszen esetükben fűteni kell a szálláshelyeket is, aminek komoly költségei lehetnek. Nyilván a fűtés típusától is függ, hogy pontosan mennyivel is kell számolni, az azonban valószínű, hogy a gázzal, illetve árammal fűtők magasabb számlákat fognak kapni. Ez egyeseknél akkora összeg is lehet, hogy kérdésessé válik, megéri-e egyáltalán a téli időszakban is nyitva tartani.`
