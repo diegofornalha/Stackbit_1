@@ -4,10 +4,7 @@ title: >-
   Hogyan emelj árat szálláshelyeden?
 date: '2022-11-10'
 excerpt: >-
-  A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a
-  szállásadók pedig különösen megérezhetik ennek a súlyát. Igaz ez különösen
-  azokra, akik az őszi-téli időszakban is nyitva szoktak tartani, hiszen
-  esetükben fűteni kell a szálláshelyeket is, aminek komoly költségei lehetnek.
+legkézenfekvőbb megoldás az áremelés, ettől azonban sokan félnek: ha túl drága lesz a szálláshely, vendégeket bukhatnak, amennyiben pedig nincs vendég, még kevésbé éri meg nyitva tartani. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
 featuredImage:
   type: ImageBlock
   url: /images/content (4).png
