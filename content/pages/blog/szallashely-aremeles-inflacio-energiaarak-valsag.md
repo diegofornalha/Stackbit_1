@@ -24,6 +24,8 @@ author: content/data/team/person-xqkrwa90t.json
 ---
 `Az augusztus óta érvényes energiaárak rengeteg szállásadót érintenek érzékenyen, sokaknál a téli működés is kérdésessé vált. Rengetegen latolgatják, hogy miként lehetne lejjebb faragni az energiafelhasználást a szálláshelyeken, mire lehet megkérni a vendégeket és mire nem, hogyan lehet távolról szabályozni a fűtés- és klímahasználatot, valamint milyen módosítások szükségesek ahhoz, hogy a nyitva tartást ne érintsék a változtatások. Az egyik legkézenfekvőbb megoldás az áremelés, ettől azonban sokan félnek: ha túl drága lesz a szálláshely, vendégeket bukhatnak, amennyiben pedig nincs vendég, még kevésbé éri meg nyitva tartani. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.`
 
+![](/images/content%20\(3\)-bb802683.png)
+
 ### Minden drágább lesz…
 
 Először is, olyan szempontból most mindenképpen jó helyzetben vagy egy áremeléshez, hogy minden folyamatosan drágul, ezért senkit nem lep meg vagy háborít fel, hogy Te is többet kérsz a szálláshelyért. Nyilvánvalóan a vendégeid is tudják, hogy megnőnek a költségeid
