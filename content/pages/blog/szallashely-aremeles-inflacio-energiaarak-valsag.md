@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/content (3)-bb802683.png
-  altText: 'Energiaválság – mit lehet költségekkel kezdeni szállásadóként? '
+  altText: Hogyan emelj árat szálláshelyeden?
   elementId: ''
   styles:
     self:
