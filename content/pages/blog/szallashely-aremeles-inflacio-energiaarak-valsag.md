@@ -43,14 +43,14 @@ Szolgáltatói oldalról egyértelmű, hogy a megemelkedett költségeket valame
 
 ### Hogyan határozd meg az emelés mértékét?
 
-Nézd meg a hasonló ingatlanok árait!
+#### Nézd meg a hasonló ingatlanok árait!
 
 A legegyszerűbb és legstabilabb alap, ha a körbenézel, hogy a környékeden a tiédhez hasonló kategóriás szálláshelyek milyen árakon mennek. Környékbeliként valószínűleg azzal is tisztában vagy, hogy ezeknek a helyeknek mekkora a forgalmuk és a főszezonon
 kívül milyen könnyen szereznek vendéget. Azokhoz a szálláshelyekhez érdemes igazítani a saját árazásodat, amik a főszezonon kívül is viszonylag jól mennek és a tiédhez hasonló kategóriájúak.
 
 A kategória belövésénél azonban ne csak a csillagok számát nézd meg, ha már megvolt a [minősítés](https://appartman.hu/blog/szallashely-minosites-hatarido/), hanem azt is, hogy milyen a szálláshely elhelyezkedése. Egy balatoni ingatlan esetében például egyértelműen többet lehet elkérni egy közvetlenül, vagy majdnem közvetlenül vízparti szállásért, mint egy olyanért, ami 5 perc sétára van a tótól.
 
-Adj egy kicsit többet az emelések után!
+#### Adj egy kicsit többet az emelések után!
 
 Elfogadhatóbbá teheted a megemelt áraidat, ha egy kicsit [felturbózod szolgáltatást](https://appartman.hu/blog/tippek-a-kozvetlen-foglalasok-novelesere-vendeghazak-apartmanok/), azaz olyan apróságokkal kedveskedsz a vendégeknek, amelyik exkluzív érzetet keltenek. Ilyen lehet egy kis csoki a párnán, üdvözlőital bekészítése, mindennapos takarítás stb. Ezeknek a költsége minimális, de érzésre nagymértékben emelik a színvonalat.
 
