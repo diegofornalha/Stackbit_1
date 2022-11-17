@@ -4,7 +4,11 @@ title: >-
   Hogyan emelj árat szálláshelyeden?
 date: '2022-11-10'
 excerpt: >-
-Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
+    A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a
+    szállásadók pedig különösen megérezhetik ennek a súlyát. Igaz ez különösen
+    azokra, akik az őszi-téli időszakban is nyitva szoktak tartani, hiszen
+    esetükben fűteni kell a szálláshelyeket is, aminek komoly költségei
+    lehetnek. 
 featuredImage:
   type: ImageBlock
   url: /images/content (4).png
