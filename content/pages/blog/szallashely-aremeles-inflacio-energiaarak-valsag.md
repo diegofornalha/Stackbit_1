@@ -1,8 +1,7 @@
 ---
 layout: PostLayout
 title: >-
-  Energiaválság – mit kezdhetsz a megnövekedett rezsiköltségekkel
-  szállásadóként?
+  Hogyan emelj árat szálláshelyeden?
 date: '2022-11-10'
 excerpt: >-
     Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
