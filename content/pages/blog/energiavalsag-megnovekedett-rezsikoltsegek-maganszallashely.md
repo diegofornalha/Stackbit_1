@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: >-
-  Energiaválság – mit kezdhetsz a megnövekedett rezsiköltségekkel
+    Energiaválság – mit kezdhetsz a megnövekedett rezsiköltségekkel
   szállásadóként?
 date: '2022-11-10'
 excerpt: >-
