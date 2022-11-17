@@ -7,7 +7,7 @@ excerpt: >-
   áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
 featuredImage:
   type: ImageBlock
-  url: /images/content (4).png
+  url: /images/text content (1).png
   altText: 'Energiaválság – mit lehet költségekkel kezdeni szállásadóként? '
   elementId: ''
   styles:
