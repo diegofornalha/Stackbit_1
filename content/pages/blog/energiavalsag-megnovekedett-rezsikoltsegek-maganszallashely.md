@@ -20,7 +20,8 @@ featuredImage:
 bottomSections: []
 seo:
   title: >-
-    Hogyan emelj árat szálláshelyeden? | Appartman Blog
+    Energiaválság – mit kezdhetsz a megnövekedett rezsiköltségekkel
+    szállásadóként? | Appartman Blog
   description: >-
     A nyáron bejelentett új rezsiárak sok embert érintettek érzékenyen, a
     szállásadók pedig különösen megérezhetik ennek a súlyát. Igaz ez különösen
