@@ -16,8 +16,7 @@ featuredImage:
 bottomSections: []
 seo:
   title: >-
-    Energiaválság – mit kezdhetsz a megnövekedett rezsiköltségekkel
-    szállásadóként? | Appartman Blog
+    Hogyan emelj árat szálláshelyeden? | Appartman Blog
   description: >-
     Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét. 
 author: content/data/team/person-xqkrwa90t.json
