@@ -139,6 +139,16 @@
                 "elementId": ""
             },
             {
+                "type": "Link",
+                "label": "Szálláshely-minősítés segédlet",
+                "altText": "Szálláshely-minősítés segédlet",
+                "url": "/szallashely-minosites-ebook",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
                 "type": "Button",
                 "label": "Bejelentkezés",
                 "altText": "Bejelentkezés",
@@ -147,16 +157,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Szálláshely-minősítés segédlet",
-                "altText": "Szálláshely-minősítés segédlet",
-                "url": "/szallashely-minosites-ebook",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
                 "elementId": ""
             }
         ],
