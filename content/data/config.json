@@ -151,7 +151,7 @@
             },
             {
                 "type": "Link",
-                "label": "Szálláshely-minősítés e-book",
+                "label": "Szálláshely-minősítés segédlet",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
