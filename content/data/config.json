@@ -152,7 +152,7 @@
             {
                 "type": "Link",
                 "label": "Szálláshely-minősítés segédlet",
-                "altText": "Learn more",
+                "altText": "Szálláshely-minősítés segédlet",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
