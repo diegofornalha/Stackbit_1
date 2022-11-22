@@ -45,7 +45,7 @@ Célom, hogy a lakberendezést beemeljem a méltó helyére: a szálláshelyek m
 
 Az online marketingben rengeteg lehetőség kínálkozik az arra nyitott szálláshely-tulajdonosok számára. Egy olyan kommunikációs csatorna, ami képes közvetlen kapcsolatot teremteni, illetve alkalmas a folyamatos kapcsolattartásra, lehetőség a vendégélmény előzetes „kipróbálására”.
 
-Küldetésem, hogy megmutassam, hogy milyen hatalmas erő rejlik az ember és környezete kölcsönhatásában. Társadalmi, gazdasági, környezeti, és egyéni értelemben egyaránt.
+> Küldetésem, hogy megmutassam, hogy milyen hatalmas erő rejlik az ember és környezete kölcsönhatásában. Társadalmi, gazdasági, környezeti, és egyéni értelemben egyaránt.
 
 ![](/images/lakberendezes-es-vendegszerzes-maganszallas-apartman-vendeghaz-gyetvai-eva-appartman.jpeg)
 
