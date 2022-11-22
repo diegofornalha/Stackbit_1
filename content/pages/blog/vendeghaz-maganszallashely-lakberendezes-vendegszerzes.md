@@ -22,42 +22,25 @@ seo:
     mértékét.
 author: content/data/team/person-xqkrwa90t.json
 ---
-`Az augusztus óta érvényes energiaárak rengeteg szállásadót érintenek érzékenyen, sokaknál a téli működés is kérdésessé vált. Rengetegen latolgatják, hogy miként lehetne lejjebb faragni az energiafelhasználást a szálláshelyeken, mire lehet megkérni a vendégeket és mire nem, hogyan lehet távolról szabályozni a fűtés- és klímahasználatot, valamint milyen módosítások szükségesek ahhoz, hogy a nyitva tartást ne érintsék a változtatások. Az egyik legkézenfekvőbb megoldás az áremelés, ettől azonban sokan félnek: ha túl drága lesz a szálláshely, vendégeket bukhatnak, amennyiben pedig nincs vendég, még kevésbé éri meg nyitva tartani. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.`
+A vendégek irányából érkező változó igények a szálláshely-tulajdonosok felől is növekvő igényt generáltak az esztétikus berendezés kialakítása iránt. Egyre többen vesznek igénybe akár lakberendezői segítséget is. Azt viszont érdemes szem előtt tartanunk, hogy teljesen más szemlélet mentén rendezzük be a saját otthonunkat, mint a szálláshelyünket.
 
-![](/images/content%20\(3\)-bb802683.png)
+Az idegenforgalmi közgazdász, vállalkozásfejlesztő és lakberendezési tanulmányaimat ötvözve egy olyan módszert alakítottam ki, ami a belső terek kialakítása és dekorálása során a célcsoport igényeit és szokásait veszi alapul: a célcsoporthoz (az ideális vendéghez) igazítjuk a belső kialakítást, ezáltal megkönnyítve a pozicionálást és az eladást, elősegítve az ügyfélélmény emelését és végső soron a vendégelégedettséget.
 
-### Minden drágább lesz…
+A szolgáltatás tárgyi tényezőivel tudjuk megmutatni a láthatatlant, ezért kiemelten fontos, hogy azok minősége összhangban legyen a nyújtott szolgáltatás minőségével: ne mutassa se többnek, se kevesebbnek a szálláshelyünket a valóshoz képest.
 
-Először is, olyan szempontból most mindenképpen jó helyzetben vagy egy áremeléshez, hogy minden folyamatosan drágul, ezért senkit nem lep meg vagy háborít fel, hogy Te is többet kérsz a szálláshelyért. Nyilvánvalóan a vendégeid is tudják, hogy megnőnek a költségeid
-az energiaárakkal, illetve a Te megélhetésed is többe kerül, ezért, ha bosszantó is a folyamatos drágulás minden területen, váratlanul senkit nem fog érni. Ilyen szempontból **könnyebb most árat emelni, mint egy csendesebb időszakban.**
+A szálláshely nem a szálláshely-tulajdonos otthona, hanem üzleti értelemben egy rövidtávú kiadásra szánt ingatlan. Mivel, tapasztalatom szerint, a vendégház létrehozása jellemzően a tulajdonosának „szerelem-projektje” szokott lenni, ezért sokszor gyengén körülírható a határ: összességében mégis elmondható, hogy egy otthontól semlegesebbnek kell lennie a szálláshely berendezésének, a lakás kiadásra, eladásra való felkészítésénél (home staging) azonban személyesebbnek. Épp annyira személyesnek, hogy az ideális vendég megszólítva érezze magát. Vannak olyan preferált tárgyak, minták, színek, stílusok, amik jellemzőek az adott célcsoportra, ezeket érdemes tudatosan megfigyelni és kihangsúlyozni a berendezés és dekoráció kialakítása során. A styling azaz utolsó simítás, amivel teljessé, hangulatossá tesszük, élettel töltjük meg a teret.
 
-#### … a vendégeidnek viszont kevesebb pénzük van
+A szálláshely berendezése a vendégszeretet, a figyelmesség egy megnyilvánulási formája.
 
-Másrészről, éppen az általános drágulás az oka annak, hogy a vendégeid pénztárcája valószínűleg laposabb a megszokottnál, ezért van rá esély, hogy érzékenyen érinti őket egy újabb áremelkedés. Ettől függetlenül természetesen a saját túlélésed érdekében muszáj magasabb árakkal dolgoznod, de egyáltalán **nem mindegy az emelés mértéke.**
+A vidéki szálláshelyek versenyelőnyét három tényező tudatos használatában látom: lakberendezés, online marketing, fenntartható turizmus.
 
-### Amit NE tegyél:
+Célom, hogy a lakberendezést beemeljem a méltó helyére: a szálláshelyek marketing stratégiájába. Az enteriőr, és a szálláshely egyedi atmoszféráját hangsúlyozó brandfotók azok, amik végső soron eladják a vendégéjszakákat. A berendezésnek ezen túl is óriási szerepe van, hiszen az szűrőként is funkcionál (megszólítja az ideális vendéget), a vendégélmény szerves része, illetve nem mindegy az sem, hogy ki fogja kivenni a szálláshelyünket, azt mennyire tiszteli és óvja majd. Környezetpszichológiai tény, hogy a szép környezetben, mi magunk is szebben viselkedünk.
 
-A jelenlegi helyzetet sajnos sokan kihasználják. Tudják, hogy most könnyebb elfogadtatni az emberekkel az áremelkedést, és akkora mértékű változást igyekeznek eszközölni, ami viszont már nem feltétlenül indokolt vagy reális.
+Az online marketingben rengeteg lehetőség kínálkozik az arra nyitott szálláshely-tulajdonosok számára. Egy olyan kommunikációs csatorna, ami képes közvetlen kapcsolatot teremteni, illetve alkalmas a folyamatos kapcsolattartásra, lehetőség a vendégélmény előzetes „kipróbálására”.
 
-Igen, az [energiaárak a többszörösére növekedtek](https://appartman.hu/blog/energiavalsag-megnovekedett-rezsikoltsegek-maganszallashely/), a boltban az élelmiszerek ára is sokkal magasabb, a mindennapi élet költségei jelentősen megugrottak, ez azonban **nem jelenti azt, hogy következmények nélkül lehet drasztikus mértékben emelni az árakat a szálláshelyeken.** Vagyis lehet, de a vendégek nem fogják kifizetni. Enni muszáj, rezsit fizetni muszáj, utazni viszont nem muszáj – ebből következik, hogy az élelmiszer és az energia ára lehet jóval több, ki fogják fizetni, a szállásé viszont nem, mert **ez egy tipikusan olyan terület, amin elkezdenek spórolni, ha szükséges.**
+Küldetésem, hogy megmutassam, hogy milyen hatalmas erő rejlik az ember és környezete kölcsönhatásában. Társadalmi, gazdasági, környezeti, és egyéni értelemben egyaránt.
 
-Szolgáltatói oldalról egyértelmű, hogy a megemelkedett költségeket valamennyire át kell hárítani a vendégekre, de ilyen mértékű általános drágulás mellett nem lehet 100 százalékban. Azaz nyilvánvaló, hogy **valamennyit magunknak kell benyelni a keletkezett veszteségből.**
+A fenntarthatóság a turizmus szektorban is meghatározó cél és véleményem szerint a jövőnk szempontjából a helyes irány. A fenntartható turizmus elveinek gyakorlatba ültetése, és azok tudatos választása biztosítja hosszú távon az abban részt vevők életminőségének fenntartható emelkedését. A fenntartható turizmusnak nem csak természeti, környezetvédelmi, hanem társadalmi és gazdasági aspektusai is vannak. Ilyen célok lehetnek akár a helybéli munkavállalók foglakoztatása, a helyi kézműves termékek, helyi művészek népszerűsítése.
 
-### Hogyan határozd meg az emelés mértékét?
-
-#### Nézd meg a hasonló ingatlanok árait!
-
-A legegyszerűbb és legstabilabb alap, ha a körbenézel, hogy **a környékeden a tiédhez hasonló kategóriás szálláshelyek milyen árakon mennek.** Környékbeliként valószínűleg azzal is tisztában vagy, hogy ezeknek a helyeknek mekkora a forgalmuk és a főszezonon
-kívül milyen könnyen szereznek vendéget. Azokhoz a szálláshelyekhez érdemes igazítani a saját árazásodat, amik a főszezonon kívül is viszonylag jól mennek és a tiédhez hasonló kategóriájúak.
-
-A kategória belövésénél azonban ne csak a csillagok számát nézd meg, ha már megvolt a [minősítés](https://appartman.hu/blog/szallashely-minosites-hatarido/), hanem azt is, hogy **milyen a szálláshely elhelyezkedése.** Egy balatoni ingatlan esetében például egyértelműen többet lehet elkérni egy közvetlenül, vagy majdnem közvetlenül vízparti szállásért, mint egy olyanért, ami 5 perc sétára van a tótól.
-
-#### Adj egy kicsit többet az emelések után!
-
-Elfogadhatóbbá teheted a megemelt áraidat, ha egy kicsit [felturbózod szolgáltatást](https://appartman.hu/blog/tippek-a-kozvetlen-foglalasok-novelesere-vendeghazak-apartmanok/), azaz olyan **apróságokkal kedveskedsz a vendégeknek**, amelyik exkluzív érzetet keltenek. Ilyen lehet egy kis csoki a párnán, üdvözlőital bekészítése, mindennapos takarítás stb. Ezeknek a költsége minimális, de érzésre nagymértékben emelik a színvonalat.
-
-### Nem a költségek számítanak, hanem a vendég pénztárcája!
-
-Az áremelés mértékének meghatározásakor tehát mindig próbálj reális keretek között mozogni, és vedd figyelembe a közvetlen piaci környezetet. Egy áremelésnél, bár az elsődleges mozgatórugót nyilvánvalóan a megnövekedett költségeit jelentik, **nem az az irányadó, hogy Te mennyivel költesz többet havonta**, hanem az, hogy a vendégek szempontjából mekkora mértékű emelés lehet még elviselhető, megfizethető.
-
-Ha látványosan drágább vagy a többi szálláshelynél, de nem nyújtasz jól érzékelhetően többet, akkor valószínűleg inkább máshol foglalnak majd, ezt pedig muszáj szem előtt tartanod!
+Meggyőződésem szerint a tudatosság az a gondolkodásmód, ami elvezet a fenntarthatósághoz. Lelki, és anyagi értelemben egyaránt.
+A piacon jelen lévő rengeteg új termékben, szolgáltatásban, technológiában könnyű elveszni, ezért fontos, hogy bármilyen fejlesztésbe is fogunk, annak megkezdése előtt tájékozódjunk minél szélesebb körben, gyűjtsünk információkat és tárjuk fel a lehetőségeinket, tehát tervezzünk.
