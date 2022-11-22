@@ -23,7 +23,7 @@ featuredImage:
     self:
       opacity: 100
 ---
-A vendégek irányából érkező változó igények a szálláshely-tulajdonosok felől is növekvő igényt generáltak az esztétikus berendezés kialakítása iránt. Egyre többen vesznek igénybe akár lakberendezői segítséget is. Azt viszont érdemes szem előtt tartanunk, hogy teljesen más szemlélet mentén rendezzük be a saját otthonunkat, mint a szálláshelyünket.
+`A vendégek irányából érkező változó igények a szálláshely-tulajdonosok felől is növekvő igényt generáltak az esztétikus berendezés kialakítása iránt. Egyre többen vesznek igénybe akár lakberendezői segítséget is. Azt viszont érdemes szem előtt tartanunk, hogy teljesen más szemlélet mentén rendezzük be a saját otthonunkat, mint a szálláshelyünket.`
 
 ![](/images/lakberendezes-maganszallashely-gyetvai-eva-appartman.jpeg)
 
@@ -33,9 +33,9 @@ A szolgáltatás tárgyi tényezőivel tudjuk megmutatni a láthatatlant, ezért
 
 A szálláshely nem a szálláshely-tulajdonos otthona, hanem üzleti értelemben egy rövidtávú kiadásra szánt ingatlan. Mivel, tapasztalatom szerint, a vendégház létrehozása jellemzően a tulajdonosának „szerelem-projektje” szokott lenni, ezért sokszor gyengén körülírható a határ: összességében mégis elmondható, hogy egy otthontól semlegesebbnek kell lennie a szálláshely berendezésének, a lakás kiadásra, eladásra való felkészítésénél (home staging) azonban személyesebbnek. Épp annyira személyesnek, hogy az ideális vendég megszólítva érezze magát. Vannak olyan preferált tárgyak, minták, színek, stílusok, amik jellemzőek az adott célcsoportra, ezeket érdemes tudatosan megfigyelni és kihangsúlyozni a berendezés és dekoráció kialakítása során. A styling azaz utolsó simítás, amivel teljessé, hangulatossá tesszük, élettel töltjük meg a teret.
 
-![](/images/vendeghaz-berendezes-tippek-gyetvai-eva-appartman.jpeg)
-
 > A szálláshely berendezése a vendégszeretet, a figyelmesség egy megnyilvánulási formája.
+
+![](/images/vendeghaz-berendezes-tippek-gyetvai-eva-appartman.jpeg)
 
 #### A vidéki szálláshelyek versenyelőnyét három tényező tudatos használatában látom
 
