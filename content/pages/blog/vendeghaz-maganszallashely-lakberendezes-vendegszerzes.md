@@ -35,9 +35,11 @@ A szálláshely nem a szálláshely-tulajdonos otthona, hanem üzleti értelembe
 
 ![](/images/vendeghaz-berendezes-tippek-gyetvai-eva-appartman.jpeg)
 
-A szálláshely berendezése a vendégszeretet, a figyelmesség egy megnyilvánulási formája.
+> A szálláshely berendezése a vendégszeretet, a figyelmesség egy megnyilvánulási formája.
 
-A vidéki szálláshelyek versenyelőnyét három tényező tudatos használatában látom: lakberendezés, online marketing, fenntartható turizmus.
+#### A vidéki szálláshelyek versenyelőnyét három tényező tudatos használatában látom
+
+lakberendezés, online marketing, fenntartható turizmus.
 
 Célom, hogy a lakberendezést beemeljem a méltó helyére: a szálláshelyek marketing stratégiájába. Az enteriőr, és a szálláshely egyedi atmoszféráját hangsúlyozó brandfotók azok, amik végső soron eladják a vendégéjszakákat. A berendezésnek ezen túl is óriási szerepe van, hiszen az szűrőként is funkcionál (megszólítja az ideális vendéget), a vendégélmény szerves része, illetve nem mindegy az sem, hogy ki fogja kivenni a szálláshelyünket, azt mennyire tiszteli és óvja majd. Környezetpszichológiai tény, hogy a szép környezetben, mi magunk is szebben viselkedünk.
 
