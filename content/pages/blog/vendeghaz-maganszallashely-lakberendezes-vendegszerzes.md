@@ -13,6 +13,15 @@ seo:
     áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a
     mértékét.
 author: content/data/team/person-xqkrwa90t.json
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  styles:
+    self:
+      opacity: 100
 ---
 A vendégek irányából érkező változó igények a szálláshely-tulajdonosok felől is növekvő igényt generáltak az esztétikus berendezés kialakítása iránt. Egyre többen vesznek igénybe akár lakberendezői segítséget is. Azt viszont érdemes szem előtt tartanunk, hogy teljesen más szemlélet mentén rendezzük be a saját otthonunkat, mint a szálláshelyünket.
 
