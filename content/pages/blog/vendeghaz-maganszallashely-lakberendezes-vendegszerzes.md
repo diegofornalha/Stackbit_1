@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: A lakberendezés ügyfélszerzésben betöltött szerepe a szálláshelyfejlesztésben
-date: '2022-11-10'
+date: '2022-11-22'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
   áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
