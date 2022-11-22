@@ -6,7 +6,7 @@ excerpt: >-
  Egyre nagyobb a vendégek igénye az esztétikus berendezéshez, az ennek való megfelelés közben érdemes szem előtt tartani, hogy más szemlélet szükséges egy otthon és egy szálláshely berendezéséhez.
 bottomSections: []
 seo:
-  title: Hogyan emelj árat szálláshelyeden? | Appartman Blog
+  title: A lakberendezés ügyfélszerzésben betöltött szerepe a szálláshelyfejlesztésben | Appartman Blog
   description: >-
     Egyre nagyobb a vendégek igénye az esztétikus berendezéshez, az ennek való megfelelés közben érdemes szem előtt tartani, hogy más szemlélet szükséges egy otthon és egy szálláshely berendezéséhez.  
 author: content/data/team/person-xqkrwa90t.json
