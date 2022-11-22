@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Hogyan emelj árat szálláshelyeden?
+title: A lakberendezés ügyfélszerzésben betöltött szerepe a szálláshelyfejlesztésben
 date: '2022-11-10'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
