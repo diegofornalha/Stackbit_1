@@ -1,6 +1,8 @@
 ---
 layout: PostLayout
-title: A lakberendezés ügyfélszerzésben betöltött szerepe a szálláshelyfejlesztésben
+title: >-
+  A lakberendezés ügyfélszerzésben betöltött szerepe a szálláshely
+  fejlesztésében
 date: '2022-11-22'
 excerpt: >-
   Egyre nagyobb a vendégek igénye az esztétikus berendezéshez, az ennek való
