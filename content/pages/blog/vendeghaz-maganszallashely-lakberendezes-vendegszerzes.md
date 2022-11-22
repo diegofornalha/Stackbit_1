@@ -3,7 +3,7 @@ layout: PostLayout
 title: A lakberendezés ügyfélszerzésben betöltött szerepe a szálláshelyfejlesztésben
 date: '2022-11-22'
 excerpt: >-
- 
+ Egyre nagyobb 
 bottomSections: []
 seo:
   title: Hogyan emelj árat szálláshelyeden? | Appartman Blog
