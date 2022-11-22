@@ -25,11 +25,15 @@ featuredImage:
 ---
 A vendégek irányából érkező változó igények a szálláshely-tulajdonosok felől is növekvő igényt generáltak az esztétikus berendezés kialakítása iránt. Egyre többen vesznek igénybe akár lakberendezői segítséget is. Azt viszont érdemes szem előtt tartanunk, hogy teljesen más szemlélet mentén rendezzük be a saját otthonunkat, mint a szálláshelyünket.
 
+![](/images/lakberendezes-maganszallashely-gyetvai-eva-appartman.jpeg)
+
 Az idegenforgalmi közgazdász, vállalkozásfejlesztő és lakberendezési tanulmányaimat ötvözve egy olyan módszert alakítottam ki, ami a belső terek kialakítása és dekorálása során a célcsoport igényeit és szokásait veszi alapul: a célcsoporthoz (az ideális vendéghez) igazítjuk a belső kialakítást, ezáltal megkönnyítve a pozicionálást és az eladást, elősegítve az ügyfélélmény emelését és végső soron a vendégelégedettséget.
 
 A szolgáltatás tárgyi tényezőivel tudjuk megmutatni a láthatatlant, ezért kiemelten fontos, hogy azok minősége összhangban legyen a nyújtott szolgáltatás minőségével: ne mutassa se többnek, se kevesebbnek a szálláshelyünket a valóshoz képest.
 
 A szálláshely nem a szálláshely-tulajdonos otthona, hanem üzleti értelemben egy rövidtávú kiadásra szánt ingatlan. Mivel, tapasztalatom szerint, a vendégház létrehozása jellemzően a tulajdonosának „szerelem-projektje” szokott lenni, ezért sokszor gyengén körülírható a határ: összességében mégis elmondható, hogy egy otthontól semlegesebbnek kell lennie a szálláshely berendezésének, a lakás kiadásra, eladásra való felkészítésénél (home staging) azonban személyesebbnek. Épp annyira személyesnek, hogy az ideális vendég megszólítva érezze magát. Vannak olyan preferált tárgyak, minták, színek, stílusok, amik jellemzőek az adott célcsoportra, ezeket érdemes tudatosan megfigyelni és kihangsúlyozni a berendezés és dekoráció kialakítása során. A styling azaz utolsó simítás, amivel teljessé, hangulatossá tesszük, élettel töltjük meg a teret.
+
+![](/images/vendeghaz-berendezes-tippek-gyetvai-eva-appartman.jpeg)
 
 A szálláshely berendezése a vendégszeretet, a figyelmesség egy megnyilvánulási formája.
 
@@ -40,6 +44,8 @@ Célom, hogy a lakberendezést beemeljem a méltó helyére: a szálláshelyek m
 Az online marketingben rengeteg lehetőség kínálkozik az arra nyitott szálláshely-tulajdonosok számára. Egy olyan kommunikációs csatorna, ami képes közvetlen kapcsolatot teremteni, illetve alkalmas a folyamatos kapcsolattartásra, lehetőség a vendégélmény előzetes „kipróbálására”.
 
 Küldetésem, hogy megmutassam, hogy milyen hatalmas erő rejlik az ember és környezete kölcsönhatásában. Társadalmi, gazdasági, környezeti, és egyéni értelemben egyaránt.
+
+![](/images/lakberendezes-es-vendegszerzes-maganszallas-apartman-vendeghaz-gyetvai-eva-appartman.jpeg)
 
 A fenntarthatóság a turizmus szektorban is meghatározó cél és véleményem szerint a jövőnk szempontjából a helyes irány. A fenntartható turizmus elveinek gyakorlatba ültetése, és azok tudatos választása biztosítja hosszú távon az abban részt vevők életminőségének fenntartható emelkedését. A fenntartható turizmusnak nem csak természeti, környezetvédelmi, hanem társadalmi és gazdasági aspektusai is vannak. Ilyen célok lehetnek akár a helybéli munkavállalók foglakoztatása, a helyi kézműves termékek, helyi művészek népszerűsítése.
 
