@@ -28,6 +28,8 @@ featuredImage:
 ---
 `A vendégek irányából érkező változó igények a szálláshely-tulajdonosok felől is növekvő igényt generáltak az esztétikus berendezés kialakítása iránt. Egyre többen vesznek igénybe akár lakberendezői segítséget is. Azt viszont érdemes szem előtt tartanunk, hogy teljesen más szemlélet mentén rendezzük be a saját otthonunkat, mint a szálláshelyünket.`
 
+###### `gyetvai éva vendégcikke`
+
 ![](/images/lakberendezes-maganszallashely-gyetvai-eva-appartman.jpeg)
 
 Az idegenforgalmi közgazdász, vállalkozásfejlesztő és lakberendezési tanulmányaimat ötvözve egy olyan módszert alakítottam ki, ami a belső terek kialakítása és dekorálása során a célcsoport igényeit és szokásait veszi alapul: a célcsoporthoz (az ideális vendéghez) igazítjuk a belső kialakítást, ezáltal megkönnyítve a pozicionálást és az eladást, elősegítve az ügyfélélmény emelését és végső soron a vendégelégedettséget.
