@@ -5,14 +5,6 @@ date: '2022-11-22'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
   áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
-featuredImage:
-  type: ImageBlock
-  url: /images/content (3)-bb802683.png
-  altText: Hogyan emelj árat szálláshelyeden?
-  elementId: ''
-  styles:
-    self:
-      opacity: 100
 bottomSections: []
 seo:
   title: Hogyan emelj árat szálláshelyeden? | Appartman Blog
