@@ -8,15 +8,15 @@ sections:
       - {}
       - {}
       - answer: |
-          ## 1. Adatkezelési tájékoztató
+          ### 1. Adatkezelési tájékoztató
 
           [Itt érhető el](https://appartman.hu/adatkezelesi-tajekoztato.pdf)
 
-          ## 2. Adatfeldolgozók listája
+          ### 2. Adatfeldolgozók listája
 
           [Itt érhető el](https://appartman.hu/adatfeldolgozok-listaja.pdf)
 
-          ## 3. ÁSZF
+          ### 3. ÁSZF
 
           [Itt érhető el](https://appartman.hu/Appartman-ASZF.pdf)
     styles:
