@@ -26,6 +26,7 @@ featuredImage:
   styles:
     self:
       opacity: 100
+author: content/data/team/person-z3w58400b.json
 ---
 `A vendégek irányából érkező változó igények a szálláshely-tulajdonosok felől is növekvő igényt generáltak az esztétikus berendezés kialakítása iránt. Egyre többen vesznek igénybe akár lakberendezői segítséget is. Azt viszont érdemes szem előtt tartanunk, hogy teljesen más szemlélet mentén rendezzük be a saját otthonunkat, mint a szálláshelyünket.`
 
