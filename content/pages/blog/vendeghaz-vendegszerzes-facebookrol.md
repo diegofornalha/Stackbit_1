@@ -26,6 +26,8 @@ featuredImage:
 ---
 `Az első kérdés, amit egy leendő szállásadó feltesz magának, valószínűleg az, hogy honnan lesznek vendégei. Manapság a nagy szállásközvetítő oldalak használata adja magát, és kár lenne tagadni, hogy igen eredményesek is, van azonban egy komoly hátrányuk: súlyos jutalékot számolnak fel minden hónapban. Éppen ezért kerül egyre inkább előtérbe a közvetlen foglalások szerzésének módja. Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül keressenek fel, akár a közösségi oldalakon?`
 
+``![](/images/maganszallashely-vendegszerzes-facebook.png)
+
 ## Marketing nélkül nincs siker
 
 Ahhoz, hogy az emberek találkozzanak a vendégházaddal és közvetlenül nálad tudjanak foglalni, szükség van a részedről némi befektetett munkára: **gondoskodnod kell a szálláshelyed marketingjéről**. Ez így ijesztően hangzik, ha nem vagy túlságosan jártas a témában, de számos hatékony és teljesen ingyenes módszer van arra, hogy az emberek megismerjék a szálláshelyedet, és népszerűvé tedd. Nem kell bele óriási összegeket fektetni, csupán egy kis időt és energiát.
