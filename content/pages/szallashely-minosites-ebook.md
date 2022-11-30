@@ -76,7 +76,7 @@ sections:
         text: >
           2022-ben új szálláshely már nem is kezdhette meg a működést minősítés
           nélkül, most azonban sor kerül a régebben üzemelő szállásokra is.
-          2023. január 1-jéig minden magánszálláshelynek regisztrálnia kell a
+          2024. január 1-jéig minden magánszálláshelynek regisztrálnia kell a
           szallashelyminosites.hu oldalon, hogy a jövőben megkaphassák a
           besorolásukat az 1-től 5 csillagig terjedő skálán.
         featuredImage: null
