@@ -17,9 +17,7 @@ bottomSections: []
 seo:
   title: Hogyan használd a Facebookot vendégszerzésre? | Appartman Blog
   description: >-
-    Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
-    áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a
-    mértékét.
+    Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül keressenek fel, akár a közösségi oldalakon?
 author: content/data/team/person-xqkrwa90t.json
 ---
 `Az augusztus óta érvényes energiaárak rengeteg szállásadót érintenek érzékenyen, sokaknál a téli működés is kérdésessé vált. Rengetegen latolgatják, hogy miként lehetne lejjebb faragni az energiafelhasználást a szálláshelyeken, mire lehet megkérni a vendégeket és mire nem, hogyan lehet távolról szabályozni a fűtés- és klímahasználatot, valamint milyen módosítások szükségesek ahhoz, hogy a nyitva tartást ne érintsék a változtatások. Az egyik legkézenfekvőbb megoldás az áremelés, ettől azonban sokan félnek: ha túl drága lesz a szálláshely, vendégeket bukhatnak, amennyiben pedig nincs vendég, még kevésbé éri meg nyitva tartani. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.`
