@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Hogyan emelj árat szálláshelyeden?
+title: Hogyan használd a Facebookot vendégszerzésre?
 date: '2022-11-10'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
