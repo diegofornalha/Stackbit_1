@@ -16,7 +16,7 @@ seo:
 author: content/data/team/person-xqkrwa90t.json
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/content (4)-a25f5262.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
