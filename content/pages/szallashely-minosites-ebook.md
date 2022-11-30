@@ -70,7 +70,9 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: 'Már csak néhány heted van, hogy regisztrálj'
+        title: >-
+          Még van időd felkészülni: használd ki a halasztást, hogytöbb csillagot
+          szerezhess!
         text: >
           2022-ben új szálláshely már nem is kezdhette meg a működést minősítés
           nélkül, most azonban sor kerül a régebben üzemelő szállásokra is.
