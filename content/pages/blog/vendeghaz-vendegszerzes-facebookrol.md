@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/content (3)-bb802683.png
-  altText: Hogyan emelj árat szálláshelyeden?
+  altText: Hogyan használd a Facebookot vendégszerzésre?
   elementId: ''
   styles:
     self:
