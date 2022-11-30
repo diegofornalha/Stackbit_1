@@ -51,7 +51,7 @@ bottomSections:
     type: CtaSection
 layout: PostLayout
 author: content/data/team/desmond-eagle.json
-date: '2021-09-28'
+date: '2021-11-28'
 ---
 *Főként kezdő szálláshely tulajdonosoknál szokott fejtörést okozni a kérdés, hogy hogyan is kellene árazniuk a szálláshelyüket, de azért a tapasztaltabbaknak is igyekszünk néhány iránymutatást adni, hogyan csinálják mások.*
 
