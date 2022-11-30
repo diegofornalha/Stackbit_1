@@ -6,14 +6,6 @@ excerpt: >-
   Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül
   jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül
   keressenek fel, akár a közösségi oldalakon?
-featuredImage:
-  type: ImageBlock
-  url: /images/content (3)-bb802683.png
-  altText: Hogyan használd a Facebookot vendégszerzésre?
-  elementId: ''
-  styles:
-    self:
-      opacity: 100
 bottomSections: []
 seo:
   title: Hogyan használd a Facebookot vendégszerzésre? | Appartman Blog
