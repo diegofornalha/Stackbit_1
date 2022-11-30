@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: Hogyan használd a Facebookot vendégszerzésre?
-date: '2022-11-10'
+date: '2022-11-30'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
   áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
