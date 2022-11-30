@@ -3,7 +3,9 @@ layout: PostLayout
 title: Hogyan használd a Facebookot vendégszerzésre?
 date: '2022-11-30'
 excerpt: >-
-    Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül keressenek fel, akár a közösségi oldalakon?
+  Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül
+  jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül
+  keressenek fel, akár a közösségi oldalakon?
 featuredImage:
   type: ImageBlock
   url: /images/content (3)-bb802683.png
@@ -16,45 +18,67 @@ bottomSections: []
 seo:
   title: Hogyan használd a Facebookot vendégszerzésre? | Appartman Blog
   description: >-
-    Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül keressenek fel, akár a közösségi oldalakon?
+    Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül
+    jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább
+    közvetlenül keressenek fel, akár a közösségi oldalakon?
 author: content/data/team/person-xqkrwa90t.json
 ---
-`Az augusztus óta érvényes energiaárak rengeteg szállásadót érintenek érzékenyen, sokaknál a téli működés is kérdésessé vált. Rengetegen latolgatják, hogy miként lehetne lejjebb faragni az energiafelhasználást a szálláshelyeken, mire lehet megkérni a vendégeket és mire nem, hogyan lehet távolról szabályozni a fűtés- és klímahasználatot, valamint milyen módosítások szükségesek ahhoz, hogy a nyitva tartást ne érintsék a változtatások. Az egyik legkézenfekvőbb megoldás az áremelés, ettől azonban sokan félnek: ha túl drága lesz a szálláshely, vendégeket bukhatnak, amennyiben pedig nincs vendég, még kevésbé éri meg nyitva tartani. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.`
+`Az első kérdés, amit egy leendő szállásadó feltesz magának, valószínűleg az, hogy honnan lesznek vendégei. Manapság a nagy szállásközvetítő oldalak használata adja magát, és kár lenne tagadni, hogy igen eredményesek is, van azonban egy komoly hátrányuk: súlyos jutalékot számolnak fel minden hónapban. Éppen ezért kerül egyre inkább előtérbe a közvetlen foglalások szerzésének módja. Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül keressenek fel, akár a közösségi oldalakon?`
 
-![](/images/content%20\(3\)-bb802683.png)
+## Marketing nélkül nincs siker
 
-### Minden drágább lesz…
+Ahhoz, hogy az emberek találkozzanak a vendégházaddal és közvetlenül nálad tudjanak foglalni, szükség van a részedről némi befektetett munkára: **gondoskodnod kell a szálláshelyed marketingjéről**. Ez így ijesztően hangzik, ha nem vagy túlságosan jártas a témában, de számos hatékony és teljesen ingyenes módszer van arra, hogy az emberek megismerjék a szálláshelyedet, és népszerűvé tedd. Nem kell bele óriási összegeket fektetni, csupán egy kis időt és energiát.
 
-Először is, olyan szempontból most mindenképpen jó helyzetben vagy egy áremeléshez, hogy minden folyamatosan drágul, ezért senkit nem lep meg vagy háborít fel, hogy Te is többet kérsz a szálláshelyért. Nyilvánvalóan a vendégeid is tudják, hogy megnőnek a költségeid
-az energiaárakkal, illetve a Te megélhetésed is többe kerül, ezért, ha bosszantó is a folyamatos drágulás minden területen, váratlanul senkit nem fog érni. Ilyen szempontból **könnyebb most árat emelni, mint egy csendesebb időszakban.**
+Az egyik ilyen eszköz a **Facebook**.
 
-#### … a vendégeidnek viszont kevesebb pénzük van
+## Vendégek a közösségi médiából
 
-Másrészről, éppen az általános drágulás az oka annak, hogy a vendégeid pénztárcája valószínűleg laposabb a megszokottnál, ezért van rá esély, hogy érzékenyen érinti őket egy újabb áremelkedés. Ettől függetlenül természetesen a saját túlélésed érdekében muszáj magasabb árakkal dolgoznod, de egyáltalán **nem mindegy az emelés mértéke.**
+Adja magát a közösségi média használata, ugyanis ezeken a platformokon lehet **rövid idő alatt sok embert elérni**. Ez azonban csak akkor igaz, ha fel tudod építeni a közösségi média jelenlétedet, és aktívan teszel azért, hogy a potenciális vendégekkel találkozz ezeken a felületeken.
 
-### Amit NE tegyél:
+Nem is olyan régen futottam bele a Facebookon egy olyan beszélgetésbe, ahol szállásadók beszélték le egymást a Facebook, mint vendégszerző felület használatáról. Állították, hogy semmi értelme, időpocsékolás, alig-alig jön foglalásuk onnan.
 
-A jelenlegi helyzetet sajnos sokan kihasználják. Tudják, hogy most könnyebb elfogadtatni az emberekkel az áremelkedést, és akkora mértékű változást igyekeznek eszközölni, ami viszont már nem feltétlenül indokolt vagy reális.
+Az igazság azonban az, hogy nagyon **sok szállásadó teljesen rosszul közelíti meg a Facebookot**. Úgy várnak sikert, hogy ők maguk alig tesznek bele munkát, gyakorlatilag nulla erőfeszítéssel szeretnék elérni, hogy jöjjenek a vendégek, vagy éppen ellenkezőleg: válogatás nélkül repülnek rá mindenkire, aki szállást keres, függetlenül a vendég kritériumaitól. Mindkettő rossz hozzáállás, ha hatékonyan szeretnénk a Facebook használatával organikusan (azaz ingyenesen) vendégeket szerezni.
 
-Igen, az [energiaárak a többszörösére növekedtek](https://appartman.hu/blog/energiavalsag-megnovekedett-rezsikoltsegek-maganszallashely/), a boltban az élelmiszerek ára is sokkal magasabb, a mindennapi élet költségei jelentősen megugrottak, ez azonban **nem jelenti azt, hogy következmények nélkül lehet drasztikus mértékben emelni az árakat a szálláshelyeken.** Vagyis lehet, de a vendégek nem fogják kifizetni. Enni muszáj, rezsit fizetni muszáj, utazni viszont nem muszáj – ebből következik, hogy az élelmiszer és az energia ára lehet jóval több, ki fogják fizetni, a szállásé viszont nem, mert **ez egy tipikusan olyan terület, amin elkezdenek spórolni, ha szükséges.**
+## Hogyan NE próbálkozz?
 
-Szolgáltatói oldalról egyértelmű, hogy a megemelkedett költségeket valamennyire át kell hárítani a vendégekre, de ilyen mértékű általános drágulás mellett nem lehet 100 százalékban. Azaz nyilvánvaló, hogy **valamennyit magunknak kell benyelni a keletkezett veszteségből.**
+### „Írj rám!”
 
-### Hogyan határozd meg az emelés mértékét?
+Saját megfigyelésen alapuló tapasztalat, hogy a facebookos vendégszerzés alatt sokan azt értik, hogy amikor egy szálláskereső csoportba ír valaki egy posztot, hogy egy bizonyos környéken szeretne adott időpontra a szállást, rengetegen kommentelnek a keresése alá annyit, hogy „Szia! Én tudok segíteni, írj rám!”, teszik ezt ráadásul a saját, privát profiljukról.
 
-#### Nézd meg a hasonló ingatlanok árait!
+Nos, ez a **legritkább esetben szokott működni**. A vendégek úgy szeretik a lehető legegyszerűbben lefoglalni a szálláshelyüket, semmi kedvük ismeretlen emberekre ráírogatni Facebookon, hogy előadják a lehet, hogy tökéletesen irreleváns ajánlatukat. Nem szeretik a hosszas egyeztetéseket, nem szeretnek olyan ajánlatokat meghallgatni, amik túl drágák nekik, vagy nem felelnek meg az elképzeléseiknek. Ne csodálkozz, ha az ilyen kommentjeidre nem érkezik reakció.
 
-A legegyszerűbb és legstabilabb alap, ha a körbenézel, hogy **a környékeden a tiédhez hasonló kategóriás szálláshelyek milyen árakon mennek.** Környékbeliként valószínűleg azzal is tisztában vagy, hogy ezeknek a helyeknek mekkora a forgalmuk és a főszezonon
-kívül milyen könnyen szereznek vendéget. Azokhoz a szálláshelyekhez érdemes igazítani a saját árazásodat, amik a főszezonon kívül is viszonylag jól mennek és a tiédhez hasonló kategóriájúak.
+### „Nem pont ott, nem pont olyan, nem pont annyi, de nézd meg!”
 
-A kategória belövésénél azonban ne csak a csillagok számát nézd meg, ha már megvolt a [minősítés](https://appartman.hu/blog/szallashely-minosites-hatarido/), hanem azt is, hogy **milyen a szálláshely elhelyezkedése.** Egy balatoni ingatlan esetében például egyértelműen többet lehet elkérni egy közvetlenül, vagy majdnem közvetlenül vízparti szállásért, mint egy olyanért, ami 5 perc sétára van a tótól.
+Azzal is gyakran találkozom ilyen posztok alatt, hogy valóban **nem passzoló ajánlatok érkeznek**. A kommentben vannak ugyan infók a szálláshellyel kapcsolatosan, csak épp nem az a város, ahol a posztoló szálláshelyet keres, nem az az árkategória, nem az a szállástípus, nem annyi férőhely. Természetes, hogy ezek a próbálkozások nem fognak sikerrel járni, ez azonban nem a Facebook hibája; nem lesz több vendéged, ha válogatás nélkül ugrasz minden lehetőségre, inkább csak zavaróvá válik a jelenléted.
 
-#### Adj egy kicsit többet az emelések után!
+### „Miért nem keresnek?”
 
-Elfogadhatóbbá teheted a megemelt áraidat, ha egy kicsit [felturbózod szolgáltatást](https://appartman.hu/blog/tippek-a-kozvetlen-foglalasok-novelesere-vendeghazak-apartmanok/), azaz olyan **apróságokkal kedveskedsz a vendégeknek**, amelyik exkluzív érzetet keltenek. Ilyen lehet egy kis csoki a párnán, üdvözlőital bekészítése, mindennapos takarítás stb. Ezeknek a költsége minimális, de érzésre nagymértékben emelik a színvonalat.
+Szintén gyakori probléma, hogy a szállásadó létrehoz egy Facebook-oldalt a szálláshelyének, belép néhány csoportba, aztán várja a sült galambot. Attól még, hogy van valakinek egy Facebook-oldala, nem feltétlenül fogják megtalálni. Ahhoz, hogy egy szálláshely oldala vonzó legyen és észrevegyék a vendégek, **aktív részvételre van szükség**. Azaz a Facebook-oldalon legyen tartalom, lehetőleg olyan, ami érdekes a vendégek számára, és legyél aktív a szállásadói, szállást kínáló csoportokban.
 
-### Nem a költségek számítanak, hanem a vendég pénztárcája!
+## Hogyan kell hatékonyan használni a Facebookot?
 
-Az áremelés mértékének meghatározásakor tehát mindig próbálj reális keretek között mozogni, és vedd figyelembe a közvetlen piaci környezetet. Egy áremelésnél, bár az elsődleges mozgatórugót nyilvánvalóan a megnövekedett költségeit jelentik, **nem az az irányadó, hogy Te mennyivel költesz többet havonta**, hanem az, hogy a vendégek szempontjából mekkora mértékű emelés lehet még elviselhető, megfizethető.
+A negatív példák után jöjjenek a **jó gyakorlatok**: a Facebookról nem nehéz vendégeket szerezni, ha jól csinálod!
 
-Ha látványosan drágább vagy a többi szálláshelynél, de nem nyújtasz jól érzékelhetően többet, akkor valószínűleg inkább máshol foglalnak majd, ezt pedig muszáj szem előtt tartanod!
+### Facebook-oldal a szálláshelyednek
+
+Az első és legfontosabb lépés, hogy **készíts a szálláshelyednek egy Facebook-oldalt**, és ne a saját, privát profilodról próbálj vendégeket szerezni. Sokkal hitelesebb az ajánlat, ha az egy nagy műgonddal felépített, releváns információkat tartalmazó Facebook-oldalról érkezik, nem pedig Gipsz Jakabné privát oldaláról, ahol a felajánlott szállásról semmi nem derül ki.
+
+A Facebook oldalon legyenek jó minőségű, a szálláshelyet reálisan bemutató **fotók és a lehető legtöbb információ**, amire egy vendég kíváncsi lehet, úgymint grillezési, bográcsozási lehetőség, esetleges extrák, lehetőségek a környéken stb. Még jobb, ha aktívan posztolsz, és folyamatosan értesíted az érdeklődőket a környéken aktuális programokról, kirándulási lehetőségekről, látnivalókról.
+
+### Légy aktív!
+
+Ahogy említettük, a közvetlen foglalások bezsebeléséhez nem lesz elég, ha csak jelen van a szálláshelyed a Facebookon. **Tenned kell azért, hogy érkezzenek a vendégek**: lépj be olyan csoportokba, ahol találkozhatnak a szállásadók és a szálláskeresők! Ilyen csoportok például a következők:
+
+*   [Vidéki Vendégházak](https://www.facebook.com/groups/232390374755863/) (ha vidéki a szálláshelyed)
+
+*   [Bababarát Szállások Csoport](https://www.facebook.com/groups/bababaratszallasok/) (természetesen csak ha illeszkedik a profilodba)
+
+*   [Vendégházak Magyarországon](https://www.facebook.com/groups/661220324600306/)
+
+*   [Szállás keres-kínál](https://www.facebook.com/groups/szallashirdeto/)
+
+*   [ApartmanGO - Apartmanok, vendégházak tulajdonosoktól](https://www.facebook.com/groups/apartmango)
+
+Ha helyiség vagy terület szerint keresgélsz, valószínűleg **lokális csoportot** is fogsz találni: balatoni, budapesti, alföldi stb. szálláshelyek csoportját. Mivel sokan adott környékre keresnek szállást, ezekben is érdemes jelen lenni.
+
+A tematikus csoportokban legyél különösen aktív, a **keresésekre pedig reagálj, ha van releváns ajánlatod**, de csak akkor! Ha a csoport szabályzata engedi, posztolj, **mutasd be a szálláshelyedet**, írd ki az ajánlataidat, akcióidat! De vigyázz, mert a kéretlen reklámokért tilthatnak a csoportból, ezért mindig olvasd el a szabályokat és győződj meg róla, hogy kimehetnek-e ilyen posztok!
