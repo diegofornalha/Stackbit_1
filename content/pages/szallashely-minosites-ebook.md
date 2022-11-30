@@ -54,7 +54,9 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Mindenkinek át kell esnie a minősítésen
+        title: >-
+          Bár a kormány adott 1 év haladékot, hamarosan mindenkinek át kell
+          esnie a minősítésen!
         text: >
           Minden eddiginél szigorúbb kontroll alá kerülnek a magánszálláshelyek
           – a jövőben csak minősítéssel működhetnek. Éppen ezért
