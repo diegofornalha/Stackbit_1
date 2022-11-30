@@ -14,6 +14,15 @@ seo:
     jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább
     közvetlenül keressenek fel, akár a közösségi oldalakon?
 author: content/data/team/person-xqkrwa90t.json
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  styles:
+    self:
+      opacity: 100
 ---
 `Az első kérdés, amit egy leendő szállásadó feltesz magának, valószínűleg az, hogy honnan lesznek vendégei. Manapság a nagy szállásközvetítő oldalak használata adja magát, és kár lenne tagadni, hogy igen eredményesek is, van azonban egy komoly hátrányuk: súlyos jutalékot számolnak fel minden hónapban. Éppen ezért kerül egyre inkább előtérbe a közvetlen foglalások szerzésének módja. Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül keressenek fel, akár a közösségi oldalakon?`
 
