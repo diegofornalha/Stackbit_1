@@ -15,7 +15,7 @@ featuredImage:
       opacity: 100
 bottomSections: []
 seo:
-  title: Hogyan emelj árat szálláshelyeden? | Appartman Blog
+  title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt! | Appartman Blog
   description: >-
     Érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. 
 author: content/data/team/person-xqkrwa90t.json
