@@ -3,8 +3,7 @@ layout: PostLayout
 title: Hogyan használd a Facebookot vendégszerzésre?
 date: '2022-11-30'
 excerpt: >-
-  Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
-  áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
+    Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább közvetlenül keressenek fel, akár a közösségi oldalakon?
 bottomSections: []
 seo:
   title: Hogyan használd a Facebookot vendégszerzésre? | Appartman Blog
