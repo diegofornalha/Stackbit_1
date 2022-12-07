@@ -4,7 +4,7 @@ sections:
   - type: HeroSection
     colors: colors-a
     title: >-
-      Oszd meg velünk szállásadói tapasztalataidat egy marketing tanácsadásért
+      Oszd meg velünk szállásadói tapasztalataidat egy szállásnép tanácsadásért
       cserébe!
     text: >
       Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
