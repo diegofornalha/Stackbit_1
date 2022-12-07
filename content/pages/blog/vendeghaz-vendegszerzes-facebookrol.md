@@ -8,9 +8,7 @@ bottomSections: []
 seo:
   title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt! | Appartman Blog
   description: >-
-    Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül
-    jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább
-    közvetlenül keressenek fel, akár a közösségi oldalakon?
+    Érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. 
 author: content/data/team/person-xqkrwa90t.json
 featuredImage:
   type: ImageBlock
