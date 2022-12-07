@@ -3,7 +3,7 @@ title: Interjú magánszállásadóknak | Appartman
 sections:
   - type: HeroSection
     colors: colors-a
-    title: Segítse egy interjúval a jövő magánszálláshely szoftvereinek létrejöttét
+    title: Segítsd egy interjúval a jövő magánszálláshely szoftvereinek létrejöttét
     text: >
       Szoftvereinket a kis szállásadók igényeire szabjuk. Magánszállásadóként
       egy mélyinterjúval segíthet, hogy nemsokára egy igazán felhasználóbarát,
