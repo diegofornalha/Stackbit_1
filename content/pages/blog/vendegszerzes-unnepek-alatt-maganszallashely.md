@@ -5,19 +5,13 @@ date: '2022-11-10'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
   áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
-featuredImage:
-  type: ImageBlock
-  url: /images/content (3)-bb802683.png
-  altText: Hogyan emelj árat szálláshelyeden?
-  elementId: ''
-  styles:
-    self:
-      opacity: 100
 bottomSections: []
 seo:
   title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt! | Appartman Blog
   description: >-
-    Érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. 
+    Érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra
+    kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a
+    szálláshelyedet. 
 author: content/data/team/person-xqkrwa90t.json
 ---
 `Kétféle ember létezik: aki szívesen utazik el az ünnepek alatt, és aki el sem tudja képzelni, hogy ezt az időszakot ne otthon, a szeretteivel töltse. Utóbbiak nyilván nem a Te célközönséged lesznek, de az első csoportba tartozók miatt érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. Ahhoz, hogy ezt megtehesd, ismerned kell a régiód vonzerejét és a vendégeid motivációit az utazásra.`
