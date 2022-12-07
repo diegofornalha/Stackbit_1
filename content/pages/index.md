@@ -1135,7 +1135,7 @@ sections:
       a segítségedet!
     actions:
       - type: Button
-        label: Try it now
+        label: Jelentkezés
         url: /
         style: primary
     styles:
