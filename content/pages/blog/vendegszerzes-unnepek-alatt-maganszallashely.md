@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt!
-date: '2022-12-10'
+date: '2022-12-07'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
   áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
