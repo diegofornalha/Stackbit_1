@@ -1127,7 +1127,7 @@ sections:
     elementId: ''
     colors: colors-i
     backgroundImage: null
-    title: Let's do this
+    title: Szállásadó vagy? Beszélgessünk!
     text: >
       Szoftverünket azért fejlesztjük, hogy minél könnyebben tudj
       magánszállásadóként vendégeket szerezni. Vegyél részt egy beszélgetésen
