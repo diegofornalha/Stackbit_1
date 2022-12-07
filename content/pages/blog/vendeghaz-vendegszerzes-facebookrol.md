@@ -3,7 +3,8 @@ layout: PostLayout
 title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt!
 date: '2022-11-30'
 excerpt: >-
-    Érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. 
+    Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
+    áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
 bottomSections: []
 seo:
   title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt! | Appartman Blog
