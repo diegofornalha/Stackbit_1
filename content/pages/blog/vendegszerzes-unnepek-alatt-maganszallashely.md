@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Hogyan emelj árat szálláshelyeden?
+title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt!
 date: '2022-11-10'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
