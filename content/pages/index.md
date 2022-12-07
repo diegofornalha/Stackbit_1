@@ -1080,6 +1080,46 @@ sections:
     type: CtaSection
   - type: CtaSection
     elementId: ''
+    colors: colors-i
+    backgroundImage: null
+    title: Szállásadó vagy? Beszélgessünk!
+    text: >
+      Rengeteg szállásadói visszajelzésre van szükségünk, hogy egy jó
+      vendégszerző eszközt tudjunk piacra dobni. Vegyél részt egy beszélgetésen
+      velünk és személyre szabott szállásnépszerűsítő tanácsadással háláljuk meg
+      a segítségedet!
+    actions:
+      - type: Button
+        label: Jelentkezés
+        url: >-
+          https://tally.so#tally-open=mYjPJN&tally-layout=modal&tally-width=1280&tally-overlay=1
+        style: primary
+        altText: jelentkezés
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: CtaSection
+    elementId: ''
     colors: colors-b
     backgroundImage:
       type: ImageBlock
@@ -1117,46 +1157,6 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: CtaSection
-    elementId: ''
-    colors: colors-i
-    backgroundImage: null
-    title: Szállásadó vagy? Beszélgessünk!
-    text: >
-      Rengeteg szállásadói visszajelzésre van szükségünk, hogy egy jó
-      vendégszerző eszközt tudjunk piacra dobni. Vegyél részt egy beszélgetésen
-      velünk és személyre szabott szállásnépszerűsítő tanácsadással háláljuk meg
-      a segítségedet!
-    actions:
-      - type: Button
-        label: Jelentkezés
-        url: >-
-          https://tally.so#tally-open=mYjPJN&tally-layout=modal&tally-width=1280&tally-overlay=1
-        style: primary
-        altText: jelentkezés
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
       title:
         textAlign: left
       text:
