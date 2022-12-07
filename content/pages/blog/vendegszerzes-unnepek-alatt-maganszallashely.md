@@ -22,42 +22,48 @@ seo:
     mértékét.
 author: content/data/team/person-xqkrwa90t.json
 ---
-`Az augusztus óta érvényes energiaárak rengeteg szállásadót érintenek érzékenyen, sokaknál a téli működés is kérdésessé vált. Rengetegen latolgatják, hogy miként lehetne lejjebb faragni az energiafelhasználást a szálláshelyeken, mire lehet megkérni a vendégeket és mire nem, hogyan lehet távolról szabályozni a fűtés- és klímahasználatot, valamint milyen módosítások szükségesek ahhoz, hogy a nyitva tartást ne érintsék a változtatások. Az egyik legkézenfekvőbb megoldás az áremelés, ettől azonban sokan félnek: ha túl drága lesz a szálláshely, vendégeket bukhatnak, amennyiben pedig nincs vendég, még kevésbé éri meg nyitva tartani. Az áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.`
+**Kétféle ember létezik: aki szívesen utazik el az ünnepek alatt, és aki el sem tudja képzelni, hogy ezt az időszakot ne otthon, a szeretteivel töltse. Utóbbiak nyilván nem a Te célközönséged lesznek, de az első csoportba tartozók miatt érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. Ahhoz, hogy ezt megtehesd, ismerned kell a régiód vonzerejét és a vendégeid motivációit az utazásra.**
 
-![](/images/content%20\(3\)-bb802683.png)
+## Miért utaznak el sokan karácsonyra?
 
-### Minden drágább lesz…
+Annak, hogy valaki nem szeretné otthon tölteni az ünnepeket, számos oka lehet:
 
-Először is, olyan szempontból most mindenképpen jó helyzetben vagy egy áremeléshez, hogy minden folyamatosan drágul, ezért senkit nem lep meg vagy háborít fel, hogy Te is többet kérsz a szálláshelyért. Nyilvánvalóan a vendégeid is tudják, hogy megnőnek a költségeid
-az energiaárakkal, illetve a Te megélhetésed is többe kerül, ezért, ha bosszantó is a folyamatos drágulás minden területen, váratlanul senkit nem fog érni. Ilyen szempontból **könnyebb most árat emelni, mint egy csendesebb időszakban.**
+*   **nincs népes rokonság**, akikkel ünnepelhetne, ezért ő ezt az időszakot használja ki arra, hogy kikapcsolódjon valahol máshol;
 
-#### … a vendégeidnek viszont kevesebb pénzük van
+*   túl népes a rokonság, nagy a nyüzsgés, ezért **szeretne egy kicsit megszökni** egyedül vagy a szűk családjával;
 
-Másrészről, éppen az általános drágulás az oka annak, hogy a vendégeid pénztárcája valószínűleg laposabb a megszokottnál, ezért van rá esély, hogy érzékenyen érinti őket egy újabb áremelkedés. Ettől függetlenül természetesen a saját túlélésed érdekében muszáj magasabb árakkal dolgoznod, de egyáltalán **nem mindegy az emelés mértéke.**
+*   **ki akar maradni a karácsonyi készülődés őrületéből**, szeretne nyugodtan ünnepelni úgy, hogy nem ő készít ötfogásos ünnepi vacsorát, díszít fát, suvickolja tisztára a házat;
 
-### Amit NE tegyél:
+*   **vágyik a környezetváltozásra**, szívesen ünnepel valahol máshol, hogy könnyebben hagyja maga mögött az év végi hajtással járó stresszt.
 
-A jelenlegi helyzetet sajnos sokan kihasználják. Tudják, hogy most könnyebb elfogadtatni az emberekkel az áremelkedést, és akkora mértékű változást igyekeznek eszközölni, ami viszont már nem feltétlenül indokolt vagy reális.
+A lista persze nem teljes, az okok nagyon sokrétűek lehetnek. A lényeg, hogy sokan utaznak el az ünnepekre, így szállásadóként ezt az időszakot is ki tudod használni – ha neked nem jelent problémát, hogy **az ünnepek alatt is figyelned kell a vendégeidre**.
 
-Igen, az [energiaárak a többszörösére növekedtek](https://appartman.hu/blog/energiavalsag-megnovekedett-rezsikoltsegek-maganszallashely/), a boltban az élelmiszerek ára is sokkal magasabb, a mindennapi élet költségei jelentősen megugrottak, ez azonban **nem jelenti azt, hogy következmények nélkül lehet drasztikus mértékben emelni az árakat a szálláshelyeken.** Vagyis lehet, de a vendégek nem fogják kifizetni. Enni muszáj, rezsit fizetni muszáj, utazni viszont nem muszáj – ebből következik, hogy az élelmiszer és az energia ára lehet jóval több, ki fogják fizetni, a szállásé viszont nem, mert **ez egy tipikusan olyan terület, amin elkezdenek spórolni, ha szükséges.**
+## Hova szeretünk menni karácsonykor?
 
-Szolgáltatói oldalról egyértelmű, hogy a megemelkedett költségeket valamennyire át kell hárítani a vendégekre, de ilyen mértékű általános drágulás mellett nem lehet 100 százalékban. Azaz nyilvánvaló, hogy **valamennyit magunknak kell benyelni a keletkezett veszteségből.**
+Nos, ez szintén olyasmi, ami mindenkinek más. Van, aki a **nyüzsgő városokat** szereti, ahol nyitva találja az éttermeket, karácsonyi vásárokban nézelődhet. Mások viszont inkább **meghitten elvonulnának** pihenni egy csendes, vidéki helyre, ahol adott a téli hangulat.
 
-### Hogyan határozd meg az emelés mértékét?
+Sajnos nálunk szinte sosem garantálható a téli képeslap-szerű, havas táj, de meghittséget, nyugalmat így is tud kínálni bármelyik szálláshely, ha a tulajdonosa elég figyelmet fordít erre.
 
-#### Nézd meg a hasonló ingatlanok árait!
+## Ne csak szállást kínálj, karácsonyt is!
 
-A legegyszerűbb és legstabilabb alap, ha a körbenézel, hogy **a környékeden a tiédhez hasonló kategóriás szálláshelyek milyen árakon mennek.** Környékbeliként valószínűleg azzal is tisztában vagy, hogy ezeknek a helyeknek mekkora a forgalmuk és a főszezonon
-kívül milyen könnyen szereznek vendéget. Azokhoz a szálláshelyekhez érdemes igazítani a saját árazásodat, amik a főszezonon kívül is viszonylag jól mennek és a tiédhez hasonló kategóriájúak.
+Az előzőekben leírtak miatt célszerű egy kicsit **felkészíteni magát a szálláshelyet az ünnepi időszakra**. Talán alapnak tűnhet, mégis sok magászálláshelynél hiányzik a **karácsonyi díszítés**: legyen felállítva egy kis feldíszített karácsonyfa, fényfüzér az ablakokon, adventi koszorú, egyéb karácsonyi dísztárgyak. Ne feledkezz meg az **illatokról**: egy kis narancsos-fahéjas, forralt boros, vagy éppen almás-fahéjas illat ilyenkor mindig kellemes.
 
-A kategória belövésénél azonban ne csak a csillagok számát nézd meg, ha már megvolt a [minősítés](https://appartman.hu/blog/szallashely-minosites-hatarido/), hanem azt is, hogy **milyen a szálláshely elhelyezkedése.** Egy balatoni ingatlan esetében például egyértelműen többet lehet elkérni egy közvetlenül, vagy majdnem közvetlenül vízparti szállásért, mint egy olyanért, ami 5 perc sétára van a tótól.
+Nem kell túlzásba esni, csak ízlésesen, de érződjön az ünnep hangulata!
 
-#### Adj egy kicsit többet az emelések után!
+Házigazdaként is hozzájárulhatsz mindehhez, ha egy kis forralt borral kínálod a vendégeket érkezéskor, bekészítesz némi karácsonyi süteményt. Írhatsz ki a szálláshelyen információkat arról, honnan tudnak ünnepi menüt rendelni, milyen éttermek lesznek nyitva karácsonykor. Mindezt persze az ajánlatodban is kommunikáld, hogy a vendégek láthassák: ha nálad foglalnak, meghitt karácsonyban lehet részük
 
-Elfogadhatóbbá teheted a megemelt áraidat, ha egy kicsit [felturbózod szolgáltatást](https://appartman.hu/blog/tippek-a-kozvetlen-foglalasok-novelesere-vendeghazak-apartmanok/), azaz olyan **apróságokkal kedveskedsz a vendégeknek**, amelyik exkluzív érzetet keltenek. Ilyen lehet egy kis csoki a párnán, üdvözlőital bekészítése, mindennapos takarítás stb. Ezeknek a költsége minimális, de érzésre nagymértékben emelik a színvonalat.
+## Programok a környéken
 
-### Nem a költségek számítanak, hanem a vendég pénztárcája!
+Nem mindenhol vannak karácsonyi programok, de ha a Te környékeden igen, azt mindenképpen **tudasd a potenciális vendégekkel**! A [közösségi média felületeken](https://appartman.hu/blog/vendeghaz-vendegszerzes-facebookrol/) mindenképp hívd fel a figyelmet az ilyen programokra a karácsony előtti hetekben, hogy a vendégek tudjanak róla, érdemes lehet oda ellátogatni. Ugyanez igaz a szilveszteri rendezvényekre, ha tudsz ilyenről a környéken, az komoly vendégmágnes lehet!
 
-Az áremelés mértékének meghatározásakor tehát mindig próbálj reális keretek között mozogni, és vedd figyelembe a közvetlen piaci környezetet. Egy áremelésnél, bár az elsődleges mozgatórugót nyilvánvalóan a megnövekedett költségeit jelentik, **nem az az irányadó, hogy Te mennyivel költesz többet havonta**, hanem az, hogy a vendégek szempontjából mekkora mértékű emelés lehet még elviselhető, megfizethető.
+Nem csak a klasszikus, ünnephez kapcsolódó lehetőségeket célszerű hangsúlyozni. Szuper, ha van karácsonyi vásár, lesz közös ünnepség, de legalább ekkora vonzereje lehet egy **korcsolyapályának, síelési, szánkózási lehetőségnek**, sőt, a téli kirándulások is sokaknak csábítóak. Ne csak várd, hogy jöjjenek a vendégek: tudasd velük, miért érdemes menniük!
 
-Ha látványosan drágább vagy a többi szálláshelynél, de nem nyújtasz jól érzékelhetően többet, akkor valószínűleg inkább máshol foglalnak majd, ezt pedig muszáj szem előtt tartanod!
+## Akciók a téli szünetre
+
+Az [őszi szünet idén elmaradt](https://appartman.hu/blog/elmarad-az-oszi-szunet-mi-lesz-a-foglalasokkal/), ezzel pedig a november eleji foglalások zöme is elúszott, de a téli szünetet még ki lehet használni! Több vendéget csábíthatsz a szállásodra, ha **akciós ajánlatokat hirdetsz**: 4 éjszaka 5 áráért, X% kedvezmény Y napra stb.
+
+Fontos, hogy ezeket úgy árazd, **hogy a vendég valóban azt érezze, hogy jól jár, de neked is pozitív legyen a mérleg.**
+
+Jó, ha tudod, hogy karácsonykor 2-3, szilveszterkor 1-2 napot foglalnak a legtöbben. Ha egyel több éjszakáért még egyet adsz ajándékba, azzal nyertél plusz egy napnyi bevételt. Érdemes így nézni ezeket a kedvezményeket: valójában olyan napokat adsz ajándékba olyan napokért, ahol valószínűleg nem lenne foglalásod. Ugyanez igaz a százalékos kedvezményre, ha kicsit olcsóbban kínálod a szállást több napért cserébe, összességében több lehet a bevételed.
+
+Az év vége nem a legkönnyebben feltölthető időszak a szálláshelyeken, de nem is uborkaszezon. Egy kis kreativitással gondoskodhatsz róla, hogy megteljen a szálláshelyed ilyenkor is!
