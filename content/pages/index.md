@@ -1129,8 +1129,8 @@ sections:
     backgroundImage: null
     title: Szállásadó vagy? Beszélgessünk!
     text: >
-      Szoftverünket azért fejlesztjük, hogy minél könnyebben tudj
-      magánszállásadóként vendégeket szerezni. Vegyél részt egy beszélgetésen
+      Rengeteg szállásadói visszajelzésre van szükségünk, hogy egy jó
+      vendégszerző eszközt tudjunk piacra dobni. Vegyél részt egy beszélgetésen
       velünk és személyre szabott szállásnépszerűsítő tanácsadással háláljuk meg
       a segítségedet!
     actions:
