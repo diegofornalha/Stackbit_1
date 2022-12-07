@@ -1128,9 +1128,11 @@ sections:
     colors: colors-i
     backgroundImage: null
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Szoftverünket azért fejlesztjük, hogy minél könnyebben tudj
+      magánszállásadóként vendégeket szerezni. Vegyél részt egy beszélgetésen
+      velünk és személyre szabott szállásnépszerűsítő tanácsadással háláljuk meg
+      a segítségedet!
     actions:
       - type: Button
         label: Try it now
