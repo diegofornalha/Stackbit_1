@@ -8,7 +8,7 @@ excerpt: >-
   keressenek fel, akár a közösségi oldalakon?
 bottomSections: []
 seo:
-  title: Hogyan használd a Facebookot vendégszerzésre? | Appartman Blog
+  title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt! | Appartman Blog
   description: >-
     Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül
     jussanak el hozzánk, megtalálják a saját weboldalunkat, és inkább
