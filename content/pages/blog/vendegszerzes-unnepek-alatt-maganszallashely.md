@@ -13,6 +13,15 @@ seo:
     kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a
     szálláshelyedet. 
 author: content/data/team/person-xqkrwa90t.json
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  styles:
+    self:
+      opacity: 100
 ---
 `Kétféle ember létezik: aki szívesen utazik el az ünnepek alatt, és aki el sem tudja képzelni, hogy ezt az időszakot ne otthon, a szeretteivel töltse. Utóbbiak nyilván nem a Te célközönséged lesznek, de az első csoportba tartozók miatt érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. Ahhoz, hogy ezt megtehesd, ismerned kell a régiód vonzerejét és a vendégeid motivációit az utazásra.`
 
