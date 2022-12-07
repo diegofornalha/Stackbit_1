@@ -7,7 +7,7 @@ excerpt: >-
   áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
 bottomSections: []
 seo:
-  title: Hogyan használd a Facebookot vendégszerzésre | Appartman Blog
+  title: Hogyan használd a Facebookot vendégszerzésre? | Appartman Blog
   description: >-
     Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
     áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a
