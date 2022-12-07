@@ -25,6 +25,8 @@ featuredImage:
 ---
 `Kétféle ember létezik: aki szívesen utazik el az ünnepek alatt, és aki el sem tudja képzelni, hogy ezt az időszakot ne otthon, a szeretteivel töltse. Utóbbiak nyilván nem a Te célközönséged lesznek, de az első csoportba tartozók miatt érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. Ahhoz, hogy ezt megtehesd, ismerned kell a régiód vonzerejét és a vendégeid motivációit az utazásra.`
 
+``![](/images/karacsonyi-vendegek.png)
+
 ## Miért utaznak el sokan karácsonyra?
 
 Annak, hogy valaki nem szeretné otthon tölteni az ünnepeket, számos oka lehet:
