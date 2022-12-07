@@ -1136,7 +1136,8 @@ sections:
     actions:
       - type: Button
         label: Jelentkezés
-        url: /
+        url: >-
+          https://tally.so#tally-open=mYjPJN&tally-layout=modal&tally-width=1280&tally-overlay=1
         style: primary
         altText: jelentkezés
     styles:
