@@ -1125,7 +1125,7 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     elementId: ''
-    colors: colors-a
+    colors: colors-i
     backgroundImage: null
     title: Let's do this
     text: >-
