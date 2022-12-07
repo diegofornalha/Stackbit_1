@@ -1,16 +1,17 @@
 ---
 layout: PostLayout
-title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt!
+title: Hogyan használd a Facebookot vendégszerzésre?
 date: '2022-11-30'
 excerpt: >-
-    Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
-    áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
+  Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
+  áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
 bottomSections: []
 seo:
   title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt! | Appartman Blog
   description: >-
     Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
-    áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
+    áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a
+    mértékét.
 author: content/data/team/person-xqkrwa90t.json
 featuredImage:
   type: ImageBlock
