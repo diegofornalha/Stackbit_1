@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Hogyan használd a Facebookot vendégszerzésre?
+title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt!
 date: '2022-11-30'
 excerpt: >-
   Vajon hogyan lehet elérni, hogy a vendégek ne a közvetítőkön keresztül
