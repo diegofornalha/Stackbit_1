@@ -1138,6 +1138,7 @@ sections:
         label: Jelentkezés
         url: /
         style: primary
+        altText: jelentkezés
     styles:
       self:
         height: auto
