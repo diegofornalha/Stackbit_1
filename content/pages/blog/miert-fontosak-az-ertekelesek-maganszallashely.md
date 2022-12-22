@@ -28,6 +28,8 @@ author: content/data/team/person-xqkrwa90t.json
 ---
 `Te könnyen megbízol az interneten talált szolgáltatókban? A vásárlások tetemes része online zajlik; sok esetben teljesen ismeretlen vállalkozásoktól veszünk termékeket vagy rendelünk meg szolgáltatásokat. Ugyanez a helyzet, ha utazni szeretnénk: ismeretlen szállásadóknak kell bizalmat szavazunk, látatlanban lefoglalni szálláshelyeket, olykor az összeg egy részét előre fizetve. A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.`
 
+![](/images/ertekelesek%20\(1\)-8ee3b8de.png)
+
 ## Hol jelenhetnek meg értékelések?
 
 Ha használsz ismert **szállásközvetítő oldalakat**, akkor valószínűleg tisztában vagy vele, hogy ezeken a felületeken a vendégek értékelhetik a szálláshelyeket, ha megvalósult a foglalás. Nagyon fontos, hogy itt a lehető legjobb legyen az értékelés, hiszen **mindenki megbízható helyre szeretne menni**.
