@@ -1,9 +1,11 @@
 ---
 layout: PostLayout
 title: 'Miért fontos, hogy legyenek pozitív értékeléseid és hogyan szerezd be őket?'
-date: '2022-12-07'
+date: '2022-12-22'
 excerpt: >-
-    A bizalmat online nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.
+  A bizalmat online nehéz megteremteni, de ha látjuk, hogy mások elégedettek
+  voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények,
+  amiket azonban nem mindig egyszerű összegyűjteni.
 featuredImage:
   type: ImageBlock
   url: /images/karacsonyi-vendegek.png
@@ -15,9 +17,13 @@ featuredImage:
       opacity: 100
 bottomSections: []
 seo:
-  title: Miért fontos, hogy legyenek pozitív értékeléseid és hogy szerezd be őket? | Appartman Blog
+  title: >-
+    Miért fontos, hogy legyenek pozitív értékeléseid és hogy szerezd be őket? |
+    Appartman Blog
   description: >-
-    A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.
+    A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek
+    voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények,
+    amiket azonban nem mindig egyszerű összegyűjteni.
 author: content/data/team/person-xqkrwa90t.json
 ---
 `Te könnyen megbízol az interneten talált szolgáltatókban? A vásárlások tetemes része online zajlik; sok esetben teljesen ismeretlen vállalkozásoktól veszünk termékeket vagy rendelünk meg szolgáltatásokat. Ugyanez a helyzet, ha utazni szeretnénk: ismeretlen szállásadóknak kell bizalmat szavazunk, látatlanban lefoglalni szálláshelyeket, olykor az összeg egy részét előre fizetve. A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.`
