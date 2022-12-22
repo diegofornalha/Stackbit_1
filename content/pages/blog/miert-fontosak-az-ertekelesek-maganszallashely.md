@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Miért fontos, hogy legyenek pozitív értékeléseid és hogyan szerezd be őket?
+title: 'Miért fontos, hogy legyenek pozitív értékeléseid és hogyan szerezd be őket?'
 date: '2022-12-07'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
@@ -23,50 +23,37 @@ seo:
     szálláshelyedet. 
 author: content/data/team/person-xqkrwa90t.json
 ---
-`Kétféle ember létezik: aki szívesen utazik el az ünnepek alatt, és aki el sem tudja képzelni, hogy ezt az időszakot ne otthon, a szeretteivel töltse. Utóbbiak nyilván nem a Te célközönséged lesznek, de az első csoportba tartozók miatt érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a szálláshelyedet. Ahhoz, hogy ezt megtehesd, ismerned kell a régiód vonzerejét és a vendégeid motivációit az utazásra.`
+**Te könnyen megbízol az interneten talált szolgáltatókban? A vásárlások tetemes része online zajlik; sok esetben teljesen ismeretlen vállalkozásoktól veszünk termékeket vagy rendelünk meg szolgáltatásokat. Ugyanez a helyzet, ha utazni szeretnénk: ismeretlen szállásadóknak kell bizalmat szavazunk, látatlanban lefoglalni szálláshelyeket, olykor az összeg egy részét előre fizetve. A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.**
 
-``![](/images/karacsonyi-vendegek.png)
+## Hol jelenhetnek meg értékelések?
 
-## Miért utaznak el sokan karácsonyra?
+Ha használsz ismert **szállásközvetítő oldalakat**, akkor valószínűleg tisztában vagy vele, hogy ezeken a felületeken a vendégek értékelhetik a szálláshelyeket, ha megvalósult a foglalás. Nagyon fontos, hogy itt a lehető legjobb legyen az értékelés, hiszen **mindenki megbízható helyre szeretne menni**.
 
-Annak, hogy valaki nem szeretné otthon tölteni az ünnepeket, számos oka lehet:
+Megjelenhetnek ugyanakkor értékelések a **saját weboldaladon**, a **Facebookon**, sőt, a **Google-ben** is, ha erre lehetőséget adsz. Ha a [szálláshelyednek van Facebook-oldala](https://appartman.hu/blog/vendeghaz-vendegszerzes-facebookrol/), ott engedélyezheted a vélemények írását, illetve a Google-ben is van lehetőség megjelenni és helyet adni az értékeléseknek.
 
-*   **nincs népes rokonság**, akikkel ünnepelhetne, ezért ő ezt az időszakot használja ki arra, hogy kikapcsolódjon valahol máshol;
+## Mi van, ha negatív értékelések jelennek meg?
 
-*   túl népes a rokonság, nagy a nyüzsgés, ezért **szeretne egy kicsit megszökni** egyedül vagy a szűk családjával;
+A vendégek véleményétől sok szállásadó fél. Tudjuk, hogy van az az embertípus, akinek semmi sem jó, aki mindenbe beleköt akkor is, ha egyébként rendben volt a szolgáltatás. Aki már egy ideje foglalkozik szálláskiadással, valószínűleg találkozott ilyen vendéggel. És igen, ők azok, akik előszeretettel hangoztatják is az elégedetlenségüket.
 
-*   **ki akar maradni a karácsonyi készülődés őrületéből**, szeretne nyugodtan ünnepelni úgy, hogy nem ő készít ötfogásos ünnepi vacsorát, díszít fát, suvickolja tisztára a házat;
+Nos, ha jogtalan lehúzást tapasztalsz, az egyetlen dolog, amit tehetsz, hogy a lehető legnyugodtabb és legkulturáltabb hangnemben **reagálsz rá**, és leírod a saját nézőpontodat. Ebből látszódhat, ha a vendég elvárásai irreálisak voltak, ha ő nem viselkedett megfelelően, és nem jogosak az észrevételei. A másik lehetőség, hogy **nem kezdesz vele semmit** – ha a szolgáltatásod rendben van, akkor egyetlen negatív vélemény mellé jut legalább 10 pozitív, egyértelmű lesz a mérleg, nem fogja érdemben befolyásolni az érdeklődőket.
 
-*   **vágyik a környezetváltozásra**, szívesen ünnepel valahol máshol, hogy könnyebben hagyja maga mögött az év végi hajtással járó stresszt.
+**Amit semmiképp ne tegyél**: ne válaszolj a vendégnek dühösen, agresszívan, ne minősítsd! Ha a válaszírás mellett döntesz, nyugodtan, objektíven írd le a helyzetet, kerüld a személyeskedést!
 
-A lista persze nem teljes, az okok nagyon sokrétűek lehetnek. A lényeg, hogy sokan utaznak el az ünnepekre, így szállásadóként ezt az időszakot is ki tudod használni – ha neked nem jelent problémát, hogy **az ünnepek alatt is figyelned kell a vendégeidre**.
+## Ha nincs értékelés, az gyanús
 
-## Hova szeretünk menni karácsonykor?
+Jogosan merül fel benned a gondolat, hogy talán az a legegyszerűbb, ha nem jelennek meg értékelések a szálláshelyről, hiszen akkor negatívumokat sem lehet róla olvasni. Az igazság azonban az, hogy **ha nincs lehetőség véleménynyilvánításra, az sokaknak már önmagában gyanús.**
 
-Nos, ez szintén olyasmi, ami mindenkinek más. Van, aki a **nyüzsgő városokat** szereti, ahol nyitva találja az éttermeket, karácsonyi vásárokban nézelődhet. Mások viszont inkább **meghitten elvonulnának** pihenni egy csendes, vidéki helyre, ahol adott a téli hangulat.
+Az interneten az egyetlen lehetőség arra, hogy meggyőződjünk bármilyen szolgáltatás megbízhatóságáról, ha látjuk, hogy mások már igénybe vették, és elégedettek vele. Ha ilyesminek nincs nyoma, az nem túl bizalomgerjesztő, automatikusan felveti a kérdést, hogy vajon miért nincs ezzel kapcsolatban tapasztalata senkinek. A vélemények elrejtése azt sugallhatja, hogy **az illető nem szeretné, ha mások tisztában lennének vele, hogy milyen a szolgáltatása**, ami arra enged következtetni, hogy nem túl színvonalas. Nagyon sokan keresnek inkább más lehetőséget, ha sehol nem találnak semmilyen személyes tapasztalatom alapuló értékelést.
 
-Sajnos nálunk szinte sosem garantálható a téli képeslap-szerű, havas táj, de meghittséget, nyugalmat így is tud kínálni bármelyik szálláshely, ha a tulajdonosa elég figyelmet fordít erre.
+Éppen ezért, nem javasolnánk, hogy az esetleges negatív vélemények miatt egyáltalán ne akarj értékeléseket megjelentetni. A nagy szállásközvetítő oldalakon nincs is lehetőség ezek elrejtésére, a saját felületeiden pedig nem érdemes kihagyni a vélemények feltüntetését, hiszen ezzel a **hitelességedet ásod alá.**
 
-## Ne csak szállást kínálj, karácsonyt is!
+## Mit tehetsz, ha nem jönnek a vélemények?
 
-Az előzőekben leírtak miatt célszerű egy kicsit **felkészíteni magát a szálláshelyet az ünnepi időszakra**. Talán alapnak tűnhet, mégis sok magászálláshelynél hiányzik a **karácsonyi díszítés**: legyen felállítva egy kis feldíszített karácsonyfa, fényfüzér az ablakokon, adventi koszorú, egyéb karácsonyi dísztárgyak. Ne feledkezz meg az **illatokról**: egy kis narancsos-fahéjas, forralt boros, vagy éppen almás-fahéjas illat ilyenkor mindig kellemes.
+Amennyiben azt tapasztalod, hogy bár adsz teret a vélemények megjelentetésének, azok mégse nagyon akarnak szaporodni, **aktívan tenned kell az ügy érdekében**.
 
-Nem kell túlzásba esni, csak ízlésesen, de érződjön az ünnep hangulata!
+Tudnod kell, hogy az emberek általában úgy működnek, hogy ha valami felháborítja őket, valamivel elégedetlenek, azt előszeretettel kürtölik világgá, de ha minden rendben volt, ha azt kapták, amire számítottak, azt csak csendben nyugtázzák.
 
-Házigazdaként is hozzájárulhatsz mindehhez, ha egy kis forralt borral kínálod a vendégeket érkezéskor, bekészítesz némi karácsonyi süteményt. Írhatsz ki a szálláshelyen információkat arról, honnan tudnak ünnepi menüt rendelni, milyen éttermek lesznek nyitva karácsonykor. Mindezt persze az ajánlatodban is kommunikáld, hogy a vendégek láthassák: ha nálad foglalnak, meghitt karácsonyban lehet részük
+Éppen ezért, **biztatni kell a vendégeidet arra, hogy írjanak a szálláshelyedről**. A távozás után küldhetsz nekik egy e-mailt akár automatizáltan is, amelyben leírod, hogy reméled, jól érezték magukat, és ha ajánlanák a szálláshelyet másoknak is, akkor legyenek szívesek és értékeljék a megadott felületen. Megkérheted erre a vendégeket szóban is, amikor éppen kijelentkeznek a szálláshelyről. A lényeg, hogy hívd fel a figyelmüket arra a, hogy van lehetőségük értékelni, add tudtukra, hogy hol tudják ezt megtenni, és kifejezetten kérd, hogy tegyék meg. Amennyiben jól érezték magukat nálad, egészen biztosan szívesen tesznek ennek eleget.
 
-## Programok a környéken
+Igaz, hogy a vendégvélemények kétélű fegyvernek számítanak, mégis szükség van rájuk, ha látatlanban is hitelesnek szeretnél tűnni. A legjobb, amit tehetsz, hogy **elősegíted a pozitív értékelések megjelenését**, így a szálláshelyed megbízhatónak látszik majd az online felületeken.
 
-Nem mindenhol vannak karácsonyi programok, de ha a Te környékeden igen, azt mindenképpen **tudasd a potenciális vendégekkel**! A [közösségi média felületeken](https://appartman.hu/blog/vendeghaz-vendegszerzes-facebookrol/) mindenképp hívd fel a figyelmet az ilyen programokra a karácsony előtti hetekben, hogy a vendégek tudjanak róla, érdemes lehet oda ellátogatni. Ugyanez igaz a szilveszteri rendezvényekre, ha tudsz ilyenről a környéken, az komoly vendégmágnes lehet!
-
-Nem csak a klasszikus, ünnephez kapcsolódó lehetőségeket célszerű hangsúlyozni. Szuper, ha van karácsonyi vásár, lesz közös ünnepség, de legalább ekkora vonzereje lehet egy **korcsolyapályának, síelési, szánkózási lehetőségnek**, sőt, a téli kirándulások is sokaknak csábítóak. Ne csak várd, hogy jöjjenek a vendégek: tudasd velük, miért érdemes menniük!
-
-## Akciók a téli szünetre
-
-Az [őszi szünet idén elmaradt](https://appartman.hu/blog/elmarad-az-oszi-szunet-mi-lesz-a-foglalasokkal/), ezzel pedig a november eleji foglalások zöme is elúszott, de a téli szünetet még ki lehet használni! Több vendéget csábíthatsz a szállásodra, ha **akciós ajánlatokat hirdetsz**: 4 éjszaka 5 áráért, X% kedvezmény Y napra stb.
-
-Fontos, hogy ezeket úgy árazd, **hogy a vendég valóban azt érezze, hogy jól jár, de neked is pozitív legyen a mérleg.**
-
-Jó, ha tudod, hogy karácsonykor 2-3, szilveszterkor 1-2 napot foglalnak a legtöbben. Ha egyel több éjszakáért még egyet adsz ajándékba, azzal nyertél plusz egy napnyi bevételt. Érdemes így nézni ezeket a kedvezményeket: valójában olyan napokat adsz ajándékba olyan napokért, ahol valószínűleg nem lenne foglalásod. Ugyanez igaz a százalékos kedvezményre, ha kicsit olcsóbban kínálod a szállást több napért cserébe, összességében több lehet a bevételed.
-
-Az év vége nem a legkönnyebben feltölthető időszak a szálláshelyeken, de nem is uborkaszezon. Egy kis kreativitással gondoskodhatsz róla, hogy megteljen a szálláshelyed ilyenkor is!
