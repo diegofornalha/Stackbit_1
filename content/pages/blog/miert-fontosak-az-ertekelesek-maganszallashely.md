@@ -17,9 +17,7 @@ bottomSections: []
 seo:
   title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt! | Appartman Blog
   description: >-
-    Érdemes lehet elgondolkodni azon, hogy a karácsonyi-szilveszteri időszakra
-    kínálj egy kis akciót a vendégeknek, próbáld minél vonzóbbá tenni számukra a
-    szálláshelyedet. 
+    A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.
 author: content/data/team/person-xqkrwa90t.json
 ---
 `Te könnyen megbízol az interneten talált szolgáltatókban? A vásárlások tetemes része online zajlik; sok esetben teljesen ismeretlen vállalkozásoktól veszünk termékeket vagy rendelünk meg szolgáltatásokat. Ugyanez a helyzet, ha utazni szeretnénk: ismeretlen szállásadóknak kell bizalmat szavazunk, látatlanban lefoglalni szálláshelyeket, olykor az összeg egy részét előre fizetve. A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.`
