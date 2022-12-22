@@ -8,7 +8,7 @@ excerpt: >-
   amiket azonban nem mindig egyszerű összegyűjteni.
 featuredImage:
   type: ImageBlock
-  url: /images/karacsonyi-vendegek.png
+  url: /images/ertekelesek (1).png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
