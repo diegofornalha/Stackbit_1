@@ -15,7 +15,7 @@ featuredImage:
       opacity: 100
 bottomSections: []
 seo:
-  title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt! | Appartman Blog
+  title: Miért fontos, hogy legyenek pozitív értékeléseid és hogy szerezd be őket? | Appartman Blog
   description: >-
     A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.
 author: content/data/team/person-xqkrwa90t.json
