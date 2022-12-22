@@ -3,8 +3,7 @@ layout: PostLayout
 title: 'Miért fontos, hogy legyenek pozitív értékeléseid és hogyan szerezd be őket?'
 date: '2022-12-07'
 excerpt: >-
-  Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
-  áremelkedés azonban nem ördögtől való, csak jól kell meghatározni a mértékét.
+A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.
 featuredImage:
   type: ImageBlock
   url: /images/karacsonyi-vendegek.png
