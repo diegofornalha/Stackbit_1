@@ -23,7 +23,7 @@ seo:
     szálláshelyedet. 
 author: content/data/team/person-xqkrwa90t.json
 ---
-**Te könnyen megbízol az interneten talált szolgáltatókban? A vásárlások tetemes része online zajlik; sok esetben teljesen ismeretlen vállalkozásoktól veszünk termékeket vagy rendelünk meg szolgáltatásokat. Ugyanez a helyzet, ha utazni szeretnénk: ismeretlen szállásadóknak kell bizalmat szavazunk, látatlanban lefoglalni szálláshelyeket, olykor az összeg egy részét előre fizetve. A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.**
+`Te könnyen megbízol az interneten talált szolgáltatókban? A vásárlások tetemes része online zajlik; sok esetben teljesen ismeretlen vállalkozásoktól veszünk termékeket vagy rendelünk meg szolgáltatásokat. Ugyanez a helyzet, ha utazni szeretnénk: ismeretlen szállásadóknak kell bizalmat szavazunk, látatlanban lefoglalni szálláshelyeket, olykor az összeg egy részét előre fizetve. A bizalmat így nehéz megteremteni, de ha látjuk, hogy mások elégedettek voltak, nyugodtabban foglalunk. Ezért fontosak a felhasználói vélemények, amiket azonban nem mindig egyszerű összegyűjteni.`
 
 ## Hol jelenhetnek meg értékelések?
 
@@ -56,4 +56,3 @@ Tudnod kell, hogy az emberek általában úgy működnek, hogy ha valami felháb
 Éppen ezért, **biztatni kell a vendégeidet arra, hogy írjanak a szálláshelyedről**. A távozás után küldhetsz nekik egy e-mailt akár automatizáltan is, amelyben leírod, hogy reméled, jól érezték magukat, és ha ajánlanák a szálláshelyet másoknak is, akkor legyenek szívesek és értékeljék a megadott felületen. Megkérheted erre a vendégeket szóban is, amikor éppen kijelentkeznek a szálláshelyről. A lényeg, hogy hívd fel a figyelmüket arra a, hogy van lehetőségük értékelni, add tudtukra, hogy hol tudják ezt megtenni, és kifejezetten kérd, hogy tegyék meg. Amennyiben jól érezték magukat nálad, egészen biztosan szívesen tesznek ennek eleget.
 
 Igaz, hogy a vendégvélemények kétélű fegyvernek számítanak, mégis szükség van rájuk, ha látatlanban is hitelesnek szeretnél tűnni. A legjobb, amit tehetsz, hogy **elősegíted a pozitív értékelések megjelenését**, így a szálláshelyed megbízhatónak látszik majd az online felületeken.
-
