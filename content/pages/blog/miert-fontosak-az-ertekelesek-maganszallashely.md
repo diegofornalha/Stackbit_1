@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-title: Csábíts vendégeket a szálláshelyedre az ünnepek alatt!
+title: Miért fontos, hogy legyenek pozitív értékeléseid és hogyan szerezd be őket?
 date: '2022-12-07'
 excerpt: >-
   Sokan félnek, ha túl drága lesz a szálláshely, vendégeket bukhatnak. Az
